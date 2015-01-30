@@ -168,22 +168,85 @@
 <thumbnail>http://www.latinheat.com/wp-content/uploads/2014/08/4_estrella_tv.png</thumbnail>
 </item>	
 
-	<item>
-			<title>Telemundo</title>
-			<link>$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf live=true timeout=15 swfVfy=true pageUrl=http://castalba.tv/</link>
+			<item>
+			<title>Telemundo 29</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_telemundo29 live=1 timeout=20</link>
 			<regex>
-			<name>streamer</name>
-			<expres>'streamer': '([^']*)</expres>
-			<page>http://castalba.tv/embed.php?cid=20639&wh=619&ht=430&</page>
-			<referer>http://www.onlinetv.planetfools.com/tvenvivo/telemundo-tv-en-vivo.php</referer>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/telemundo29</page>
 			</regex>
 			<regex>
-			<name>file</name>
-			<expres>'file': '([^']*)</expres>
-			<page>http://castalba.tv/embed.php?cid=20639&wh=619&ht=430&</page>
-			<referer>http://www.onlinetv.planetfools.com/tvenvivo/telemundo-tv-en-vivo.php</referer>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0m0(.*?)"<expres>
+			<page>http://vaughnlive.tv/telemundo29</page>
 			</regex>
-			<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/telemar6_320.jpg</thumbnail>
+			</item>
+			
+			
+			
+			<item>
+			<title>Telemundo 30</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_telemundo30 live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/telemundo30</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0m0(.*?)"<expres>
+			<page>http://vaughnlive.tv/telemundo30</page>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>Telemundo 32  (horario Pacifico)</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_telemundo32 live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/telemundo32</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0m0(.*?)"<expres>
+			<page>http://vaughnlive.tv/telemundo32</page>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>Telemundo 21</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_telemundo21 live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/telemundo21</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0m0(.*?)"<expres>
+			<page>http://vaughnlive.tv/telemundo21</page>
+			</regex>
+			</item>
+         
+       <item>
+			<title>Univision  HD26</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_univision_hd26 live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/univision_hd26</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0m0(.*?)"<expres>
+			<page>http://vaughnlive.tv/univision_hd26</page>
+			</regex>
 			</item>
 			
 <title>Foro TV  [COLORgreen]MEX[/COLOR]</title>
