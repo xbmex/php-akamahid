@@ -1,0 +1,11 @@
+<item>
+<title>Hustel hd</title>
+<link>http://s01.futubox.to/ilive/z990102.stream/playlist.m3u8?lp=ZGpjYXNhbm92YTo6c2FsdDo6YjBhZjBlMzVlYTI3NzQzZGFlNmM4OTBkZDA4MTU5YWI=</link>
+<thumbnail><thumbnail>
+</item>
+
+<item>
+<title>Redlight HD</title>
+<link>http://s01.futubox.to/ilive/z990101.stream/playlist.m3u8?lp=ZGpjYXNhbm92YTo6c2FsdDo6YjBhZjBlMzVlYTI3NzQzZGFlNmM4OTBkZDA4MTU5YWI=</link>
+<thumbnail><thumbnail>
+</item> 
