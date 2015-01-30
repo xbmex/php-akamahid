@@ -1,0 +1,440 @@
+ <item>
+			<title>MEGAKIDS HD</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_mega_kids live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/embed/video/mega_kids</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0m0(.*?)"<expres>
+			<page>http://vaughnlive.tv/embed/video/mega_kids</page>
+			</regex>
+		<thumbnail>ttp://img1.wikia.nocookie.net/__cb20130703150452/disney/images/c/c1/Walt_disney_pictures.jpg</thumbnail>
+			</item>
+			<item>
+			<title>HBO</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_universal_movies live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/embed/video/universal_moviest</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0m0(.*?)"<expres>
+			<page>http://vaughnlive.tv/embed/video/universal_movies</page>
+			</regex>
+			</item>
+         
+         <item>
+<title>[COLOR yellow]HBO[/COLOR]</title>
+<link>plugin://plugin.video.tbh.ilive/?url=http://www.streamlive.to/view/69021&amp;link=99&amp;mode=iLivePlay</link>
+</item>
+
+ <item>
+			<title>HBO</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_universal_movies live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/embed/video/universal_moviest</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0m0(.*?)"<expres>
+			<page>http://vaughnlive.tv/embed/video/universal_movies</page>
+			</regex>
+			</item>
+			
+			<item>
+			<title>CINEMAX</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_katyhd live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/katyhd</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0m0(.*?)"<expres>
+			<page>http://vaughnlive.tv/katyhd</page>
+			</regex>
+			</item>
+			
+			
+				<item>
+			<title>MOVIE CITY</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_lcreme_staff  live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/embed/video//lcreme_staff</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0m0(.*?)"<expres>
+			<page>http://vaughnlive.tv/embed/video//lcreme_staff</page>
+			</regex>
+			</item>
+			
+				<item>
+			<title>Mega Movies H</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_mega_movieshd live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/mega_movieshd</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0m0(.*?)"<expres>
+			<page>http://vaughnlive.tv/mega_movieshd</page>
+			</regex>
+			<thumbnail>http://www.brandcrowd.com/gallery/brands/pictures/picture13571255735592.jpg</thumbnail>
+			</item>
+			
+				<item>
+			<title>Chavo del 8  24/7</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_mega_chavo live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/mega_chavo</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0m0(.*?)"<expres>
+			<page>http://vaughnlive.tv/mega_chavo</page>
+			</regex>
+			<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/9/9e/El_Chavo_Animado_logo.svg/1280px-El_Chavo_Animado_logo.svg.png</thumbnail>
+			</item>
+         
+<item>
+<title>FOX 1 (LATINO)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?=-1</link>
+<thumbnail>https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2014/10/FOX-One-Logo-01.png</thumbnail>
+</item> 
+
+<item>
+<title>FOX ACTION (LATINO) </title>
+<link>http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?=-1</link>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20141024033509/logopedia/images/6/69/FOX_action.png</thumbnail>
+</item>
+
+<item>
+<title>FOX CINEMA (LATINO)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?=-1</link>
+<thumbnail>http://foromedios.com/uploads/gallery/category_7/gallery_10657_7_1366.png</thumbnail>
+</item>
+
+<item>
+<title>FOX CLASSICS (LATINO)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?=-1</link>
+<thumbnail>http://img3.wikia.nocookie.net/__cb20141101150243/logopedia/images/e/e7/Fox_(2).png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]FOX FAMILY (LATINO) [/COLOR]</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?=-1</link>
+<thumbnail>http://imagenes.gatotv.com/logos/canales/oscuros/fox_family-mediano.png</thumbnail>
+</item
+
+<item>
+<title>FOX MOVIES (LATINO)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?=-1</link>
+<thumbnail>http://teve.ba/img/articles/5536.jpg</thumbnail>
+</item>
+
+<item>
+<title>CINECANAL (LATINO)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?=-1</link>
+<thumbnail>http://conceptdezain.com/blog/wp-content/uploads/2010/10/cinecanal_titulo.jpg</thumbnail>
+</item>
+
+<item>
+<title>CINECANAL + PLUS (LATINO)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?=-1</link>
+<thumbnail>http://prensaescenario.files.wordpress.com/2013/02/logo_ccmas_final.jpg</thumbnail>
+</item>
+
+<item>
+<title>TNT (LATINO) </title>
+<link>http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?=-1</link>
+<thumbnail>http://wpc.556e.edgecastcdn.net/80556E/img.news/NE2plCl84jSj52_2_1.jpg</thumbnail>
+</item>
+
+<item>
+<title>TNT HD (LATINO) </title>
+<link>http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?=-1</link>
+<thumbnail>http://azbolivia.bo/wp-content/uploads/2014/01/tnt_hd.png</thumbnail>
+</item>
+
+
+<item>
+<title>GOLDEN EDGE (LATINO)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?=-1</link>
+<thumbnail>http://tutvgratis.tv/blog/wp-content/uploads/2014/08/611.png</thumbnail>
+</item>
+
+<item>
+<title>GOLDEN HD (LATINO)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?=-1</link>
+<thumbnail>http://www.vuelo-digital.org/wp-content/uploads/2014/02/cinema-golden-choice.jpg</thumbnail>
+</item>
+
+<item>
+<title>THE FILM ZONE HD (LATINO)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?=-1</link>
+<thumbnail>http://i4.minus.com/i0GNDz643jE1U.png</thumbnail>
+</item>
+
+<item><title>DE PELICULA HD</title><link>http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?=-1</link>
+<thumbnail>http://www.ptvtelecom.com/ficheros/imagennoticia376_0.gif</thumbnail>
+</item>
+
+<item>
+<title>SPACE HD (LATINO) </title>
+<link>http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?=-1</link>
+<thumbnail>http://www.impulsonegocios.com/resources/produccion/contenidos/medium/spacehd.jpg</thumbnail>
+</item>
+
+<item>
+<title>STUDIO UNIVERSAL(LATINO)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?=-1</link>
+<thumbnail>http://www.studiouniversal.com/images/default_movie_serie.jpg</thumbnail>
+</item>
+
+<item>
+<title>TCM (LATINO) </title>
+<link>http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?=-1</link>
+<thumbnail>http://i.cdn.turner.com/tntla/images/portal/fixed/cards/default_tcm_300x195.jpg</thumbnail>
+</item>
+
+<item>
+<title>AMC (LATINO)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?=-1</link>
+<thumbnail>https://lh3.googleusercontent.com/-wU23NVr4h3k/VFt0EzHQO7I/AAAAAAAAD0Y/Kwid4kv2rEo/s426/81bThs35TbL.png</thumbnail>
+</item>
+
+<item>
+<title>MEGA EXTREMO</title>
+<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_mega_extremo live=1 timeout=20</link>
+<regex>
+<name>getIP</name>
+<expres>function getEdgeServers.*"(.*?),<expres>
+<page>http://vaughnlive.tv/mega_extremo</page>
+</regex>
+<regex>
+<name>getCODE</name>
+<expres>vsVars.*= "0m0(.*?)"<expres>
+<page>http://vaughnlive.tv/mega_extremo</page>
+</regex>
+<thumbnail>http://files.herpzradio.webnode.mx/200000166-15e1a16db7/mega.jpg</thumbnail>
+</item>
+
+<item>
+<title>VITATO HD</title>
+<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_vitatotv live=1 timeout=20</link>
+<regex>
+<name>getIP</name>
+<expres>function getEdgeServers.*"(.*?),<expres>
+<page>http://vaughnlive.tv/vitatotv</page>
+</regex>
+<regex>
+<name>getCODE</name>
+<expres>vsVars.*= "0m0(.*?)"<expres>
+<page>http://vaughnlive.tv/vitatotv</page>
+</regex>
+<thumbnail>http://3.bp.blogspot.com/-7KSTOGtfYQg/UzT5BprwUGI/AAAAAAAAAHg/FLK1Cd6ptWM/s1600/vitatotv.png</thumbnail>
+</item>
+
+<item>
+<title>MOVIE LATINE EXPRESS</title>
+<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_movielatinexpress live=1 timeout=20</link>
+<regex>
+<name>getIP</name>
+<expres>function getEdgeServers.*"(.*?),<expres>
+<page>http://vaughnlive.tv/movielatinexpress</page>
+</regex>
+<regex>
+<name>getCODE</name>
+<expres>vsVars.*= "0m0(.*?)"<expres>
+<page>http://vaughnlive.tv/movielatinexpress</page>
+</regex>
+<thumbnail>http://stpauldbq.com/wp-content/uploads/2013/12/Movie_Theater.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR pink]LA CREME FILMS[/COLOR]</title>
+<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_lcreme_staff live=1 timeout=20</link>
+<regex>
+<name>getIP</name>
+<expres>function getEdgeServers.*"(.*?),<expres>
+<page>http://vaughnlive.tv/lcreme_staff</page>
+</regex>
+<regex>
+<name>getCODE</name>
+<expres>vsVars.*= "0m0(.*?)"<expres>
+<page>http://vaughnlive.tv/lcreme_staff</page>
+</regex>
+<thumbnail>http://i.vimeocdn.com/portrait/5469179_300x300.jpg</thumbnail>
+</item>
+
+<item>
+<title>CINE STAR</title>
+<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_cine_star live=1 timeout=20</link>
+<regex>
+<name>getIP</name>
+<expres>function getEdgeServers.*"(.*?),<expres>
+<page>http://vaughnlive.tv/cine_star</page>
+</regex>
+<regex>
+<name>getCODE</name>
+<expres>vsVars.*= "0m0(.*?)"<expres>
+<page>http://vaughnlive.tv/cine_star</page>
+</regex>
+<thumbnail>http://www.thebestincroatia.info/universalis/1917/slika/cinestar_1916745200.jpg</thumbnail>
+</item>
+
+<item>
+<title>[CINESCAPE</title>
+<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_cinescape live=1 timeout=20</link>
+<regex>
+<name>getIP</name>
+<expres>function getEdgeServers.*"(.*?),<expres>
+<page>http://vaughnlive.tv/cinescape</page>
+</regex>
+<regex>
+<name>getCODE</name>
+<expres>vsVars.*= "0m0(.*?)"<expres>
+<page>http://vaughnlive.tv/cinescape</page>
+</regex>
+<thumbnail>http://www.q8ryuk.com/wp-content/uploads/2011/10/cinescape1.jpg</thumbnail>
+</item>
+
+<item>
+<title>CLUB DEL TERROR</title>
+<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_club_terror live=1 timeout=20</link>
+<regex>
+<name>getIP</name>
+<expres>function getEdgeServers.*"(.*?),<expres>
+<page>http://vaughnlive.tv/club_terror</page>
+</regex>
+<regex>
+<name>getCODE</name>
+<expres>vsVars.*= "0m0(.*?)"<expres>
+<page>http://vaughnlive.tv/club_terror</page>
+</regex>
+<thumbnail>http://i.imgur.com/TmGp5X0.png</thumbnail>
+</item>
+
+
+<item>
+<title>LATINO MOVIEZ (V)</title>
+<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_latinomovies live=1 timeout=20</link>
+<regex>
+<name>getIP</name>
+<expres>function getEdgeServers.*"(.*?),<expres>
+<page>http://vaughnlive.tv/latinomovies</page>
+</regex>
+<regex>
+<name>getCODE</name>
+<expres>vsVars.*= "0m0(.*?)"<expres>
+<page>http://vaughnlive.tv/latinomovies</page>
+</regex>
+<thumbnail>http://memotv.alwaysdata.net/thumbs/LatinoMoviez.png</thumbnail>
+</item>
+
+<item>
+<title>BROAD MOVIES [/COLOR]</title>
+<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_broadmovies live=1 timeout=20</link>
+<regex>
+<name>getIP</name>
+<expres>function getEdgeServers.*"(.*?),<expres>
+<page>http://vaughnlive.tv/broadmovies</page>
+</regex>
+<regex>
+<name>getCODE</name>
+<expres>vsVars.*= "0m0(.*?)"<expres>
+<page>http://vaughnlive.tv/broadmovies</page>
+</regex>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/broadmovies_320.jpg</thumbnail>
+</item>
+
+<item>
+<title>UNIVERSAL CINE</title>
+<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_universal_movies live=1 timeout=20</link>
+<regex>
+<name>getIP</name>
+<expres>function getEdgeServers.*"(.*?),<expres>
+<page>http://vaughnlive.tv/universal_movies</page>
+</regex>
+<regex>
+<name>getCODE</name>
+<expres>vsVars.*= "0m0(.*?)"<expres>
+<page>http://vaughnlive.tv/universal_movies</page>
+</regex>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/universal_movies_320.jpg</thumbnail>
+</item>
+
+<item>
+<title>CINEMA LATINO</title>
+<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_cinemalatinohd01 live=1 timeout=20</link>
+<regex>
+<name>getIP</name>
+<expres>function getEdgeServers.*"(.*?),<expres>
+<page>http://vaughnlive.tv/cinemalatinohd01</page>
+</regex>
+<regex>
+<name>getCODE</name>
+<expres>vsVars.*= "0m0(.*?)"<expres>
+<page>http://vaughnlive.tv/cinemalatinohd01</page>
+</regex>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/cinemalatinohd01_320.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>PLANETA MOVIES</title>
+<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_planetamovies live=1 timeout=20</link>
+<regex>
+<name>getIP</name>
+<expres>function getEdgeServers.*"(.*?),<expres>
+<page>http://vaughnlive.tv/planetamovies</page>
+</regex>
+<regex>
+<name>getCODE</name>
+<expres>vsVars.*= "0m0(.*?)"<expres>
+<page>http://vaughnlive.tv/planetamovies</page>
+</regex>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/planetamovies_320.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR skyblue]UNIVERSAL MOVIES[/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/$doregex[path]/streams/live/playlist.m3u8</link>
+<regex>
+<name>path</name>
+<expres>"https://www.ustream.tv/embed/(.+?)"></expres>
+<page>http://www.ustream.tv/channel/universal-movies-hd</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.myfilmviews.com/wp-content/uploads/2012/12/universal-pictures-100th-anniversary-logo1.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>CONTI TV HD</title>
+<link>rtmp://v2.tustreaming.cl/origintser3/ playpath=tser3.sdp swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://live.tustreaming.cl/vd/canal21hd/ timeout=20</link>
+<thumbnail>http://live.tustreaming.cl/vd/canal212014/logo2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR golden]CINE CHILENO [/COLOR]</title>
+<link>rtmp://149.11.34.6/live playpath=sesioncontinuatv.stream swfUrl=http://lasteles.com/js/mediaplayer-5.10/player.swf?35 live=1 pageUrl=http://lasteles.com/es/directo/SESI%C3%93N-CONT%C3%8DNUA-TV/</link>
+<thumbnail>http://radio.uchile.cl/wp-content/uploads/2012/12/cinechileno.jpg</thumbnail>
+</item>
