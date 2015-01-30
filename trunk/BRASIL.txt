@@ -1,0 +1,310 @@
+<item>
+<title>[COLOR orange]TV GLOBO[/COLOR]</title>
+<link>rtmp://wdc.cxnlive.com/live/tvglobo.stream timeout=15</link>
+<thumbnail>http://3.bp.blogspot.com/_jffermsdBl8/SiKOIrdgAiI/AAAAAAAAMc8/Vn3nNM4oEiI/s1600/Globo%2BInternacional</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]TV RECORD[/COLOR]</title>
+<link>rtmp://174.37.99.198/dvrid1816/ playpath=1816 swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=http://www.cxntv.com/canales/tv-record/ timeout=15</link>
+<thumbnail>http://2.bp.blogspot.com/-d1yUmn4AlVo/T1uER40FeoI/AAAAAAAAF4U/bxJkuXZxPk4/s1600/TV+record.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]SBT[/COLOR]</title>
+<link>rtmp://201.12.119.29:1935/livepkgr/ playpath=nordestv1?token=06120d4a41bb14a89f399 swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=http://www.cxntv.com/canales/sbt-2/ timeout=15</link>
+<thumbnail>http://sphotos-c.ak.fbcdn.net/hphotos-ak-snc7/429134_201231619981393_20804910_n.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]REDE TV[/COLOR]</title>
+<link>rtmp://evp.mm.uol.com.br/redetv1/_definst_/ playpath=/redetv1 swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=http://www.cxntv.com/canales/redetv-2/ timeout=15</link>
+<thumbnail>http://1.bp.blogspot.com/_qttQrgC2qTk/S9y92IbGDaI/AAAAAAAALcU/nHELN01pVOk/s1600/redetv.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]RECORD NEWS[/COLOR]</title>
+<link>rtmp://a1.fabricahost.com.br:1935/redemercosul/ playpath=redemercosul swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=http://www.cxntv.com/canales/record-news/ timeout=15</link>
+
+<thumbnail>http://tv.recordjp.com/wp-content/uploads/2012/02/record_news_brasil-610x225.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]24 HORAS DE CINE NACIONAL[/COLOR]</title>
+<link>http://66.90.111.2:1935/ctv/_definst_/filmes/sat_total.m3u8</link>
+
+<thumbnail>http://api.ning.com/files/R-e6-Sa74siYXnMN4IeKiTeeYG0KEoZv6Kmj1zP4b75Y7MtSfY0y6YVp-VdeF9ReCahXxWrkr-309IGKeeRJsBvLTxoT9bQm/24horasdecinenacional.jpg?width=300</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]TV TAMBAU [/COLOR]</title>
+<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>get-initsesion</name>
+<expres></expres>
+<page>$doregex[get-page]</page>
+<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-page</name>
+<expres>"m3u8_url":"(.*?)"</expres>
+<page>http://new.livestream.com/accounts/7167098/aovivo</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://img.new.livestream.com/events/00000000002a2b7c/741edafe-68f8-4630-8abc-14d320e81b57_170x255.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]TV MEIO NORTE [/COLOR]</title>
+<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>get-initsesion</name>
+<expres></expres>
+<page>$doregex[get-page]</page>
+<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-page</name>
+<expres>"m3u8_url":"(.*?)"</expres>
+<page>http://new.livestream.com/accounts/3332377/events/2958396</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://img.new.livestream.com/events/00000000002d243c/169e45f6-2958-42ed-be51-bbc703975b6c_170x256.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]ARGO CANAL[/COLOR]</title>
+<link>rtmp://srvvenus.canaldoboi.com/liveac/ playpath=livestream swfUrl=http://www.haotivi.com/js/jwplayer.flash.swf live=1 pageUrl=http://www.haotivi.com/#419 timeout=15</link>
+<thumbnail>http://www.fierros.com.co/uploads/images/noticias/2010/Marzo/logoargos.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]ARAGON TV[/COLOR]</title>
+<link>rtmp://aragontvlivefs.fplive.net/aragontvlive-live/ playpath=stream_normal_abt swfUrl=http://www.haotivi.com/js/jwplayer.flash.swf live=1 pageUrl=http://www.haotivi.com/#418 timeout=15</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/0/04/Logo_Aragon_TV.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]APERIPE TV [/COLOR]</title>
+<link>rtmp://fms03.ideastek.com.br/tvaperipe/ playpath=tvaperipe swfUrl=http://www.haotivi.com/js/jwplayer.flash.swf live=1 pageUrl=http://www.haotivi.com/#420 timeout=15</link>
+<thumbnail>http://4.bp.blogspot.com/_ppbXD4rsFxg/TC0-nVBX8II/AAAAAAAAA94/hd6ETQ3T7yA/s400/Araripe_Fundap_logo.jpg</thumbnail>
+</item>
+
+<subitem>
+<title>[COLOR orange]ABC COAST FM[/COLOR]</title>
+<link>rtmp://streaming3.sitehosting.com.br/luisantonio/ playpath=luisantonio swfUrl=http://www.haotivi.com/js/jwplayer.flash.swf live=1 pageUrl=http://www.haotivi.com/#446 timeout=15</link>
+<thumbnail>http://teamdoctorsblog.com/wp-content/uploads/2012/08/CoastFM_socmed_logo.jpeg</thumbnail>
+</subitem>
+
+<item>
+<title>[COLOR orange]CWBTV[/COLOR]</title>
+<link>http://67.213.216.200/8066/8066/hasbahca.m3u8</link>
+<thumbnail>http://www.medicalcontrol.com.br/images/clientes/cwbtv.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]CONEXAO VIVO[/COLOR]</title>
+<link>rtmp://srvvenus.canaldoboi.com/livecx/ playpath=livestream swfUrl=http://www.haotivi.com/js/jwplayer.flash.swf live=1 pageUrl=http://www.haotivi.com/#423 timeout=15</link>
+<thumbnail>http://www.irdeb.ba.gov.br/soteropolis/wp-content/uploads/2011/08/conexao-vivo4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]CONEXAO BR[/COLOR]</title>
+<link>rtmp://srvvenus.canaldoboi.com/livecx/ playpath=livestream swfUrl=http://www.haotivi.com/js/jwplayer.flash.swf live=1 pageUrl=http://www.haotivi.com/#441 timeout=15</link>
+<thumbnail>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/t1.0-1/c12.12.155.155/1240098_709923232354606_2130072919_n.jpg</thumbnail>
+</item>
+
+<subitem>
+<title>[COLOR orange]CHEF TV[/COLOR]</title>
+<link>http://flashd.localmidia.com.br:1935/cheftv/aovivo/hasbahca.m3u8</link>
+<thumbnail>http://aventurasgastronomicas.com.br/wp-content/uploads/2010/08/canal.jpg</thumbnail>
+</subitem>
+
+<item>
+<title>[COLOR orange]CATVE[/COLOR]</title>
+<link>rtmp://stream.catve.com.br/live/ playpath=livestream swfUrl=http://www.haotivi.com/js/jwplayer.flash.swf live=1 pageUrl=http://www.haotivi.com/#448 timeout=15</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Catve.png/200px-Catve.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]CANAL DO BOI[/COLOR]</title>
+<link>rtmp://srvvenus.canaldoboi.com/livecb/ playpath=livestream swfUrl=http://www.haotivi.com/js/jwplayer.flash.swf live=1 pageUrl=http://www.haotivi.com/#447 timeout=15</link>
+<thumbnail>http://2.bp.blogspot.com/-PyvpdM1VIBU/Td6-23Tvf6I/AAAAAAAAAUM/xBKwXeEoSxI/s1600/LOGO+CANAL+DO+BOI+.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]EDE GOSPEL[/COLOR]</title>
+<link>http://media01.s12.com.br:1935/live/redegospel/playlist.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/-N6kdiDbACcA/TcRVwqfjWwI/AAAAAAAAADM/X-0fAmtpCFo/s1600/wallpaper+1280x800.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]IB3TV[/COLOR]</title>
+<link>rtmp://ib3tvlivefs.fplive.net/ib3tvlive-live/ playpath=streamib3 swfUrl=http://www.haotivi.com/js/jwplayer.flash.swf live=1 pageUrl=http://www.haotivi.com/#416 timeout=15</link>
+<thumbnail>http://www.vootar.com/imgs/elementos/logo-ib3.jpg.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]LOBOS[/COLOR]</title>
+<link>http://149.11.34.6:1935/live/lobas.stream/playlist.m3u8
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]LEVANTE[/COLOR]</title>
+<link>rtmp://teledifusion.tv:1935/levantetvlive/ playpath=levantetvlive swfUrl=http://www.haotivi.com/js/jwplayer.flash.swf live=1 pageUrl=http://www.haotivi.com/#453 timeout=15</link>
+<thumbnail>http://4.bp.blogspot.com/-CH3TalYU92M/UKYjCgxUfDI/AAAAAAAAKPI/HTiJLs7eLC0/s1600/levante_tv_1.JPG</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]MEGA TV[/COLOR]</title>
+<link>http://livebr.sambatech.com.br/hls-live/livepkgr/otv_0d70d1758596a48ba8f9f119080b9fb4/liveevent/livestream.m3u8</link>
+<thumbnail>http://oqueeh.com.br/wp-content/uploads/2012/02/mega-tv-online1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]MANA SAT SPAIN[/COLOR]</title>
+<link>http://195.22.19.183:1935/tvesp/tvesp3/hasbahca.m3u8</link>
+<thumbnail>http://www.igrejamana.com/pt/images/stories/logotipo_manasat.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]MANA SAT PORTUGAL[/COLOR]</title>
+<link>http://195.22.19.179:1935/manasat/manasat3/hasbahca.m3u8</link>
+<thumbnail>http://www.igrejamana.com/pt/images/stories/logotipo_manasat.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]MANA SAT NAMPULA[/COLOR]</title>
+<link>http://195.22.19.189:1935/tvnmp/tvnmp2/hasbahca.m3u8</link>
+<thumbnail>http://www.igrejamana.com/pt/images/stories/logotipo_manasat.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]MANA SAT MAPUTO[/COLOR]</title>
+<link>http://195.22.19.189:1935/tvmz/tvmz3/hasbahca.m3u8</link>
+<thumbnail>http://www.igrejamana.com/pt/images/stories/logotipo_manasat.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]MANA SAT FRANCE[/COLOR]</title>
+<link>http://195.22.19.183:1935/tvfr/tvfr3/hasbahca.m3u8</link>
+<thumbnail>http://www.igrejamana.com/pt/images/stories/logotipo_manasat.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]MANA SAT INGLISH[/COLOR]</title>
+<link>http://195.22.19.183:1935/tven/tven3/hasbahca.m3u8</link>
+<thumbnail>http://www.igrejamana.com/pt/images/stories/logotipo_manasat.jpg</thumbnail>
+</item>
+
+<subitem>
+<title>[COLOR orange]MANA SAT CORDOBA[/COLOR]</title>
+<link>http://195.22.19.189:1935/tvar/tvmanaar2/hasbahca.m3u8</link>
+<thumbnail>http://www.igrejamana.com/pt/images/stories/logotipo_manasat.jpg</thumbnail>
+</item>
+
+<subitem>
+<title>[COLOR orange]MANA SAT BUENOS AIRES[/COLOR]</title>
+<link>http://195.22.19.189:1935/tvarba/tvarba3/hasbahca.m3u8</link>
+<thumbnail>http://www.igrejamana.com/pt/images/stories/logotipo_manasat.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]MANA SAT BRASIL[/COLOR]</title>
+<link>http://195.22.19.189:1935/tvbr/tvbrasil2/hasbahca.m3u8</link>
+<thumbnail>http://www.igrejamana.com/pt/images/stories/logotipo_manasat.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]MANA SAT BASTA CRER[/COLOR]</title>
+<link>rtmp://streamspub.manasat.com/live/ playpath=bastacrer swfUrl=http://www.haotivi.com/js/jwplayer.flash.swf live=1 pageUrl=http://www.haotivi.com/#421 timeout=15</link>
+<thumbnail>http://www.igrejamana.com/pt/images/stories/logotipo_manasat.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]ONCE TV MEXICO[/COLOR]</title>
+<link>rtmp://www.oncetvmexicolive.tv:1935/livepkgr2/ playpath=int3 swfUrl=http://www.haotivi.com/js/jwplayer.flash.swf live=1 pageUrl=http://www.haotivi.com/#417 timeout=15</link>
+<thumbnail>http://1.bp.blogspot.com/-mX499pFAP_g/T4TMo4-dB6I/AAAAAAAAAIQ/6owFcJ0WUKc/s1600/LOGO-ONCE-TV-M%C3%89XICO-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]REDE SUPER TV IMPACTO[/COLOR]</title>
+<link>rtmp://209.51.135.130:1935/redesuper3principal/_definst_/ playpath=redesuper3 swfUrl=http://www.haotivi.com/js/jwplayer.flash.swf live=1 pageUrl=http://www.haotivi.com/#443 timeout=15</link>
+<thumbnail>http://searanews.com.br/wp-content/uploads/2013/09/rede-super-tv-impacto-es.jpg</thumbnail>
+</item>
+
+<subitem>
+<title>[COLOR orange]RED BULL TV[/COLOR]</title>
+<link>http://live.iphone.redbull.de.edgesuite.net/webtvHD.m3u8</link>
+<thumbnail>http://www.mbike.tv/i/noticia_mbike/Red%20bull%20tv.jpg</thumbnail>
+</subitem>
+
+<item>
+<title>[COLOR orange]SEVILLA FC[/COLOR]</title>
+<link>rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/ playpath=sevillafc swfUrl=http://www.haotivi.com/js/jwplayer.flash.swf live=1 pageUrl=http://www.haotivi.com/#425 timeout=15</link>
+<thumbnail>http://1.bp.blogspot.com/-XxthUbUS6ug/ThbPY4nmPeI/AAAAAAAAAzk/LAX-5A8oliM/s1600/Sevilla+FC+Wallpaper.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]SBT INTERIOR[/COLOR]</title>
+<link>http://srv3.zoeweb.tv:1935/z133-live/stream/playlist.m3u8</link>
+<thumbnail>http://www.zoeweb.com.br/Imagens/Upload/Cases/caseszoewebsbt.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]TV PREVE[/COLOR]</title>
+<link>rtmp://flashserverbr.com/tvpreve/ playpath=livestream swfUrl=http://www.haotivi.com/js/jwplayer.flash.swf live=1 pageUrl=http://www.haotivi.com/#424 timeout=15</link>
+<thumbnail>http://1.bp.blogspot.com/-l_xLSM__G7c/Uy47TNsK4rI/AAAAAAAADTc/bMvdcIcx9aw/s1600/tvpreve.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]TV DIARIO[/COLOR]</title>
+<link>http://livela.sambatech.com.br/hls-live/livepkgr/tvdiario_2ff357495c9f34b35fc02b51ee33d935/liveevent/livestream.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/_oaTgOWraUbE/SgexwNinXII/AAAAAAAABq4/mf6CBoci-Og/s200/globo+x+tv+diario.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]TV COM SC[/COLOR]</title>
+<link>http://cdn-fms.rbs.com.br/hls-live/tvcomsc-live/_definst_/liveevent/livestream.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-RALShHhi2Kk/Ucsw4a16FUI/AAAAAAABwd4/AIs2fR-QXKw/s1600/tv-com.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]TV COM RS[/COLOR]</title>
+<link>http://cdn-fms.rbs.com.br/hls-live/tvcomrs-live/_definst_/liveevent/livestream.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-RALShHhi2Kk/Ucsw4a16FUI/AAAAAAABwd4/AIs2fR-QXKw/s1600/tv-com.png</thumbnail>
+</item>
+
+<subitem>
+<title>[COLOR orange]TV ARATU[/COLOR]</title>
+<link>rtmp-raw=rtmp://lbalance174.navegarteidc.net/tvaratu/ playpath=tvaratu.sdp swfUrl=http://www.haotivi.com/js/jwplayer.flash.swf live=1 pageUrl=http://www.haotivi.com/#444 timeout=15</link>
+<thumbnail>http://4.bp.blogspot.com/-quDFrRTy3h0/UBGKpLKMfBI/AAAAAAAAH0I/KR3jaU5ym-Q/s1600/TV_Aratu.jpg</thumbnail>
+</subitem>
+
+<item>
+<title>[COLOR orange]TV ABCD[/COLOR]</title>
+<link>http://tvabcd.flashplayer.acessaradios.com.br:1935/tvabcd/tvabcd/listen.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<subitem>
+<title>[COLOR orange]TERRA VIVA[/COLOR]</title>
+<link>rtmp-raw=rtmp://evp.mm.uol.com.br/terraviva/ playpath=terraviva swfUrl=http://www.haotivi.com/js/jwplayer.flash.swf live=1 pageUrl=http://www.haotivi.com/#445 timeout=15</link>
+<thumbnail>http://4.bp.blogspot.com/_Je_FjgzI47c/SPzys15qH8I/AAAAAAAACuY/5OtrWLwSssk/s320/terra+viva.jpg</thumbnail>
+</subitem>
+
+<item>
+<title>[COLOR orange]TELE SUR[/COLOR]</title>
+<link>http://streaming.tlsur.net:1935/live/baja.stream/playlist.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-CGtD91pSQT0/TW3EgRWzqqI/AAAAAAAAATU/vDOLzF2quy4/s1600/telesur%2Blogo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]VIA MORENA[/COLOR]</title>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8</link>
+<thumbnail>https://lh6.ggpht.com/Vgg2mtS8GOqDVgZ3CYIvft_3Eqb61RnwVfOXrwIWI-Lr_W3XJHkfiMZWgGl_7NarJ2g=w300</thumbnail>
+</item>
