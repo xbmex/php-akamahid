@@ -1,0 +1,189 @@
+<item>
+<title>GIGANTES DEL CIBAO</title>
+<link>http://ss7.domint.net:2022/stv_str/tv55/chunklist_w1937208512.m3u8</link>
+<thumbnail>http://gigantesdelcibaotv.com/LOGODELOSGIGANTES.PNG</thumbnail>
+</item>
+
+
+<item>
+<title>TIGRES DEL LICEY</title>
+<link>rtmp://ss6.domint.net:1936/ly_edge/ playpath=licey swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://www.canalesdominicano.com/2013/01/tigueres-del-licey-en-vivo-online/ timeout=15</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/0/07/Tigres_Del_Licey_Logo.png</thumbnail>
+</item>
+
+<item>
+<title>AGUILAS CIBAEÑAS</title>
+<link>rtmp://ss6.domint.net:1972/es_edge/ playpath=esco swfUrl=http://ss6.domint.net/jw timeout=15</link>
+<thumbnail>http://2.bp.blogspot.com/_Tilmukme8kg/SwdvAcM7DoI/AAAAAAAABHs/7bBG4V5FD5k/s1600/aguilas-1024x768.jpg</thumbnail>
+</item>
+
+<item>
+<title>LEONES DEL ESCOGIDO</title>
+<link>rtmp://ss6.domint.net:1972/es_edge/ playpath=esco swfUrl=http://ss6.domint.net/jw6/jwplayer.flash.swf live=1 pageUrl=http://www.escogido.com/web/escogidotv.php timeout=15</link>
+<thumbnail>http://eldeportista.com.do/wp-content/uploads/2014/07/escogido.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR skyblue]ANTENA LATINA[/COLOR]</title>
+<link>http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8</link>
+<thumbnail>http://www.ensegundos.net/wp-content/uploads/2012/01/Logo_antena_latina_canal_7.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR skyblue]CDN SPORT MAX[/COLOR]</title>
+<link>http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8</link>
+<thumbnail>http://www.fotosdigitalesgratis.com/noticias/fotos/CDN-SportsMix3-Logo.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>ANTENA LATINA</title>
+<link>rtmp://ss6.domint.net:1962/al_edge/ playpath=antena swfUrl=http://ss7.domint.net/jw6/jwplayer.flash.swf pageUrl=http://www.antenalatina7.com/streaming7/streamingTV.php timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CDN Canal 37 ( Republica Dominicana)</title>
+<link>http://108.168.206.90:1935/cdn/cdn/playlist.m3u8</link>
+<thumbnail>http://tv-online.in/wp-content/uploads/2013/01/CDN1-CANAL-37-Santo-Domingo-live.gif</thumbnail>
+</item>
+
+<item>
+<title>Teleantillas Canal 2</title>
+<link>http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8</link>
+<thumbnail>http://teleantillas.com.do/images/logo2.png</thumbnail>
+</item>
+
+<item>
+<title>Telesistema Canal 11</title>
+<link>http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8</link>
+<thumbnail>http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/telesistema_poster.png</thumbnail>
+</item>
+
+<item>
+<title>Telefuturo Canal 23</title>
+<link>http://ss7.domint.net:1950/tf_str/futu/playlist.m3u8</link>
+<thumbnail>http://tusolcaribe.net/wp-content/uploads/2012/10/telefuturo.jpg</thumbnail>
+</item>
+
+<item>
+<title>COLORVISION [COLOR blue](RPD)[/COLOR]</title>
+<link>rtmp://ss7.domint.net:2048/cvis_str/ playpath=color  swfUrl=http://ss7.domint.net/jw6/6.10/jwplayer.flash.swf  pageUrl=http://www.colorvision.do/stream9 timeout=15</link>
+<thumbnail>http://2.bp.blogspot.com/-r991wJvXckM/U5OWo2ZwQsI/AAAAAAAAphk/z6-Zd3GqMHU/s1600/logo9.png</thumbnail>
+</item>
+	
+
+<item>
+<title>Noticias 16 Canal 16</title>
+<link>http://mek2.mekstream.com:1935/noticias16/live2/playlist.m3u8</link>
+<thumbnail>http://canalesdominicanosenvivo.com/wp-content/uploads/2014/05/Noticias-16-Santo-Domingo-Canales-Dominicanos-Online.jpg</thumbnail>
+</item>
+
+<item>
+<title>Teleuniverso Canal 29</title>
+<link>http://ss7.domint.net:1942/tu_str/universo/playlist.m3u8</link>
+<thumbnail>http://emisoradominicana.net/television/logos/Teleuniverso-Canal-29.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>CineVision 19</title>
+<link>http://xcinevisioncanal19x.api.channel.livestream.com/3.0/playlist.m3u8</link>
+<thumbnail>http://emisoradominicana.net/tv/wp-content/uploads/2013/09/Cinevision-Canal-19.jpg</thumbnail>
+</item>
+
+<item>
+<title>Digital 15 [COLOR blue](RPD)[/COLOR]</title>
+<link>rtmp://67.212.234.140:9095/live2/ playpath=digital156  swfUrl=http://telemicro.com.do/tv/components/com_jmsvideo/jwplayer/jwplayer.flash.swf  pageUrl=http://telemicro.com.do/tv/index.php?option=com_jmsvideo&view=video&video_id=3&Itemid=173
+ timeout=15</link>
+<thumbnail>http://www.cirqueros.com/web/images/stories/digital%2015%20logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Telemicro 5 [COLOR blue](RPD)[/COLOR]</title>
+<link>rtmp://67.212.234.140:9095/live2/ playpath=telemicro526 swfUrl=http://telemicro.com.do/tv/components/com_jmsvideo/jwplayer/jwplayer.flash.swf pageUrl=http://telemicro.com.do/tv/index.php?option=com_jmsvideo&view=video&video_id=2&Itemid=173 timeout=15</link>
+<thumbnail>http://radioteve.com/tele/caribe/stdomingo/logo/telemic.jpg</thumbnail>
+</item>	
+
+<item>
+<title>Telecontacto 57</title>
+<link>rtmp://stream.prostudionetwork.com:1957/telecontacto/ playpath=TC swfUrl=http://yucatv.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://emisoradominicana.net/html5/iframes/telecontacto.html</link>
+<thumbnail>http://emisoradominicana.net/television/logos/Telecontacto-Canal-57.jpg</thumbnail>
+</item>
+		
+<item>
+<title>MICRO VISION</title>
+<link>microvision rtmp://m10.tv/microvision/ playpath=microvision1 swfUrl=http://microvision.com.do/micro/tv/micro.php live=1 pageUrl=http://microvision.com.do/micro/tv/microvision.html</link>
+<thumbnail>http://www.microvision.com.do/micro/images/Logo-Microv10-1.png</thumbnail>
+</item> 
+
+<item>
+<title>RVIDA TELEVISION</title>
+<link>http://ss4.domint.net:1976/rv_str/rvida/hasbahca.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1643864926/RVIDA_tv-02.jpg</thumbnail>
+</item>
+	
+	
+<item>
+<title>TELENORD CANAL 10</title>
+<link>rtmp://mek2.mekstream.com:1935/telenord10 playpath=live2 swfUrl=http://www.mekstream.com/clients/telenord10/player-licensed.swf live=1 pageUrl=http://www.telenord.com.do/index.php/canales/canal10</link>
+<thumbnail>http://referenceur-tv.com/wp-content/uploads/2013/04/telenord-canal-10-television-en-vivo-gratuito-streaming.png</thumbnail>
+</item> 
+	
+<item>
+<title>TELENORD CANAL 12</title>
+<link>rtmp://mek2.mekstream.com:1935/telenord10 playpath=live2 swfUrl=http://www.mekstream.com/clients/telenord10/player-licensed.swf live=1 pageUrl=http://www.telenord.com.do/index.php/canales</link>
+<thumbnail>http://referenceur-tv.com/wp-content/uploads/2013/04/telenord-canal-12-television-en-vivo-gratuito-streaming.png</thumbnail>
+</item>
+	
+<item>
+<title>TELECANAL 16</title>
+<link>rtmp://mek2.mekstream.com:1935/noticias16/live3 playpath=live3 swfUrl="http://www.freeetv.com/script/mediaplayer/player.swf?file=live3&type=flv&streamer=rtmp://mek2.mekstream.com:1935/noticias16&autostart=true&stretching=exactfit&mute=false" pageUrl="http://www.freeetv.com/modules.php?name=Video_Stream&page=watch&id=4746" swfVfy=true live=true</link>
+<thumbnail>http://www.livetvradios.com/images/tv/telecanal16.jpg</thumbnail>
+</item>
+
+	
+<item>
+<title>TELEFUTURO</title>
+<link>http://ss7.domint.net:1950/tf_str/futu/playlist.m3u8</link>
+<thumbnail>http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/Telefuturo-Canal-23.jpg</thumbnail>
+</item>	
+	
+<item>
+<title>SUPER TV CANAL 555</title>
+<link>http://ss4.domint.net:2022/stv_str/tv55/playlist.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/-BzhLGni4ZAY/TnDprh6UgbI/AAAAAAAAWoI/oMYyYmvTSZs/s1600/Canal+55.jpg</thumbnail>
+</item>
+	
+<item>
+<title>TV HIGUEY</title>
+<link>rtmp://tv.domiplay.net:1935/rtplive/ playpath=miatv.sdp swfUrl=http://www.jaxe.net/player/player-old.swf live=1 pageUrl=http://www.rapifutbol.com/2010/12/higuey-mia-tv-rep-dominicana-en-vivo.html --live</link>
+<thumbnail>http://www.tvhiguey.com/web/index_r2_c1.jpg</thumbnail>
+</item>
+	
+<item>
+<title>TV 10 SAN JUAN</title>
+<link>rtmp://174.127.77.205:1935/TV10/ playpath=livestream swfUrl=http://p.jwpcdn.com/6/6/jwplayer.flash.swf live=1 pageUrl=http://www.tv10sanjuan.com/</link>
+<thumbnail>http://www.tv14.net/images/TV%2010%20San%20Juan.jpg</thumbnail>
+</item>
+
+<item>
+<title>ROMANA TV</title> <!-- Link directo -->
+<link>rtmp://tv.domiplay.net:1935/rtplive/ playpath=romanatv.sdp swfUrl=http://www.romanatv42.com/flvplayer.swf live=1 pageUrl=http://www.romanatv42.com/ --live</link>
+<thumbnail>http://www.romanatv42.com/Images/interface_12.gif</thumbnail>
+</item>
+
+<item>
+<title>TELEUNIVERSO</title> <!-- Link directo -->
+<link>http://ss4.domint.net:1942/tu_str/universo/hasbahca.m3u8</link>
+<thumbnail>http://juancardenes.tripod.com/images/logoteleuniverso2005.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>SOL FM</title> <!-- Link directo -->
+<link>http://ss4.domint.net:1948/zol_str/vzol/hasbahca.m3u8</link>
+<thumbnail>http://www.tanasol.com/imagens/topo-novo-sol-fm.jpg</thumbnail>
+</item>
