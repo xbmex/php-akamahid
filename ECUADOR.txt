@@ -1,0 +1,87 @@
+<item>
+<title>CANAL 7 (ECUADOR)</title>
+<link>http://38.96.148.216:1935/ecuadortvn3//myStream_360p//playlist.m3u8</link>
+<thumbnail>http://www.ecuadortv.ec/imagesFTP/209056.Captura_de_pantalla_2014_06_04_a_la_s__13.20.07.png</thumbnail>
+</item>
+
+<item>
+<title>CARAVANA TV (ECUADOR)</title>
+<link>rtmp://www.audiohostingecuador.com:1935/caravanaTV playpath=caravanaTV swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf live=1 pageUrl=http://www.caravanatv.com/caravanatv.php timeout=20</link>
+<thumbnail>http://static-cdn1.ustream.tv/i/channel/picture/8/6/7/7/8677684/8677684_caravana09_0_00_09_18__1309358733,640x360,r:1.jpg</thumbnail>
+</item>
+
+<item>
+<title>ECUADOR TV INTERNACIONAL</title>
+<link>rtmp://38.96.148.216:1935/live/ playpath=internacional swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf live=1 pageUrl=http://www.ecuadortv.ec/home.php?c=43 timeout=20</link>
+<thumbnail>http://www.miantena.com/Imagenes/logo-ectv-inter.png</thumbnail>
+</item>
+
+<item>
+<title>GAMA TV (ECUADOR)</title>
+<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>get-initsesion</name>
+<expres></expres>
+<page>$doregex[get-page]</page>
+<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-page</name>
+<expres>"m3u8_url":"(.*?)"</expres>
+<page>http://new.livestream.com/accounts/7895918/Gamatv</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://tvonlinegratis.com/wp-content/uploads/2014/01/gamatv-500x500.png</thumbnail>
+</item>
+
+<subitem>
+<title>[COLOR skyblue]OROMAR TV (ECUADOR)[/COLOR]</title>
+<link>rtmp://stream.gcorpvision.com:19356:1935/live/oromartv</link>
+<thumbnail>http://radioteve.com/tele/suramerica/ecuador/logo/aromar.png</thumbnail>
+</subitem>
+
+<item>
+<title>[COLOR skyblue]MAKRO DIGITAL TV (CINE & VARIADO)[/COLOR]</title>
+<link>rtmp://209.95.33.34:1935/grupomakrodigital playpath=grupomakrodigital swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://www.grupomakrodigital.com/</link>
+<thumbnail>http://www.grupomacrodigital.com/Web%20Grupo%20MACRO.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]MI TVS (ECUADOR)[/COLOR]</title>
+<link>rtmp://181.198.10.23:1935/live/ playpath=mystream swfUrl=http://www.nasa.gov/sites/default/files/mediastreaming/jwplayer.flash.swf live=1 pageUrl=http://ecualive.me.la/live/tvdeecuador/tvs.html timeout=20</link>
+<thumbnail>https://lh6.googleusercontent.com/-g0gEArPXc8Y/UVE9WVryzWI/AAAAAAAAA-w/gNhRV0W9fAo/s241/tvs-gr.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]TC MI CANAL (ECUADOR)[/COLOR]</title>
+<link>rtmp://50.97.142.130:1935/ app=live/_definst_ playpath=mp4:10003_480p token=SECRETSUPER swfUrl=http://elcanaldelfutbol.com/static/embed/jwplayer.flash.swf pageUrl=http://www.tctelevision.com/calle7/tcinternacional/index.php live=true timeout=20</link>
+<thumbnail>http://www.tctelevision.com/sites/all/themes/centum/logotcredes.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]ECUAVISA (ECUADOR)[/COLOR]</title>
+<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swf] pageUrl=http://castalba.tv/ swfVfy=true live=true timeout=20</link>
+<regex>
+<name>rtmp</name>
+<expres>'streamer': '([^']*)<expres>
+<page>http://castalba.tv/embed.php?cid=13685</page>
+<referer>http://primiux.com/tvec/ecuavisa.htm</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>'file': '([^']*)<expres>
+<page>http://castalba.tv/embed.php?cid=13685</page>
+<referer>http://primiux.com/tvec/ecuavisa.htm</referer>
+</regex>
+<regex>
+<name>swf</name>
+<expres>'flashplayer': "([^"]*)<expres>
+<page>http://castalba.tv/embed.php?cid=13685</page>
+<referer>http://primiux.com/tvec/ecuavisa.htm</referer>
+<agent></agent>
+</regex>
+<thumbnail
+>http://www.lyngsat-logo.com/logo/tv/ee/ecuavisa.png</thumbnail>
+</item>
+
