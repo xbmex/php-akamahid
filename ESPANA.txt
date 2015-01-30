@@ -1,0 +1,394 @@
+<item>
+<title>[COLOR=orange]NOVA[/COLOR]</title>
+<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=lhkdb6swlnys0qw swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
+<regex>
+<name>rtmp</name>
+<expres>xs=_we_([^"]*)</expres>
+<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=107 &autoplay=true</page>
+<referer>http://www.9stream.com</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>token":"([^."]*)</expres>
+<page>http://www.9stream.com/server1.php?id=1415030899</page>
+<referer>http://www.9stream.com</referer>
+</regex>
+</item>
+		<item>
+			<title>[COLOR yellow]Canal CADIZ - ONDA CADIZ[/COLOR] </title>
+			<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+			<regex>
+			<name>get-initsesion</name>
+			<expres></expres>
+			<page>$doregex[get-page]</page>
+			<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>get-page</name>
+			<expres>"m3u8_url":"(.*?)"</expres>
+			<page>http://new.livestream.com/ondacadiz/directo</page>
+			<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+			<cookieJar></cookieJar>
+			</regex>
+			</item>
+						
+			<item>
+			<title>Canal +1</title>
+			<link>$doregex[get-rtmp] app=vod/?token=play@$doregex[get-token] playpath=$doregex[get-decrypted-ssx1] swfUrl=http://www.spasswitz.com/jwplayer5/addplayer/jwplayer.flash.swf pageUrl=$doregex[get-iframe] live=1 timeout=15</link>
+			<regex>
+			<name>get-rtmp</name>
+			<expres>(.*)\/re</expres>
+			<page>$doregex[get-decrypted-ssx4]</page>
+			</regex>
+			<regex>
+			<name>get-token</name>
+			<expres>@(.*)</expres>
+			<page>$doregex[get-decrypted-ssx4]</page>
+			</regex>
+			<regex>
+			<name>get-decrypted-ssx4</name>
+			<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-ssx4]")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>get-encrypted-ssx4</name>
+			<expres>ssx4" value="(.*)"</expres>
+			<page>$doregex[get-iframe]</page>
+			<referer>http://cinestrenostv.tv</referer>
+			</regex>
+			<regex>
+			<name>get-iframe</name>
+			<expres>src="(.*?)\"</expres>
+			<page>http://www.dinostream.pw/channel.php?file=103355&amp;width=650&amp;height=400&amp;autostart=true</page>
+			<referer>http://cinestrenostv.tv</referer>
+			</regex>
+			<regex>
+			<name>get-decrypted-ssx1</name>
+			<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-ssx1]")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>get-encrypted-ssx1</name>
+			<expres>ssx1" value="(.*)"</expres>
+			<page>$doregex[get-iframe]</page>
+			<referer>http://cinestrenostv.tv</referer>
+			</regex>
+			</item>
+
+		  
+			<item>
+			<title>C + Accion</title>
+			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=uo9axi95por133b swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
+			<thumbnail></thumbnail>
+			<regex>
+			<name>rtmp</name>
+			<expres>xs=_we_([^"]*)</expres>
+			<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=155 &autoplay=true</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>token":"([^."]*)</expres>
+			<page>http://www.9stream.com/server1.php?id=1406278125</page>
+			<referer>http://www.9stream.com</referer>
+			</regex> 
+			</item>
+			
+	  
+			<item><title>ANTENA 3</title><link>http://uneapple-i.akamaihd.net/hls/live/205012/grupoune_st3@205012/st3_index.m3u8</link></item>
+
+			<item><title>ANTENA 3 HD</title><link>http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8</link></item>			
+			<item><title>LaSexta HD </title><link>http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8</link></item>
+			
+			<item>
+			<title>TeleCinco</title>
+			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=rhve2i1ecwdujuz swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
+			<regex>
+			<name>rtmp</name>
+			<expres>xs=_we_([^"]*)</expres>
+			<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=87 &autoplay=true</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>token":"([^."]*)</expres>
+			<page>http://www.9stream.com/server1.php?id=1415031807</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			</item>
+			
+			<item>
+			<title>Telecinco HD</title>
+			<link>http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8?sd=10&rebase=on</link>
+			<thumbnail></thumbnail>
+			</item>
+			
+			<item>
+			<title>La Cuatro</title>
+			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=vfzs7eus3nlfnl4 swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
+			<regex>
+			<name>rtmp</name>
+			<expres>xs=_we_([^"]*)</expres>
+			<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=103 &autoplay=true</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>token":"([^."]*)</expres>
+			<page>http://www.9stream.com/server1.php?id=1415030444</page>
+			<referer>http://www.9stream.com</referer>
+			</regex></item>
+			
+			<item>
+			<title>Divinity</title>
+			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=vksqzxpe8b9wy5v swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
+			<regex>
+			<name>rtmp</name>
+			<expres>xs=_we_([^"]*)</expres>
+			<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=85 &autoplay=true</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>token":"([^."]*)</expres>
+			<page>http://www.9stream.com/server1.php?id=1415030538</page>
+			<referer>http://www.9stream.com</referer>
+			</regex></item>
+
+			<item>
+			<title>FDF</title>
+			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=jlsch9vuj7358l2 swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
+			<regex>
+			<name>rtmp</name>
+			<expres>xs=_we_([^"]*)</expres>
+			<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=152 &autoplay=true</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>token":"([^."]*)</expres>
+			<page>http://www.9stream.com/server1.php?id=1415030778</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			</item>
+			
+			<item>
+			<title>Neox</title>
+			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=clxmq07n9q5xylh swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
+			<regex>
+			<name>rtmp</name>
+			<expres>xs=_we_([^"]*)</expres>
+			<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=150 &autoplay=true</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>token":"([^."]*)</expres>
+			<page>http://www.9stream.com/server1.php?id=1415030949</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			</item>
+
+			<item>
+			<title>AXN</title>
+			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=hsdj68u7pijk8gp swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
+			<regex>
+			<name>rtmp</name>
+			<expres>xs=_we_([^"]*)</expres>
+			<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=160 &autoplay=true</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>token":"([^."]*)</expres>
+			<page>http://www.9stream.com/server1.php?id=1415031265</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			</item>
+			
+
+			<item>
+			<title>Canal + Toros</title>
+			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=5fhl0ebuehp2u4b swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
+			<regex>
+			<name>rtmp</name>
+			<expres>xs=_we_([^"]*)</expres>
+			<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=97 &autoplay=true</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>token":"([^."]*)</expres>
+			<page>http://www.9stream.com/server1.php?id=1415032165</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			</item>
+	
+	
+			<item>
+			<title>Discovery Channel</title>
+			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=s04o60nyrdo3zy5  swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
+			<regex>
+			<name>rtmp</name>
+			<expres>xs=_we_([^"]*)</expres>
+			<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=94 &autoplay=true</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>token":"([^."]*)</expres>
+			<page>http://www.9stream.com/server1.php?id=1415033304</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			</item>
+			
+			<item>
+			<title>Discovery Max</title>
+			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=nzh64im8mnz0xax  swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
+			<regex>
+			<name>rtmp</name>
+			<expres>xs=_we_([^"]*)</expres>
+			<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=151 &autoplay=true</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>token":"([^."]*)</expres>
+			<page>http://www.9stream.com/server1.php?id=1415033416</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			</item>
+			
+			
+			<item>
+			<title>Nat Geo</title>
+			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=iwuztnv3nfrzppy  swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
+			<regex>
+			<name>rtmp</name>
+			<expres>xs=_we_([^"]*)</expres>
+			<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=161 &autoplay=true</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>token":"([^."]*)</expres>
+			<page>http://www.9stream.com/server1.php?id=1415033465</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			</item>
+			
+			
+			<item>
+			<title>History Channel</title>
+			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=p0lufic7dkweo1d  swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
+			<regex>
+			<name>rtmp</name>
+			<expres>xs=_we_([^"]*)</expres>
+			<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=100 &autoplay=true</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>token":"([^."]*)</expres>
+			<page>http://www.9stream.com/server1.php?id=1415033558</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			</item>
+			
+			<item>
+			<title>CANAL DE HISTORIA</title>
+			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=p0lufic7dkweo1d swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
+			<thumbnail>http://img3.wikia.nocookie.net/__cb20130707114257/logopedia/images/0/07/Canal_de_Hist%C3%B3ria.gif</thumbnail>
+			<regex>
+			<name>rtmp</name>
+			<expres>xs=_we_([^"]*)</expres>
+			<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=100 &autoplay=true</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>token":"([^."]*)</expres>
+			<page>http://www.9stream.com/server1.php?id=1406278125</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			</item>
+
+			<item>
+			<title>Canal Sur</title>
+			<link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>
+			<thumbnail></thumbnail>
+			</item>
+			
+	
+			<item>
+			<title>TV3cat (HD) </title>
+			<link>http://www.tv3.cat/directetv3cat/tv3catpc.m3u8</link>
+			<thumbnail></thumbnail>
+			</item>
+			
+			<item>
+			<title>Canal Extremadura </title>
+			<link>http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8</link>
+			<thumbnail></thumbnail>
+			</item>
+			
+			<item>
+			<title>TVG Galicia America </title>
+			<link>http://media3.crtvg.es/live/tvga/playlist.m3u8</link>
+			<thumbnail></thumbnail>
+			</item>
+			
+			<item>
+			<title>Canal Sur Andalucia (SD) </title>
+			<link>http://195.10.10.213/rtva/andaluciatelevisionh264.flv?GKID=ac47d694410111e4bf3d00163e914f69</link>
+			<thumbnail></thumbnail>
+			</item>
+			
+			<item>
+			<title>Hallo TV </title>
+			<link>http://83.169.58.38:1935/live/HalloTV1/playlist.m3u8</link>
+			<thumbnail></thumbnail>
+			</item>
+			
+			
+			<item>
+			<title>Aragon TV </title>
+			<link>rtmp://aragontvlivefs.fplive.net/aragontvlive-live/stream_normal_abt</link>
+			<thumbnail></thumbnail>
+			</item>
+
+<item><title>[COLOR=orange]ANTENA 3[/COLOR]</title>
+<link>rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live playpath=stream-antena3_2 swfUrl=http://www.atresplayer.com/static/swf/AtresPlayer.swf?nocache=200 live=1 pageUrl=http://www.atresplayer.com/directos/television/antena3/</link>
+<thumbnail>http://4.bp.blogspot.com/-sQhXrQR2Q14/UU3m0jYKaYI/AAAAAAAAQJo/9120o348Rh4/s1600/A3.jpg</thumbnail>
+</item>
+
+
+<item>	
+<title>TVE 1</title>
+<link>http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8</link>
+<thumbnail>http://img.irtve.es/files/74-118767-FOTO_NOTA_PRENSA_399/tve_la1_gest.jpg</thumbnail>
+</item>
+<item>	
+<title>TV 2</title>
+<link>rtmp://rtvefs.fplive.net:1935/rtve-live-live?ovpfv=2.1.2 playpath=RTVE_LA2_LV3_WEB_NOG swfUrl=http://swf.rtve.es/swf/4.2.27/RTVEPlayerVideo.swf pageUrl=http://www.rtve.es/television/la-2-directo/ swfVfy=true live=true timeout=10</link>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20100228173610/logopedia/images/0/07/TVE2_logo_2008.png</thumbnail>
+</item>
+<itemOFF>
+<title>LA SEXTA</title>
+<link>http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8</link>
+<thumbnail>http://www.themtvc.com/logos/espana/lasexta.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>GALICIA</title>
+<link>rtmp://media3.crtvg.es:80/live/tvge_2 playpath=tvge_2 swfUrl=http://www.crtvg.es/flowplayer3/flowplayer.commercial-3.2.7.swf live=1 pageUrl=http://www.crtvg.es/tvg/tvg-en-directo</link>
+<thumbnail>http://img134.imageshack.us/img134/6980/tvgu.jpg</thumbnail>
+</item>
+
+<item>
+<title>LIBERTA DIGITAL</title>
+<link>http://149.11.34.6:1935/live/ldtv.stream/playlist.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-Thno-QFZV3Y/TgubRDcGdgI/AAAAAAAAAgU/bnUSTARO9oQ/s1600/LD%2BTV%2BLibertad%2BDigital.jpg</thumbnail>
+</item>
