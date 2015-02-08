@@ -1,4 +1,315 @@
-		  <item>
+	<item>
+	<title>Canal+ Liga </title>
+	<link>http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8?hd=10</link>
+	</item>
+
+	<item>
+	<title><![CDATA[Canal+ Liga 2]]></title>
+	<link><![CDATA[rtmp://91.235.143.111/live/ playpath=bywmjic4 swfUrl=http://www.kingcast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.kingcast.tv/embed.php]]></link>
+	<thumbnail></thumbnail>
+	</item>
+
+	<item>
+	<title>Canal+ Futbol</title>
+	<link>$doregex[get-rtmp] app=vod/?token=play@$doregex[get-token] playpath=$doregex[get-decrypted-ssx1] swfUrl=http://www.spasswitz.com/jwplayer5/addplayer/jwplayer.flash.swf pageUrl=$doregex[get-iframe] live=1 timeout=15</link>
+	<regex>
+	<name>get-rtmp</name>
+	<expres>(.*)\/re</expres>
+	<page>$doregex[get-decrypted-ssx4]</page>
+	</regex>
+	<regex>
+	<name>get-token</name>
+	<expres>@(.*)</expres>
+	<page>$doregex[get-decrypted-ssx4]</page>
+	</regex>
+	<regex>
+	<name>get-decrypted-ssx4</name>
+	<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-ssx4]")</expres>
+	<page></page>
+	</regex>
+	<regex>
+	<name>get-encrypted-ssx4</name>
+	<expres>ssx4" value="(.*)"</expres>
+	<page>$doregex[get-iframe]</page>
+	<referer>http://verdirectotv.com</referer>
+	</regex>
+	<regex>
+	<name>get-iframe</name>
+	<expres>src="(.*?)\"</expres>
+	<page>http://www.dinostream.pw/channel.php?file=103371&amp;width=650&amp;height=400&amp;autostart=true</page>
+	<referer>http://verdirectotv.com</referer>
+	</regex>
+	<regex>
+	<name>get-decrypted-ssx1</name>
+	<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-ssx1]")</expres>
+	<page></page>
+	</regex>
+	<regex>
+	<name>get-encrypted-ssx1</name>
+	<expres>ssx1" value="(.*)"</expres>
+	<page>$doregex[get-iframe]</page>
+	<referer>http://verdirectotv.com</referer>
+	</regex>
+	</item>
+
+	<item>
+	<title>Canal+ Futbol 2</title><link>$doregex[get_redirect] playpath=futbolrincondepensarr_92kze90 swfUrl=http://www.spasswitz.com/jwplayer5/addplayer/jwplayer.flash.swf live=true token=@@stop-stole@@ timeout=15 pageUrl=$doregex[get_frame]</link>
+	<regex>
+	<name>get_frame</name>
+	<expres>iframe\ssrc="([^"]+)</expres>
+	<page>http://www.dinozap.info/redirect/channel.php?id=111&width=680&height=390&autostart=true</page>
+	<referer>http://www.dinozap.info/</referer>
+	<agent>Mozilla/5.0 (Windows NT 6.2; rv:34.0) Gecko/20100101 Firefox/34.0</agent>
+	<cookieJar></cookieJar>
+	</regex>
+	<regex>
+	<name>get_hidd1</name>
+	<expres>type="hidden"\sid="ssx1".*?value="([^"]*)</expres>
+	<page>$doregex[get_frame]</page>
+	<referer>http://www.dinozap.info/redirect/channel.php?id=111&width=650&height=400&autostart=true</referer>
+	<agent></agent>
+	<cookieJar></cookieJar>
+	</regex>
+	<regex>
+	<name>get_hidd2</name>
+	<expres>type="hidden"\sid="ssx4".*?value="([^"]*)</expres>
+	<page>$doregex[get_frame]</page>
+	<referer>http://www.dinozap.info/redirect/channel.php?id=10&width=680&height=390&autostart=true</referer>
+	<agent></agent>
+	<cookieJar></cookieJar>
+	</regex>
+	<regex>
+	<name>get_641</name>
+	<expres>$pyFunction:base64.b64decode('$doregex[get_hidd1]')</expres>
+	<page></page>
+	<agent></agent>
+	<cookieJar></cookieJar>
+	</regex>
+	<regex>
+	<name>get_642</name>
+	<expres>$pyFunction:base64.b64decode('$doregex[get_hidd2]')</expres>
+	<page></page>
+	<agent></agent>
+	<cookieJar></cookieJar>
+	</regex>
+	<regex>
+	<name>get_redirect</name>
+	<expres>$pyFunction:('$doregex[get_642]').replace('redirect/','vod')</expres>
+	<page></page>
+	<agent></agent>
+	<cookieJar></cookieJar>
+	</regex>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+	</subitem>
+
+    	<item>
+        <title>Canal + Deportes</title>
+	<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=mbfx0pnzzwuns0g swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10  </link>
+	<regex>
+	<name>rtmp</name>
+	<expres>xs=_we_([^"]*)</expres>
+	<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=157 &autoplay=true</page>
+	<referer>http://www.9stream.com</referer>
+	</regex>
+	<regex>
+	<name>tok</name>
+	<expres>token":"([^."]*)</expres>
+	<page>http://www.9stream.com/server1.php?id=1415031202</page>
+	<referer>http://www.9stream.com</referer>
+	</regex>
+	</item>
+	<item>
+
+	<item>
+	<title><![CDATA[Canal + Deportes 2]]></title>
+	<link><![CDATA[rtmp://91.235.143.111/live/ playpath=by929jcdw swfUrl=http://www.kingcast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.kingcast.tv/embed.php]]></link>
+	<thumbnail></thumbnail>
+	</item>
+
+	<item>
+	<title>C + Deportes (9stream)</title>
+	<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=mbfx0pnzzwuns0g swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
+	<regex>
+	<name>rtmp</name>
+	<expres>xs=_we_([^"]*)</expres>
+	<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=154 &autoplay=true</page>
+	<referer>http://www.9stream.com</referer>
+	</regex>
+	<regex>
+	<name>tok</name>
+	<expres>token":"([^."]*)</expres>
+	<page>http://www.9stream.com/server1.php?id=1417277241</page>
+	<referer>http://www.9stream.com</referer>
+	</regex>
+	<thumbnail></thumbnail>
+	</item>
+
+      <item>
+      <title>Canal + Eventos (C+ Deportes,C+ Liga)</title>
+      <link>$doregex[get-rtmp] app=vod/?token=play@$doregex[get-token] playpath=$doregex[get-decrypted-ssx1] swfUrl=http://www.thebestplayeronline.com/jwplayer5/addplayer/jwplayer.flash.swf pageUrl=$doregex[get-iframe]</link>
+      <regex>
+      <name>get-rtmp</name>
+      <expres>(.*)\/re</expres>
+      <page>$doregex[get-decrypted-ssx4]</page>
+      </regex>     
+      <regex>
+      <name>get-token</name>
+      <expres>@(.*)</expres>
+      <page>$doregex[get-decrypted-ssx4]</page>
+      </regex>    
+      <regex>
+      <name>get-decrypted-ssx4</name>
+      <expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-ssx4]")</expres>
+      <page></page>
+      </regex>  
+      <regex>
+      <name>get-encrypted-ssx4</name>
+      <expres>ssx4" value="(.*)"</expres>
+      <page>$doregex[get-iframe]</page>
+      </regex>  
+      <regex>
+      <name>get-iframe</name>
+      <expres>src="(.*?)\"</expres>
+      <page>http://www.dinozap.info/redirect/channel.php?id=112&amp;width=680&amp;height=390&amp;autostart=true</page>
+        <referer>http://www.dinozap.info/?id=112</referer>
+        </regex>        
+        <regex>
+        <name>get-decrypted-ssx1</name>
+        <expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-ssx1]")</expres>
+        <page></page>
+        </regex>       
+        <regex>
+        <name>get-encrypted-ssx1</name>
+        <expres>ssx1" value="(.*)"</expres>
+        <page>$doregex[get-iframe]</page>
+        </regex>
+        </item>
+
+ 	<item>
+        <title>Canal + Eventos 2 (C+ Deportes,C+ Liga)</title>
+        <link>http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8?sd=11&rebase=on</link>
+        <thumbnail>http://1.bp.blogspot.com/_SmSYHUuLsHw/S24Sm03BddI/AAAAAAAADH4/ldOgaR-wtj4/s320/la++liga-bbva+logo.jpg</thumbnail>
+        </item>
+
+ 	<item>
+      	<title>Canal + Eventos 3 (C+ Deportes,C+ Liga)</title>
+      	<link>rtmp://207.244.67.9/iguide playpath=59iz0myw7bcxzxm swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7</link>
+      </item>
+
+
+	<item>
+	<title><![CDATA[Multicanal (Canal + / C+ Fútbol)]]></title>
+	<link><![CDATA[rtmp://207.244.89.23/iguide playpath=c9l3ahxqsbqmi0t swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=720&height=412&channel=29540&autoplay=true token=#ed%h0#w18623jsda6523lDGD]]></link>
+	<thumbnail></thumbnail>
+	</item>
+
+	<item>
+	<title>Multicanal (Canal + Deportes)</title>
+	<link>$doregex[get_redirect] playpath=$doregex[get_641] swfUrl=http://www.spasswitz.com/jwplayer5/addplayer/jwplayer.flash.swf live=true token=@@stop-stole@@ timeout=15 pageUrl=$doregex[get_frame]</link>
+	<regex>
+	<name>get_frame</name>
+	<expres>iframe\ssrc="([^"]+)</expres>
+	<page>http://www.dinozap.info/redirect/channel.php?id=112&width=680&height=390&autostart=true</page>
+	<referer>http://www.dinozap.info/</referer>
+	<agent>Mozilla/5.0 (Windows NT 6.2; rv:34.0) Gecko/20100101 Firefox/34.0</agent>
+	<cookieJar></cookieJar>
+	</regex>
+	<regex>
+	<name>get_hidd1</name>
+	<expres>type="hidden"\sid="ssx1".*?value="([^"]*)</expres>
+	<page>$doregex[get_frame]</page>
+	<referer>http://www.dinozap.info/redirect/channel.php?id=112&width=680&height=390&autostart=true</referer>
+	<agent></agent>
+	<cookieJar></cookieJar>
+	</regex>
+	<regex>
+	<name>get_hidd2</name>
+	<expres>type="hidden"\sid="ssx4".*?value="([^"]*)</expres>
+	<page>$doregex[get_frame]</page>
+	<referer>http://www.dinozap.info/redirect/channel.php?id=112&width=680&height=390&autostart=true</referer>
+	<agent></agent>
+	<cookieJar></cookieJar>
+	</regex>
+	<regex>
+	<name>get_641</name>
+	<expres>$pyFunction:base64.b64decode('$doregex[get_hidd1]')</expres>
+	<page></page>
+	<agent></agent>
+	<cookieJar></cookieJar>
+	</regex>
+	<regex>
+	<name>get_642</name>
+	<expres>$pyFunction:base64.b64decode('$doregex[get_hidd2]')</expres>
+	<page></page>
+	<agent></agent>
+	<cookieJar></cookieJar>
+	</regex>
+	<regex>
+	<name>get_redirect</name>
+	<expres>$pyFunction:('$doregex[get_642]').replace('redirect/','vod')</expres>
+	<page></page>
+	<agent></agent>
+	<cookieJar></cookieJar>
+	</regex>
+	</item>
+
+	<item>
+	<title>Multicanal (Canal + La Liga / Gol T)</title>
+	<link>$doregex[get_redirect] playpath=$doregex[get_641] swfUrl=http://www.spasswitz.com/jwplayer5/addplayer/jwplayer.flash.swf live=true token=@@stop-stole@@ timeout=15 pageUrl=$doregex[get_frame]</link>
+	<regex>
+	<name>get_frame</name>
+	<expres>iframe\ssrc="([^"]+)</expres>
+	<page>http://www.dinozap.info/redirect/channel.php?id=111&width=680&height=390&autostart=true</page>
+	<referer>http://www.dinozap.info/</referer>
+	<agent>Mozilla/5.0 (Windows NT 6.2; rv:34.0) Gecko/20100101 Firefox/34.0</agent>
+	<cookieJar></cookieJar>
+	</regex>
+	<regex>
+	<name>get_hidd1</name>
+	<expres>type="hidden"\sid="ssx1".*?value="([^"]*)</expres>
+	<page>$doregex[get_frame]</page>
+	<referer>http://www.dinozap.info/redirect/channel.php?id=111&width=680&height=390&autostart=true</referer>
+	<agent></agent>
+	<cookieJar></cookieJar>
+	</regex>
+	<regex>
+	<name>get_hidd2</name>
+	<expres>type="hidden"\sid="ssx4".*?value="([^"]*)</expres>
+	<page>$doregex[get_frame]</page>
+	<referer>http://www.dinozap.info/redirect/channel.php?id=111&width=680&height=390&autostart=true</referer>
+	<agent></agent>
+	<cookieJar></cookieJar>
+	</regex>
+	<regex>
+	<name>get_641</name>
+	<expres>$pyFunction:base64.b64decode('$doregex[get_hidd1]')</expres>
+	<page></page>
+	<agent></agent>
+	<cookieJar></cookieJar>
+	</regex>
+	<regex>
+	<name>get_642</name>
+	<expres>$pyFunction:base64.b64decode('$doregex[get_hidd2]')</expres>
+	<page></page>
+	<agent></agent>
+	<cookieJar></cookieJar>
+	</regex>
+	<regex>
+	<name>get_redirect</name>
+	<expres>$pyFunction:('$doregex[get_642]').replace('redirect/','vod')</expres>
+	<page></page>
+	<agent></agent>
+	<cookieJar></cookieJar>
+	</regex>
+	</item>	
+   <item>
+	<title>Gol TV / C+ Liga</title>
+	<link><![CDATA[rtmp://178.162.199.154/iguide playpath=kox4xy9poh2wkoo swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD]]></link>
+	<thumbnail></thumbnail>
+	</item>
+	 
+   <item>
 	<title><![CDATA[FOX Sports]]></title>
 	<link><![CDATA[http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?]]></link>
 	<thumbnail></thumbnail>
