@@ -1,4 +1,22 @@
 	<item>
+	<title><![CDATA[NTV Plus Football 1 HD]]></title>
+	<link><![CDATA[http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-80.m3u8]]></link>
+	<thumbnail></thumbnail>
+	</item>
+   
+   <item>
+	<title><![CDATA[NTV Plus Football 2 HD]]></title>
+	<link><![CDATA[http://193.232.151.135/hls-live/livepkgr/_1041_/1041/1041-80.m3u8]]></link>
+	<thumbnail></thumbnail>
+	</item>
+   
+   <item>
+	<title><![CDATA[NTV Plus Football 3 HD]]></title>
+	<link><![CDATA[http://193.232.151.135/hls-live/livepkgr/_1060_/1060/1060-80.m3u8]]></link>
+	<thumbnail></thumbnail>
+	</item>
+   
+   <item>
 	<title>Canal+ Liga </title>
 	<link>http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8?hd=10</link>
 	</item>
