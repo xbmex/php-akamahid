@@ -60,28 +60,20 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]ECUAVISA (ECUADOR)[/COLOR]</title>
-<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swf] pageUrl=http://castalba.tv/ swfVfy=true live=true timeout=20</link>
-<regex>
-<name>rtmp</name>
-<expres>'streamer': '([^']*)<expres>
-<page>http://castalba.tv/embed.php?cid=13685</page>
-<referer>http://primiux.com/tvec/ecuavisa.htm</referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>'file': '([^']*)<expres>
-<page>http://castalba.tv/embed.php?cid=13685</page>
-<referer>http://primiux.com/tvec/ecuavisa.htm</referer>
-</regex>
-<regex>
-<name>swf</name>
-<expres>'flashplayer': "([^"]*)<expres>
-<page>http://castalba.tv/embed.php?cid=13685</page>
-<referer>http://primiux.com/tvec/ecuavisa.htm</referer>
-<agent></agent>
-</regex>
-<thumbnail
->http://www.lyngsat-logo.com/logo/tv/ee/ecuavisa.png</thumbnail>
-</item>
+	<title>canela tv quito ecuador</title>
+	<link>http://38.96.148.216:1935/live/canelatv/playlist.m3u8</link>
+	<thumbnail>http://i708.photobucket.com/albums/ww87/t0p5/canela-tv.jpg</thumbnail>
+	</item>
+
+  <item>
+	<title>ecuavisa (ecuador)</title>
+	<link>rtmp://146.185.31.242:1935/liverepeat playpath=prim11 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=prim11&vw=600&vh=400</link>
+	<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/534px-Logo_Ecuavisa.svg.png</thumbnail>
+	</item>
+   
+    <item>
+	<title>canal uno</title>
+	<link>rtmp://83.170.111.188:1935/liverepeat playpath=prim13 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=prim13&vw=653&vh=421</link>
+	<thumbnail>http://1.bp.blogspot.com/-3WfsZRyRdgM/USBr5mK__EI/AAAAAAAACh0/M6ijS-TEdqA/s400/canaluno.jpeg</thumbnail>
+	</item>
 
