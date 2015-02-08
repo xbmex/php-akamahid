@@ -53,11 +53,6 @@
 <item><title>CNPT 1</title><link>http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8</link>
 <thumbnail>http://www.mirutv.com/logo/cnopt1.jpg</thumbnail></item>
 
-<item>
-<title>DEPORTE TV</title>
-<link>rtmp://sl100tb.cxnlive.com/live/deportv.stream timeout=15</link>
-<thumbnail>http://www.triamax.com/wp-content/uploads/2013/02/deportv.jpg</thumbnail>
-</item>
 
 <item><title>ESPN HD</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?=-1</link>
