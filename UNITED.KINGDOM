@@ -1,32 +1,22 @@
 <item>
-			<title>Sky Sport 1</title>
-			<link>rtmp://178.18.31.59:443/liverepeater playpath=185054 swfUrl=http://bernardotv.club/atdedead.swf pageUrl=http://biggestplayer.me/streamcr.php?id=185054&width=620&height=490 timeout=15</link>
-			</item>
+<title>SKY sport 1</title>
+<link>rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys1&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys1</link>
+<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
+</item>
+
+<item>
+<title>BT sport 1</title>
+<link>rtmp://80.82.64.140:443/liverepeater playpath=13 live=1 pageUrl=http://popeoftheplayers.pw/ token=#atd%#$ZH</link>
+<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
+</item>
+
+<item>
+<title>BT sport 2</title>
+<link>rtmp://80.82.64.140:443/liverepeater playpath=15 live=1 pageUrl=http://popeoftheplayers.pw/Vd?u#bt!25 token=#atd%#$ZH timeout=15</link>
+<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
+</item>
          
-          <item>
-			<title>Sky Sport 2</title>
-			<link>rtmpe://46.246.124.26:1935/live/ playpath=sskys2  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15</link>
-			</item>
-			
- 
-			 	<item>
-			<title>Sky Sport 3</title>
-			<link>rtmpe://46.246.124.26:1935/live/ playpath=sskys3  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15</link>
-			</item>
-			
-         
-       <item>
-			<title>Sky Sport 4</title>
-			<link>rtmpe://46.246.124.26:1935/live/ playpath=sskys4  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15</link>
-			</item>
-			
-	 
-			<item>
-			<title>Sky Sport 5</title>
-			<link>rtmpe://46.246.124.26:1935/live/ playpath=sskys5  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15</link>
-			</item>
-         
-         <item>
+<item>
 <title>FOX NEWS</title>
 <link>rtmpe://watch.playfooty.tv/live/foxnews1569 swfurl=http://www.playfooty.tv/play/player/player.swf pageurl=http://www.playfooty.tv/play/embed.php?u=foxnews1569&vw=600&vh=430</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/a/ae/Fox_News_Channel.svg</thumbnail>
