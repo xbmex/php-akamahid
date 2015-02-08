@@ -1,4 +1,33 @@
-			
+		  <item>
+	<title><![CDATA[FOX Sports]]></title>
+	<link><![CDATA[http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?]]></link>
+	<thumbnail></thumbnail>
+	</item>
+
+	<item>
+	<title><![CDATA[FOX Sports 2]]></title>
+	<link><![CDATA[http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?]]></link>
+	<thumbnail></thumbnail>
+	</item>
+
+	<item>
+	<title><![CDATA[FOX Sports HD]]></title>
+	<link><![CDATA[http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=397&lan=2&rows=40&f=.m3u8]]></link>
+	<thumbnail></thumbnail>
+	</item>
+
+	<item>
+	<title><![CDATA[FOX Sports]]></title>
+	<link><![CDATA[http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=400&lan=2&rows=40&f=.m3u8]]></link>
+	<thumbnail></thumbnail>
+	</item>
+
+	<item>
+	<title><![CDATA[FOX Sports 2 HD]]></title>
+	<link><![CDATA[http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=401&lan=2&rows=40&f=.m3u8]]></link>
+	<thumbnail></thumbnail>
+	</item>
+   
 			<item>
 			<title>Bein ñ</title>
 			<thumbnail>http://2.bp.blogspot.com/-2Qt5BZs-IeM/UuelEp7-7qI/AAAAAAAAEXs/msFB5nScTes/s1600/bein-sports-espa%C3%B1ol-en-vivo-online-web-gratis-ver.jpg</thumbnail>
@@ -62,71 +91,5 @@
 <link>http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?=-1</link>
 <thumbnail>http://hispanic-tv.jumptv.com/images/2007/12/14/logo_aym_sports.jpg</thumbnail></item>
 
-<item>
-		<title>GolT [COLOR yellow]** EstadioDeportivo 01 **[/COLOR]</title>
 
-		<link>rtmp://185.39.11.26:1735/ app=vod?token=$doregex[get-app] playpath=estadiodeportivoHD11_wk4xoa token=@@stop-stole@@ flashver=LNX%11,2,202,425 swfUrl=http://www.sunhd.info/jwplayer.5/addplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=$doregex[get-iframe]</link>
-
-		<regex>
-		<name>get-app</name>
-		<expres>token=(.*)</expres>
-		<page>$doregex[get-decrypted-rtmp]</page>
-		</regex>
-
-		<regex>
-		<name>get-decrypted-rtmp</name>
-		<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-url]")</expres>
-		<page></page>
-		</regex>
-
-		<regex>
-		<name>get-encrypted-url</name>
-		<expres>ssx4" value="(.*)"</expres>
-		<page>$doregex[get-iframe]</page>
-		<referer>http://www.estadio-deportivo.me/canal-1</referer>
-		</regex>
-
-		<regex>
-		<name>get-iframe</name>
-		<expres>src="(.*?)\"</expres>
-		<page>http://www.sunhd.info/channel.php?file=1133&amp;width=600&amp;height=390&amp;autostart=true</page>
-		<referer>http://www.estadio-deportivo.me/canal-1</referer>
-		</regex>
-		</item>
-      
-      	<item>
-		<title>Bein 1HD Frances [COLOR yellow]** EstadioDeportivo 04 **[/COLOR]</title>
-
-		<link>rtmp://185.39.11.26:1735/ app=vod?token=$doregex[get-app] playpath=estadiodeportivoHD4_91fqh4m token=@@stop-stole@@ flashver=LNX%11,2,202,425 swfUrl=http://www.sunhd.info/jwplayer.5/addplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=$doregex[get-iframe]</link>
-
-		<regex>
-		<name>get-app</name>
-		<expres>token=(.*)</expres>
-		<page>$doregex[get-decrypted-rtmp]</page>
-		</regex>
-
-		<regex>
-		<name>get-decrypted-rtmp</name>
-		<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-url]")</expres>
-		<page></page>
-		</regex>
-
-		<regex>
-		<name>get-encrypted-url</name>
-		<expres>ssx4" value="(.*)"</expres>
-		<page>$doregex[get-iframe]</page>
-		<referer>http://www.estadio-deportivo.me/canal-4</referer>
-		</regex>
-
-		<regex>
-		<name>get-iframe</name>
-		<expres>src="(.*?)\"</expres>
-		<page>http://www.sunhd.info/channel.php?file=1126&amp;width=600&amp;height=390&amp;autostart=true</page>
-		<referer>http://www.estadio-deportivo.me/canal-4</referer>
-		</regex>
-		</item>
-      
-      <item>
-			<title>CANAL+FÚTBOL</title>
-			<link>rtmp://207.244.89.21/iguide playpath=thm89jg3ypunyol swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
-			</item> 
+  
