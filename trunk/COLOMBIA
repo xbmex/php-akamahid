@@ -28,28 +28,29 @@
 <thumbnail>http://www.entretengo.com/wp-content/uploads/2014/01/canal1.jpg</thumbnail>
 </item>
   <item>
-	<title>cosmovision (colombia)</title>
+	<title>COSMOVISION</title>
 	<link>http://uneapple-i.akamaihd.net/hls/live/206415/grupoune_st14@206415/st14_1.m3u8</link>
 	<thumbnail>http://www.almar.com.co/images/portafolio/imagen_id_5272.jpg</thumbnail>
 	</item>
 
-        <item>
-	<title>telecafe (colombia)</title>
+   <item>
+	<title>TELECAFE</title>
 	<link>http://uneapple-i.akamaihd.net/hls/live/206417/grupoune_st16@206417/st16_1.m3u8</link>
 	<thumbnail>http://www.kolombiaestereo.com/774.jpg</thumbnail>
 	</item>
 
-        <item>
-	<title>mi musica hd (colombia)</title>
+   <item>
+	<title>MI MUSICA HD</title>
 	<link>http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_1.m3u8</link>
 	<thumbnail>http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png</thumbnail>
 	</item>
 
-        <item>
-	<title>life design hd (colombia)</title>
+    <item>
+	<title>LIFE DESING HD</title>
 	<link>http://uneapple-i.akamaihd.net/hls/live/207384/grupoune_st22@207384/st22_1.m3u8</link>
 	<thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/1/8/6/4/18641643/18641643,640x360,r:2.jpg</thumbnail>
 	</item>
+
 
 
 <item>
