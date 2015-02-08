@@ -1,0 +1,81 @@
+
+	<item>
+	<title>sub tv santiago</title>
+	<link>mmsh://190.196.9.186:8080/subtv</link>
+	<thumbnail>http://www.meddiostv.com/tv/subtv.jpg</thumbnail>
+	</item>
+
+
+        <item>
+	<title>mega hd</title>
+	<link>http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?</link>
+	<thumbnail>http://upload.wikimedia.org/wikipedia/commons/d/da/Mega_hd.png</thumbnail>
+	</item>
+
+
+        <item>
+	<title>cnn chile</title>
+ <link>rtsp://200.104.250.183/vtr_cnn_online/cnn-web</link>
+	<thumbnail>http://img.androidsis.com/wp-content/uploads/cnn-chile.jpg</thumbnail>
+	</item>
+
+        <item>
+	<title>rectv</title>
+	<link>http://13rec.movil.ztreaming.com/13rec/13rec/playlist.m3u8</link>
+	<thumbnail>http://www.puranoticia.cl/front/adjunto/img/2014/04/01/foto_93786_280x190px_1.jpg</thumbnail>
+	</item>
+   
+   <item>
+	<title>la red</title>
+	<link>http://wow1.dallas.digitalproserver.com/redtv/redtvvivo/livestream3/master.m3u8</link>
+	<thumbnail>http://3.bp.blogspot.com/-zYybGSlMFQo/UEw21CMW3KI/AAAAAAAAA8g/SgKgqMpIPjw/s1600/La+Red+(Chile+TV).png</thumbnail>
+	</item>
+	
+	<item>
+	<title>tvchile</title>
+	<link>http://edge-12-cl.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/master.m3u8</link>
+	<thumbnail>http://4.bp.blogspot.com/_pFTD3I8CXKM/S_GJyBI_1iI/AAAAAAAAC-Q/1GWE_JTmM4U/s1600/TVN.jpg</thumbnail>
+	</item>
+		
+        <item>
+	<title>tvn</title>
+	<link>http://edge-12-cl.edge.mdstrm.com/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/master.m3u8</link>
+	<thumbnail>http://www.frocus.net/images/logotv/original/tvn-chile.jpg</thumbnail>
+	</item>
+   
+   <item>
+	<title>quinta tv</title>
+	<link>http://iphone-streaming.ustream.tv/uhls/2950729/streams/live/iphone/playlist.m3u8</link>
+	<thumbnail>https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-frc3/t31.0-8/c0.0.851.315/p851x315/171966_119005471592137_1298593148_o.jpg</thumbnail>
+	</item>
+	
+	<item>
+	<title>canal 5tv linares</title>
+	<link>rtmp://v1.streaminglatinoamerica.com/canal5/canal5</link>
+	<thumbnail>http://www.radioancoa.cl/wp-content/uploads/2012/06/ANCOA-CANAL5.jpg</thumbnail>
+	</item>
+	
+	<item>
+	<title>pinguino tv punta arenas</title>
+	<link>rtmp://streaming.elpinguino.com:1935/live/pinguinotv_360p</link>
+	<thumbnail>http://elpinguino.com/web2012/logo.png</thumbnail>
+	</item>
+	
+	<item>
+	<title>tv red  punta arenas</title>
+	<link>rtmp://69.164.193.177/live/myStream</link>
+	<thumbnail>http://elpinguino.com/uploads/imagenes/31ff813ec09ff24223fd1fed891336da.jpg</thumbnail>
+	</item>
+	
+        <item>
+	<title>itv patagonia hd (chile)</title>
+	<link>http://movilstream.digitalproserver.com/itv/itvvivo/itv.smil/chunklist-b1500000.m3u8</link>
+	<thumbnail>http://2.bp.blogspot.com/-4RniWElOBUU/UB2dvCK2sVI/AAAAAAAAAdM/DF5HwTNecHs/s1600/itv_patagonia.jpg</thumbnail>
+	</item>
+
+        <item>
+	<title>canal 9 bio bio (chile)</title>
+	<link>http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w1848769691_b1200000.m3u8</link>
+	<thumbnail>https://alvaromiguieles.files.wordpress.com/2012/05/475140_10150594533767204_637551787_o.jpg</thumbnail>
+	</item>
+   
