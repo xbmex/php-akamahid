@@ -16,6 +16,18 @@
 	<thumbnail></thumbnail>
 	</item>
    
+   	<item>
+   	<title>SKY SPORTS 3</title>
+   	<link>rtmp://80.82.78.26:443/liverepeater playpath=10 swfUrl=http://popeoftheplayers.pw/atdedead.swf pageUrl=http://popeoftheplayers.pw/player3.php?id=10&width=600&height=450 token=#atd%#$ZH</link>
+   	<thumbnail>http://www.igoal.tv/ch/sky_sports3.jpg</thumbnail>
+   	</item>
+   
+   	<item>
+   	<title>SKY SPORTS 4</title>
+   	<link>rtmp://80.82.78.29:443/liverepeater playpath=16 swfUrl=http://popeoftheplayers.pw/atdedead.swf pageUrl=http://popeoftheplayers.pw/player3.php?id=16&width=600&height=450 token=#atd%#$ZH</link>
+   	<thumbnail>http://i2.cdnds.net/09/53/160x120_broadcasting_ss4logo.jpg</thumbnail>
+   	</item>
+   
    <item>
 	<title>Canal+ Liga </title>
 	<link>http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8?hd=10</link>
