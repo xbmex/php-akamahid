@@ -103,7 +103,7 @@
 
 <item>
 <title>Telemicro 5 [COLOR blue](RPD)[/COLOR]</title>
-<link>rtmp://67.212.234.140:9095/live2/ playpath=telemicro526 swfUrl=http://telemicro.com.do/tv/components/com_jmsvideo/jwplayer/jwplayer.flash.swf pageUrl=http://telemicro.com.do/tv/index.php?option=com_jmsvideo&view=video&video_id=2&Itemid=173 timeout=15</link>
+<link>rtmp://67.212.234.140:9095/live2/ playpath=telemicro1515 swfUrl=http://telemicro.com.do/tv/components/com_jmsvideo/jwplayer/jwplayer.flash.swf pageUrl=http://telemicro.com.do/tv/index.php?option=com_jmsvideo&view=video&video_id=2&Itemid=173 timeout=15</link>
 <thumbnail>http://radioteve.com/tele/caribe/stdomingo/logo/telemic.jpg</thumbnail>
 </item>	
 
