@@ -109,12 +109,6 @@
 <thumbnail>http://2.bp.blogspot.com/-0c_YrCo7GQg/T_uEjlzWPMI/AAAAAAAAAQk/Y2eIT7aBQMk/s1600/transmisi%C3%B3n-en-vivo-frecuencia-latina.jpg</thumbnail>
 </item>
 
-<item>
-<title>[COLOR yellow]ecuavisa   •ECUADOR•[/COLOR]</title>
-<link>rtmp://37.130.228.4:1935/liverepeat playpath=prim11 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php</link>
-<thumbnail>http://2.bp.blogspot.com/-0c_YrCo7GQg/T_uEjlzWPMI/AAAAAAAAAQk/Y2eIT7aBQMk/s1600/transmisi%C3%B3n-en-vivo-frecuencia-latina.jpg</thumbnail>
-</item>
-
 
 <item>
 <title>CANAL 13 HD  </title>
@@ -151,11 +145,11 @@
 
 <item>
 <title>Digital 15 [COLOR blue](RPD)[/COLOR]</title>
-<link>rtmp://67.212.234.140:9095/live2/ playpath=digital15  swfUrl=http://telemicro.com.do/tv/components/com_jmsvideo/jwplayer/jwplayer.flash.swf pageUrl=http://telemicro.com.do/tv/index.php?option=com_jmsvideo&view=video&video_id=3&Itemid=173 timeout=15</link>
+<link>rtmp://67.212.234.140:9095/live2/ playpath=telemicro1515  swfUrl=http://telemicro.com.do/tv/components/com_jmsvideo/jwplayer/jwplayer.flash.swf pageUrl=http://telemicro.com.do/tv/index.php?option=com_jmsvideo&view=video&video_id=3&Itemid=173 timeout=15</link>
 <thumbnail>http://www.cirqueros.com/web/images/stories/digital%2015%20logo.jpg</thumbnail>
 </item>
 
-<item>
+<itemoff>
 <title>Telemicro 5 [COLOR blue](RPD)[/COLOR]</title>
 <link>rtmp://67.212.234.140:9095/live2/ playpath=telemicro1515 swfUrl=http://telemicro.com.do/tv/components/com_jmsvideo/jwplayer/jwplayer.flash.swf pageUrl=http://telemicro.com.do/tv/index.php?option=com_jmsvideo&view=video&video_id=2&Itemid=173 timeout=15</link>
 <thumbnail>http://radioteve.com/tele/caribe/stdomingo/logo/telemic.jpg</thumbnail>
