@@ -1,4 +1,3 @@
-
 	<item>
 	<title>sub tv santiago</title>
 	<link>mmsh://190.196.9.186:8080/subtv</link>
@@ -24,6 +23,15 @@
 	<link>http://13rec.movil.ztreaming.com/13rec/13rec/playlist.m3u8</link>
 	<thumbnail>http://www.puranoticia.cl/front/adjunto/img/2014/04/01/foto_93786_280x190px_1.jpg</thumbnail>
 	</item>
+   
+           <item>
+	<title>rectv</title>
+	<link>rtmp://13c.ztreaming.com:80/13c playpath=grpz13c swfUrl=http://envivo.13.cl/forever/swf/flowplayer.commercial-3.2.7.swf live=1 pageUrl=http://envivo.13.cl/13c.php</link>
+	<thumbnail>http://www.puranoticia.cl/front/adjunto/img/2014/04/01/foto_93786_280x190px_1.jpg</thumbnail>
+	</item>
+   
+   
+   
    
    <item>
 	<title>la red</title>
