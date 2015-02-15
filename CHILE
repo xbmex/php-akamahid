@@ -1,15 +1,22 @@
-	<item>
+
+<item>
+ <title>mega HD</title>
+ <link>http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?</link>
+ <thumbnail>http://upload.wikimedia.org/wikipedia/commons/d/da/Mega_hd.png</thumbnail>
+ </item>
+   
+<item>
+ <title>tvn HD</title>
+ <link>http://edge-12-cl.edge.mdstrm.com/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/master.m3u8</link>
+<thumbnail>http://www.frocus.net/images/logotv/original/tvn-chile.jpg</thumbnail>
+ </item>
+   
+     <item>
 	<title>sub tv santiago</title>
 	<link>mmsh://190.196.9.186:8080/subtv</link>
 	<thumbnail>http://www.meddiostv.com/tv/subtv.jpg</thumbnail>
 	</item>
 
-
-        <item>
-	<title>mega hd</title>
-	<link>http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?</link>
-	<thumbnail>http://upload.wikimedia.org/wikipedia/commons/d/da/Mega_hd.png</thumbnail>
-	</item>
    
 
         <item>
@@ -57,11 +64,7 @@
 	<thumbnail>http://4.bp.blogspot.com/_pFTD3I8CXKM/S_GJyBI_1iI/AAAAAAAAC-Q/1GWE_JTmM4U/s1600/TVN.jpg</thumbnail>
 	</item>
 		
-        <item>
-	<title>tvn</title>
-	<link>http://edge-12-cl.edge.mdstrm.com/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/master.m3u8</link>
-	<thumbnail>http://www.frocus.net/images/logotv/original/tvn-chile.jpg</thumbnail>
-	</item>
+ 
    
    <item>
 	<title>quinta tv</title>
