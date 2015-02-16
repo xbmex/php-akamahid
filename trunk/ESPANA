@@ -35,9 +35,27 @@
 <link>http://token-lh.akamaihd.net/i/sexta_1@126859/index_1_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/LaSexta.png</thumbnail></item>
 
+<item>
+<title>TDP</title>
+<link>http://token-lh.akamaihd.net/i/tdp_1@126862/index_1_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/Teledeporte.png</thumbnail></item>
 
-		
-      
+<item>
+<title>8</title>
+<link>http://token-lh.akamaihd.net/i/ocho_1@126863/index_1_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/Canal8.png</thumbnail></item>
+
+<item>
+<title>TELEMADRID</title>
+<link>http://token-lh.akamaihd.net/i/Telemadrid_1@123660/index_1_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/Telemadrid.png</thumbnail></item>
+
+<item>
+<title>CANAL 24</title>
+<link>http://token-lh.akamaihd.net/i/24espania_1@126861/index_1_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/Canal24H.png</thumbnail></item>
+
+   
 <item>
  <title>[COLOR yellow]Canal CADIZ - ONDA CADIZ[/COLOR] </title>
  <link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
