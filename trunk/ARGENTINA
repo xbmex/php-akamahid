@@ -3,6 +3,40 @@
 <link>http://token-lh.akamaihd.net/i/AmericaHD2_1@125842/index_1_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/AmericaTV.png</thumbnail></item>
 
-<item><title>[COLOR skyblue]WIN SPORTS       [COLOR lime]HD[/COLOR]</title>
-<link>http://token-lh.akamaihd.net/i/Winsports_1@123742/index_1_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/220px-Winsports.svg.png</thumbnail></item>
+<item><title>TRECE HD</title>
+<link>http://token-lh.akamaihd.net/i/TreceHD2_1@125845/index_1_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/El-Trece.png</thumbnail></item>
+
+<item><title>TELEFE HD</title>
+<link>http://token-lh.akamaihd.net/i/ALT_1003_1@126064/index_1_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/Tele-Fe.png</thumbnail></item>
+
+<item><title>TVP HD</title>
+<link>http://token-lh.akamaihd.net/i/ALT_1006_1@126067/index_1_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/TVPublicaHD.png</thumbnail></item>
+
+<item><title>CANAL 9 HD</title>
+<link>http://token-lh.akamaihd.net/i/Canal9_1@123610//index_1_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/Canal9HD.png</thumbnail></item>
+
+<item><title>CN5</title>
+<link>http://token-lh.akamaihd.net/i/C5N_1@123614/index_1_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/C5N.png</thumbnail></item>
+
+<item><title>TN</title>
+<link>http://token-lh.akamaihd.net/i/TN_1@123620//index_1_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/TN.png</thumbnail></item>
+
+<item><title>A24</title>
+<link>http://token-lh.akamaihd.net/i/A24_1@123621//index_1_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/A24.png</thumbnail></item>
+
+<item><title>CN5</title>
+<link>http://token-lh.akamaihd.net/i/C5N_1@123614/index_1_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/C5N.png</thumbnail></item>
+
+<item><title>TN</title>
+<link>http://token-lh.akamaihd.net/i/TN_1@123620//index_1_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/TN.png</thumbnail></item>
+
+
