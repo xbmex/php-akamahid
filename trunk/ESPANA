@@ -14,9 +14,16 @@
 <referer>http://www.9stream.com</referer>
 </regex>
 </item>
-		<item>
-			<title>[COLOR yellow]Canal CADIZ - ONDA CADIZ[/COLOR] </title>
-			<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+
+<item>
+<title>LA 1</title>
+<link>http://token-lh.akamaihd.net/i/La1_espania_1@127769/index_1_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/La1.png</thumbnail></item>
+		
+      
+<item>
+ <title>[COLOR yellow]Canal CADIZ - ONDA CADIZ[/COLOR] </title>
+ <link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
 			<regex>
 			<name>get-initsesion</name>
 			<expres></expres>
@@ -34,7 +41,7 @@
 			</item>
 						
 			<item>
-			<title>Canal +1</title>
+			<title>AE</title>
 			<link>$doregex[get-rtmp] app=vod/?token=play@$doregex[get-token] playpath=$doregex[get-decrypted-ssx1] swfUrl=http://www.spasswitz.com/jwplayer5/addplayer/jwplayer.flash.swf pageUrl=$doregex[get-iframe] live=1 timeout=15</link>
 			<regex>
 			<name>get-rtmp</name>
@@ -102,44 +109,18 @@
 			<item><title>LaSexta HD </title><link>http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8</link></item>
 			
 			<item>
-			<title>TeleCinco</title>
-			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=rhve2i1ecwdujuz swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
-			<regex>
-			<name>rtmp</name>
-			<expres>xs=_we_([^"]*)</expres>
-			<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=87 &autoplay=true</page>
-			<referer>http://www.9stream.com</referer>
-			</regex>
-			<regex>
-			<name>tok</name>
-			<expres>token":"([^."]*)</expres>
-			<page>http://www.9stream.com/server1.php?id=1415031807</page>
-			<referer>http://www.9stream.com</referer>
-			</regex>
+			<title>CUATRO HD</title>
+			<link>http://token-lh.akamaihd.net/i/Cuatro_1@126857/index_0_av-p.m3u8?sd=10&rebase=on</link>
+			<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/Cuatro.png</thumbnail>
 			</item>
 			
 			<item>
-			<title>Telecinco HD</title>
-			<link>http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8?sd=10&rebase=on</link>
-			<thumbnail></thumbnail>
+			<title>TELECINCO HD</title>
+			<link>http://token-lh.akamaihd.net/i/telecinco_1@126858/index_0_av-p.m3u8?sd=10&rebase=on</link>
+			<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/Telecinco.png</thumbnail>
 			</item>
 			
-			<item>
-			<title>La Cuatro</title>
-			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=vfzs7eus3nlfnl4 swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
-			<regex>
-			<name>rtmp</name>
-			<expres>xs=_we_([^"]*)</expres>
-			<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=103 &autoplay=true</page>
-			<referer>http://www.9stream.com</referer>
-			</regex>
-			<regex>
-			<name>tok</name>
-			<expres>token":"([^."]*)</expres>
-			<page>http://www.9stream.com/server1.php?id=1415030444</page>
-			<referer>http://www.9stream.com</referer>
-			</regex></item>
-			
+		  
 			<item>
 			<title>Divinity</title>
 			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=vksqzxpe8b9wy5v swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
