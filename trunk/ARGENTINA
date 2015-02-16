@@ -16,7 +16,7 @@
 <thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/TVPublicaHD.png</thumbnail></item>
 
 <item><title>CANAL 9 HD</title>
-<link>http://token-lh.akamaihd.net/i/Canal9_1@123610//index_1_av-p.m3u8?sd=10&rebase=on</link>
+<link>http://token-lh.akamaihd.net/i/Canal9_1@123610/index_1_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/Canal9HD.png</thumbnail></item>
 
 <item><title>CN5</title>
@@ -24,19 +24,33 @@
 <thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/C5N.png</thumbnail></item>
 
 <item><title>TN</title>
-<link>http://token-lh.akamaihd.net/i/TN_1@123620//index_1_av-p.m3u8?sd=10&rebase=on</link>
+<link>http://token-lh.akamaihd.net/i/TN_1@123620/index_1_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/TN.png</thumbnail></item>
 
 <item><title>A24</title>
 <link>http://token-lh.akamaihd.net/i/A24_1@123621//index_1_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/A24.png</thumbnail></item>
 
-<item><title>CN5</title>
-<link>http://token-lh.akamaihd.net/i/C5N_1@123614/index_1_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/C5N.png</thumbnail></item>
+<item><title>360</title>
+<link>http://cookies-lh.akamaihd.net/i/Prueba1_1@151224/index_1_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/360TV.png</thumbnail></item>
 
-<item><title>TN</title>
-<link>http://token-lh.akamaihd.net/i/TN_1@123620//index_1_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/TN.png</thumbnail></item>
+<item><title>DEPORTV</title>
+<link>http://token-lh.akamaihd.net/i/ALT_1008_1@126070/index_1_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/Deportv.png</thumbnail></item>
+
+<item><title>MAGAZINE</title>
+<link>http://token-lh.akamaihd.net/i/Magazine_1@123623/index_1_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/Magazine.png</thumbnail></item>
+
+<item><title>TELEFE INTERNACIONAL</title>
+<link>http://token-lh.akamaihd.net/i/Telefeint_1@126702/index_1_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/TelefeInt.png</thumbnail></item>
+
+<item><title>CRONICA</title>
+<link>http://token-lh.akamaihd.net/i/cn23_1@123625/index_1_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/Cronica.png</thumbnail></item>
+
+
 
 
