@@ -2,3 +2,7 @@
 <title>AMERICA TV HD</title>
 <link>http://token-lh.akamaihd.net/i/AmericaHD2_1@125842/index_1_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/AmericaTV.png</thumbnail></item>
+
+<item><title>[COLOR skyblue]WIN SPORTS       [COLOR lime]HD[/COLOR]</title>
+<link>http://token-lh.akamaihd.net/i/Winsports_1@123742/index_1_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/220px-Winsports.svg.png</thumbnail></item>
