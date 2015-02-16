@@ -16,9 +16,21 @@
 </item>
 
 <item>
-<title>LA 1</title>
+<title>LA 1 HD</title>
 <link>http://token-lh.akamaihd.net/i/La1_espania_1@127769/index_1_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/La1.png</thumbnail></item>
+
+ <item>
+			<title>CUATRO HD</title>
+			<link>http://token-lh.akamaihd.net/i/Cuatro_1@126857/index_0_av-p.m3u8?sd=10&rebase=on</link>
+			<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/Cuatro.png</thumbnail>
+			</item>
+			
+			<item>
+			<title>TELECINCO HD</title>
+			<link>http://token-lh.akamaihd.net/i/telecinco_1@126858/index_0_av-p.m3u8?sd=10&rebase=on</link>
+			<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/Telecinco.png</thumbnail>
+			</item>
 		
       
 <item>
@@ -102,25 +114,6 @@
 			</regex> 
 			</item>
 			
-	  
-			<item><title>ANTENA 3</title><link>http://uneapple-i.akamaihd.net/hls/live/205012/grupoune_st3@205012/st3_index.m3u8</link></item>
-
-			<item><title>ANTENA 3 HD</title><link>http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8</link></item>			
-			<item><title>LaSexta HD </title><link>http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8</link></item>
-			
-			<item>
-			<title>CUATRO HD</title>
-			<link>http://token-lh.akamaihd.net/i/Cuatro_1@126857/index_0_av-p.m3u8?sd=10&rebase=on</link>
-			<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/Cuatro.png</thumbnail>
-			</item>
-			
-			<item>
-			<title>TELECINCO HD</title>
-			<link>http://token-lh.akamaihd.net/i/telecinco_1@126858/index_0_av-p.m3u8?sd=10&rebase=on</link>
-			<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/Telecinco.png</thumbnail>
-			</item>
-			
-		  
 			<item>
 			<title>Divinity</title>
 			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=vksqzxpe8b9wy5v swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
