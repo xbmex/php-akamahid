@@ -18,7 +18,7 @@
  
  <item>
 <title>CHILE VISION</title>
-<link>http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=185&lan=2&rows=40&f=.m3u8</link>
+<link>rtmp://50.7.28.130/app playpath=16767?MTQyNDIwNDUxMTtmNTExMGNiZjAwNWJjMmY3NmMwNzM3MThiMTQ5YzdiNQ== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e6a4d324f4459354e6d4d324e545a6c4e6a55334f4463304e6a4d324f446332/b23d93b4ad42 Conn=S:OK</link>
 <thumbnail>https://pbs.twimg.com/profile_images/550643019154587648/zpJ86zDv.jpeg</thumbnail>
 </item>
 
