@@ -16,11 +16,7 @@
  <thumbnail>http://www.meddiostv.com/tv/subtv.jpg</thumbnail>
  </item>
  
- <item>
- <title>CHILE VISION</title>
- <link>rtmp://chv.live.ztreaming.com:80/chvapp2/ playpath=streamchv swfUrl=http://online.chilevision.cl/swf/flowplayer-3.2.7.swf live=1 pageUrl=http://www.chilevision.cl/home/senal-online.html</link>
- <thumbnail></thumbnail>
- </item>
+
  
  
  
