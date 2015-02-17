@@ -24,10 +24,9 @@
 
    <item>
 	<title>CANAL 13</title>
-	<link>rtmp://204.45.157.234/app playpath=16838?MTQyNDE0NjIxMzs4NWQ4YmY4OTU0MjFkZDhlMmVlZjdmZmZlZTIzODQ3Yw== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e6a4d324f4459354e6d4d324e545a6c4e6a55334f4463304e6a67324e44597a4d7a457a4d773d3d/7a0e1b10146c Conn=S:OK</link>
+	<link>rtmp://173.193.197.46/app playpath=16838?MTQyNDIwNDc3NztiNmZlOTJiZDJmMDJmYzI5ZmUwMDVjMzlmMTFhNzkwMQ== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e6a4d324f4459354e6d4d324e545a6c4e6a55334f4463304e6a67324e44597a4d7a457a4d773d3d/713327e232e6 Conn=S:OK</link>
 	<thumbnail>http://static.13.cl/static/img/logo-ogfacebook.png</thumbnail>
 	</item>
- 
 
         <item>
 	<title>cnn chile</title>
