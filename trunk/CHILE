@@ -17,8 +17,8 @@
  </item>
  
  <item>
-<title>prueba</title>
-<link>rtmp://204.45.157.186/app playpath=16767?MTQyNDE0NDg1Mjs3ZmZjZTYxZDQ0MmI1N2ZmZWQ0NTViYzdkMDQyYzM0Ng== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e6a4d324f4459354e6d4d324e545a6c4e6a55334f4463304e6a4d324f446332/45f75874b866 Conn=S:OK --live timeout=15</link>
+<title>prueba2</title>
+<link>rtmp://204.45.157.186/app playpath=16767?MTQyNDE0NDg1Mjs3ZmZjZTYxZDQ0MmI1N2ZmZWQ0NTViYzdkMDQyYzM0Ng== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e6a4d324f4459354e6d4d324e545a6c4e6a55334f4463304e6a4d324f446332/45f75874b866 Conn=S:OK  timeout=15</link>
 </item>
  
 
