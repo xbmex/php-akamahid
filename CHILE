@@ -34,12 +34,21 @@
 	<link>rtmp://50.7.28.130/app playpath=16840?MTQyNDMwMDQwMzs4NTY1OWI0ZjMzOTRjNjA3MDc1OGMxOTU5ZjJlMDAyZA== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e6a4d7a4d544d7a4e6a67324e445a6c4e6a55334f446330/c1656d70ade8 Conn=S:OK</link>
 	<thumbnail>http://static.13.cl/static/img/logo-ogfacebook.png</thumbnail>
 	</item>
+   
+      <item>
+	<title>CANAL 13 OPCION 2</title>
+	<link>rtmp://204.45.157.34/app playpath=16840?MTQyNDMwMDYxMTs0MTI0YjMxNWY2MDY3OTU0N2NiYTkzOWViMWNlY2E3MQ== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e6a4d7a4d544d7a4e6a67324e445a6c4e6a55334f446330/705dd3cf513c Conn=S:OK</link>
+	<thumbnail>http://static.13.cl/static/img/logo-ogfacebook.png</thumbnail>
+	</item>
 
         <item>
 	<title>cnn chile</title>
  <link>rtsp://200.104.250.183/vtr_cnn_online/cnn-web</link>
 	<thumbnail>http://img.androidsis.com/wp-content/uploads/cnn-chile.jpg</thumbnail>
 	</item>
+   
+   
+ 
 
         <item>
 	<title>rectv</title>
