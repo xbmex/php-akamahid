@@ -1,82 +1,39 @@
+ <item><title>ESPN HD</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?=-1</link>
+<thumbnail>http://y.cdn.entutele.com/media/channels/big/espn-hd.gif</thumbnail></item>
+			
+<item><title>ESPN </title>
+<link>http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?=-1</link>
+<thumbnail>http://y.cdn.entutele.com/media/channels/big/espn.gif</thumbnail></item>
+			
+<item><title>ESPN 2</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?=-1</link>
+<thumbnail>http://y.cdn.entutele.com/media/channels/big/espn-2.gif</thumbnail></item>
+			
+<item><title>ESPN 3</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?=-1</link>
+<thumbnail>http://y.cdn.entutele.com/media/channels/big/espn-3.gif</thumbnail></item>
+			
+<item><title>FOX SPORT</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?=-1</link>
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/fox-sports.gif</thumbnail></item>
+			
+<item><title>FOX SPORT 2</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?=-1</link>
+<thumbnail>http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif</thumbnail></item>
+
+<item><title>PXTV HD</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?=-1</link>
+<thumbnail>http://www.pxtv.tv/wp-content/uploads/2014/03/ipad-retina.png</thumbnail></item>
+
+<item><title>AYM SPORTS </title>
+<link>http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?=-1</link>
+<thumbnail>http://hispanic-tv.jumptv.com/images/2007/12/14/logo_aym_sports.jpg</thumbnail></item>
+
+ 
  <item>
 	<title>Canal+ Liga </title>
 	<link>http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8?hd=10</link>
-	</item>
-
-  
-	<item>
-	<title>Canal+ Futbol 2</title><link>$doregex[get_redirect] playpath=futbolrincondepensarr_92kze90 swfUrl=http://www.spasswitz.com/jwplayer5/addplayer/jwplayer.flash.swf live=true token=@@stop-stole@@ timeout=15 pageUrl=$doregex[get_frame]</link>
-	<regex>
-	<name>get_frame</name>
-	<expres>iframe\ssrc="([^"]+)</expres>
-	<page>http://www.dinozap.info/redirect/channel.php?id=111&width=680&height=390&autostart=true</page>
-	<referer>http://www.dinozap.info/</referer>
-	<agent>Mozilla/5.0 (Windows NT 6.2; rv:34.0) Gecko/20100101 Firefox/34.0</agent>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>get_hidd1</name>
-	<expres>type="hidden"\sid="ssx1".*?value="([^"]*)</expres>
-	<page>$doregex[get_frame]</page>
-	<referer>http://www.dinozap.info/redirect/channel.php?id=111&width=650&height=400&autostart=true</referer>
-	<agent></agent>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>get_hidd2</name>
-	<expres>type="hidden"\sid="ssx4".*?value="([^"]*)</expres>
-	<page>$doregex[get_frame]</page>
-	<referer>http://www.dinozap.info/redirect/channel.php?id=10&width=680&height=390&autostart=true</referer>
-	<agent></agent>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>get_641</name>
-	<expres>$pyFunction:base64.b64decode('$doregex[get_hidd1]')</expres>
-	<page></page>
-	<agent></agent>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>get_642</name>
-	<expres>$pyFunction:base64.b64decode('$doregex[get_hidd2]')</expres>
-	<page></page>
-	<agent></agent>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>get_redirect</name>
-	<expres>$pyFunction:('$doregex[get_642]').replace('redirect/','vod')</expres>
-	<page></page>
-	<agent></agent>
-	<cookieJar></cookieJar>
-	</regex>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
-	</item>
-
-    	<item>
-        <title>Canal + Deportes</title>
-	<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=mbfx0pnzzwuns0g swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10  </link>
-	<regex>
-	<name>rtmp</name>
-	<expres>xs=_we_([^"]*)</expres>
-	<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=157 &autoplay=true</page>
-	<referer>http://www.9stream.com</referer>
-	</regex>
-	<regex>
-	<name>tok</name>
-	<expres>token":"([^."]*)</expres>
-	<page>http://www.9stream.com/server1.php?id=1415031202</page>
-	<referer>http://www.9stream.com</referer>
-	</regex>
-	</item>
-	<item>
-
-	<item>
-	<title><![CDATA[Canal + Deportes 2]]></title>
-	<link><![CDATA[rtmp://91.235.143.111/live/ playpath=by929jcdw swfUrl=http://www.kingcast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.kingcast.tv/embed.php]]></link>
-	<thumbnail></thumbnail>
 	</item>
 
 	<item>
@@ -261,30 +218,6 @@
 	<thumbnail></thumbnail>
 	</item>
 	 
-   <item>
-	<title>FOX SPORTS</title>
-	<link>http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8</link>
-	<thumbnail></thumbnail>
-	</item>
-
-	<item>
-	<title>FOX SPORTS opcion2</title>
-	<link>http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8</link>
-	<thumbnail></thumbnail>
-	</item>
-
-	<item>
-	<title>FOX SPORTS opcion2</title>
-	<link>http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=397&lan=2&rows=40&f=.m3u8</link>
-	<thumbnail></thumbnail>
-	</item>
-   
-     <item>
-	<title><![CDATA[FOX Sports 2 HD]]></title>
-	<link><![CDATA[http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=401&lan=2&rows=40&f=.m3u8]]></link>
-	<thumbnail></thumbnail>
-	</item>
-   
 
 	<item>
 	<title><![CDATA[FOX Sports argentina]]></title>
@@ -318,38 +251,6 @@
 <item><title>CNPT 1</title><link>http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8</link>
 <thumbnail>http://www.mirutv.com/logo/cnopt1.jpg</thumbnail></item>
 
-
-<item><title>ESPN HD</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?=-1</link>
-<thumbnail>http://y.cdn.entutele.com/media/channels/big/espn-hd.gif</thumbnail></item>
-			
-<item><title>ESPN </title>
-<link>http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?=-1</link>
-<thumbnail>http://y.cdn.entutele.com/media/channels/big/espn.gif</thumbnail></item>
-			
-<item><title>ESPN 2</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?=-1</link>
-<thumbnail>http://y.cdn.entutele.com/media/channels/big/espn-2.gif</thumbnail></item>
-			
-<item><title>ESPN 3</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?=-1</link>
-<thumbnail>http://y.cdn.entutele.com/media/channels/big/espn-3.gif</thumbnail></item>
-			
-<item><title>FOX SPORT</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?=-1</link>
-<thumbnail>http://z.cdn.entutele.com/media/channels/big/fox-sports.gif</thumbnail></item>
-			
-<item><title>FOX SPORT 2</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?=-1</link>
-<thumbnail>http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif</thumbnail></item>
-
-<item><title>PXTV HD</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?=-1</link>
-<thumbnail>http://www.pxtv.tv/wp-content/uploads/2014/03/ipad-retina.png</thumbnail></item>
-
-<item><title>AYM SPORTS </title>
-<link>http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?=-1</link>
-<thumbnail>http://hispanic-tv.jumptv.com/images/2007/12/14/logo_aym_sports.jpg</thumbnail></item>
 
 
   
