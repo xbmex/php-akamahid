@@ -66,8 +66,8 @@
 	</item>
 
   <item>
-	<title>ecuavisa (ecuador)</title>
-	<link>rtmp://146.185.31.242:1935/liverepeat playpath=prim11 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=prim11&vw=600&vh=400</link>
+	<title>ECUAVISA</title>
+	<link>rtmp://146.185.31.242:1935/liverepeat playpath=prim11 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf  pageUrl=http://direct-stream.biz/embednews.php?c=prim11&vw=600&vh=400 timeout=10</link>
 	<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/534px-Logo_Ecuavisa.svg.png</thumbnail>
 	</item>
    
