@@ -3,55 +3,7 @@
 	<link>http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8?hd=10</link>
 	</item>
 
-	<item>
-	<title><![CDATA[Canal+ Liga 2]]></title>
-	<link><![CDATA[rtmp://91.235.143.111/live/ playpath=bywmjic4 swfUrl=http://www.kingcast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.kingcast.tv/embed.php]]></link>
-	<thumbnail></thumbnail>
-	</item>
-
-	<item>
-	<title>Canal+ Futbol</title>
-	<link>$doregex[get-rtmp] app=vod/?token=play@$doregex[get-token] playpath=$doregex[get-decrypted-ssx1] swfUrl=http://www.spasswitz.com/jwplayer5/addplayer/jwplayer.flash.swf pageUrl=$doregex[get-iframe] live=1 timeout=15</link>
-	<regex>
-	<name>get-rtmp</name>
-	<expres>(.*)\/re</expres>
-	<page>$doregex[get-decrypted-ssx4]</page>
-	</regex>
-	<regex>
-	<name>get-token</name>
-	<expres>@(.*)</expres>
-	<page>$doregex[get-decrypted-ssx4]</page>
-	</regex>
-	<regex>
-	<name>get-decrypted-ssx4</name>
-	<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-ssx4]")</expres>
-	<page></page>
-	</regex>
-	<regex>
-	<name>get-encrypted-ssx4</name>
-	<expres>ssx4" value="(.*)"</expres>
-	<page>$doregex[get-iframe]</page>
-	<referer>http://verdirectotv.com</referer>
-	</regex>
-	<regex>
-	<name>get-iframe</name>
-	<expres>src="(.*?)\"</expres>
-	<page>http://www.dinostream.pw/channel.php?file=103371&amp;width=650&amp;height=400&amp;autostart=true</page>
-	<referer>http://verdirectotv.com</referer>
-	</regex>
-	<regex>
-	<name>get-decrypted-ssx1</name>
-	<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-ssx1]")</expres>
-	<page></page>
-	</regex>
-	<regex>
-	<name>get-encrypted-ssx1</name>
-	<expres>ssx1" value="(.*)"</expres>
-	<page>$doregex[get-iframe]</page>
-	<referer>http://verdirectotv.com</referer>
-	</regex>
-	</item>
-
+  
 	<item>
 	<title>Canal+ Futbol 2</title><link>$doregex[get_redirect] playpath=futbolrincondepensarr_92kze90 swfUrl=http://www.spasswitz.com/jwplayer5/addplayer/jwplayer.flash.swf live=true token=@@stop-stole@@ timeout=15 pageUrl=$doregex[get_frame]</link>
 	<regex>
@@ -101,7 +53,7 @@
 	</regex>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
-	</subitem>
+	</item>
 
     	<item>
         <title>Canal + Deportes</title>
