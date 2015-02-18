@@ -71,6 +71,7 @@
 	<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/534px-Logo_Ecuavisa.svg.png</thumbnail>
 	</item>
    
+
     <item>
 	<title>canal uno</title>
 	<link>rtmp://83.170.111.188:1935/liverepeat playpath=prim13 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=prim13&vw=653&vh=421</link>
