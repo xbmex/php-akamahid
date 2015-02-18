@@ -113,57 +113,6 @@
 	<thumbnail></thumbnail>
 	</item>
 
-	<item>
-	<title>Multicanal (Canal + Deportes)</title>
-	<link>$doregex[get_redirect] playpath=$doregex[get_641] swfUrl=http://www.spasswitz.com/jwplayer5/addplayer/jwplayer.flash.swf live=true token=@@stop-stole@@ timeout=15 pageUrl=$doregex[get_frame]</link>
-	<regex>
-	<name>get_frame</name>
-	<expres>iframe\ssrc="([^"]+)</expres>
-	<page>http://www.dinozap.info/redirect/channel.php?id=112&width=680&height=390&autostart=true</page>
-	<referer>http://www.dinozap.info/</referer>
-	<agent>Mozilla/5.0 (Windows NT 6.2; rv:34.0) Gecko/20100101 Firefox/34.0</agent>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>get_hidd1</name>
-	<expres>type="hidden"\sid="ssx1".*?value="([^"]*)</expres>
-	<page>$doregex[get_frame]</page>
-	<referer>http://www.dinozap.info/redirect/channel.php?id=112&width=680&height=390&autostart=true</referer>
-	<agent></agent>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>get_hidd2</name>
-	<expres>type="hidden"\sid="ssx4".*?value="([^"]*)</expres>
-	<page>$doregex[get_frame]</page>
-	<referer>http://www.dinozap.info/redirect/channel.php?id=112&width=680&height=390&autostart=true</referer>
-	<agent></agent>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>get_641</name>
-	<expres>$pyFunction:base64.b64decode('$doregex[get_hidd1]')</expres>
-	<page></page>
-	<agent></agent>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>get_642</name>
-	<expres>$pyFunction:base64.b64decode('$doregex[get_hidd2]')</expres>
-	<page></page>
-	<agent></agent>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>get_redirect</name>
-	<expres>$pyFunction:('$doregex[get_642]').replace('redirect/','vod')</expres>
-	<page></page>
-	<agent></agent>
-	<cookieJar></cookieJar>
-	</regex>
-	</item>
-
-  
 
 <item><title>CNPT 1</title><link>http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8</link>
 <thumbnail>http://www.mirutv.com/logo/cnopt1.jpg</thumbnail></item>
