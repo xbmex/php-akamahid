@@ -30,6 +30,11 @@
 <link>http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?=-1</link>
 <thumbnail>http://hispanic-tv.jumptv.com/images/2007/12/14/logo_aym_sports.jpg</thumbnail></item>
 
+<item><title>test</title>
+<link>http://:8001/1:0:19:81:6:85:C00000:0:0:0:</link>
+<thumbnail>http://hispanic-tv.jumptv.com/images/2007/12/14/logo_aym_sports.jpg</thumbnail></item>
+
+
  
  <item>
 	<title>Canal+ Liga </title>
