@@ -340,35 +340,37 @@
 	</item>
 	 
    <item>
-	<title><![CDATA[FOX Sports]]></title>
-	<link><![CDATA[http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?]]></link>
+	<title>FOX SPORTS</title>
+	<link>http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8</link>
 	<thumbnail></thumbnail>
 	</item>
 
 	<item>
-	<title><![CDATA[FOX Sports 2]]></title>
-	<link><![CDATA[http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?]]></link>
+	<title>FOX SPORTS opcion2</title>
+	<link>http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8</link>
 	<thumbnail></thumbnail>
 	</item>
 
 	<item>
-	<title><![CDATA[FOX Sports HD]]></title>
-	<link><![CDATA[http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=397&lan=2&rows=40&f=.m3u8]]></link>
+	<title>FOX SPORTS opcion2</title>
+	<link>http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=397&lan=2&rows=40&f=.m3u8</link>
 	<thumbnail></thumbnail>
 	</item>
-
-	<item>
-	<title><![CDATA[FOX Sports]]></title>
-	<link><![CDATA[http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=400&lan=2&rows=40&f=.m3u8]]></link>
-	<thumbnail></thumbnail>
-	</item>
-
-	<item>
+   
+     <item>
 	<title><![CDATA[FOX Sports 2 HD]]></title>
 	<link><![CDATA[http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=401&lan=2&rows=40&f=.m3u8]]></link>
 	<thumbnail></thumbnail>
 	</item>
    
+
+	<item>
+	<title><![CDATA[FOX Sports argentina]]></title>
+	<link>http://d1yjsz5fddyesn.cloudfront.net/livecf/foxar/manifest.f4m</link>
+	<thumbnail></thumbnail>
+	</item>
+
+
 			<item>
 			<title>Bein ñ</title>
 			<thumbnail>http://2.bp.blogspot.com/-2Qt5BZs-IeM/UuelEp7-7qI/AAAAAAAAEXs/msFB5nScTes/s1600/bein-sports-espa%C3%B1ol-en-vivo-online-web-gratis-ver.jpg</thumbnail>
