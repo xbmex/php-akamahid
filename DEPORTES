@@ -95,28 +95,11 @@
         </regex>
         </item>
 
- 	<item>
-        <title>Canal + Eventos 2 (C+ Deportes,C+ Liga)</title>
-        <link>http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8?sd=11&rebase=on</link>
-        <thumbnail>http://1.bp.blogspot.com/_SmSYHUuLsHw/S24Sm03BddI/AAAAAAAADH4/ldOgaR-wtj4/s320/la++liga-bbva+logo.jpg</thumbnail>
-        </item>
-
- 	<item>
-      	<title>Canal + Eventos 3 (C+ Deportes,C+ Liga)</title>
-      	<link>rtmp://207.244.67.9/iguide playpath=59iz0myw7bcxzxm swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7</link>
-      </item>
-
-
-	<item>
-	<title><![CDATA[Multicanal (Canal + / C+ Fútbol)]]></title>
-	<link><![CDATA[rtmp://207.244.89.23/iguide playpath=c9l3ahxqsbqmi0t swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=720&height=412&channel=29540&autoplay=true token=#ed%h0#w18623jsda6523lDGD]]></link>
-	<thumbnail></thumbnail>
-	</item>
-
+  <item>
+<title>Canal + Eventos 2 (C+ Deportes,C+ Liga)</title>
+<link>http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8?sd=11&rebase=on</link>
+<thumbnail>http://1.bp.blogspot.com/_SmSYHUuLsHw/S24Sm03BddI/AAAAAAAADH4/ldOgaR-wtj4/s320/la++liga-bbva+logo.jpg</thumbnail>
+</item>
 
 <item><title>CNPT 1</title><link>http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8</link>
 <thumbnail>http://www.mirutv.com/logo/cnopt1.jpg</thumbnail></item>
-
-
-
-  
