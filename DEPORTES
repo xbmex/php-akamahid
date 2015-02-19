@@ -110,16 +110,8 @@
 <fanart>http://www.eusa.eu/documents/eusa/News/2011/550x405xeuctc-medallist_w.jpg.pagespeed.ic.cgHio6kV8U.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR=FF00FF00][B][I] VIASAT FUTBOL (ACESTREAMS) [/I][/B][/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=5ddeb355c51b9db8ad15d9f260bcc36442d4c1af&amp;mode=1&amp;name=Test</link>
-<thumbnail>http://www.wizzcom.se/wp-content/uploads/2010/07/viasat.jpg</thumbnail>
-<fanart>http://www.gothiacup.se/spa/wp-content/uploads/Viasat13.jpg</fanart>
-</item>
- 
 
- 
- <item>
+<item>
 	<title>Canal+ Liga </title>
 	<link>http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8?hd=10</link>
 	</item>
@@ -191,3 +183,52 @@
 
 <item><title>CNPT 1</title><link>http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8</link>
 <thumbnail>http://www.mirutv.com/logo/cnopt1.jpg</thumbnail></item>
+
+<item>
+<title>[COLOR yellow]NFL NETWORK HD[/COLOR]</title>
+<link>plugin://plugin.video.tbh.ilive/?url=http://www.streamlive.to/view/68953&amp;link=99&amp;mode=iLivePlay</link>
+</item>
+
+<item>
+<title>[COLOR yellow]NFL NETWORK [/COLOR]</title>
+<link>plugin://plugin.video.tbh.ilive/?url=http://www.streamlive.to/view/70039&amp;link=99&amp;mode=iLivePlay</link>
+</item>
+
+<item>
+<title>[COLOR yellow]NFL LIVE TV[/COLOR]</title>
+<link>plugin://plugin.video.tbh.ilive/?url=http://www.streamlive.to/view/55912&amp;link=99&amp;mode=iLivePlay</link>
+</item>
+
+<item>
+<title>[COLOR yellow]NBA LIVE [/COLOR]</title>
+<link>plugin://plugin.video.tbh.ilive/?url=http://www.streamlive.to/view/69738&amp;link=99&amp;mode=iLivePlay</link>
+</item>
+<item>
+<title>[COLOR yellow]ESPN[/COLOR]</title>
+<link>plugin://plugin.video.tbh.ilive/?url=http://www.streamlive.to/view/69029&amp;link=99&amp;mode=iLivePlay</link>
+</item>
+
+
+<item>
+<title>[COLOR yellow]ESPN2[/COLOR]</title>
+<link>plugin://plugin.video.tbh.ilive/?url=http://www.streamlive.to/view/69028&amp;link=99&amp;mode=iLivePlay</link>
+</item>
+
+
+<item>
+<title>[COLOR yellow]UDN[/COLOR]</title>
+<link>rtmp://$doregex[rtmpip]/live playpath=asdfi8i?id=220813 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/fplayer.swf pageUrl=http://www.mips.tv live=1 timeout=20</link>
+<regex>
+<name>rtmpip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.mips.tv:1935/loadbalancer?220813</page>
+<referer>http://www.mips.tv/content/scripts/fplayer.swf</referer>
+</regex>
+</item>
+
+item>
+	<title>tvc deportes</title>
+	<link>rtmp://50.7.28.130/app playpath=16782?MTQyMzI0NzgzMDtjYmI5NWJmNTljN2U4NWZhMzJiNjRlMjg2YjcxZGIxYw== swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e7a51334e6a597a4e6a51324e546377/7fc0bf0e71f3</link>
+	<thumbnail>http://www.bus-k.me/file/pic/listing/2012/10/800677d3301d25eff17585277a4318b3.png</thumbnail>
+	</item>
+
