@@ -81,30 +81,6 @@
 <link>http://188.166.38.163:8080/BT/sp0rts2/index.m3u8</link>
 <thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
 </item>
-
- <item>
-<title>[COLOR lime]  M.L.B. NETWORK [/COLOR][COLOR ORANGE](Necesario sports devil instalado)[/COLOR]</title>
-<sportsdevil>http://cricfree.tv/mlb-network-live-stream.php</sportsdevil>
-<referer>http://cricfree.tv</referer>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-    <title>[COLOR lime] FOX SPORT 2 [/COLOR](Necesario P2P-Stream)</title>
-    <link>plugin://plugin.video.p2p-streams/?url=$doregex[url]&amp;mode=1&amp;name=BT+Sport+1</link>
-    <regex>
-    <name>url</name>      
-    <expres>this.loadPlayer\("([^"]*)</expres>
-    <page>http://torrent-tv.ru/torrent-online.php?translation=9218</page>
-    <referer></referer>
-    </regex>
-    <thumbnail>http://gradajoven.es/logo/logo/all/ARENAVISION%203.png</thumbnail>
-    </item>
- 
-
-
-
-
  
  <item>
 	<title>Canal+ Liga </title>
