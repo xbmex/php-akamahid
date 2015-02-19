@@ -161,6 +161,13 @@
 <thumbnail>http://www.latinheat.com/wp-content/uploads/2014/08/4_estrella_tv.png</thumbnail>
 </item>	
 
+
+<item>
+<title>TELEMUNDO</title>
+<link>rtmp://94.102.49.207/iguide playpath=4w89yalrid1j4jt swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer.php?width=610&height=430&channel=13887&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link>
+<thumbnail>http://img3.wikia.nocookie.net/__cb20100308171346/logopedia/images/1/19/Telemundo_logo.svg</thumbnail>
+</item>	
+
 			<item>
 			<title>Telemundo 29</title>
 			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_telemundo29 live=1 timeout=20</link>
