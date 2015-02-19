@@ -36,6 +36,20 @@
 </item>
    
 
+<stream>
+<id>0bc0c77z</id>
+<title><![CDATA[Canal13 HD]]></title>
+<info resolution="" bitrate="" lastUpdated="1335738992"/>
+<swfUrl><![CDATA[]]></swfUrl>
+<link><![CDATA[http://cluster.13movil.ztreaming.com/13tv2/stream1grpz13t29102012.sdp/playlist.m3u8]]></link>
+<pageUrl><![CDATA[]]></pageUrl>
+<playpath><![CDATA[]]></playpath>
+<language><![CDATA[Tv Chilena]]></language>
+<advanced><![CDATA[live=1]]></advanced>
+<logourl>http://raspberrypi.cl/raspbmctv/c13logo-500x500.jpg</logourl>
+<epgid/>
+</stream>
+
 <item>
 <title>cnn chile</title>
 <link>rtsp://200.104.250.183/vtr_cnn_online/cnn-web</link>
