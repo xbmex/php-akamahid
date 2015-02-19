@@ -15,6 +15,14 @@
  <link>mmsh://190.196.9.186:8080/subtv</link>
  <thumbnail>http://www.meddiostv.com/tv/subtv.jpg</thumbnail>
  </item>
+  <item>
+
+
+<title>TEST</title>
+<link>rtmp://200.6.119.4/c13str-aire playpath=c13str-aire.stream swfUrl=http://envivo.13.cl/streaming.swf live=1  pageUrl=http://envivo.13.cl/ </link>
+<thumbnail>https://pbs.twimg.com/profile_images/550643019154587648/zpJ86zDv.jpeg</thumbnail>
+</item>
+ 
  
  <item>
 <title>CHILE VISION</title>
