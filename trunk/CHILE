@@ -50,43 +50,8 @@
 <advanced><![CDATA[live=1]]></advanced>
 <logourl>http://raspberrypi.cl/raspbmctv/c13logo-500x500.jpg</logourl>
 <epgid/>
-</item>>
-
-<item>
-<id>0bc0c77z</id>
-<title><![CDATA[Canal13 Cable]]></title>
-<info resolution="" bitrate="" lastUpdated="1335738992"/>
-<swfUrl><![CDATA[]]></swfUrl>
-<link><![CDATA[http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8]]></link>
-<pageUrl><![CDATA[]]></pageUrl>
-<playpath><![CDATA[]]></playpath>
-<language><![CDATA[Tv Chilena]]></language>
-<advanced><![CDATA[live=1]]></advanced>
-<logourl>http://raspberrypi.cl/raspbmctv/Canal-13-Cable1.png</logourl>
-<epgid/>
 </item>
 
-
-
- 
- 
-
- <item>
-<id>0bc0c77z</id>
-<title><![CDATA[CHV]]></title>
-<info resolution="" bitrate="" lastUpdated="1335738992"/>
-<swfUrl><![CDATA[]]></swfUrl>
-<link><![CDATA[http://chv.movil.ztreaming.com/chvmovil/stream1chvchvmovil16102012.sdp/playlist.m3u8]]></link>
- 
-<pageUrl><![CDATA[]]></pageUrl>
-<playpath><![CDATA[]]></playpath>
-<language><![CDATA[Tv Chilena]]></language>
-<advanced><![CDATA[live=1]]></advanced>
-<logourl>http://raspberrypi.cl/raspbmctv/Chilevision.png</logourl>
-<epgid/>
-</item>
-   
-   
  
 
         <item>
