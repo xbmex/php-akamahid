@@ -1,3 +1,11 @@
+
+<item><title>[COLOR blue][B][I] VENEVISION[/I][/B][/COLOR]</title>
+<link>rtmp://50.7.28.146/flash<playpath>20358?MTQyMzE1NDIwMDsyZGViZGQ0MTEwZGE2NTA2ZGU1MTQwYTFmNWY4NWI1Zg== <swfUrl>http://static3.sawlive.tv/player.swf <pageUrl>http://sawlive.tv/embed/watch/g1ZWZlMTYyNDc3YTMzYTM1NjQ2OTIzZDIyOTQ3N2Y_/dmVuZXZpc2lvbjIwMTU6ZDg3NGIwZDhmNjQ4Mzk4N2IyM2VlMDcwOTczY2UyNmY6OT</link>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20120513213753/logopedia/images/6/6b/Venevision_logo.png</thumbnail>
+<fanart>http://www.el-nacional.com/sociedad/Venevision-venevisionnet_NACIMA20130520_0064_6.jpg</fanart>
+</item>
+
+
 <item><title>Televisora Del Tachira (TRT)</title>
 <link>rtmp://edge.wms28.lorini.net/trttv/ playpath=trttv swfUrl=http://www.lorini.net/playerv/player.swf live=1 pageUrl=http://trt.com.ve/web/senal-en-vivo/</link></item>
 
