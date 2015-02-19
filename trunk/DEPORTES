@@ -22,6 +22,11 @@
 <link>http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?=-1</link>
 <thumbnail>http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif</thumbnail></item>
 
+<item>
+<title>Fox Sport 2</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?=1 </link>
+</item>
+
 <item><title>PXTV HD</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?=-1</link>
 <thumbnail>http://www.pxtv.tv/wp-content/uploads/2014/03/ipad-retina.png</thumbnail></item>
