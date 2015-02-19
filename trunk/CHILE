@@ -36,7 +36,7 @@
 </item>
    
 
-<stream>
+<item>
 <id>0bc0c77z</id>
 <title><![CDATA[Canal13 HD]]></title>
 <info resolution="" bitrate="" lastUpdated="1335738992"/>
@@ -48,7 +48,7 @@
 <advanced><![CDATA[live=1]]></advanced>
 <logourl>http://raspberrypi.cl/raspbmctv/c13logo-500x500.jpg</logourl>
 <epgid/>
-</stream>
+</item>
 
 <item>
 <title>cnn chile</title>
