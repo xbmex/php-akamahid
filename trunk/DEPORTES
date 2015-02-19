@@ -81,6 +81,55 @@
 <link>http://188.166.38.163:8080/BT/sp0rts2/index.m3u8</link>
 <thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
 </item>
+
+<item>
+<title>[COLOR=FF00FF00][B][I] SPORT 1 RU [/I][/B][/COLOR]</title>
+<link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/e/e3/Logo_of_Sport_(Russian_TV_channel,_2011).jpg</thumbnail>
+<fanart>http://www.deportesonline.com/imagenes/europapress/201203/20120313132032.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR=FF00FF00][B][I] SPORT 2 RU [/I][/B][/COLOR]</title>
+<link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT/variant.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/e/e3/Logo_of_Sport_(Russian_TV_channel,_2011).jpg</thumbnail>
+<fanart>http://www.eusa.eu/documents/eusa/News/2011/550x405xeuctc-medallist_w.jpg.pagespeed.ic.cgHio6kV8U.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR=FF00FF00][B][I] SPORT 3 RU [/I][/B][/COLOR]</title>
+<link>http://193.232.151.135/hls-live/livepkgr/_1032_/1032/1032-70.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/e/e3/Logo_of_Sport_(Russian_TV_channel,_2011).jpg</thumbnail>
+<fanart>http://s01.s3c.es/imag/_v0/640x300/7/7/c/futbol-sala.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR=FF00FF00][B][I] SPORT 4 RU [/I][/B][/COLOR]</title>
+<link>http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-70.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/e/e3/Logo_of_Sport_(Russian_TV_channel,_2011).jpg</thumbnail>
+<fanart>http://static4.businessinsider.com/image/5134c6e3ecad04c12f00002f-1200/putin-makes-a-slap-shot-right-before-a-youth-ice-hockey-tournament-putin-picked-up-the-sport-after-promising-the-russia-mens-junior-ice-hockey-team-hed-learn-it-following-their-win-in-the-2011-world-tournament.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR=FF00FF00][B][I] SPORT 5 RU [/I][/B][/COLOR]</title>
+<link>http://193.232.151.135/hls-live/livepkgr/_1025_/1025/1025-70.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/e/e3/Logo_of_Sport_(Russian_TV_channel,_2011).jpg</thumbnail>
+<fanart>http://static4.businessinsider.com/image/5134c6e3ecad04c12f00002f-1200/putin-makes-a-slap-shot-right-before-a-youth-ice-hockey-tournament-putin-picked-up-the-sport-after-promising-the-russia-mens-junior-ice-hockey-team-hed-learn-it-following-their-win-in-the-2011-world-tournament.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR=FF00FF00][B][I] BT SPORT 1 [/I][/B][/COLOR]</title>
+<link>http://37.59.16.4:1935/global/btsport1.stream/playlist.m3u8</link>
+<thumbnail>http://jazarah.net/ar/wp-content/uploads/2014/08/MBC-Pro-Sport.jpg</thumbnail>
+<fanart>http://www.heraldodemexico.com/sites/default/files/noticias/2012/10/05/DEPORTES%205.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR=FF00FF00][B][I] BT SPORT 2 [/I][/B][/COLOR]</title>
+<link>http://37.59.16.4:1935/global/btsport2.stream/playlist.m3u8</link>
+<thumbnail>http://jazarah.net/ar/wp-content/uploads/2014/08/MBC-Pro-Sport.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-EIy0ipRqvjE/Tt39k6tot0I/AAAAAAAABuo/A7e4jOoHVls/s1600/P1020676.JPG</fanart>
+</item>
  
  <item>
 	<title>Canal+ Liga </title>
