@@ -7,6 +7,12 @@
 <thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
 
 <item>
+	<title>telemundo 30</title>
+	<link>rtmp://50.7.78.138:443/live?O8UtG1XnL3gF0X1NJd9Ch2MQQqsUIEuN playpath=live_telemundo32 swfUrl=http://vaughnlive.tv/4269230073/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/telemundo32</link>
+	<thumbnail>http://st-listas.20minutos.es/images/2012-01/319078/list_640px.jpg?1328297352</thumbnail>
+	</item>
+   
+<item>
 <title>CANAL DE LAS ESTRELLAS HD</title>
 <thumbnail>http://www.teleaire.com/wp-content/uploads/2012/03/xew-copia.jpg</thumbnail><link>http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?=1</link>
 </item>
