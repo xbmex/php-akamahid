@@ -31,9 +31,20 @@
 <link>http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?=-1</link>
 <thumbnail>http://hispanic-tv.jumptv.com/images/2007/12/14/logo_aym_sports.jpg</thumbnail></item>
 
-<item><title>test</title>
+<item><title>SKY NEWS</title>
 <link>http://37.48.118.32/live/skysportsnews.stream/playlist.m3u8</link>
-<thumbnail>http://hispanic-tv.jumptv.com/images/2007/12/14/logo_aym_sports.jpg</thumbnail></item>
+<thumbnail>http://i.telegraph.co.uk/multimedia/archive/01252/SKYNEWS_copy_1252654c.jpg</thumbnail></item>
+
+<item><title>BT SPORTS 1</title>
+<link>http://37.48.118.32/live/bt1.stream/playlist.m3u8</link>
+<thumbnail></thumbnail></item>
+
+<item><title>BT SPORTS 2</title>
+<link>http://37.48.118.32/live/bt2.stream/playlist.m3u8</link>
+<thumbnail></thumbnail></item>
+
+
+
 
 
  
