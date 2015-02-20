@@ -77,4 +77,16 @@
 	<link>rtmp://83.170.111.188:1935/liverepeat playpath=prim13 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=prim13&vw=653&vh=421</link>
 	<thumbnail>http://1.bp.blogspot.com/-3WfsZRyRdgM/USBr5mK__EI/AAAAAAAACh0/M6ijS-TEdqA/s400/canaluno.jpeg</thumbnail>
 	</item>
+   
+   <item>
+<title>[COLOR YELLOW] ECUADOR TV   •ECUADOR•[/COLOR]</title>
+<link>rtmp://38.96.148.216:1935/live/ playpath=internacional swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.ecuadortv.ec/home.php?c=43 timeout=15</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/0/0a/ECTV.svg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]@TVS   •ECUADOR•[/COLOR]</title>
+<link>rtmp://181.198.10.23:1935/live/ playpath=mystream  swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.tvdeecuador.com/ver-tvs-en-vivo-television-satelital-gratis/ timeout=15</link>
+<thumbnail>http://hablemosdefutbol.tv/images/logo_tvs.png</thumbnail>
+</item>
 
