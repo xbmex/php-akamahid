@@ -18,12 +18,6 @@
   <item>
 
 <item>
-<title>CDO HD</title>
-<link>http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w1856510482_b2048000.m3u8</link>
-<thumbnail>http://p1.trrsf.com/image/get?src=http://sdp.terra.com/thumbox/freew/cnt419714_h705_aNoChange_20151316.jpg</thumbnail>
-</item>
-
-<item>
 <title>VIVE DEPORTES</title>
 <link>http://200.104.250.182:1935/vtr_vivedeportes_online/vivedeportes-ipad/playlist.m3u8?wowzasessionid=1070247734</link>
 <thumbnail>http://i5.minus.com/iZ8Fv9UuWR6eQ.png</thumbnail>
@@ -31,7 +25,7 @@
 
 <item>
 <title>VIVE</title>
-<link>http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8</link>
+<link>http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-632.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
