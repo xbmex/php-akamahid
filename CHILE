@@ -39,8 +39,8 @@
 
 
 <item>
- <title>CANAL 13 2</title>
- <link>rtmp://204.45.157.186/app playpath=16840?MTQyNDM4NzAwNTs4NjUwYzRjN2JkNjVhZDY3YThkYmVlZWI3YmU4MzU3ZQ== swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e6a4d7a4d544d7a4e6a67324e445a6c4e6a55334f446330/b9c28b914190 Conn=S:OK</link>
+ <title>CANAL 13 HD</title>
+ <link>http://mdstrm.com/live-stream-playlist/52d974d070b56aff1100007c.m3u8</link>
 <thumbnail>http://static.13.cl/static/img/logo-ogfacebook.png</thumbnail>
 </item>
 
@@ -52,21 +52,6 @@
  <thumbnail>http://img.androidsis.com/wp-content/uploads/cnn-chile.jpg</thumbnail>
  </item>
  
- 
-<item>
-<id>0bc0c77z</id>
-<title><![CDATA[Canal13 HD]]></title>
-<info resolution="" bitrate="" lastUpdated="1335738992"/>
-<swfUrl><![CDATA[]]></swfUrl>
-<link><![CDATA[http://cluster.13movil.ztreaming.com/13tv2/stream1grpz13t29102012.sdp/playlist.m3u8]]></link>
-<pageUrl><![CDATA[]]></pageUrl>
-<playpath><![CDATA[]]></playpath>
-<language><![CDATA[Tv Chilena]]></language>
-<advanced><![CDATA[live=1]]></advanced>
-<logourl>http://raspberrypi.cl/raspbmctv/c13logo-500x500.jpg</logourl>
-<epgid/>
-</item>
-
  
 
         <item>
