@@ -6,7 +6,7 @@
 
 <item>
 <title>[COLOR green]TV GLOBO news[/COLOR]</title>
-<link>http://104.131.182.72:8081/toronto/mglobonews/mpeg.2ts </link>
+<link>rtmp://50.7.77.98/record playpath=CH111_Big swfUrl=http://mybrasiltv.com/ptplayer/player/flowplayer-3.2.18.swf live=1 pageUrl=http://mybrasiltv.com/ptplayer/flowplayer/Home.php</link>
 <thumbnail></thumbnail>
 </item>
 
