@@ -5,13 +5,6 @@
 </item>
 
 <item>
-<title>[COLOR green]TV GLOBO news 2[/COLOR]</title>
-<link>rtmp://50.7.77.98/record playpath=CH111_Big swfUrl=http://mybrasiltv.com/ptplayer/player/flowplayer-3.2.18.swf live=1 pageUrl=http://mybrasiltv.com/ptplayer/flowplayer/Home.php</link>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
 <title>[COLOR orange]TV RECORD[/COLOR]</title>
 <link>rtmp://174.37.99.198/dvrid1816/ playpath=1816 swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=http://www.cxntv.com/canales/tv-record/ timeout=15</link>
 <thumbnail>http://2.bp.blogspot.com/-d1yUmn4AlVo/T1uER40FeoI/AAAAAAAAF4U/bxJkuXZxPk4/s1600/TV+record.jpg</thumbnail>
@@ -23,10 +16,9 @@
 <thumbnail>http://sphotos-c.ak.fbcdn.net/hphotos-ak-snc7/429134_201231619981393_20804910_n.jpg</thumbnail>
 </item>
 
-
 <item>
 <title>[COLOR green]REDE TV[/COLOR]</title>
-<link>http://livestream-f.akamaihd.net/10205943_3429501_2a044bfd_1_614@74753?v=3.0.3&fp=WIN%2015,0,0,239&r=XJJBL&g=RJDOMYFJXFAB timeout=15</link>
+<link>tmp://37.48.66.83:443/loadbalance playpath=record2278 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://flexstream.net/embed2.php?file=record2278&width=468&height=380</link>
 <thumbnail>http://1.bp.blogspot.com/_qttQrgC2qTk/S9y92IbGDaI/AAAAAAAALcU/nHELN01pVOk/s1600/redetv.jpg</thumbnail>
 </item>
 
