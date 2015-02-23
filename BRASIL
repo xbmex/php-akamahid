@@ -1,6 +1,6 @@
 <item>
-<title>[COLOR orange]TV GLOBO[/COLOR]</title>
-<link>rtmp://wdc.cxnlive.com/live/tvglobo.stream timeout=15</link>
+<title>[COLOR red]TV GLOBO[/COLOR]</title>
+<link>http://live-cdn.direct-stream.org:1935/live/_definst_/101010/Globo_SP_Anderson_Elias.m3u8?</link>
 <thumbnail>http://3.bp.blogspot.com/_jffermsdBl8/SiKOIrdgAiI/AAAAAAAAMc8/Vn3nNM4oEiI/s1600/Globo%2BInternacional</thumbnail>
 </item>
 
