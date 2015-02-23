@@ -16,6 +16,12 @@
 <thumbnail>http://tv.recordjp.com/wp-content/uploads/2012/02/record_news_brasil-610x225.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR orange]RECORD tv[/COLOR]</title>
+<link>http://flash.midiaip.com.br:1935/tvvitoria/Sample1/playlist.m3u8</link>
+<thumbnail>http://tv.recordjp.com/wp-content/uploads/2012/02/record_news_brasil-610x225.png</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR green]SBT[/COLOR]</title>
@@ -25,14 +31,8 @@
 
 <item>
 <title>[COLOR red]REDE TV[/COLOR]</title>
-<link>http://flash.midiaip.com.br:1935/tvvitoria/Sample1/playlist.m3u8</link>
+<link>rtmp://66.90.103.51:1935/tv/aovivo.sdp</link>
 <thumbnail>http://1.bp.blogspot.com/_qttQrgC2qTk/S9y92IbGDaI/AAAAAAAALcU/nHELN01pVOk/s1600/redetv.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange]RECORD NEWS[/COLOR]</title>
-<link>rtmp://a1.fabricahost.com.br:1935/redemercosul/ playpath=redemercosul swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=http://www.cxntv.com/canales/record-news/ timeout=15</link>
-<thumbnail>http://tv.recordjp.com/wp-content/uploads/2012/02/record_news_brasil-610x225.png</thumbnail>
 </item>
 
 <item>
