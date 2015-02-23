@@ -42,7 +42,15 @@
 <link>http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?=-1</link>
 <thumbnail>http://hispanic-tv.jumptv.com/images/2007/12/14/logo_aym_sports.jpg</thumbnail></item>
 
-<
+
+
+<item>
+<title>SKY SPORTS 1</title>
+<link>http://37.59.16.4:1935/global/skysp1.stream/playlist.m3u8</link>
+<thumbnail>http://www.fairways-school.org/wp-content/uploads/2012/11/sky-sports-project-southampton.jpg</thumbnail>
+</item>
+
+
 <item>
 <title>BT sport 1</title>
 <link>http://37.59.16.4:1935/global/btsport1.stream/playlist.m3u8</link>
