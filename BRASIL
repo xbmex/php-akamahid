@@ -11,6 +11,13 @@
 </item>
 
 <item>
+<title>[COLOR green]RECORD NEWS[/COLOR]</title>
+<link>rtmp://a1.fabricahost.com.br:1935/redemercosul/ playpath=redemercosul swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=http://www.cxntv.com/canales/record-news/ timeout=15</link>
+<thumbnail>http://tv.recordjp.com/wp-content/uploads/2012/02/record_news_brasil-610x225.png</thumbnail>
+</item>
+
+
+<item>
 <title>[COLOR green]SBT[/COLOR]</title>
 <link>http://srv3.zoeweb.tv:1935/z133-live/stream/playlist.m3u8</link>
 <thumbnail>http://sphotos-c.ak.fbcdn.net/hphotos-ak-snc7/429134_201231619981393_20804910_n.jpg</thumbnail>
