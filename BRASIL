@@ -38,9 +38,9 @@ http://174.37.200.35:1935/2063/2063/PAZ_Chega_de_Guerras.m3u8
 </item>
 
 <item>
-<title>[COLOR red]REDE TV[/COLOR]</title>
+<title>[COLOR green]AOVIVO TV[/COLOR]</title>
 <link>rtmp://66.90.103.51:1935/tv/aovivo.sdp</link>
-<thumbnail>http://1.bp.blogspot.com/_qttQrgC2qTk/S9y92IbGDaI/AAAAAAAALcU/nHELN01pVOk/s1600/redetv.jpg</thumbnail>
+<thumbnail>http://paroquiasantaritascp.com.br/site/wp-content/uploads/2012/07/Logomarca_Ao_Vivo-copy2.jpg</thumbnail>
 </item>
 
 <item>
@@ -172,11 +172,6 @@ http://174.37.200.35:1935/2063/2063/PAZ_Chega_de_Guerras.m3u8
 <thumbnail>http://4.bp.blogspot.com/-CH3TalYU92M/UKYjCgxUfDI/AAAAAAAAKPI/HTiJLs7eLC0/s1600/levante_tv_1.JPG</thumbnail>
 </item>
 
-<item>
-<title>[COLOR orange]MEGA TV[/COLOR]</title>
-<link>http://livebr.sambatech.com.br/hls-live/livepkgr/otv_0d70d1758596a48ba8f9f119080b9fb4/liveevent/livestream.m3u8</link>
-<thumbnail>http://oqueeh.com.br/wp-content/uploads/2012/02/mega-tv-online1.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR orange]MANA SAT SPAIN[/COLOR]</title>
@@ -187,12 +182,6 @@ http://174.37.200.35:1935/2063/2063/PAZ_Chega_de_Guerras.m3u8
 <item>
 <title>[COLOR orange]MANA SAT PORTUGAL[/COLOR]</title>
 <link>http://195.22.19.179:1935/manasat/manasat3/hasbahca.m3u8</link>
-<thumbnail>http://www.igrejamana.com/pt/images/stories/logotipo_manasat.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange]MANA SAT NAMPULA[/COLOR]</title>
-<link>http://195.22.19.189:1935/tvnmp/tvnmp2/hasbahca.m3u8</link>
 <thumbnail>http://www.igrejamana.com/pt/images/stories/logotipo_manasat.jpg</thumbnail>
 </item>
 
@@ -238,23 +227,7 @@ http://174.37.200.35:1935/2063/2063/PAZ_Chega_de_Guerras.m3u8
 <thumbnail>http://www.igrejamana.com/pt/images/stories/logotipo_manasat.jpg</thumbnail>
 </item>
 
-<item>
-<title>[COLOR orange]ONCE TV MEXICO[/COLOR]</title>
-<link>rtmp://www.oncetvmexicolive.tv:1935/livepkgr2/ playpath=int3 swfUrl=http://www.haotivi.com/js/jwplayer.flash.swf live=1 pageUrl=http://www.haotivi.com/#417 timeout=15</link>
-<thumbnail>http://1.bp.blogspot.com/-mX499pFAP_g/T4TMo4-dB6I/AAAAAAAAAIQ/6owFcJ0WUKc/s1600/LOGO-ONCE-TV-M%C3%89XICO-1.jpg</thumbnail>
-</item>
 
-<item>
-<title>[COLOR orange]REDE SUPER TV IMPACTO[/COLOR]</title>
-<link>rtmp://209.51.135.130:1935/redesuper3principal/_definst_/ playpath=redesuper3 swfUrl=http://www.haotivi.com/js/jwplayer.flash.swf live=1 pageUrl=http://www.haotivi.com/#443 timeout=15</link>
-<thumbnail>http://searanews.com.br/wp-content/uploads/2013/09/rede-super-tv-impacto-es.jpg</thumbnail>
-</item>
-
-<subitem>
-<title>[COLOR orange]RED BULL TV[/COLOR]</title>
-<link>http://live.iphone.redbull.de.edgesuite.net/webtvHD.m3u8</link>
-<thumbnail>http://www.mbike.tv/i/noticia_mbike/Red%20bull%20tv.jpg</thumbnail>
-</subitem>
 
 <item>
 <title>[COLOR orange]SEVILLA FC[/COLOR]</title>
