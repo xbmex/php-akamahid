@@ -17,6 +17,13 @@
 </item>
 
 <item>
+<title>[COLOR red]SBT [/COLOR]</title>
+<link>rtmp://93.174.95.10/record playpath=CH101_Big swfUrl=http://www.mybrasiltv.com/ptplayer/player/flowplayer-3.2.18.swf pageUrl=http://www.mybrasiltv.com/ptplayer/flowplayer/Home.php timeout=15</link>
+<thumbnail>http://sphotos-c.ak.fbcdn.net/hphotos-ak-snc7/429134_201231619981393_20804910_n.jpg</thumbnail>
+</item>
+
+
+<item>
 <title>[COLOR orange]REDE TV[/COLOR]</title>
 <link>rtmp://evp.mm.uol.com.br/redetv1/_definst_/ playpath=/redetv1 swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=http://www.cxntv.com/canales/redetv-2/ timeout=15</link>
 <thumbnail>http://1.bp.blogspot.com/_qttQrgC2qTk/S9y92IbGDaI/AAAAAAAALcU/nHELN01pVOk/s1600/redetv.jpg</thumbnail>
