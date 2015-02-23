@@ -29,6 +29,14 @@
 <thumbnail>http://sphotos-c.ak.fbcdn.net/hphotos-ak-snc7/429134_201231619981393_20804910_n.jpg</thumbnail>
 </item>
 
+http://174.37.200.35:1935/2063/2063/PAZ_Chega_de_Guerras.m3u8
+
+<item>
+<title>[COLOR red]TV Santa Cecilia HD [/COLOR]</title>
+<link>http://174.37.200.35:1935/2063/2063/PAZ_Chega_de_Guerras.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/pt/2/2c/LOGO-HD-SITE.jpg</thumbnail>
+</item>
+
 <item>
 <title>[COLOR red]REDE TV[/COLOR]</title>
 <link>rtmp://66.90.103.51:1935/tv/aovivo.sdp</link>
