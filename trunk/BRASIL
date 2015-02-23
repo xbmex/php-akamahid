@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR red]TV GLOBO[/COLOR]</title>
+<title>[COLOR green]TV GLOBO[/COLOR]</title>
 <link>http://live-cdn.direct-stream.org:1935/live/_definst_/101010/Globo_SP_Anderson_Elias.m3u8?</link>
 <thumbnail>http://3.bp.blogspot.com/_jffermsdBl8/SiKOIrdgAiI/AAAAAAAAMc8/Vn3nNM4oEiI/s1600/Globo%2BInternacional</thumbnail>
 </item>
@@ -11,14 +11,8 @@
 </item>
 
 <item>
-<title>[COLOR orange]SBT[/COLOR]</title>
+<title>[COLOR green]SBT[/COLOR]</title>
 <link>http://srv3.zoeweb.tv:1935/z133-live/stream/playlist.m3u8</link>
-<thumbnail>http://sphotos-c.ak.fbcdn.net/hphotos-ak-snc7/429134_201231619981393_20804910_n.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]SBT [/COLOR]</title>
-<link>rtmp://93.174.95.10/record playpath=CH101_Big swfUrl=http://www.mybrasiltv.com/ptplayer/player/flowplayer-3.2.18.swf pageUrl=http://www.mybrasiltv.com/ptplayer/flowplayer/Home.php timeout=15</link>
 <thumbnail>http://sphotos-c.ak.fbcdn.net/hphotos-ak-snc7/429134_201231619981393_20804910_n.jpg</thumbnail>
 </item>
 
