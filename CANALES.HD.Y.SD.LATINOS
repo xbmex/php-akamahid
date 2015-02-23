@@ -36,9 +36,10 @@
 </item>
 
 <item>
-<title>UNIMAS</title>
-<thumbnail> rtmp://50.7.78.138:443/live/live_unimas10</link>
+<title>HD</title>
+<thumbnail></thumbnail><link>rtmp://50.7.78.138:443/live/live_unimas10</link>
 </item>
+
 
 <item>
 <title>UNIMAS HD</title>
