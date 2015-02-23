@@ -29,10 +29,15 @@
 <thumbnail>http://img3.wikia.nocookie.net/__cb20100308171346/logopedia/images/1/19/Telemundo_logo.svg</thumbnail>
 </item>	
 
-   
+  
 <item>
 <title>CANAL DE LAS ESTRELLAS HD</title>
 <thumbnail>http://www.teleaire.com/wp-content/uploads/2012/03/xew-copia.jpg</thumbnail><link>http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?=1</link>
+</item>
+
+<item>
+<title>UNIMAS</title>
+<thumbnail> rtmp://50.7.78.138:443/live/live_unimas10</link>
 </item>
 
 <item>
