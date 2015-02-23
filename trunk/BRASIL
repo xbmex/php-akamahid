@@ -25,22 +25,20 @@
 
 
 <item>
-<title>[COLOR orange]REDE TV[/COLOR]</title>
-<link>rtmp://evp.mm.uol.com.br/redetv1/_definst_/ playpath=/redetv1 swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=http://www.cxntv.com/canales/redetv-2/ timeout=15</link>
+<title>[COLOR green]REDE TV[/COLOR]</title>
+<link>http://livestream-f.akamaihd.net/10205943_3429501_2a044bfd_1_614@74753?v=3.0.3&fp=WIN%2015,0,0,239&r=XJJBL&g=RJDOMYFJXFAB timeout=15</link>
 <thumbnail>http://1.bp.blogspot.com/_qttQrgC2qTk/S9y92IbGDaI/AAAAAAAALcU/nHELN01pVOk/s1600/redetv.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR orange]RECORD NEWS[/COLOR]</title>
 <link>rtmp://a1.fabricahost.com.br:1935/redemercosul/ playpath=redemercosul swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=http://www.cxntv.com/canales/record-news/ timeout=15</link>
-
 <thumbnail>http://tv.recordjp.com/wp-content/uploads/2012/02/record_news_brasil-610x225.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR orange]24 HORAS DE CINE NACIONAL[/COLOR]</title>
 <link>http://66.90.111.2:1935/ctv/_definst_/filmes/sat_total.m3u8</link>
-
 <thumbnail>http://api.ning.com/files/R-e6-Sa74siYXnMN4IeKiTeeYG0KEoZv6Kmj1zP4b75Y7MtSfY0y6YVp-VdeF9ReCahXxWrkr-309IGKeeRJsBvLTxoT9bQm/24horasdecinenacional.jpg?width=300</thumbnail>
 </item>
 
