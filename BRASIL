@@ -25,7 +25,7 @@
 
 <item>
 <title>[COLOR red]REDE TV[/COLOR]</title>
-<link>tmp://37.48.66.83:443/loadbalance playpath=record2278 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://flexstream.net/embed2.php?file=record2278&width=468&height=380</link>
+<link>http://flash.midiaip.com.br:1935/tvvitoria/Sample1/playlist.m3u8</link>
 <thumbnail>http://1.bp.blogspot.com/_qttQrgC2qTk/S9y92IbGDaI/AAAAAAAALcU/nHELN01pVOk/s1600/redetv.jpg</thumbnail>
 </item>
 
