@@ -30,6 +30,18 @@ thumbnail=http://3.bp.blogspot.com/_jffermsdBl8/SiKOIrdgAiI/AAAAAAAAMc8/Vn3nNM4o
 </item>
 
 <item>
+<title>Fox-Sport br</title>
+<link>rtmp://93.174.95.10/record playpath=CH105_Big swfUrl=http://mybrasiltv.com/ptplayer/player/flowplayer-3.2.18.swf pageUrl=http://mybrasiltv.com/ptplayer/flowplayer/Home.php</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/d/dc/FSR-4cBluetxt-color-hi-res.png</thumbnail>
+</item>
+
+<item>
+<title>BAND</title>
+<link>rtmp://93.174.95.10/record playpath=CH106_Big swfUrl=http://mybrasiltv.com/ptplayer/player/flowplayer-3.2.18.swf pageUrl=http://mybrasiltv.com/ptplayer/flowplayer/Home.php</link>
+<thumbnail>http://www.guiafacilmg.com.br/gerenciador/upload/empresas/Band.JPG</thumbnail>
+</item>
+
+<item>
 <title>[COLOR orange]TV RECORD[/COLOR]</title>
 <link>rtmp://174.37.99.198/dvrid1816/ playpath=1816 swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=http://www.cxntv.com/canales/tv-record/ timeout=15</link>
 <thumbnail>http://2.bp.blogspot.com/-d1yUmn4AlVo/T1uER40FeoI/AAAAAAAAF4U/bxJkuXZxPk4/s1600/TV+record.jpg</thumbnail>
