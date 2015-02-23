@@ -1,4 +1,10 @@
 <item>
+<title>ABC</title>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8</link>
+<thumbnail>http://images.vectorhq.com/images/previews/4a7/abc-logo-psd-470128.png</thumbnail>
+</item>
+
+<item>
 <title>TUNISIA 1</title>
 <link>rtmp://www.teledunet.net:1935/live playpath=teledunet_tv swfUrl=http://www.teledunet.com/mobile//player.swf?channel=teledunet_tv&user=Visiteur&token= pageUrl=http://www.teledunet.com/mobile/ timeout=15</link>
 <thumbnail></thumbnail>
