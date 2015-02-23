@@ -34,8 +34,6 @@
 <thumbnail></thumbnail>
 </item>
 
-
-
 <item><title>PXTV HD</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?=-1</link>
 <thumbnail>http://www.pxtv.tv/wp-content/uploads/2014/03/ipad-retina.png</thumbnail></item>
@@ -56,6 +54,19 @@
 <link>http://37.59.16.4:1935/global/btsport2.stream/playlist.m3u8</link>
 <thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
 </item>
+
+<item>
+<title>BT SPORTS OPCION 2</title>
+<link>http://37.59.16.4:1935/global/btsport1.stream/playlist.m3u8</link>
+<thumbnail>http://www.toftwoodsocialclub.com/bt_sport.jpg</thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS 2 OPCION 2</title>
+<link>http://37.59.16.4:1935/global/btsport2.stream/playlist.m3u8</link>
+<thumbnail>https://www.magnet.ie/wp-content/uploads/2011/12/BTSport2_CMYK.jpg</thumbnail>
+</item>
+
 
 
 <item>
