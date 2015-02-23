@@ -31,80 +31,29 @@
 <link>http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?=-1</link>
 <thumbnail>http://hispanic-tv.jumptv.com/images/2007/12/14/logo_aym_sports.jpg</thumbnail></item>
 
-<item><title>SKY NEWS</title>
-<link>http://37.48.118.32/live/skysportsnews.stream/playlist.m3u8</link>
-<thumbnail>http://i.telegraph.co.uk/multimedia/archive/01252/SKYNEWS_copy_1252654c.jpg</thumbnail></item>
-<item>
-<title>SKY sport 1</title>
-<link>http://188.165.119.231:8383/sky/sporrts111/index.m3u8</link>
-<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
-</item>
-
-<item>
-<title>SKY sport 2</title>
-<link>http://188.165.119.231:8383/sky/sportS2222/index.m3u8</link>
-<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
-</item>
-
-<item>
-<title>SKY sport 3</title>
-<link>http://188.165.119.231:8383/sky/spoTSs33334/index.m3u8</link>
-<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
-</item>
-
-<item>
-<title>SKY sport 4</title>
-<link>http://188.165.119.231:8383/sky/spORts44454/index.m3u8</link>
-<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
-</item>
-
-<item>
-<title>SKY sport 5</title>
-<link>http://188.165.119.231:8383/sky/sp0orts5/index.m3u8</link>
-<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
-</item>
-
-<item>
-<title>SKY sport F1</title>
-<link>http://37.48.118.32/live/skysportsf1.stream/playlist.m3u8</link>
-<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
-</item>
-
+<
 <item>
 <title>BT sport 1</title>
-<link>http://188.165.119.231:8383/BT/SP0rRts1/index.m3u8</link>
+<link>http://37.59.16.4:1935/global/btsport1.stream/playlist.m3u8</link>
 <thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
 </item>
 
 <item>
 <title>BT sport 2</title>
-<link>http://188.166.38.163:8080/BT/sp0rts2/index.m3u8</link>
+<link>http://37.59.16.4:1935/global/btsport2.stream/playlist.m3u8</link>
 <thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
 </item>
 
-<item>
-<title>[COLOR=FF00FF00][B][I] BT SPORT 1 [/I][/B][/COLOR]</title>
-<link>http://37.59.16.4:1935/global/btsport1.stream/playlist.m3u8</link>
-<thumbnail>http://jazarah.net/ar/wp-content/uploads/2014/08/MBC-Pro-Sport.jpg</thumbnail>
-<fanart>http://www.heraldodemexico.com/sites/default/files/noticias/2012/10/05/DEPORTES%205.jpg</fanart>
-</item>
- 
-<item>
-<title>[COLOR=FF00FF00][B][I] BT SPORT 2 [/I][/B][/COLOR]</title>
-<link>http://37.59.16.4:1935/global/btsport2.stream/playlist.m3u8</link>
-<thumbnail>http://jazarah.net/ar/wp-content/uploads/2014/08/MBC-Pro-Sport.jpg</thumbnail>
-<fanart>http://2.bp.blogspot.com/-EIy0ipRqvjE/Tt39k6tot0I/AAAAAAAABuo/A7e4jOoHVls/s1600/P1020676.JPG</fanart>
-</item>
 
 <item>
-<title>[COLOR=FF00FF00][B][I] SPORT 1 RU [/I][/B][/COLOR]</title>
+<title>SPORT 1 RU </title>
 <link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/e/e3/Logo_of_Sport_(Russian_TV_channel,_2011).jpg</thumbnail>
 <fanart>http://www.deportesonline.com/imagenes/europapress/201203/20120313132032.jpg</fanart>
 </item>
  
 <item>
-<title>[COLOR=FF00FF00][B][I] SPORT 2 RU [/I][/B][/COLOR]</title>
+<title>SPORT 2 RU </title>
 <link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT/variant.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/e/e3/Logo_of_Sport_(Russian_TV_channel,_2011).jpg</thumbnail>
 <fanart>http://www.eusa.eu/documents/eusa/News/2011/550x405xeuctc-medallist_w.jpg.pagespeed.ic.cgHio6kV8U.jpg</fanart>
@@ -116,6 +65,17 @@
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>Sporttv2</title>
+<link>http://cdn-02.sdn.si/sporttv2/sporttv2.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sporttv3</title>
+<link>http://cdn-02.sdn.si/sporttv3/sporttv3.m3u8</link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 	<title>Canal+ Liga </title>
