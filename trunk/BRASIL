@@ -136,9 +136,9 @@ http://174.37.200.35:1935/2063/2063/PAZ_Chega_de_Guerras.m3u8
 </subitem>
 
 <item>
-<title>[COLOR blue]Canção Nova Canal 51 UHF[/COLOR]</title>
+<title>[COLOR blue]Canção Nova CanalF[/COLOR]</title>
 <link>http://cnhls-lh.akamaihd.net/i/cnhls_1@147036/master.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Catve.png/200px-Catve.png</thumbnail>
+<thumbnail>http://3.bp.blogspot.com/_ytb67gFlQvg/Sw_42VuMeDI/AAAAAAAABTE/JIQvs6nuAwI/s1600/cancao20nova1.jpg</thumbnail>
 </item>
 
 <item>
@@ -280,39 +280,5 @@ http://174.37.200.35:1935/2063/2063/PAZ_Chega_de_Guerras.m3u8
 <thumbnail>http://1.bp.blogspot.com/_oaTgOWraUbE/SgexwNinXII/AAAAAAAABq4/mf6CBoci-Og/s200/globo+x+tv+diario.jpg</thumbnail>
 </item>
 
-<item>
-<title>[COLOR orange]TV COM SC[/COLOR]</title>
-<link>http://cdn-fms.rbs.com.br/hls-live/tvcomsc-live/_definst_/liveevent/livestream.m3u8</link>
-<thumbnail>http://1.bp.blogspot.com/-RALShHhi2Kk/Ucsw4a16FUI/AAAAAAABwd4/AIs2fR-QXKw/s1600/tv-com.png</thumbnail>
-</item>
 
-<item>
-<title>[COLOR orange]TV COM RS[/COLOR]</title>
-<link>http://cdn-fms.rbs.com.br/hls-live/tvcomrs-live/_definst_/liveevent/livestream.m3u8</link>
-<thumbnail>http://1.bp.blogspot.com/-RALShHhi2Kk/Ucsw4a16FUI/AAAAAAABwd4/AIs2fR-QXKw/s1600/tv-com.png</thumbnail>
-</item>
-
-<subitem>
-<title>[COLOR orange]TV ARATU[/COLOR]</title>
-<link>rtmp-raw=rtmp://lbalance174.navegarteidc.net/tvaratu/ playpath=tvaratu.sdp swfUrl=http://www.haotivi.com/js/jwplayer.flash.swf live=1 pageUrl=http://www.haotivi.com/#444 timeout=15</link>
-<thumbnail>http://4.bp.blogspot.com/-quDFrRTy3h0/UBGKpLKMfBI/AAAAAAAAH0I/KR3jaU5ym-Q/s1600/TV_Aratu.jpg</thumbnail>
-</subitem>
-
-<item>
-<title>[COLOR orange]TV ABCD[/COLOR]</title>
-<link>http://tvabcd.flashplayer.acessaradios.com.br:1935/tvabcd/tvabcd/listen.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<subitem>
-<title>[COLOR orange]TERRA VIVA[/COLOR]</title>
-<link>rtmp-raw=rtmp://evp.mm.uol.com.br/terraviva/ playpath=terraviva swfUrl=http://www.haotivi.com/js/jwplayer.flash.swf live=1 pageUrl=http://www.haotivi.com/#445 timeout=15</link>
-<thumbnail>http://4.bp.blogspot.com/_Je_FjgzI47c/SPzys15qH8I/AAAAAAAACuY/5OtrWLwSssk/s320/terra+viva.jpg</thumbnail>
-</subitem>
-
-<item>
-<title>[COLOR orange]TELE SUR[/COLOR]</title>
-<link>http://streaming.tlsur.net:1935/live/baja.stream/playlist.m3u8</link>
-<thumbnail>http://4.bp.blogspot.com/-CGtD91pSQT0/TW3EgRWzqqI/AAAAAAAAATU/vDOLzF2quy4/s1600/telesur%2Blogo.jpg</thumbnail>
-</item>
 
