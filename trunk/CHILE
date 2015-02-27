@@ -38,6 +38,9 @@
 </item>
 
 
+rtmp://94.242.228.84:443/loadbalance?wmsAuthSign=/<playpath>19116929479914584489 <swfUrl>http://pxstream.tv/jwplayer.flash.swf <pageUrl>http://pxstream.tv/embedrouter.php?file=chilenext&width=680&height=400
+
+
 <item>
  <title>CANAL 13 sd</title>
  <link>rtsp://edge-us.edge.mdstrm.com:80/live-s/4fcbddfd5aa3be6366c7670301eb019f_144p</link>
