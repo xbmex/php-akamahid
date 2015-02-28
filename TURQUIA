@@ -26,7 +26,7 @@
 <link>rtmp://5.9.77.137:1935/live playpath=halktv.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/halk-tv.html live=1 timeout=10</link>
 </item>
 
-<item><title>A SPORT/title>
+<item><title>A SPORT</title>
 <link>rtmp://5.9.77.137:1935/live playpath=asporhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/a-spor.html live=1 timeout=10</link>
 </item>
 
@@ -47,27 +47,46 @@
 </item>
 
 
+<item><title>TRT</title>
+<link>rtmp://5.9.77.137:1935/live playpath=trt1hd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/trt-1.html live=1 timeout=10</link>
+</item>
 
-#EXTINF:-1,TRT 1(hd)
-rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=trt1hd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/trt-1.html live=1
-#EXTINF:-1,TRT HABER
-rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=trthaber.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/trt-haber.html live=1
-#EXTINF:-1,TRT SPOR
-rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=trtspor.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/trt-spor.html live=1
-#EXTINF:-1,STV
-rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=stv.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/samanyolu-tv.html live=1
-#EXTINF:-1,ulusaltv
-rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=ulusaltv.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/ulusal-kanal.html live=1
-#EXTINF:-1,YABANTV
-rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=yabantv.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/yaban-tv.html live=1
-#EXTINF:-1,samanyoluhaber
-rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=shaber.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/samanyolu-haber.html live=1
-#EXTINF:-1,Kanal 7
-rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=kanal7.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/kanal-7.html live=1
-#EXTINF:-1,TRT AVAZ
-rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=trtavaz.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/trt-avaz.html live=1
-#EXTINF:-1,BUGUN
-rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=buguntv.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/bugun-tv.html live=1
+<item><title>TRT HABER</title>
+<link>rtmp://5.9.77.137:1935/live playpath=trthaber.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/trt-haber.html live=1 timeout=10</link>
+</item>
+
+<item><title>TRNT SPOR</title>
+<link>rtmp://5.9.77.137:1935/live playpath=trtspor.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/trt-spor.html live=1 timeout=10</link>
+</item>
+
+<item><title>STV</title>
+<link>rtmp://5.9.77.137:1935/live playpath=stv.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/samanyolu-tv.html live=1 timeout=10</link>
+</item>
+
+<item><title>ULUSAL TV</title>
+<link>rtmp://5.9.77.137:1935/live playpath=ulusaltv.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/ulusal-kanal.html live=1 timeout=10</link>
+</item>
+
+<item><title>YABANTV</title>
+<link>rtmp://5.9.77.137:1935/live playpath=yabantv.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/yaban-tv.html live=1 timeout=10</link>
+</item>
+
+<item><title>SAMANYOLU HABER</title>
+<link>rtmp://5.9.77.137:1935/live playpath=shaber.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/samanyolu-haber.html live=1 timeout=10</link>
+</item>
+
+<item><title>KANAL 7</title>
+<link>rtmp://5.9.77.137:1935/live playpath=kanal7.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/kanal-7.html live=1 timeout=10</link>
+</item>
+
+<item><title>TRT AVAZ</title>
+<link>rtmp://5.9.77.137:1935/live playpath=trtavaz.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/trt-avaz.html live=1 timeout=10</link>
+</item>
+
+<item><title>BUGUN/title>
+<link>rtmp://5.9.77.137:1935/live playpath=buguntv.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/bugun-tv.html live=1 timeout=10</link>
+</item>
+
 #EXTINF:-1,e2(hd)
 rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=e2hd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/e2.html live=1
 #EXTINF:-1,cnbce(hd)
@@ -77,3 +96,4 @@ rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=haberturk.stream swfUr
 #EXTINF:-1,TRT COCUK
 rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=trtcocuk.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/trt-cocuk.html live=1
 #EXTINF:-1,TV 2
+rtmp://5.9.77.137:1935/live playpath=tv2.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/tv2.html live=1
