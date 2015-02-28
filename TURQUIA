@@ -83,7 +83,7 @@
 <link>rtmp://5.9.77.137:1935/live playpath=trtavaz.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/trt-avaz.html live=1 timeout=10</link>
 </item>
 
-<item><title>BUGUN/title>
+<item><title>BUGUN</title>
 <link>rtmp://5.9.77.137:1935/live playpath=buguntv.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/bugun-tv.html live=1 timeout=10</link>
 </item>
 
