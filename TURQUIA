@@ -2,30 +2,26 @@
 <link>rtmp://5.9.77.137:1935/live playpath=ahaberhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/a-haber.html live=1 timeout=10</link>
 </item>
 
+<item><title>ATV HD</title>
+<link>rtmp://5.9.77.137:1935/live playpath=atvhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/atv.html live=1 timeout=10</link>
+</item>
 
+<item><title>STAR HD</title>
+<link>rtmp://5.9.77.137:1935/live playpath=starhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/star-tv.html live=1 timeout=10</link>
+</item>
 
+<item><title>FOX TV HD</title>
+<link>rtmp://5.9.77.137:1935/live playpath=foxhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/fox-tv.html live=1 timeout=10</link>
+</item>
 
+<item><title>KANAL HD</title>
+<link>rtmp://5.9.77.137:1935/live playpath=kanaldhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/kanal-d.html live=1 timeout=10</link>
+</item>
 
+<item><title>NTV HD</title>
+<link>rtmp://5.9.77.137:1935/live playpath=ntvhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/ntv.html live=1 timeout=10</link>
+</item>
 
-
-
-
-
-
-
-
-#EXTINF:-1,A HABER(hd)
-rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=ahaberhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/a-haber.html live=1
-#EXTINF:-1,ATV(hd)
-rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=atvhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/atv.html live=1
-#EXTINF:-1,STAR TV(hd)
-rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=starhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/star-tv.html live=1
-#EXTINF:-1,FOXTV(hd)
-rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=foxhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/fox-tv.html live=1
-#EXTINF:-1,KANAL D(hd)
-rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=kanaldhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/kanal-d.html live=1
-#EXTINF:-1,NTV(hd)
-rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=ntvhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/ntv.html live=1
 #EXTINF:-1,HALKTV
 rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=halktv.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/halk-tv.html live=1
 #EXTINF:-1,A SPOR(hd)
