@@ -22,18 +22,32 @@
 <link>rtmp://5.9.77.137:1935/live playpath=ntvhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/ntv.html live=1 timeout=10</link>
 </item>
 
-#EXTINF:-1,HALKTV
-rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=halktv.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/halk-tv.html live=1
-#EXTINF:-1,A SPOR(hd)
-rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=asporhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/a-spor.html live=1
-#EXTINF:-1,MINIKA GO
-rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=minikago.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/minika-go.html live=1
-#EXTINF:-1,TV8(hd)
-rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=tv8hd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/tv8.html live=1
-#EXTINF:-1,SHOWTV(hd)
-rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=showtvhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/show-tv.html live=1
-#EXTINF:-1,NTVSPOR(hd)
-rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=ntvsporhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/ntv-spor.html live=1
+<item><title>HALK TV HD</title>
+<link>rtmp://5.9.77.137:1935/live playpath=halktv.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/halk-tv.html live=1 timeout=10</link>
+</item>
+
+<item><title>A SPORT/title>
+<link>rtmp://5.9.77.137:1935/live playpath=asporhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/a-spor.html live=1 timeout=10</link>
+</item>
+
+<item><title>MINICA GO</title>
+<link>rtmp://5.9.77.137:1935/live playpath=minikago.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/minika-go.html live=1 timeout=10</link>
+</item>
+
+<item><title>TV8 </title>
+<link>rtmp://5.9.77.137:1935/live playpath=tv8hd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/tv8.html live=1 timeout=10</link>
+</item>
+
+<item><title>SHOW TV</title>
+<link>rtmp://5.9.77.137:1935/live playpath=showtvhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/show-tv.html live=1 timeout=10</link>
+</item>
+
+<item><title>NTVSPOR</title>
+<link>rtmp://5.9.77.137:1935/live playpath=ntvsporhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/ntv-spor.html live=1 timeout=10</link>
+</item>
+
+
+
 #EXTINF:-1,TRT 1(hd)
 rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=trt1hd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/trt-1.html live=1
 #EXTINF:-1,TRT HABER
