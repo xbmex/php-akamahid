@@ -3,7 +3,7 @@
 <link>http://token-lh.akamaihd.net/i/Senialcol_1@123738/index_1_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://ccomunicaciones.udenar.edu.co/wp-content/uploads/2012/11/senalcolombia.jpg</thumbnail>
 
-<item><title>[COLOR skyblue]CARACOL[COLOR lime] sD[/COLOR]</title>
+<item><title>[COLOR skyblue]CARACOL[COLOR lime] SD[/COLOR]</title>
 <link>rtmp://46.165.220.225/iguide playpath=a4jap9zysp1psim swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=410&channel=2134&autoplay=true token=#ed%h0#w18623jsda6523lDGDve</link>
 <thumbnail>http://static.canalcaracol.com/sites/caracoltv.com/files/img_videos/c29d66c103de3b05c9a1dca51e96f510.jpg</thumbnail></item>
 
@@ -11,14 +11,19 @@
 <link>rtmp://cdn8.iviplanet.com/RCN-TO playpath=myStream.sdp  swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion</link>
 <thumbnail>http://static.canalcaracol.com/sites/caracoltv.com/files/img_videos/c29d66c103de3b05c9a1dca51e96f510.jpg</thumbnail></item>
 
-			
+
 <item><title>CANAL RCN [COLOR lime]HD[/COLOR]</title>
+<link>rtmp://cdn6.iviplanet.com/RCN-TO playpath=myStream.sdp  swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion</link>
+<thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
+
+<item><title>CANAL RCN [COLOR lime]SD[/COLOR]</title>
 <link>http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8</link>
 <thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
 
 
-<item><title>[COLOR skyblue]WIN SPORTS       [COLOR lime]HD[/COLOR]</title>
-<link>http://token-lh.akamaihd.net/i/Winsports_1@123742/index_1_av-p.m3u8?sd=10&rebase=on</link>
+<item><title>[COLOR skyblue]WIN SPORTS [COLOR lime]HD[/COLOR]</title>
+<link>rtmp://cdn8.iviplanet.com/WIN-TO playpath=myStream.sdp swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion
+</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/220px-Winsports.svg.png</thumbnail></item>
 
 <item>
