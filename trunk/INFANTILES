@@ -23,4 +23,7 @@
 <item>
 <title>Tiin</title><link>http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?=-1</link><thumbnail>http://z.cdn.entutele.com/media/channels/big/tiin.gif</thumbnail></item>
 			
-<item><title>Tooncast</title><link</link><thumbnail>http://200.76.77.237/LIVE/H01/CANAL328/PROFILE04.m3u8?=-1</thumbnail></item>
+<item>
+<title>Tooncast</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL328/PROFILE04.m3u8?=-1</link>
+<thumbnail>http://supertv.hostoi.com/tv/img/tooncast.png</thumbnail></item>
