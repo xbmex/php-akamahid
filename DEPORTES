@@ -96,13 +96,13 @@
 
 <item>
 <title>BT sport 1</title>
-<link>http://37.59.16.4:1935/global/btsport1.stream/playlist.m3u8</link>
+<link>http://109.123.70.48/hls/channel6.m3u8?s=MBXrf</link>
 <thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
 </item>
 
 <item>
 <title>BT sport 2</title>
-<link>http://37.59.16.4:1935/global/btsport2.stream/playlist.m3u8</link>
+<link>http://109.123.70.48/hls/channel7.m3u8?s=MBXrf</link>
 <thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
 </item>
 
