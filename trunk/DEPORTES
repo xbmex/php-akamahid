@@ -23,8 +23,8 @@
 <thumbnail>http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif</thumbnail></item>
 
 <item>
-<title>FOX SPORT 1 OPCION 2</title>
-<link>http://live.oneplay.tv/reproducir/397.m3u8</link>
+<title>FOX SPORT 1 test</title>
+<link>http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=397&lan=2&rows=40&f=.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
