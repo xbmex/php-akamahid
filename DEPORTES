@@ -1,10 +1,4 @@
- 
-  <item><title>MLB NETWORK2</title>
-<link>rtmpe://209.95.34.62:1935/live playpath=snfl pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku
-</link>
-<thumbnail></thumbnail></item>
-			
- 
+
  <item><title>ESPN HD</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?=-1</link>
 <thumbnail>http://y.cdn.entutele.com/media/channels/big/espn-hd.gif</thumbnail></item>
