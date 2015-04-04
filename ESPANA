@@ -15,16 +15,6 @@
 </regex>
 </item>
 
-<item>
-<title>LA 1 HD</title>
-<link>http://79.146.146.144:4022/udp/239.0.0.76:8208</link>
-<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/La1.png</thumbnail></item>
-
-<item>
-<title>CUATRO HD</title>
-<link>http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_22@168474/index_0_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/Cuatro.png</thumbnail></item>
-
 		<item>
 			<title>La Cuatro opcion 2</title>
 			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=vfzs7eus3nlfnl4 swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
