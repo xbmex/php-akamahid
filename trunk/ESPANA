@@ -66,8 +66,92 @@
 <link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/LaSexta.png</thumbnail></item>
 
+<item>
+			<title>TNT España</title>
+			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=jhiiinejnimxg3l swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
+			<regex>
+			<name>rtmp</name>
+			<expres>xs=_we_([^"]*)</expres>
+			<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=173 &autoplay=true</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>token":"([^."]*)</expres>
+			<page>http://www.9stream.com/server1.php?id=1415031202</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			</item>
+         
+         <item>
+			<title>AXN</title>
+			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=8qlyug9zkhwtneo swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
+			<regex>
+			<name>rtmp</name>
+			<expres>xs=_we_([^"]*)</expres>
+			<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=182 &autoplay=true</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>token":"([^."]*)</expres>
+			<page>http://www.9stream.com/server1.php?id=1415031265</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			</item>
+			<item>
+         
+         <item>
+			<title>Alx</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_alx_nxtv live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/alx_nxtv</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0m0(.*?)"<expres>
+			<page>http://vaughnlive.tv/alx_nxtv</page>
+			</regex>
+			</item>
+<item>
+			<title>FOX España </title>
+			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=83l3marsahhy3l8 swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
+			<thumbnail></thumbnail>
+			<regex>
+			<name>rtmp</name>
+			<expres>xs=_we_([^"]*)</expres>
+			<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=174 &autoplay=true</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>token":"([^."]*)</expres>
+			<page>http://www.9stream.com/server1.php?id=1423846090</page>
+			<referer>http://www.9stream.com</referer>
+			</regex> 
+			</item>
+         
+         	<item>
+			<title>Canal +1 opcion 1</title>
+			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=41umps1oxeas32a swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
+			<thumbnail></thumbnail>
+			<regex>
+			<name>rtmp</name>
+			<expres>xs=_we_([^"]*)</expres>
+			<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=184 &autoplay=true</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>token":"([^."]*)</expres>
+			<page>http://www.9stream.com/server1.php?id=1406278125</page>
+			<referer>http://www.9stream.com</referer>
+			</regex> 
+			</item>
 
-   
+
 <item>
  <title>[COLOR yellow]ONDA CADIZ[/COLOR] </title>
  <link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
