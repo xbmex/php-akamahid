@@ -25,6 +25,23 @@
 <link>http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_22@168474/index_0_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/Cuatro.png</thumbnail></item>
 
+		<item>
+			<title>La Cuatro opcion 2</title>
+			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=vfzs7eus3nlfnl4 swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
+			<regex>
+			<name>rtmp</name>
+			<expres>xs=_we_([^"]*)</expres>
+			<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=103 &autoplay=true</page>
+			<referer>http://www.9stream.com</referer>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>token":"([^."]*)</expres>
+			<page>http://www.9stream.com/server1.php?id=1415030444</page>
+			<referer>http://www.9stream.com</referer>
+			</regex></item>
+
+
 <item>
 <title>TELECINCO HD</title>
 <link>http://token-lh.akamaihd.net/i/telecinco_1@126858/index_1_av-p.m3u8?sd=10&rebase=on</link>
