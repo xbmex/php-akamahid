@@ -31,17 +31,7 @@
 			<referer>http://www.9stream.com</referer>
 			</regex></item>
 
-
-		<item>
-			<title>TELECINCO</title>
-			<link>$doregex[rtmp] playpath=tele5 swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php pageUrl=http://privado.streamingfreetv.net live=1 timeout=20</link>
-			<regex>
-			<name>rtmp</name>
-			<expres>"file.*(rtmp[^&]*)</expres>
-			<page>http://privado.streamingfreetv.net/embed/embed.php?channel=tele5</page>
-			<referer>http://streamingfreetv.net</referer>
-			</regex>
-			</item>
+<item><title>TELECINCO TEST</title><link>http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8</link></item
 
 
 <item>
@@ -49,25 +39,6 @@
 <link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/LaSexta.png</thumbnail></item>
 
-<item>
-<title>TDP</title>
-<link>http://token-lh.akamaihd.net/i/tdp_1@126862/index_1_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/Teledeporte.png</thumbnail></item>
-
-<item>
-<title>8</title>
-<link>http://token-lh.akamaihd.net/i/ocho_1@126863/index_1_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/Canal8.png</thumbnail></item>
-
-<item>
-<title>TELEMADRID</title>
-<link>http://token-lh.akamaihd.net/i/Telemadrid_1@123660/index_1_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/Telemadrid.png</thumbnail></item>
-
-<item>
-<title>CANAL 24</title>
-<link>http://token-lh.akamaihd.net/i/24espania_1@126861/index_1_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/Canal24H.png</thumbnail></item>
 
    
 <item>
