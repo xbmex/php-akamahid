@@ -7,8 +7,9 @@
 <link>rtmp://cdn6.iviplanet.com/RCN-TO playpath=myStream.sdp  swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion timeout=10</link>
 <thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
 
-<item><title>[COLOR red]CARACOL provicional  [COLOR lime] SD[/COLOR]</title>
-<link>rtmp://46.165.220.225/iguide playpath=a4jap9zysp1psim swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=410&channel=2134&autoplay=true token=#ed%h0#w18623jsda6523lDGDve</link>
+<item><title>[COLOR green]CARACOL provicional  [COLOR lime] SD[/COLOR]</title>
+<link>rtmp://46.165.251.66/zenex playpath=c2203?id=14825 swfUrl=http://www.zenexplayer.com/data/scripts/fplayer.swf pageUrl=http://www.zenexplayer.com/embedplayer/c2203/1/680/380
+</link>
 <thumbnail>http://static.canalcaracol.com/sites/caracoltv.com/files/img_videos/c29d66c103de3b05c9a1dca51e96f510.jpg</thumbnail></item>
 
 <item><title>[COLOR red]CANAL RCN provicional  [COLOR lime]sd[/COLOR]</title>
