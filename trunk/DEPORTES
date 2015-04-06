@@ -108,13 +108,13 @@
 
 <item>
 <title>BT sport 1</title>
-<link>http://109.123.70.48/hls/channel6.m3u8?s=MBXrf</link>
+<link>rtmp://80.82.78.39:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=13&width=600&height=450 token=#atd%#$ZH</link>
 <thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
 </item>
 
 <item>
 <title>BT sport 2</title>
-<link>http://109.123.70.48/hls/channel7.m3u8?s=MBXrf</link>
+<link>rtmp://89.248.171.90:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH</link>
 <thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
 </item>
 
