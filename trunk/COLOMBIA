@@ -12,11 +12,11 @@
 <link>rtmp://cdn6.iviplanet.com/RCN-TO playpath=myStream.sdp  swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion timeout=10<</link>
 <thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
 
-<item><title>[COLOR skyblue]CARACOL provicional[COLOR lime] SD[/COLOR]</title>
+<item><title>[COLOR skyblue]CARACOL provicional  [COLOR lime] SD[/COLOR]</title>
 <link>rtmp://cp101307.live.edgefcs.net/live/ playpath=lscm45azoEbGGw6wMn6VnccX0oQCE0pr_640_360_ 396@175382 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 Conn=S:OK</link>
 <thumbnail>http://static.canalcaracol.com/sites/caracoltv.com/files/img_videos/c29d66c103de3b05c9a1dca51e96f510.jpg</thumbnail></item>
 
-<item><title>CANAL RCN provicional[COLOR lime]sd[/COLOR]</title>
+<item><title>[COLOR skyblue]CANAL RCN provicional  [COLOR lime]sd[/COLOR]</title>
 <link>http://token-lh.akamaihd.net/i/RCNHD2_1@125849/index_1_av-p.m3u8</link>
 <thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
 
