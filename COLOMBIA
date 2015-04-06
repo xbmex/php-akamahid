@@ -5,19 +5,19 @@
 
 <item><title>[COLOR skyblue]CARACOL[COLOR lime] HD[/COLOR]</title>
 <link>rtmp://cdn6.iviplanet.com/CARACOL-TO playpath=myStream.sdp  swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion
- timeout=10<</link>
+ timeout=10</link>
 <thumbnail>http://static.canalcaracol.com/sites/caracoltv.com/files/img_videos/c29d66c103de3b05c9a1dca51e96f510.jpg</thumbnail></item>
 
 <item><title>CANAL RCN [COLOR lime]HD[/COLOR]</title>
-<link>rtmp://cdn6.iviplanet.com/RCN-TO playpath=myStream.sdp  swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion timeout=10<</link>
+<link>rtmp://cdn6.iviplanet.com/RCN-TO playpath=myStream.sdp  swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion timeout=10</link>
 <thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
 
 <item><title>[COLOR red]CARACOL provicional  [COLOR lime] SD[/COLOR]</title>
-<link>http://www.ienlace-tv.com:1935/live4/livestream1.sdp/negmtv.m3u8</link>
+<link>rtmp://93.174.93.50:443/liveedge/ playpath=ccanalhdfNU swfUrl=http://turbocast.tv/images/player.swf live=1 pageUrl=http://micast.tv/chn2.php?ch=ccanalhdfNU</link>
 <thumbnail>http://static.canalcaracol.com/sites/caracoltv.com/files/img_videos/c29d66c103de3b05c9a1dca51e96f510.jpg</thumbnail></item>
 
 <item><title>[COLOR red]CANAL RCN provicional  [COLOR lime]sd[/COLOR]</title>
-<link>http://d3dho29rfxdxsh.cloudfront.net/livecf/myStream/chunklist.m3u8</link>
+<link>rtmp://93.174.93.50:443/liveedge/ playpath=rcanalhdSbQ swfUrl=http://turbocast.tv/images/player.swf live=1 pageUrl=http://micast.tv/chn2.php?ch=rcanalhdSbQ</link>
 <thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
 
 <item><title>[COLOR skyblue]WIN SPORTS [COLOR lime]HD[/COLOR]</title>
