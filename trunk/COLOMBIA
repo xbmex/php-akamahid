@@ -20,11 +20,20 @@
 <link>http://d3dho29rfxdxsh.cloudfront.net/livecf/myStream/chunklist.m3u8</link>
 <thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
 
-
 <item><title>[COLOR skyblue]WIN SPORTS [COLOR lime]HD[/COLOR]</title>
 <link>rtmp://cdn8.iviplanet.com/WIN-TO playpath=myStream.sdp swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion
-</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/220px-Winsports.svg.png</thumbnail></item>
+</link><thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/220px-Winsports.svg.png</thumbnail></item>
+
+<item>
+    <title>Directv Sports</title>     
+    <link>rtmp://212.7.209.22/live playpath=depo98?id=76921 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/depo98/1/620/382 Conn=S:OK</link>
+    </item>          
+     
+     
+<item>
+    <title>Directv Sports 2</title>     
+    <link>http://www.enlace-tv.com:1935/live7/livestream1.sdp/playlist.m3u8</link>
+    </item> 
 
 <item>
 <title>[COLOR skyblue]CITY TV    [COLOR lime]HD[/COLOR]</title>
