@@ -1,7 +1,3 @@
-<item>
-<title>[COLOR skyblue]SEÑAL COLOMBIA    [COLOR lime]hD[/COLOR]</title>
-<link>http://token-lh.akamaihd.net/i/Senialcol_1@123738/index_1_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail>http://ccomunicaciones.udenar.edu.co/wp-content/uploads/2012/11/senalcolombia.jpg</thumbnail>
 
 <item><title>[COLOR skyblue]CARACOL[COLOR lime] HD[/COLOR]</title>
 <link>rtmp://cdn6.iviplanet.com/CARACOL-TO playpath=myStream.sdp  swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion
@@ -23,6 +19,11 @@
 <item><title>[COLOR skyblue]WIN SPORTS [COLOR lime]HD[/COLOR]</title>
 <link>rtmp://cdn8.iviplanet.com/WIN-TO playpath=myStream.sdp swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion
 </link><thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/220px-Winsports.svg.png</thumbnail></item>
+
+<item>
+<title>[COLOR skyblue]SEÑAL COLOMBIA    [COLOR lime]hD[/COLOR]</title>
+<link>http://token-lh.akamaihd.net/i/Senialcol_1@123738/index_1_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://ccomunicaciones.udenar.edu.co/wp-content/uploads/2012/11/senalcolombia.jpg</thumbnail>
 
 
 <item>
