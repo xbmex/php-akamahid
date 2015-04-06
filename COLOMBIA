@@ -11,8 +11,9 @@
 <link>rtmp://46.165.251.66/zenex playpath=c2203?id=14825 swfUrl=http://www.zenexplayer.com/data/scripts/fplayer.swf pageUrl=http://www.zenexplayer.com/embedplayer/c2203/1/680/380 conn=S:OK timeout=15</link>
 <thumbnail>http://static.canalcaracol.com/sites/caracoltv.com/files/img_videos/c29d66c103de3b05c9a1dca51e96f510.jpg</thumbnail></item>
 
-<item><title>[COLOR red]CANAL RCN provicional  [COLOR lime]sd[/COLOR]</title>
-<link>rtmp://93.174.93.50:443/liveedge/ playpath=rcanalhdSbQ swfUrl=http://turbocast.tv/images/player.swf live=1 pageUrl=http://micast.tv/chn2.php?ch=rcanalhdSbQ</link>
+<item><title>[COLOR yellow]CANAL RCN provicional  [COLOR lime]sd[/COLOR]</title>
+<link>rtmp://5.63.147.124/zenex<playpath>r2203?id=14826 <swfUrl>http://www.zenexplayer.com/data/scripts/fplayer.swf <pageUrl>http://www.zenexplayer.com/embedplayer/r2203/1/680/380
+</link>
 <thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
 
 <item><title>[COLOR skyblue]WIN SPORTS [COLOR lime]HD[/COLOR]</title>
