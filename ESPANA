@@ -27,22 +27,9 @@
 </item>
 
 
-	  <item>
-			<title>LA CUATRO tes</title>
-			<link>tmp://146.185.16.76:1735/tvdirecto/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=cuatro_xrf2a3 swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
-			<regex>
-			<name>rtmp</name>
-			<expres>xs=_we_([^"]*)</expres>
-			<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=103 &autoplay=true</page>
-			<referer>http://www.9stream.com</referer>
-			</regex>
-			<regex>
-			<name>tok</name>
-			<expres>token":"([^."]*)</expres>
-			<page>http://www.9stream.com/server1.php?id=1415030444</page>
-			<referer>http://www.9stream.com</referer>
-			</regex></item>
-
+tem><title>LA CUATRO</title><link>http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_22@168474/index_0_av-p.m3u8?sd=10&rebase=on</link></item>
+			
+			
   <item>
         <title>TELECINCO HD</title>
         <link>http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8</link>
