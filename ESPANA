@@ -27,9 +27,9 @@
 </item>
 
 
-		<item>
-			<title>LA CUATRO</title>
-			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=vfzs7eus3nlfnl4 swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
+	  <item>
+			<title>LA CUATRO tes</title>
+			<link>tmp://146.185.16.76:1735/tvdirecto/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=cuatro_xrf2a3 swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
 			<regex>
 			<name>rtmp</name>
 			<expres>xs=_we_([^"]*)</expres>
