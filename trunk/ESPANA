@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR=orange]NOVA new2[/COLOR]</title>
+<title>[COLOR=orange]NOVA new3[/COLOR]</title>
 <link>rtmp://146.185.16.76:1735/tvdirecto?token=play@142883947403516 playpath=nova_9dm7eu4 swfUrl=http://www.businessapp1.pw/jwplayer5/addplayer/jwplayer.flash.swf pageUrl=http://tv.verdirectotv.org/embed.php?c=103955&width=650&height=400&autostart=true&tk1=3je%2BWlT48UVpC20RfDOmeQ%2FtEXqjRmR1ELMPCXPzivG3Pj6hlI%2Fs8Arb8RU5vOMfn6uSwnUJrSalz0TUUwXdTw%3D%3D&tk2=601zE42vpPzDb3xmp3mfC0uvK6LksSytOAveanw7Res%3D&tk3=IvM1ZjMboMS6o9jkajD4Mow35TY0hOSVzaH75g4OfYeiOrtg0HGR7OmzG6tL8a%2B2s9zPMq7QtfH2NA%2Fd43RN3qx1M%2B220yJMNSMhZ3esC0BUOiZRYl6hwiC1%2BJYXF1ilHxlperHxHbmqZWPiP%2BkSYma6S63xpwtOYRSKhha3sIQ%3D timeout=10 </link>
 <regex>
 <name>rtmp</name>
