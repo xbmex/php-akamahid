@@ -8,8 +8,8 @@
 <thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
 
 </item>
-			<item><title>Colombia: Caracol (addon f4mTester necesario)</title>
-			<link>plugin://plugin.video.f4mTester/?url=http://bclivehd-lh.akamaihd.net/z/noticiascaracol_1@125557/manifest.f4m?hdcore=2.11.3</link>
+			<item><title>test</title>
+			<link>http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8</link>
 			</item>
 			
 <item><title>[COLOR yellow]CARACOL provicional  [COLOR lime]SD[/COLOR]</title>
