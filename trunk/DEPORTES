@@ -15,19 +15,19 @@
 <thumbnail>http://3.bp.blogspot.com/-y0Y-qCgQkaI/VPjLP5UvTlI/AAAAAAAADZ4/naHLiZ5833Q/s1600/%D0%91%D0%BE%D0%B5%D1%86.JPG</thumbnail></item>
  
  <item><title>ESPN HD</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL516/PROFILE04.m3u8?=-1</link>
+<link>http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?=-1</link>
 <thumbnail>http://y.cdn.entutele.com/media/channels/big/espn-hd.gif</thumbnail></item>
 			
 <item><title>ESPN </title>
-<link>http://200.76.77.237/LIVE/H01/CANAL558/PROFILE04.m3u8?=-1</link>
+<link>http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?=-1</link>
 <thumbnail>http://y.cdn.entutele.com/media/channels/big/espn.gif</thumbnail></item>
 			
 <item><title>ESPN 2</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL561/PROFILE04.m3u8?=-1</link>
+<link>http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?=-1</link>
 <thumbnail>http://y.cdn.entutele.com/media/channels/big/espn-2.gif</thumbnail></item>
 			
 <item><title>ESPN 3</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL520/PROFILE04.m3u8?=-1</link>
+<link>http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?=-1</link>
 <thumbnail>http://y.cdn.entutele.com/media/channels/big/espn-3.gif</thumbnail></item>
 			
 <item><title>FOX SPORT</title>
@@ -35,20 +35,9 @@
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/fox-sports.gif</thumbnail></item>
 			
 <item><title>FOX SPORT 2</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL527/PROFILE04.m3u8?=-1</link>
+<link>http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?=-1</link>
 <thumbnail>http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif</thumbnail></item>
 
-<item>
-<title>FOX SPORT 1 test</title>
-<link>http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=397&lan=2&rows=40&f=.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>FOX SPORT 2 OPCION 2</title>
-<link>http://live.oneplay.tv/reproducir/401.m3u8</link>
-<thumbnail></thumbnail>
-</item>
 
 <item><title>PXTV HD</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?=-1</link>
