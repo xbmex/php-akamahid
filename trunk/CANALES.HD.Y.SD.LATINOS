@@ -7,21 +7,24 @@
  token=#ed%h0#w18623jsda6523lDGD</link>
 <thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
 
-<item>
-<title>Telemundo 30</title>
-<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_telemundo32 live=1 timeout=20</link>
-<regex>
-<name>getIP</name>
-<expres>function getEdgeServers.*"(.*?),<expres>
-<page>http://vaughnlive.tv/telemundo32</page>
-</regex>
-<regex>
- <name>getCODE</name>
-<expres>vsVars.*= "0m0(.*?)"<expres>
-<page>http://vaughnlive.tv/telemundo32</page>
-</regex>
-<thumbnail>http://st-listas.20minutos.es/images/2012-01/319078/list_640px.jpg?1328297352</thumbnail>
-</item>
+	<item>
+			<title>Telemundo</title>
+			<link>$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf live=true timeout=15 swfVfy=true pageUrl=http://castalba.tv/</link>
+			<regex>
+			<name>streamer</name>
+			<expres>'streamer': '([^']*)</expres>
+			<page>http://castalba.tv/embed.php?cid=20639&amp;wh=600&amp;ht=400</page>
+			<referer>http://www.onlinetv.planetfools.com/tvenvivo/telemundo-tv-en-vivo.php</referer>
+			</regex>
+			<regex>
+			<name>file</name>
+			<expres>'file': '([^']*)</expres>
+			<page>http://castalba.tv/embed.php?cid=20639&amp;wh=600&amp;ht=400</page>
+			<referer>http://www.onlinetv.planetfools.com/tvenvivo/telemundo-tv-en-vivo.php</referer>
+			</regex>
+			
+			<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/telemar6_320.jpg</thumbnail>
+			</item>
 
 <item>
 <title>TELEMUNDO</title>
