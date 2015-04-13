@@ -7,10 +7,7 @@
 <link>rtmp://cdn6.iviplanet.com/RCN-TO playpath=myStream.sdp  swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion timeout=10</link>
 <thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
 
-</item>
-			<item><title>test12</title>
-			<link>http://token-lh.akamaihd.net/i/CaraHD_1@123744/index_1_av-p.m3u8?sd=10&rebase=on</link>
-			</item>
+http://cinestrenostv.tv/canales/nacionales/plus1.php
 			
 <item><title>[COLOR yellow]CARACOL provicional  [COLOR lime]SD[/COLOR]</title>
 	<link>rtmp://watch1.direct2watch.com/iguide playpath=a4jap9zysp1psim swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=400&channel=2134&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link>
