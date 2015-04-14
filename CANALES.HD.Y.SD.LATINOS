@@ -22,8 +22,9 @@
 </item>
 
 <item>
-<title>HD</title>
-<thumbnail></thumbnail><link>rtmp://50.7.78.138:443/live/live_unimas10</link>
+<title>HD2</title>
+<thumbnail></thumbnail>
+<link>rtmp://199.168.116.10:1935/app playpath=chivass69s-channel swfUrl=https://streamup.com/assets/StreamupVideoChat.swf pageUrl=https://streamup.com/rooms/Chivass69s-Channel/plugins/video/show?autoplayAudio=true timeout=15 </link>
 </item>
 
 
