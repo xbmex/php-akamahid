@@ -22,27 +22,11 @@
 </item>
 
 <item>
-<title>HD2</title>
-<thumbnail></thumbnail>
+<title>UNIMAS</title>
+<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2013/03/Watch-Live-Online-Unimas-En-Vivo-Tv-Logo.jpg</thumbnail>
 <link>rtmp://199.168.116.10:1935/app playpath=chivass69s-channel swfUrl=https://streamup.com/assets/StreamupVideoChat.swf pageUrl=https://streamup.com/rooms/Chivass69s-Channel/plugins/video/show?autoplayAudio=true timeout=15 </link>
 </item>
 
-
-<item>
-<title>UNIMAS HD</title>
- <link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_unimas10  live=1 timeout=20</link>
-<regex>
- <name>getIP</name>
-<expres>function getEdgeServers.*"(.*?),<expres>
-<page>http://vaughnlive.tv/embed/video/unimas10</page>
-</regex>
-<regex>
-<name>getCODE</name>
-<expres>vsVars.*= "0m0(.*?)"<expres>
-<page>http://vaughnlive.tv/embed/video/unimas10</page>
-</regex>
-<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2013/03/Watch-Live-Online-Unimas-En-Vivo-Tv-Logo.jpg</thumbnail>
-</item>
 
 <item>
  <title>Mundo Fox</title>
