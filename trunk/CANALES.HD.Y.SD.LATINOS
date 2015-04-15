@@ -30,30 +30,12 @@
 
 <item>
  <title>MUNDO FOX</title>
-<link>rtmp://146.185.16.60/live playpath=fox3014?id=71919  swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedded/fox3014/1/600/385 Conn=S:OK timeout=15</link>
+<link>http://66.55.92.79:1935/app/ana69s-channel/.m3u8</link>
 <thumbnail>http://pmcdeadline2.files.wordpress.com/2012/01/logomundo2__120123131412.jpg</thumbnail>
 </item>
+
+
          
-<item>
- <title>UNIVISION</title>
-  <link>$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf live=true timeout=15 swfVfy=true pageUrl=http://castalba.tv/</link>
-<regex>
- <name>streamer</name>
-<expres>'streamer': '([^']*)</expres>
-<page>http://castalba.tv/embed.php?cid=15648&wh=619&ht=430&r</page>
- <referer>http://www.onlinetv.planetfools.com/tvenvivo/telemundo-tv-en-vivo.php</referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>'file': '([^']*)</expres>
-<page>http://castalba.tv/embed.php?cid=15648&wh=619&ht=430&r</page>
-<referer>http://www.onlinetv.planetfools.com/tvenvivo/telemundo-tv-en-vivo.php</referer>
-</regex>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png</thumbnail>
-</item>
-			
-	
-			
 <item>
 <title>TELEHIT HD</title>
 <thumbnail>http://blog.cablevision.net.mx/wp-content/uploads/2011/09/telehit.png</thumbnail>
