@@ -1,8 +1,8 @@
 <item><title>[COLOR yellow]CARACOL provicional  [COLOR lime]SD[/COLOR]</title>
-	<link>rtmp://watch1.direct2watch.com/iguide playpath=a4jap9zysp1psim swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=400&channel=2134&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link>
-    <thumbnail>https://gpscolombia.files.wordpress.com/2011/06/images-3.jpg</thumbnail>
-    </item>
-	<item><title>[COLOR yellow]CANAL RCN provicional  [COLOR lime]SD[/COLOR]</title>
+<link>rtmp://watch1.direct2watch.com/iguide playpath=a4jap9zysp1psim swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=400&channel=2134&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link>
+<thumbnail>https://gpscolombia.files.wordpress.com/2011/06/images-3.jpg</thumbnail></item>
+
+<item><title>[COLOR yellow]CANAL RCN provicional  [COLOR lime]SD[/COLOR]</title>
 <link>rtmp://93.174.93.230/iguide playpath=g5a1l98d8gy0ob0 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=410&channel=25602&autoplay=true
  token=#ed%h0#w18623jsda6523lDGD</link>
 <thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
@@ -14,6 +14,16 @@
 <link>rtmp://94.102.49.207/iguide playpath=4w89yalrid1j4jt swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer.php?width=610&height=430&channel=13887&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link>
 <thumbnail>http://img3.wikia.nocookie.net/__cb20100308171346/logopedia/images/1/19/Telemundo_logo.svg</thumbnail>
 </item>	
+
+<item>
+<title>America TV</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8?sd=10&rebase=on</link><!-- -->
+</item>
+
+<item>
+<title>Latina TV</title>
+<link>rtmp://flatina1livefs.fplive.net/flatina1live-live/ playpath=stream1 swfUrl=http://source.netandino.com/theme/player.swf live=1 pageUrl=http://capo.ucoz.com/index/mun2/0-33</link><!-- -->
+</item>
 
   
 <item>
