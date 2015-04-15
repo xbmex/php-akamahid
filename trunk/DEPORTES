@@ -84,13 +84,13 @@
 
 <item>
 <title>SKY SPORTS 5</title>
-<link>http://192.99.24.176:8080/sk5/skK5/index.m3u8</link>
+<link>http://192.99.24.176:8080/skY5/skoK5/index.m3u8</link>
 <thumbnail>http://www1.skysports.com/core/img/channels/Sky-Sports-5-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS F1</title>
-<link>http://192.99.24.176:8080/skf1/skfF1/index.m3u8</link>
+<link>http://192.99.24.176:8080/skfF1/skPfF1/index.m3u8</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/f1wikia/images/7/77/SkySportsF1.png/revision/latest?cb=20140320200040</thumbnail>
 </item>
 
