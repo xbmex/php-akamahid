@@ -29,8 +29,8 @@
 
 
 <item>
- <title>Mundo Fox</title>
-<link>rtmp://146.185.16.60/live playpath=fox3014?id=71919  swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedded/fox3014/1/600/385 timeout=15</link>
+ <title>MUNDO FOX</title>
+<link>rtmp://146.185.16.60/live playpath=fox3014?id=71919  swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedded/fox3014/1/600/385 Conn=S:OK timeout=15</link>
 <thumbnail>http://pmcdeadline2.files.wordpress.com/2012/01/logomundo2__120123131412.jpg</thumbnail>
 </item>
          
