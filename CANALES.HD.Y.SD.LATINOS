@@ -13,7 +13,75 @@
 <title>TELEMUNDO</title>
 <link>rtmp://94.102.49.207/iguide playpath=4w89yalrid1j4jt swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer.php?width=610&height=430&channel=13887&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link>
 <thumbnail>http://img3.wikia.nocookie.net/__cb20100308171346/logopedia/images/1/19/Telemundo_logo.svg</thumbnail>
-</item>	
+</item>  
+
+<item>
+<title>Telemundo</title>
+ <link>rtmp://94.102.49.207/iguide playpath=4w89yalrid1j4jt swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7</link><!-- -->
+ </item>	
+ 
+ <item>
+			<title>Telemundo 29</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_telemundo29 live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/telemundo29</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0m0(.*?)"<expres>
+			<page>http://vaughnlive.tv/telemundo29</page>
+			</regex>
+			</item>
+         
+         <item>
+			<title>Telemundo 34</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_telemundo34 live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/telemundo34</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0m0(.*?)"<expres>
+			<page>http://vaughnlive.tv/telemundo34</page>
+			</regex>
+			</item>
+         
+         <item>
+			<title>Telemundo 35  (horario Pacifico)</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_telemundo35 live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/telemundo35</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0m0(.*?)"<expres>
+			<page>http://vaughnlive.tv/telemundo35</page>
+			</regex>
+			</item>
+         
+         <item>
+			<title>Univision  HD28</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_univision_hd28 live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/univision_hd28</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0m0(.*?)"<expres>
+			<page>http://vaughnlive.tv/univision_hd28</page>
+			</regex>
+			</item>
+         
+         
+			
 
 <item>
 <title>America TV</title>
