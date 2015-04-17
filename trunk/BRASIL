@@ -5,6 +5,12 @@
 </item>
 
 <item>
+<title>[COLOR orange]SBT INTERIOR[/COLOR]</title>
+<link>http://srv3.zoeweb.tv:1935/z133-live/stream/playlist.m3u8</link>
+<thumbnail>http://www.zoeweb.com.br/Imagens/Upload/Cases/caseszoewebsbt.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR orange]TV RECORD[/COLOR]</title>
 <link>rtmp://174.37.99.198/dvrid1816/ playpath=1816 swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=http://www.cxntv.com/canales/tv-record/ timeout=15</link>
 <thumbnail>http://2.bp.blogspot.com/-d1yUmn4AlVo/T1uER40FeoI/AAAAAAAAF4U/bxJkuXZxPk4/s1600/TV+record.jpg</thumbnail>
@@ -244,23 +250,8 @@
 <thumbnail>http://1.bp.blogspot.com/-XxthUbUS6ug/ThbPY4nmPeI/AAAAAAAAAzk/LAX-5A8oliM/s1600/Sevilla+FC+Wallpaper.jpg</thumbnail>
 </item>
 
-<item>
-<title>[COLOR orange]SBT INTERIOR[/COLOR]</title>
-<link>http://srv3.zoeweb.tv:1935/z133-live/stream/playlist.m3u8</link>
-<thumbnail>http://www.zoeweb.com.br/Imagens/Upload/Cases/caseszoewebsbt.jpg</thumbnail>
-</item>
 
-<item>
-<title>[COLOR orange]TV PREVE[/COLOR]</title>
-<link>rtmp://flashserverbr.com/tvpreve/ playpath=livestream swfUrl=http://www.haotivi.com/js/jwplayer.flash.swf live=1 pageUrl=http://www.haotivi.com/#424 timeout=15</link>
-<thumbnail>http://1.bp.blogspot.com/-l_xLSM__G7c/Uy47TNsK4rI/AAAAAAAADTc/bMvdcIcx9aw/s1600/tvpreve.jpg</thumbnail>
-</item>
 
-<item>
-<title>[COLOR orange]TV DIARIO[/COLOR]</title>
-<link>http://livela.sambatech.com.br/hls-live/livepkgr/tvdiario_2ff357495c9f34b35fc02b51ee33d935/liveevent/livestream.m3u8</link>
-<thumbnail>http://1.bp.blogspot.com/_oaTgOWraUbE/SgexwNinXII/AAAAAAAABq4/mf6CBoci-Og/s200/globo+x+tv+diario.jpg</thumbnail>
-</item>
 
 
 
