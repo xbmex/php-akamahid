@@ -5,43 +5,6 @@
 </item>
 
 <item>
-<title>[COLOR skyblueTV] GLOBO HD[/COLOR]</title>
-<link>rtmp://93.174.95.10/record playpath=CH102_Big swfUrl=http://mybrasiltv.com/ptplayer/player/flowplayer-3.2.18.swf pageUrl=http://mybrasiltv.com/ptplayer/flowplayer/Home.php</link>
-thumbnail=http://3.bp.blogspot.com/_jffermsdBl8/SiKOIrdgAiI/AAAAAAAAMc8/Vn3nNM4oEiI/s1600/Globo%2BInternacional</thumbnail>
-</item>
-
-
-<item>
-<title>SporTV</title>
-<link>rtmp://93.174.95.10/record playpath=CH108_Big swfUrl=http://mybrasiltv.com/ptplayer/player/flowplayer-3.2.18.swf pageUrl=http://mybrasiltv.com/ptplayer/flowplayer/Home.php</link>
-<thumbnail>http://globoesporte.globo.com/platb/files/973/2011/11/Capa_ArenaSporTV.jpg</thumbnail>
-</item>
-
-<item>
-<title> SporTV 2</title>
-<link>rtmp://93.174.95.10/record playpath=CH109_Big swfUrl=http://mybrasiltv.com/ptplayer/player/flowplayer-3.2.18.swf pageUrl=http://mybrasiltv.com/ptplayer/flowplayer/Home.php</link>
-<thumbnail>http://globoesporte.globo.com/platb/files/973/2011/11/Capa_ArenaSporTV.jpg</thumbnail>
-</item>
-
-<item>
-<title>Band-Sport</title>
-<link>rtmp://93.174.95.10/record playpath=CH107_Big swfUrl=http://mybrasiltv.com/ptplayer/player/flowplayer-3.2.18.swf pageUrl=http://mybrasiltv.com/ptplayer/flowplayer/Home.php</link>
-<thumbnail>http://1.bp.blogspot.com/-4GYLZq-L_VY/TxoXMWEgm9I/AAAAAAAACJ4/VTRJ7iUoZK4/s400/logo-band-sports.png</thumbnail>
-</item>
-
-<item>
-<title>Fox-Sport br</title>
-<link>rtmp://93.174.95.10/record playpath=CH105_Big swfUrl=http://mybrasiltv.com/ptplayer/player/flowplayer-3.2.18.swf pageUrl=http://mybrasiltv.com/ptplayer/flowplayer/Home.php</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/d/dc/FSR-4cBluetxt-color-hi-res.png</thumbnail>
-</item>
-
-<item>
-<title>BAND</title>
-<link>rtmp://93.174.95.10/record playpath=CH106_Big swfUrl=http://mybrasiltv.com/ptplayer/player/flowplayer-3.2.18.swf pageUrl=http://mybrasiltv.com/ptplayer/flowplayer/Home.php</link>
-<thumbnail>http://www.guiafacilmg.com.br/gerenciador/upload/empresas/Band.JPG</thumbnail>
-</item>
-
-<item>
 <title>[COLOR orange]TV RECORD[/COLOR]</title>
 <link>rtmp://174.37.99.198/dvrid1816/ playpath=1816 swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=http://www.cxntv.com/canales/tv-record/ timeout=15</link>
 <thumbnail>http://2.bp.blogspot.com/-d1yUmn4AlVo/T1uER40FeoI/AAAAAAAAF4U/bxJkuXZxPk4/s1600/TV+record.jpg</thumbnail>
