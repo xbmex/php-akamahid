@@ -1,6 +1,6 @@
-  <item><title>BARCELONA - VALENCIA </title>
-<link>http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8</link>
-<thumbnail>http://televisionesychat.es/wp-content/uploads/2012/08/Barcelona-vs-Valencia.jpg</thumbnail></item>
+  <item><title>test</title>
+<link>rtmp://sbox.cdnss.com:1935/live/bein02?user=86p14s&pass=ktv07k</link>
+<thumbnail></thumbnail></item>
   
   <item><title>BEIN SPORT HD</title>
 <link>http://dtv_hls_live-lh.akamaihd.net/i/dtvhls02_delivery@195673/index_4128_av-p.m3u8</link>
