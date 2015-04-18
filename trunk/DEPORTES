@@ -2,6 +2,18 @@
 <link>http://dtv_hls_live-lh.akamaihd.net/i/dtvhls02_delivery@195673/index_4128_av-p.m3u8</link>
 <thumbnail>http://3.bp.blogspot.com/-m9I2IP2g1js/UtNaE4fBMrI/AAAAAAAADmA/G9RY-1rUHEA/s1600/WWWWWWWWW.png</thumbnail></item>
 
+<item>
+				<title>[COLOR blue]Bein ñ[/COLOR]</title>
+				<link>$doregex[getIlive]</link>
+				<regex>
+				<name>getIlive</name>
+				<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.direct2watch.com/embedplayer.php?width=653&amp;height=410&amp;channel=13&amp;autoplay=true',False,False,'http://vipracing.tv/channel/bein-es')</expres>
+				<page></page>
+				</regex>
+				<thumbnail>none</thumbnail>
+			</item>
+			
+
   <item><title>VIVE DEPORTES HD</title>
 <link>http://200.104.250.182:1935/vtr_vivedeportes_online/vivedeportes-ipad/playlist.m3u8?wowzasessionid=1070247734</link>
 <thumbnail></thumbnail></item>
