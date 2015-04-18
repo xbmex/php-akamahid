@@ -187,52 +187,6 @@
 	<thumbnail></thumbnail>
 	</item>
 
-      <item>
-      <title>Canal + Eventos (C+ Deportes,C+ Liga)</title>
-      <link>$doregex[get-rtmp] app=vod/?token=play@$doregex[get-token] playpath=$doregex[get-decrypted-ssx1] swfUrl=http://www.thebestplayeronline.com/jwplayer5/addplayer/jwplayer.flash.swf pageUrl=$doregex[get-iframe]</link>
-      <regex>
-      <name>get-rtmp</name>
-      <expres>(.*)\/re</expres>
-      <page>$doregex[get-decrypted-ssx4]</page>
-      </regex>     
-      <regex>
-      <name>get-token</name>
-      <expres>@(.*)</expres>
-      <page>$doregex[get-decrypted-ssx4]</page>
-      </regex>    
-      <regex>
-      <name>get-decrypted-ssx4</name>
-      <expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-ssx4]")</expres>
-      <page></page>
-      </regex>  
-      <regex>
-      <name>get-encrypted-ssx4</name>
-      <expres>ssx4" value="(.*)"</expres>
-      <page>$doregex[get-iframe]</page>
-      </regex>  
-      <regex>
-      <name>get-iframe</name>
-      <expres>src="(.*?)\"</expres>
-      <page>http://www.dinozap.info/redirect/channel.php?id=112&amp;width=680&amp;height=390&amp;autostart=true</page>
-        <referer>http://www.dinozap.info/?id=112</referer>
-        </regex>        
-        <regex>
-        <name>get-decrypted-ssx1</name>
-        <expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-ssx1]")</expres>
-        <page></page>
-        </regex>       
-        <regex>
-        <name>get-encrypted-ssx1</name>
-        <expres>ssx1" value="(.*)"</expres>
-        <page>$doregex[get-iframe]</page>
-        </regex>
-        </item>
-
-  <item>
-<title>Canal + Eventos 2 (C+ Deportes,C+ Liga)</title>
-<link>http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8?sd=11&rebase=on</link>
-<thumbnail>http://1.bp.blogspot.com/_SmSYHUuLsHw/S24Sm03BddI/AAAAAAAADH4/ldOgaR-wtj4/s320/la++liga-bbva+logo.jpg</thumbnail>
-</item>
 
 <item><title>CNPT 1</title><link>http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8</link>
 <thumbnail>http://www.mirutv.com/logo/cnopt1.jpg</thumbnail></item>
