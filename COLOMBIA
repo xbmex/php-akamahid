@@ -21,9 +21,7 @@ http://cinestrenostv.tv/canales/nacionales/plus1.php
 
 
 <item><title>[COLOR skyblue]WIN SPORTS [COLOR lime]HD[/COLOR]</title>
-<link>rtmp://fl01.iviplanet.com/CITYTV-TO playpath=myStream.sdp swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion
-
-</link><thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/220px-Winsports.svg.png</thumbnail></item>
+<link>rtmp://fl01.iviplanet.com/CITYTV-TO playpath=myStream.sdp swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion timeout=10</link><thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/220px-Winsports.svg.png</thumbnail></item>
 
 <item>
 <title>[COLOR skyblue]SEÑAL COLOMBIA    [COLOR lime]hD[/COLOR]</title>
