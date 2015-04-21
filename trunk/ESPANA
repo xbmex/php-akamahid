@@ -1,5 +1,4 @@
 
-
 <item>	
 <title>TVE 1</title>
 <link>http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8</link>
@@ -16,17 +15,17 @@
 			
   
   <item>
-        <title>TELECINCO HD</title>
+<item><title>TELECINCO</title><link>http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8</link></item>
+
+ <item>
+        <title>TELECINCO 2</title>
         <link>http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8</link>
         <thumbnail>http://marketing.es/wp-content/uploads/2008/09/logo-t5-1997.jpg</thumbnail>
         </item>
  
-
-
-<item>
-<title>LA SEXTA HD</title>
-<link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/LaSexta.png</thumbnail></item>
+			
+ 
+<item><title>La Sexta HD 720 </title><link>http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8</link></item>
 
 <item>
 			<title>TNT España</title>
