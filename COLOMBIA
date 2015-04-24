@@ -88,83 +88,13 @@ http://cinestrenostv.tv/canales/nacionales/plus1.php
 <link>http://fl01.iviplanet.com:1935/CanalElTiempo/myStream.sdp/playlist.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-GEGVFXwjBwo/UDGG0-2dIxI/AAAAAAAAAnA/Ixe2kiT283o/s1600/et_canal_el_tiempo.jpg</thumbnail>
 </item>
-<item>
-<title>[COLOR skyblue]SEÑAL COLOMBIA    [COLOR lime]HD[/COLOR]</title>
-<link>http://token-lh.akamaihd.net/i/Senialcol_1@123738/index_1_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail>http://ccomunicaciones.udenar.edu.co/wp-content/uploads/2012/11/senalcolombia.jpg</thumbnail>
-</item>
+
+
 
 <item>
-<title>[COLOR skyblue]CITY TV    [COLOR lime]HD[/COLOR]</title>
-<link>http://test_deportv-lh.akamaihd.net/i/Citytv_1@185974/master.m3u8</link>
-<thumbnail>http://2.bp.blogspot.com/_kpA45f4pzBs/TLrusFIhBAI/AAAAAAAAFHo/Kn0GEtQr3WU/s400/Man+City+tv_110x82.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]CANAL UNO   [COLOR lime]HD[/COLOR]</title>
-<link>http://encoder.iviplanet.com:1935/playlist?application/CanalUnoColombia.m3u8</link>
-<thumbnail>http://50.20.171.254/TVMIA_XML_NET_WEB/JW/CanalUnoColombia.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]TELECARIBE        [COLOR lime]HD[/COLOR]</title>
-<link>http://test_deportv-lh.akamaihd.net/i/telecaribe_1@185979/master.m3u8</link>
-<thumbnail>http://www.telecaribe.com.co/images/stories/logo%20bodas%20de%20oro%20telecaribe%20copia.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]TELEPACIFICO  [COLOR lime]HD[/COLOR]</title>
-<link>http://iphone-streaming.ustream.tv/ustreamVideo/12380713/streams/live/playlist.m3u8</link>
-<thumbnail>http://www.elextramedios.com/drupal/sites/default/files/images/stories/fotosarticulos/ago2011/logo-canal-tro-png.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]TELEANTIOQUIA        [COLOR lime]HD[/COLOR]</title>
-<link>http://encoder.iviplanet.com:1935/playlist?application/Teleantioquia.m3u8</link>
-<thumbnail>http://lafm.s3.amazonaws.com/sites/default/files/imagecache/450x300/imagenes/logo-pasion-por-lo-nuestro-teleantioquia_1372462376.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]CANAL EL TIEMPO         [COLOR lime]HD[/COLOR]</title>
-<link>http://cdn8.iviplanet.com:1935/CanalElTiempo/myStream.sdp/playlist.m3u8</link>
-<thumbnail>http://4.bp.blogspot.com/-GEGVFXwjBwo/UDGG0-2dIxI/AAAAAAAAAnA/Ixe2kiT283o/s1600/et_canal_el_tiempo.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]NTN24 COLOMBIA      [COLOR lime]HD[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DEL22x7R3to</link>
-<thumbnail>http://www.lafm.com.co/sites/default/files/imagenes/ntn24logo_1392253276.jpg</thumbnail>
-</item>
-
-item>
 <title>[COLOR skyblue]TELECAFE[COLOR lime]HD[/COLOR]</title>
 <link>http://uneapple-i.akamaihd.net/hls/live/206417/grupoune_st16@206417/st16_index.m3u8</link>
 <thumbnail>http://telecafe.gov.co/wp-content/uploads/2014/03/logo-telecafe-2014.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]CANAL CAPITAL [/COLOR]</title>
-<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
-<regex>
-<name>get-initsesion</name>
-<expres></expres>
-<page>$doregex[get-page]</page>
-<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>get-page</name>
-<expres>"m3u8_url":"(.*?)"</expres>
-<page>http://new.livestream.com/accounts/4239881/canalcapital</page>
-<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
-<cookieJar></cookieJar>
-<thumbnail>http://img.new.livestream.com/events/0000000000211c78/4cd3c880-701b-46ed-ad2f-dffaafc7aa93_170x255.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]CLICK TV  [/COLOR]</title>
-<link>http://uneapple-i.akamaihd.net/hls/live/206577/grupoune_st19@206577/st19_index.m3u8</link>
-<thumbnail>https://i.ytimg.com/i/uYaT937Ebm2ccmmR_hM65Q/mq1.jpg?v=5081b659</thumbnail>
 </item>
 
 <item>
