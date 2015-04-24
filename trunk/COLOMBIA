@@ -28,17 +28,7 @@ http://cinestrenostv.tv/canales/nacionales/plus1.php
 <link>http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/media_u45em7647_b500000.m3u8</link>
 <thumbnail>http://ccomunicaciones.udenar.edu.co/wp-content/uploads/2012/11/senalcolombia.jpg</thumbnail>
 
-<item>
-<title>[COLOR skyblue]CITY TV    [COLOR lime]HD[/COLOR]</title>
-<link>http://token-lh.akamaihd.net/i/Citytv_1@123733/index_1_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail>http://2.bp.blogspot.com/_kpA45f4pzBs/TLrusFIhBAI/AAAAAAAAFHo/Kn0GEtQr3WU/s400/Man+City+tv_110x82.jpg</thumbnail>
-</item>
 
-<item>
-<title>[COLOR skyblue]CANAL UNO   [COLOR lime]HD[/COLOR]</title>
-<link>http://cdn8.iviplanet.com:1935/CanalUnoColombia/myStream.sdp/playlist.m3u8</link>
-<thumbnail>http://www.entretengo.com/wp-content/uploads/2014/01/canal1.jpg</thumbnail>
-</item>
   <item>
 	<title>COSMOVISION</title>
 	<link>http://uneapple-i.akamaihd.net/hls/live/206415/grupoune_st14@206415/st14_1.m3u8</link>
@@ -72,8 +62,8 @@ http://cinestrenostv.tv/canales/nacionales/plus1.php
 </item>
 
 <item>
-<title>[COLOR skyblue]TELEPACIFICO       [COLOR lime]HD[/COLOR]</title>
-<link>rtmp://cdns724ste1010.multistream.net:80/telepacificolive/ playpath=live-300 swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://fosforitotv.blogspot.ca/2013/01/telepacifico.htm</link>
+<title>TELEPACIFICO</title>
+<link>streaming.ustream.tv/ustreamVideo/12380713/streams/live/playlist.m3u8</link>
 <thumbnail>http://www.elextramedios.com/drupal/sites/default/files/images/stories/fotosarticulos/ago2011/logo-canal-tro-png.jpg</thumbnail>
 </item>
 
