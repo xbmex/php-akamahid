@@ -68,8 +68,8 @@ http://cinestrenostv.tv/canales/nacionales/plus1.php
 </item>
 
 <item>
-<title>[COLOR skyblue]TELEANTIOQUIA        [COLOR lime]HD[/COLOR]</title>
-<link>http://encoder.iviplanet.com:1935/playlist?application/Teleantioquia.m3u8</link>
+<title>TELEANTIOQUIA</title>
+<link>http://hop.02.lv/2cW?format=2&profile=363&lan=2&rows=40&f timeout=10</link>
 <thumbnail>http://lafm.s3.amazonaws.com/sites/default/files/imagecache/450x300/imagenes/logo-pasion-por-lo-nuestro-teleantioquia_1372462376.jpg</thumbnail>
 </item>
 
