@@ -6,6 +6,11 @@
 <link>http://d2akrnroe2tvk3.cloudfront.net/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b728000.m3u8</link>
 <thumbnail>http://3.bp.blogspot.com/-m9I2IP2g1js/UtNaE4fBMrI/AAAAAAAADmA/G9RY-1rUHEA/s1600/WWWWWWWWW.png</thumbnail></item>
 
+  <item><title>MLB BASEBALL</title>
+<link>rtmp://109.123.70.38:80/live playpath=mlbxx swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://reytv.co/embedu.php?live=mlbxx&vw=620&vh=490 token=%Zrey(nKa@#Z</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Major_League_Baseball.svg/1280px-Major_League_Baseball.svg.png</thumbnail></item>
+
+
 
 <item><title>FOX SPORT 1 USA</title>
 <link>rtmp://178.18.31.60:443/liverepeater/191781 pageUrl=http://biggestplayer.me token=#atd%#$ZH timeout=10 </link>
@@ -22,9 +27,6 @@
 <link>http://200.104.250.182:1935/vtr_vivedeportes_online/vivedeportes-ipad/playlist.m3u8?wowzasessionid=1070247734</link>
 <thumbnail></thumbnail></item>
 
-  <item><title>MLB BASEBALL</title>
-<link>rtmp://109.123.70.38:80/live playpath=mlbxx swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://reytv.co/embedu.php?live=mlbxx&vw=620&vh=490 token=%Zrey(nKa@#Z</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Major_League_Baseball.svg/1280px-Major_League_Baseball.svg.png</thumbnail></item>
 
  <item><title>DIRECTV SPORTS</title>
 <link>rtmp://89.248.169.55/iguide playpath=6db7sx063ezf7z0 swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/29567/watch-live-deportesadfasdfsda-channel-for-free token=#ed%h0#w18623jsda6523lDGDVe</link>
