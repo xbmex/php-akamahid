@@ -10,6 +10,9 @@
 <item><title>MUNDO FOX</title><link>http://66.55.92.79:1935/app/ana69s-channel/.m3u8?</link></item>	
  
 <item><title>TELEMUNDO USA</title><link>http://66.55.92.79:1935/app/chivasss69s-channel/.m3u8</link></item>
+
+<item><title>Univision</title><link>http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=121&lan=2&rows=40&f=.m3u8</link></item>
+
  
 <item>
 <title>TELEMUNDO</title>
@@ -62,7 +65,7 @@
 			</regex>
 			</item>
          
-         <item>
+         <itemoff>
 			<title>Univision  HD28</title>
 			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_univision_hd28 live=1 timeout=20</link>
 			<regex>
