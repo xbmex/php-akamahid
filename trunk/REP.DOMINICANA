@@ -57,11 +57,6 @@
 <thumbnail>http://emisoradominicana.net/tv/wp-content/uploads/2013/09/Cinevision-Canal-19.jpg</thumbnail>
 </item>
 
-<item>
-<title>Telecontacto 57</title>
-<link>rtmp://stream.prostudionetwork.com:1957/telecontacto/ playpath=TC swfUrl=http://yucatv.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://emisoradominicana.net/html5/iframes/telecontacto.html</link>
-<thumbnail>http://emisoradominicana.net/television/logos/Telecontacto-Canal-57.jpg</thumbnail>
-</item>
 
 <item>
 <title>Antena Latina</title>
