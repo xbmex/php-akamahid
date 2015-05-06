@@ -4,15 +4,7 @@
 <thumbnail>http://tv-online.in/wp-content/uploads/2013/01/CDN1-CANAL-37-Santo-Domingo-live.gif</thumbnail>
 </item>
 <item>
-<title>Teleantillas Canal 2</title>
-<link>http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8</link>
-<thumbnail>http://teleantillas.com.do/images/logo2.png</thumbnail>
-</item>
-<item>
-<title>Telesistema Canal 11</title>
-<link>http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8</link>
-<thumbnail>http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/telesistema_poster.png</thumbnail>
-</item>
+
 <item>
 <title>Telefuturo Canal 23</title>
 <link>http://ss7.domint.net:1950/tf_str/futu/playlist.m3u8</link>
@@ -28,25 +20,7 @@
 <link>http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8</link>
 <thumbnail>http://mediavid.net/img/tv-icons/cdnsports.jpg</thumbnail>
 </item>
-<item>
-<title>Univision</title>
-<link>
-$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf live=true timeout=15 swfVfy=true pageUrl=http://castalba.tv/
-<regex>
-<name>streamer</name>
-<expres>'streamer': '([^']*)</expres>
-<page>http://castalba.tv/embed.php?cid=15648&amp;wh=625&amp;ht=395&amp;r=www.mirandotv.net</page>
-<referer>http://www.mirandotv.net/2014/03/univision-en-vivo-por-internet.html</referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>'file': '([^']*)</expres>
-<page>http://castalba.tv/embed.php?cid=15648&amp;wh=625&amp;ht=395&amp;r=www.mirandotv.net</page>
-<referer>http://www.mirandotv.net/2014/03/univision-en-vivo-por-internet.html</referer>
-</regex>
-</link>
-<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQW70cx-uJo3CBjJQ-K6d0vESjwL1R10Ql-0QTUNFveGoKJyhfr</thumbnail>
-</item>
+
 <item>
 <title>Dominicana York TV</title>
 <link>http://stream.dominicanyork.tv:1935/dominicanyorktv/DMYTV/playlist.m3u8</link>
@@ -72,49 +46,26 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/play
 <link>http://xcinevisioncanal19x.api.channel.livestream.com/3.0/playlist.m3u8</link>
 <thumbnail>http://emisoradominicana.net/tv/wp-content/uploads/2013/09/Cinevision-Canal-19.jpg</thumbnail>
 </item>
-<item>
-<title>Digital 15</title>
-<link>rtmp://67.212.234.140:9095/live2/ playpath=digi15 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://emisoradominicana.net/ live=true timeout=15</link>
-<thumbnail>http://www.cirqueros.com/web/images/stories/digital%2015%20logo.jpg</thumbnail>
-</item>
+
 <item>
 <title>Telecontacto 57</title>
 <link>rtmp://stream.prostudionetwork.com:1957/telecontacto/ playpath=TC swfUrl=http://yucatv.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://emisoradominicana.net/html5/iframes/telecontacto.html</link>
 <thumbnail>http://emisoradominicana.net/television/logos/Telecontacto-Canal-57.jpg</thumbnail>
 </item>
-<item>
-<title>Telemicro 5</title>
-<link>rtmp://67.212.234.140:1935/live2/ playpath=telemicro swfUrl=http://telemicro.com.do/tv/components/com_jmsvideo/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://telemicro.com.do/</link>
-<thumbnail>http://radioteve.com/tele/caribe/stdomingo/logo/telemic.jpg</thumbnail>
-</item>
-<item>
-<title>Aguilas Cibaenas</title>
-<link>$doregex[url]
-<regex>
-<name>url</name>
-<expres>rtsp_url":"([^"]*)</expres>
-<page>http://new.livestream.com/accounts/5710290/events/2472639/player?width=640&amp;height=360&amp;autoPlay=false&amp;mute=false</page>
-<referer>http://streaming.aguilas.com.do/</referer>
-</regex>
-</link>
-<thumbnail>http://4.bp.blogspot.com/-wzlhpL7IRqk/UGN4z8ipjyI/AAAAAAAAY-E/B6UcKP2KJY4/s1600/aguilas-1024x7681.png</thumbnail>
-</item>
-<item>
-<title>Santiago TV Canal 36 [COLOR=FFFF0000]XBMC Gotham Only[/COLOR]</title>
-<link>http://iphone-streaming.ustream.tv/ustreamVideo/18743646/streams/live/playlist.m3u8</link>
-<thumbnail>http://www.santiagotv36.com/images/logo.png</thumbnail>
-</item>
+
 <item>
 <title>Antena Latina</title>
 <link>rtmp://ss6.domint.net:1962/ app=al_edge/ playpath=antena swfUrl=http://ss7.domint.net/jw6/jwplayer.flash.swf pageUrl=http://www.antenalatina7.com/streaming7/streamingTV.php live=true timeout=15</link>
 <thumbnail>http://jeniffercalderon.files.wordpress.com/2010/07/logo_antena_latina_canal_71.jpg</thumbnail>
 </item>
+
 <item>
 <title>Telemedios Canal 25</title>
 <link>http://192.99.148.27:1935/rtplive/_definist_/canal25.sdp/playlist.m3u8</link>
 <thumbnail>http://www.canalesdominicano.com/wp-content/uploads/2013/10/Telemedios-Canal-25.jpg</thumbnail>
 </item>
 <item>
+
 <title>Bajo Techo TV HD</title>
 <link>http://dcunilive21-lh.akamaihd.net/i/dclive_1@24656/master.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_Bajo_Techo_Tv.jpg</thumbnail>
@@ -133,7 +84,6 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/play
 <thumbnail>http://gigantesdelcibaotv.com/LOGODELOSGIGANTES.PNG</thumbnail>
 </item>
 
-http://dominicanchannels.net/digital15/
 
 <item>
 <title>AGUILAS CIBAEÑAS</title>
@@ -219,8 +169,8 @@ http://dominicanchannels.net/digital15/
 </item>
 
 <item>
-<title>Digital 15 tes</title>
-<link>rtmp://67.212.234.140:9095/telemicro/telemicro1515 timeout=15</link>
+<title>Digital 15</title>
+<link>rtmp://vivo.canalesdominicanosenvivo.com:1935/can/ playpath=di15.stream swfUrl=http://emisoradominicana.net/html5/play/jwplayer.flash.swf pageUrl=http://emisoradominicana.net/html5/play/paly.php?canal=223 timeout=15</link>
 <thumbnail>http://www.cirqueros.com/web/images/stories/digital%2015%20logo.jpg</thumbnail>
 </item>
 
