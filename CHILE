@@ -5,73 +5,40 @@
  </item>
    
 <item>
- <title>tvn HD</title>
+ <title>TVN HD</title>
  <link>http://edge-12-cl.edge.mdstrm.com/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/master.m3u8</link>
 <thumbnail>http://www.frocus.net/images/logotv/original/tvn-chile.jpg</thumbnail>
  </item>
+ 
+<item>
+<title>REC TV HD</title>
+ <link>http://13rec.movil.ztreaming.com/13rec/13rec/playlist.m3u8</link>
+ <thumbnail>http://www.puranoticia.cl/front/adjunto/img/2014/04/01/foto_93786_280x190px_1.jpg</thumbnail>
+ </item>
+ 
+ <item>
+<title>REC TV HD</title>
+ <link>http://13rec.live.ztreaming.com/13rec/13rec/sat.m3u8</link>
+ <thumbnail>http://www.puranoticia.cl/front/adjunto/img/2014/04/01/foto_93786_280x190px_1.jpg</thumbnail>
+ </item>
+ 
+ 
+   
    
 <item>
- <title>sub tv santiago</title>
+ <title>SUB TV SANTIAGO</title>
  <link>mmsh://190.196.9.186:8080/subtv</link>
  <thumbnail>http://www.meddiostv.com/tv/subtv.jpg</thumbnail>
  </item>
   <item>
 
-<item>
-<title>VIVE DEPORTES</title>
-<link>http://200.104.250.182:1935/vtr_vivedeportes_online/vivedeportes-ipad/playlist.m3u8?wowzasessionid=1070247734</link>
-<thumbnail>http://i5.minus.com/iZ8Fv9UuWR6eQ.png</thumbnail>
-</item>
 
-<item>
-<title>VIVE</title>
-<link>http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-632.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
- 
  <item>
 <title>CHILE VISION</title>
 <link>rtmp://178.162.199.67:443/loadbalance?wmsAuthSign=/ playpath=19116929479914584489 swfUrl=http://pxstream.tv/jwplayer.flash.swf pageUrl=http://pxstream.tv/embedrouter.php?file=chilenext&width=680&height=400</link>
 <thumbnail>https://pbs.twimg.com/profile_images/550643019154587648/zpJ86zDv.jpeg</thumbnail>
 </item>
-
- <item>
-<title>CHILE VISION opcion2</title>
-<link>http://d1yjsz5fddyesn.cloudfront.net/livecf/chilevision/chunklist.m3u8</link>
-<thumbnail>https://pbs.twimg.com/profile_images/550643019154587648/zpJ86zDv.jpeg</thumbnail>
-</item>
-
-<item>
- <title>CANAL 13 test</title>
- <link>http://djcasanova.nl/13.m3u8</link>
-<thumbnail>http://static.13.cl/static/img/logo-ogfacebook.png</thumbnail>
-</item>
-
-<item>
- <title>CANAL 13 sd</title>
- <link>rtsp://edge-us.edge.mdstrm.com:80/live-s/4fcbddfd5aa3be6366c7670301eb019f_144p</link>
-<thumbnail>http://static.13.cl/static/img/logo-ogfacebook.png</thumbnail>
-</item>
-
-
-
-<item>
-<title>cnn chile</title>
-<link>rtsp://200.104.250.183/vtr_cnn_online/cnn-web</link>
- <thumbnail>http://img.androidsis.com/wp-content/uploads/cnn-chile.jpg</thumbnail>
- </item>
- 
- 
-
-        <item>
-	<title>rectv</title>
-	<link>http://13rec.movil.ztreaming.com/13rec/13rec/playlist.m3u8</link>
-	<thumbnail>http://www.puranoticia.cl/front/adjunto/img/2014/04/01/foto_93786_280x190px_1.jpg</thumbnail>
-	</item>
-   
-
-     
+    
    <item>
 	<title>la red</title>
 	<link>http://wow1.dallas.digitalproserver.com/redtv/redtvvivo/livestream3/master.m3u8</link>
