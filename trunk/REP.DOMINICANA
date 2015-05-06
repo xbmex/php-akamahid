@@ -64,24 +64,12 @@
 <thumbnail>http://jeniffercalderon.files.wordpress.com/2010/07/logo_antena_latina_canal_71.jpg</thumbnail>
 </item>
 
-<item>
-<title>Telemedios Canal 25</title>
-<link>http://192.99.148.27:1935/rtplive/_definist_/canal25.sdp/playlist.m3u8</link>
-<thumbnail>http://www.canalesdominicano.com/wp-content/uploads/2013/10/Telemedios-Canal-25.jpg</thumbnail>
-</item>
-<item>
 
-<title>Bajo Techo TV HD</title>
-<link>http://dcunilive21-lh.akamaihd.net/i/dclive_1@24656/master.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_Bajo_Techo_Tv.jpg</thumbnail>
-</item>
 <item>
 <title>CANAL 4</title>
 <link>rtmp://216.24.196.40:1935/live playpath=canal4 swfUrl=http://certvdominicana.com/institucional/live/canal4/reproductor/player.swf live=true timeout=15 pageUrl=http://certvdominicana.com/institucional/live/canal4/index.php</link>
 <thumbnail>http://4.bp.blogspot.com/-Z_mcG9euuDY/UPw0_XEo4YI/AAAAAAAABnI/R-CllmJY0BY/s1600/repretel_4.png</thumbnail>
 </item>
-
-
 
 <item>
 <title>GIGANTES DEL CIBAO</title>
