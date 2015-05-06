@@ -38,12 +38,6 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]OROMAR TV (ECUADOR)[/COLOR]</title>
-<link>rtmp://stream.gcorpvision.com:19356:1935/live/oromartv</link>
-<thumbnail>http://radioteve.com/tele/suramerica/ecuador/logo/aromar.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR skyblue]MI TVS (ECUADOR)[/COLOR]</title>
 <link>rtmp://181.198.10.23:1935/live/ playpath=mystream swfUrl=http://www.nasa.gov/sites/default/files/mediastreaming/jwplayer.flash.swf live=1 pageUrl=http://ecualive.me.la/live/tvdeecuador/tvs.html timeout=20</link>
 <thumbnail>https://lh6.googleusercontent.com/-g0gEArPXc8Y/UVE9WVryzWI/AAAAAAAAA-w/gNhRV0W9fAo/s241/tvs-gr.gif</thumbnail>
