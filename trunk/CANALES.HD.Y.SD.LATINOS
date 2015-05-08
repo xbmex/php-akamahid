@@ -7,16 +7,16 @@
  token=#ed%h0#w18623jsda6523lDGD</link>
 <thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
 
-<item><title>TELECURAÇAO [COLOR] bluesky]CURAÇAO[/COLOR]</title>
+<item><title>TELECURAÇAO</title>
 <link>rtmp://cdn8.iviplanet.com/Telecuracao playpath=myStream.sdp swfUrl=http://encoder.iviplanet.com/StreamerPlayers/player.swf pageUrl=http://www.telecuracao.com/web/Videos.aspx?type=channel&id=43 timeout=20</link>
 <thumbnail>http://www.telecuracao.com/upload/news/telecuracao111.jpg</thumbnail></item> 
 
-<item><title>TELECURAÇAO 2 [COLOR] bluesky]CURAÇAO[/COLOR]</title>
+<item><title>TELECURAÇAO 2</title>
 <link>rtmp://fl01.iviplanet.com/UTS playpath=myStream.sdp  swfUrl=http://encoder.iviplanet.com/StreamerPlayers/player.swf  pageUrl=http://www.telecuracao.com/web/Videos.aspx?type=channel&id=26 timeout=20</link>
 <thumbnail>http://www.telecuracao.com/upload/logos/TC2-2.png</thumbnail></item> 
 
-<item><title>TV MARTIN [COLOR] blue]CUBA[/COLOR]</title>
-<link>rtmp://cp117766.live.edgefcs.net/live/playpath=live_high@47386  http://www.jaxe.net/player/player-old.swf  pageUrl=http://tv.somoslatinos.es/television_cuba/tv_cubana.html timeout=20</link>
+<item><title>TV MARTIN </title>
+<link>rtmp://cp117766.live.edgefcs.net/live/  playpath=live_high@47386  http://www.jaxe.net/player/player-old.swf  pageUrl=http://tv.somoslatinos.es/television_cuba/tv_cubana.html timeout=20</link>
 <thumbnail>http://www.bbg.gov/wp-content/media/2013/06/New-Marti-Logo-Color-sml.jpg</thumbnail></item>  
 
 
