@@ -32,8 +32,7 @@
 <item><title>Mi Gente</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m3u8</link>
 <item><title>Canal 13</title><link>http://cdns840stu1010.multistream.net/canaltr3celive/amlst:live/playlist_b500000.m3u8</link>
 
-<item><title>CABLE NOTICIAS</title><link>rtmp://50.23.172.98:1935/live/ playpath=cablenoticiastv swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://fosforitotv.blogspot.ca/2013/01/cable-noticias.html
-			</link>
+<item><title>CABLE NOTICIAS</title><link>http://xteleantioquiawebsx.api.channel.livestream.com/3.0/playlist.m3u8</link>
 
 
 
