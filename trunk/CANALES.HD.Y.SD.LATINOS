@@ -16,7 +16,7 @@
 <thumbnail>http://www.telecuracao.com/upload/logos/TC2-2.png</thumbnail></item> 
 
 <item><title>TV MARTIN </title>
-<link>rtmp://cp117766.live.edgefcs.net/live/  playpath=live_high@47386  http://www.jaxe.net/player/player-old.swf  pageUrl=http://tv.somoslatinos.es/television_cuba/tv_cubana.html timeout=20</link>
+<link>rtmp://cp117766.live.edgefcs.net/live/  playpath=live_high@47386  swfUrl=http://www.jaxe.net/player/player-old.swf  pageUrl=http://tv.somoslatinos.es/television_cuba/tv_cubana.html timeout=20</link>
 <thumbnail>http://www.bbg.gov/wp-content/media/2013/06/New-Marti-Logo-Color-sml.jpg</thumbnail></item>  
 
 
