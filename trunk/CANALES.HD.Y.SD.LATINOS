@@ -8,11 +8,15 @@
 <thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
 
 
+
+
 <item><title>TELECURAÇAO [COLOR bluesky]CURAÇAO[/COLOR]</title>
-<link>rtmp://cdn8.iviplanet.com/Telecuracao playpath=myStream.sdp swfUrl=http://encoder.iviplanet.com/StreamerPlayers/player.swf pageUrl=http://www.telecuracao.com/web/Videos.aspx?type=channel&id=43 timeout=20</link></item> 
+<link>rtmp://cdn8.iviplanet.com/Telecuracao playpath=myStream.sdp swfUrl=http://encoder.iviplanet.com/StreamerPlayers/player.swf pageUrl=http://www.telecuracao.com/web/Videos.aspx?type=channel&id=43 timeout=20</link>
+<thumbnail>http://www.telecuracao.com/upload/news/telecuracao111.jpg</thumbnail></item> 
 
 <item><title>TELECURAÇAO 2 [COLOR bluesky]CURAÇAO[/COLOR]</title>
-<link>rtmp://fl01.iviplanet.com/UTS playpath=myStream.sdp  swfUrl=http://encoder.iviplanet.com/StreamerPlayers/player.swf  pageUrl=http://www.telecuracao.com/web/Videos.aspx?type=channel&id=26 timeout=20</link></item>  
+<link>rtmp://fl01.iviplanet.com/UTS playpath=myStream.sdp  swfUrl=http://encoder.iviplanet.com/StreamerPlayers/player.swf  pageUrl=http://www.telecuracao.com/web/Videos.aspx?type=channel&id=26 timeout=20</link>
+<thumbnail>http://www.telecuracao.com/upload/logos/TC2-2.png</thumbnail></item>  
 
 
 <item><title>MUNDO FOX</title><link>http://66.55.92.79:1935/app/ana69s-channel/.m3u8?</link></item>	
