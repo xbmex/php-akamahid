@@ -91,89 +91,15 @@
 <title>SPORT 1 RU </title>
 <link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/e/e3/Logo_of_Sport_(Russian_TV_channel,_2011).jpg</thumbnail>
-<fanart>http://www.deportesonline.com/imagenes/europapress/201203/20120313132032.jpg</fanart>
-</item>
+<fanart>http://www.deportesonline.com/imagenes/europapress/201203/20120313132032.jpg</fanart></item>
  
 <item>
 <title>SPORT 2 RU </title>
 <link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT/variant.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/e/e3/Logo_of_Sport_(Russian_TV_channel,_2011).jpg</thumbnail>
 <fanart>http://www.eusa.eu/documents/eusa/News/2011/550x405xeuctc-medallist_w.jpg.pagespeed.ic.cgHio6kV8U.jpg</fanart>
-</item>
 
-
-<item>
-	<title>Canal+ Liga </title>
-	<link>http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8?hd=10</link>
-	</item>
-
-	<item>
-	<title>C + Deportes (9stream)</title>
-	<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=mbfx0pnzzwuns0g swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
-	<regex>
-	<name>rtmp</name>
-	<expres>xs=_we_([^"]*)</expres>
-	<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=154 &autoplay=true</page>
-	<referer>http://www.9stream.com</referer>
-	</regex>
-	<regex>
-	<name>tok</name>
-	<expres>token":"([^."]*)</expres>
-	<page>http://www.9stream.com/server1.php?id=1417277241</page>
-	<referer>http://www.9stream.com</referer>
-	</regex>
-	<thumbnail></thumbnail>
-	</item>
-
-
-<item><title>CNPT 1</title><link>http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8</link>
+</item><item><title>CNPT 1</title><link>http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8</link>
 <thumbnail>http://www.mirutv.com/logo/cnopt1.jpg</thumbnail></item>
 
-<item>
-<title>[COLOR yellow]NFL NETWORK HD[/COLOR]</title>
-<link>plugin://plugin.video.tbh.ilive/?url=http://www.streamlive.to/view/68953&amp;link=99&amp;mode=iLivePlay</link>
-</item>
-
-<item>
-<title>[COLOR yellow]NFL NETWORK [/COLOR]</title>
-<link>plugin://plugin.video.tbh.ilive/?url=http://www.streamlive.to/view/70039&amp;link=99&amp;mode=iLivePlay</link>
-</item>
-
-<item>
-<title>[COLOR yellow]NFL LIVE TV[/COLOR]</title>
-<link>plugin://plugin.video.tbh.ilive/?url=http://www.streamlive.to/view/55912&amp;link=99&amp;mode=iLivePlay</link>
-</item>
-
-<item>
-<title>[COLOR yellow]NBA LIVE [/COLOR]</title>
-<link>plugin://plugin.video.tbh.ilive/?url=http://www.streamlive.to/view/69738&amp;link=99&amp;mode=iLivePlay</link>
-</item>
-<item>
-<title>[COLOR yellow]ESPN[/COLOR]</title>
-<link>plugin://plugin.video.tbh.ilive/?url=http://www.streamlive.to/view/69029&amp;link=99&amp;mode=iLivePlay</link>
-</item>
-
-
-<item>
-<title>[COLOR yellow]ESPN2[/COLOR]</title>
-<link>plugin://plugin.video.tbh.ilive/?url=http://www.streamlive.to/view/69028&amp;link=99&amp;mode=iLivePlay</link>
-</item>
-
-
-<item>
-<title>[COLOR yellow]UDN[/COLOR]</title>
-<link>rtmp://$doregex[rtmpip]/live playpath=asdfi8i?id=220813 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/fplayer.swf pageUrl=http://www.mips.tv live=1 timeout=20</link>
-<regex>
-<name>rtmpip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.mips.tv:1935/loadbalancer?220813</page>
-<referer>http://www.mips.tv/content/scripts/fplayer.swf</referer>
-</regex>
-</item>
-
-item>
-	<title>tvc deportes</title>
-	<link>rtmp://50.7.28.130/app playpath=16782?MTQyMzI0NzgzMDtjYmI5NWJmNTljN2U4NWZhMzJiNjRlMjg2YjcxZGIxYw== swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e7a51334e6a597a4e6a51324e546377/7fc0bf0e71f3</link>
-	<thumbnail>http://www.bus-k.me/file/pic/listing/2012/10/800677d3301d25eff17585277a4318b3.png</thumbnail>
-	</item>
 
