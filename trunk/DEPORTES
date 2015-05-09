@@ -99,31 +99,31 @@
 
 <item>
 <title>SKY SPORTS 1</title>
-<link>http://192.99.24.176:8080/Skyy1/Sk01ky1/index.m3u8</link>
+<link>rtmp://94.23.53.51/send//ss1hd.stream</link>
 <thumbnail>http://www.fairways-school.org/wp-content/uploads/2012/11/sky-sports-project-southampton.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 2</title>
-<link>rtmp://80.82.64.140:443/liverepeater playpath=48 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=48&width=600&height=450 token=#atd%#$ZH</link>
+<link>rtmp://94.23.53.51/send//ss2hd.stream</link>
 <thumbnail>http://4.bp.blogspot.com/-jYg8ovLGy-g/VAW6cF2XvII/AAAAAAAAFUc/PuxutEG0yto/s1600/sky%2Bsports%2B2%2Blive%2Bmykora.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 3 HD</title>
-<link>http://192.99.24.176:8080/skkY3/sk3Kp03/index.m3u8</link>
+<link>rtmp://94.23.53.51/send//ss3hd.stream</link>
 <thumbnail>http://4.bp.blogspot.com/-7FewPVsDh7A/VAW6c2XPZTI/AAAAAAAAFUg/weBNX1d4Ly4/s1600/sky%2Bsports%2B3%2Blive%2Bmykora.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 4</title>
-<link>http://192.99.24.176:8080/sk4/sSk4/index.m3u8</link>
+<link>rtmp://94.23.53.51/send//ss4hd.stream</link>
 <thumbnail>http://1.bp.blogspot.com/-dxNVODtGH8I/VAW6dF6R6dI/AAAAAAAAFUw/gLh5NuSCA0k/s1600/sky%2Bsports%2B4%2Blive%2Bmykora.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 5</title>
-<link>http://192.99.24.176:8080/skY5/skoK5/index.m3u8</link>
+<link>rtmp://94.23.53.51/send//ss5hd.stream</link>
 <thumbnail>http://www1.skysports.com/core/img/channels/Sky-Sports-5-Logo.png</thumbnail>
 </item>
 
@@ -142,7 +142,7 @@
 
 <item>
 <title>BT sport 1</title>
-<link>rtmp://80.82.78.39:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=13&width=600&height=450 token=#atd%#$ZH</link>
+<link>rtmp://94.23.53.51/send//bt1hd.stream</link>
 <thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
 </item>
 
@@ -151,20 +151,6 @@
 <link>rtmp://89.248.171.90:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH</link>
 <thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
 </item>
-
-<item>
-<title>BT SPORTS OPCION 2</title>
-<link>http://37.59.16.4:1935/global/btsport1.stream/playlist.m3u8</link>
-<thumbnail>http://www.toftwoodsocialclub.com/bt_sport.jpg</thumbnail>
-</item>
-
-<item>
-<title>BT SPORTS 2 OPCION 2</title>
-<link>http://37.59.16.4:1935/global/btsport2.stream/playlist.m3u8</link>
-<thumbnail>https://www.magnet.ie/wp-content/uploads/2011/12/BTSport2_CMYK.jpg</thumbnail>
-</item>
-
-
 
 <item>
 <title>SPORT 1 RU </title>
