@@ -57,58 +57,42 @@
 <item><title>FOX SPORT 2 USA</title>
 <link>rtmp://178.18.31.59:443/liverepeater/191782 pageUrl=http://biggestplayer.me token=#atd%#$ZH timeout=10 </link>
 <thumbnail></thumbnail></item>
-  
 
-
-        
-<item><title>VIVE DEPORTES HD</title>
-<link>http://200.104.250.182:1935/vtr_vivedeportes_online/vivedeportes-ipad/playlist.m3u8?wowzasessionid=1070247734</link>
-<thumbnail></thumbnail></item>
-
-<item><title>DIRECTV SPORTS</title>
-<link>rtmp://89.248.169.55/iguide playpath=6db7sx063ezf7z0 swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/29567/watch-live-deportesadfasdfsda-channel-for-free token=#ed%h0#w18623jsda6523lDGDVe</link>
-<thumbnail></thumbnail></item>
-
- <item><title>Gol2</title>
-<link>http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=479&lan=2&rows=40&f=.m3u8</link>
-<thumbnail></thumbnail></item>
-
-
- <item><title>FIGHTER</title>
+<item><title>FIGHTER</title>
 <link>http://iptv5.zargacum.net/iptv/KEKNKTM4T4/150/index.m3u8</link>
 <thumbnail>http://3.bp.blogspot.com/-y0Y-qCgQkaI/VPjLP5UvTlI/AAAAAAAADZ4/naHLiZ5833Q/s1600/%D0%91%D0%BE%D0%B5%D1%86.JPG</thumbnail></item>
  
 <item><title>ESPN HD</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?=-1</link>
+<link>http://200.76.77.237/LIVE/H01/CANAL516/PROFILE04.m3u8?=-1</link>
 <thumbnail>http://y.cdn.entutele.com/media/channels/big/espn-hd.gif</thumbnail></item>
 			
 <item><title>ESPN </title>
-<link>http://200.76.77.237/LIVE/H01/CANAL558/PROFILE05.m3u8?=-1</link>
+<link>http://200.76.77.237/LIVE/H01/CANAL558/PROFILE04.m3u8?=-1</link>
 <thumbnail>http://y.cdn.entutele.com/media/channels/big/espn.gif</thumbnail></item>
 			
 <item><title>ESPN 2</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL561/PROFILE05.m3u8?=-1</link>
+<link>http://200.76.77.237/LIVE/H01/CANAL561/PROFILE04.m3u8?=-1</link>
 <thumbnail>http://y.cdn.entutele.com/media/channels/big/espn-2.gif</thumbnail></item>
 			
 <item><title>ESPN 3</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?=-1</link>
+<link>http://200.76.77.237/LIVE/H01/CANAL520/PROFILE04.m3u8?=-1</link>
 <thumbnail>http://y.cdn.entutele.com/media/channels/big/espn-3.gif</thumbnail></item>
 			
 <item><title>FOX SPORT</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8?=-1</link>
+<link>http://200.76.77.237/LIVE/H01/CANAL522/PROFILE04.m3u8?=-1</link>
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/fox-sports.gif</thumbnail></item>
 			
 <item><title>FOX SPORT 2</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?=-1</link>
+<link>http://200.76.77.237/LIVE/H01/CANAL527/PROFILE04.m3u8?=-1</link>
 <thumbnail>http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif</thumbnail></item>
 
 
 <item><title>PXTV HD</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL528/PROFILE05.m3u8?=-1</link>
+<link>http://200.76.77.237/LIVE/H01/CANAL528/PROFILE04.m3u8?=-1</link>
 <thumbnail>http://www.pxtv.tv/wp-content/uploads/2014/03/ipad-retina.png</thumbnail></item>
 
 <item><title>AYM SPORTS </title>
-<link>http://200.76.77.237/LIVE/H01/CANAL576/PROFILE05.m3u8?=-1</link>
+<link>http://200.76.77.237/LIVE/H01/CANAL576/PROFILE04.m3u8?=-1</link>
 <thumbnail>http://hispanic-tv.jumptv.com/images/2007/12/14/logo_aym_sports.jpg</thumbnail></item>
 
 
