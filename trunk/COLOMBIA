@@ -30,8 +30,9 @@
 <link>rtmp://fl01.iviplanet.com/TELEPACIFICO-TO playpath=myStream.sdp swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion
  timeout=10</link><thumbnail>http://img2.wikia.nocookie.net/__cb20121102222303/logopedia/images/d/de/IvIPy8fZekp1X.png</thumbnail></item>
 
-<item><title>[COLOR skyblue]TRECE[COLOR lime]HD[/COLOR]</title>
-<link>rtmp://cdn9.iviplanet.com/DEMOUNO  playpath=myStream.sdp swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion timeout=10</link><thumbnail>http://3.bp.blogspot.com/-ZcNDnWls7iU/UDEemUxuXxI/AAAAAAAAAmo/ZMoxPa10k_w/s1600/canal_13_trece.png</thumbnail></item>
+<item><title>[COLOR skyblue]TRECE[COLOR blue]HD[/COLOR]</title>
+<link>rtmp://fl01.iviplanet.com/DEMOUNO playpath=myStream.sdp swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion
+ timeout=10</link><thumbnail>http://3.bp.blogspot.com/-ZcNDnWls7iU/UDEemUxuXxI/AAAAAAAAAmo/ZMoxPa10k_w/s1600/canal_13_trece.png</thumbnail></item>
 
 <item><title>[COLOR skyblue]CANAL UNO[COLOR lime]HD[/COLOR]</title>
 <link>rtmp://fl01.iviplanet.com/DEMODOS playpath=myStream.sdp swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion
