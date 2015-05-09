@@ -1,4 +1,3 @@
-
 <item>
 <title>SKY SPORTS 1 HD</title><link>rtmp://94.23.53.51/send//ss1hd.stream</link>
 <thumbnail>http://www.fairways-school.org/wp-content/uploads/2012/11/sky-sports-project-southampton.jpg</thumbnail>
@@ -19,7 +18,7 @@
 <title>SKY SPORTS 5 HD</title><link>rtmp://94.23.53.51/send//ss5hd.stream</link>
 <thumbnail>http://www1.skysports.com/core/img/channels/Sky-Sports-5-Logo.png</thumbnail>
 </item>
-<item><title>BT sport 1 SD</title><link>rtmp://94.23.53.51/send//bt1hd.stream</link>
+<item><title>BT sport 1 HD</title><link>rtmp://94.23.53.51/send//bt1hd.stream</link>
 <thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail></item>
 <item>
 <title>BT sport 2 HD</title>
