@@ -1,11 +1,8 @@
 <item>
-<title>ECUAVISA int</title>
-<link>rtmp://62.210.88.232:1935/liverepeat  playpath=ecuatv1 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf pageUrl=http://direct-stream.biz/embednews.php?c=ecuatv1&vw=600&vh=400
-</link>
+<title>ECUAVISA</title>
+<link>rtmp://62.210.88.232:1935/liverepeat playpath=ecuatv1  swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf pageUrl=http://direct-stream.biz/embednews.php?c=ecuatv1&vw=600&vh=400 timeout=20</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/534px-Logo_Ecuavisa.svg.png</thumbnail>
 </item>
-
-
 
 <item>
 <title>ECUADOR TV INTERNACIONAL</title>
