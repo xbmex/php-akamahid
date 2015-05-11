@@ -241,54 +241,6 @@
 <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/broadmovies_320.jpg</thumbnail>
 </item>
 
-<item>
-<title>UNIVERSAL CINE</title>
-<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_universal_movies live=1 timeout=20</link>
-<regex>
-<name>getIP</name>
-<expres>function getEdgeServers.*"(.*?),<expres>
-<page>http://vaughnlive.tv/universal_movies</page>
-</regex>
-<regex>
-<name>getCODE</name>
-<expres>vsVars.*= "0m0(.*?)"<expres>
-<page>http://vaughnlive.tv/universal_movies</page>
-</regex>
-<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/universal_movies_320.jpg</thumbnail>
-</item>
-
-<item>
-<title>CINEMA LATINO</title>
-<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_cinemalatinohd01 live=1 timeout=20</link>
-<regex>
-<name>getIP</name>
-<expres>function getEdgeServers.*"(.*?),<expres>
-<page>http://vaughnlive.tv/cinemalatinohd01</page>
-</regex>
-<regex>
-<name>getCODE</name>
-<expres>vsVars.*= "0m0(.*?)"<expres>
-<page>http://vaughnlive.tv/cinemalatinohd01</page>
-</regex>
-<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/cinemalatinohd01_320.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>PLANETA MOVIES</title>
-<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_planetamovies live=1 timeout=20</link>
-<regex>
-<name>getIP</name>
-<expres>function getEdgeServers.*"(.*?),<expres>
-<page>http://vaughnlive.tv/planetamovies</page>
-</regex>
-<regex>
-<name>getCODE</name>
-<expres>vsVars.*= "0m0(.*?)"<expres>
-<page>http://vaughnlive.tv/planetamovies</page>
-</regex>
-<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/planetamovies_320.jpg</thumbnail>
-</item>
 
 
 <item>
@@ -304,12 +256,6 @@
 <thumbnail>http://www.myfilmviews.com/wp-content/uploads/2012/12/universal-pictures-100th-anniversary-logo1.jpg</thumbnail>
 </item>
 
-
-<item>
-<title>CONTI TV HD</title>
-<link>rtmp://v2.tustreaming.cl/origintser3/ playpath=tser3.sdp swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://live.tustreaming.cl/vd/canal21hd/ timeout=20</link>
-<thumbnail>http://live.tustreaming.cl/vd/canal212014/logo2.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR golden]CINE CHILENO [/COLOR]</title>
