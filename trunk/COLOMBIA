@@ -53,7 +53,7 @@
 <item><title>Mi Gente</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m3u8</link>
 <item><title>Canal 13</title><link>http://cdns840stu1010.multistream.net/canaltr3celive/amlst:live/playlist_b500000.m3u8</link>
 
-<item><title>test</title><link> rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/chteleantioquiawebs/2014/10/14/503f5ac9-cbec-4fd0-a218-0d99c767e30e  swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?jsEnabled=false&autoPlay=true pageUrl=http://www.tvgratisya.com/ver-teleantioquia-en-vivo/ timeout=10</link>
+<item><title>test 2</title><link> rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/chteleantioquiawebs/2014/10/14/503f5ac9-cbec-4fd0-a218-0d99c767e30e timeout=10</link>
 
 
 			
