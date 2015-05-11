@@ -30,120 +30,7 @@
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>Cairo Drama</title>
-<link>rtmp://162.212.176.107/cairo_drama//globaltv-cairo_drama.stream</link>
-<thumbnail></thumbnail>
-</item>
 
-<item>
-<title>MBC 1</title>
-<link>rtmp://213.136.90.47/live?idu=kingaufmetin2_73520716500/mbc_1?beiadam</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>PINK MOVIES 2</title>
-<link>http://on108.setplex.net/fastv_2psh/PinkMovies2global_rly_greece_109/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>PINK MOVIES 3</title>
-<link>http://on108.setplex.net/fastv_2psh/PinkMovies3global_rly_greece_109/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>PINK HORROR</title>
-<link>http://on108.setplex.net/fastv_2psh/PinkHorrorglobal_rly_greece_103/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title>PINK Comedy</title>
-<link>http://on108.setplex.net/fastv_2psh/PinkComedyglobal_rly_greece_103/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>PINK Reality</title>
-<link>http://on108.setplex.net/fastv_2psh/PinkRealityglobal_rly_greece_103/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title>ITV Choice</title>
-<link>http://ilg.club/streamlink.m3u8?channel_id=e36b99bcd26648af9db2261785c77b7a&bitrate=800</link>
-<thumbnail>http://tbivision.com/wp-content/uploads/2013/02/itv_choice_logo2.jpg</thumbnail>
-</item>
-
-<item>
-<title>Nat Geo Wild HD</title>
-<link>http://ilg.club/streamlink.m3u8?channel_id=607fa33938bc4a3ea6c43ce47ddb8ed8&bitrate=800</link>
-<thumbnail>http://images.wikia.com/logopedia/images/archive/9/9f/20111201221120!Nat_Geo_Wild_HD.png</thumbnail>
-</item>
-
-<item>
-<title>STAR TV  (TV TURK)</title>
-<link>http://hls01-04.az.myvideo.az/hls-live/livepkgr/startv/startv/startv.m3u8?rRb545vJBB5tYzB7vVP</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Nile cinema</title>
-<link>rtmp://livestreaming4.onlinehorizons.net/NTNNilecinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=cinema</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MBC 1</title>
-<link>http://38.99.146.37:7777/MBC2_HD.m3u8?user=HTTP_Proxy_ZIXI-37_1209712&session=118d5f674aefb556d2fa6bbc5ad5964cf0bc400f117c02176ced42964d1b6e60&hlsid=HLS_149700</link>
-<thumbnail></thumbnail>
-</item>
-
-			
-			<item>
-			<title>[COLOR=yellow]SKYSPORTS NEWS[/COLOR]</title>
-			<link>rtmpe://31.220.0.12/live/skyspoonews pageUrl=http://www.dcast.tv/loboi</link>
-			<thumbnail></thumbnail>
-			</item>
-
-<item>
-			<title>[COLOR=yellow]SKYSPORTS 1[/COLOR]</title>
-			<link>rtmpe://31.220.0.12/live/skyspoo1 pageUrl=http://www.dcast.tv/loboi</link>
-			<thumbnail></thumbnail>
-			</item>
-			
-					
-<item>
-			<title>[COLOR=yellow]Sky sport 1 DE[/COLOR]</title>
-			<link>http://62.209.36.244:8081/udp/239.100.41.1:1234</link>
-			<thumbnail></thumbnail>
-			</item>
-
-			
-<item>
-			<title>[COLOR=yellow]Sky sport 2 DE[/COLOR]</title>
-			<link>http://62.209.36.244:8081/udp/239.100.42.1:1234</link>
-			<thumbnail></thumbnail>
-			</item>
-		
-<item>
-			<title>[COLOR=yellow]Sky bundesliga 1DE[/COLOR]</title>
-			<link>http://62.209.36.244:8081/udp/239.100.40.1:1234</link>
-			<thumbnail></thumbnail>
-			</item>
-			
-			<item>
-			<title>[COLOR=yellow]Sky sport 1 HD[/COLOR]</title>
-			<link>http://62.209.36.244:8081/udp/239.100.70.1:1234</link>
-			<thumbnail></thumbnail>
-			</item>
-			
-			
 			
 <item>
 			<title>[COLOR=yellow]Discovery Investigation[/COLOR]</title>
@@ -217,48 +104,6 @@
 
 			</item>
 
-<item>
-<title>Nova TV [COLOR](Croatia)[/COLOR]</title>
-<link>http://146.0.40.73:8080/ipvt_001</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/4e/Novatv_hr.png</thumbnail>
-</item>
-
-
-<item>
-<title>AT 5 NL</title>
-<link>http://82.94.228.213:1935/broadcast/_definst_/stream1/playlist.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/9/9c/AT5_Logo.png</thumbnail>
-</item>
-
-<item>
-<title>FOX SPORTS (china)</title>
-<link>rtmp://zfu2.mvp6886.net/zfs/jdai-34idss2</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>FOX SPORTS 2 (china)</title>
-<link>rtmp://zfu2.mvp6886.net/zfs/g0o37qmf041h</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>FUTBOL 1</title>
-<link>http://stream2.mytrinity.com.ua:4021/udp/239.1.0.63:1234?by_mikusa1111</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>FUTBOL 2</title>
-<link>http://stream2.mytrinity.com.ua:4021/udp/239.1.0.182:1234?MIKUSA1111</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>FOX SPORT</title>
-<link>http://94.209.184.162:8001/1:0:1:BC:5:1F4:FFFF0000:0:0:0:</link>
-<thumbnail></thumbnail>
-</item>
 
 <item>
 <title>DISCOVERY MAX</title>
@@ -278,52 +123,9 @@
 <thumbnail>http://a441.phobos.apple.com/us/r30/Purple6/v4/b3/b9/92/b3b992a5-29dd-c9b9-1f86-b29d531df6c4/mzl.rqxylill.jpg</thumbnail>
 </item>
 
-<item>
-<title>ESPN USA HD</title>
-<link>http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/index_4728_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>VIASA SPORT</title>
-<link>http://92.63.88.19:8001/106</link>
-<thumbnail>https://b-a.d-cd.net/675891u-960.jpg</thumbnail>
-</item>
-
-<item>
-<title>CARTOON NETWORK</title>
-<link>http://195.244.40.203:8001/1:0:16:51CC:C96:3:EB0000:0:0:0:</link>
-<thumbnail>http://www.brandingmagazine.com/wp-content/uploads/2011/07/682px-Original_Cartoon_Network_logo.svg_.png</thumbnail>
-</item>
-
 
 <item>
 <title>BTN SPORTS</title>
 <link>http://xrxs.net/video/live-btn-1240.m3u8</link>
 <thumbnail>http://www.mediabistro.com/tvnewser/files/2011/07/Big-Ten-Network-New-Logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>PRO SPORTS 1</title>
-<link>http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>PRO SPORTS 2</title>
-<link>http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title>PRO SPORTS 3</title>
-<link>http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>PRO SPORTS 4</title>
-<link>http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live.m3u8</link>
-<thumbnail></thumbnail>
 </item>
