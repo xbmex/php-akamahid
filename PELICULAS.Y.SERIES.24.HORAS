@@ -1,116 +1,4 @@
- <item>
-			<title>MEGAKIDS HD</title>
-			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_mega_kids live=1 timeout=20</link>
-			<regex>
-			<name>getIP</name>
-			<expres>function getEdgeServers.*"(.*?),<expres>
-			<page>http://vaughnlive.tv/embed/video/mega_kids</page>
-			</regex>
-			<regex>
-			<name>getCODE</name>
-			<expres>vsVars.*= "0m0(.*?)"<expres>
-			<page>http://vaughnlive.tv/embed/video/mega_kids</page>
-			</regex>
-		<thumbnail>ttp://img1.wikia.nocookie.net/__cb20130703150452/disney/images/c/c1/Walt_disney_pictures.jpg</thumbnail>
-			</item>
-			<item>
-			<title>HBO</title>
-			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_universal_movies live=1 timeout=20</link>
-			<regex>
-			<name>getIP</name>
-			<expres>function getEdgeServers.*"(.*?),<expres>
-			<page>http://vaughnlive.tv/embed/video/universal_moviest</page>
-			</regex>
-			<regex>
-			<name>getCODE</name>
-			<expres>vsVars.*= "0m0(.*?)"<expres>
-			<page>http://vaughnlive.tv/embed/video/universal_movies</page>
-			</regex>
-			</item>
-         
-         <item>
-<title>[COLOR yellow]HBO[/COLOR]</title>
-<link>plugin://plugin.video.tbh.ilive/?url=http://www.streamlive.to/view/69021&amp;link=99&amp;mode=iLivePlay</link>
-</item>
-
- <item>
-			<title>HBO</title>
-			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_universal_movies live=1 timeout=20</link>
-			<regex>
-			<name>getIP</name>
-			<expres>function getEdgeServers.*"(.*?),<expres>
-			<page>http://vaughnlive.tv/embed/video/universal_moviest</page>
-			</regex>
-			<regex>
-			<name>getCODE</name>
-			<expres>vsVars.*= "0m0(.*?)"<expres>
-			<page>http://vaughnlive.tv/embed/video/universal_movies</page>
-			</regex>
-			</item>
-			
-			<item>
-			<title>CINEMAX</title>
-			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_katyhd live=1 timeout=20</link>
-			<regex>
-			<name>getIP</name>
-			<expres>function getEdgeServers.*"(.*?),<expres>
-			<page>http://vaughnlive.tv/katyhd</page>
-			</regex>
-			<regex>
-			<name>getCODE</name>
-			<expres>vsVars.*= "0m0(.*?)"<expres>
-			<page>http://vaughnlive.tv/katyhd</page>
-			</regex>
-			</item>
-			
-			
-				<item>
-			<title>MOVIE CITY</title>
-			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_lcreme_staff  live=1 timeout=20</link>
-			<regex>
-			<name>getIP</name>
-			<expres>function getEdgeServers.*"(.*?),<expres>
-			<page>http://vaughnlive.tv/embed/video//lcreme_staff</page>
-			</regex>
-			<regex>
-			<name>getCODE</name>
-			<expres>vsVars.*= "0m0(.*?)"<expres>
-			<page>http://vaughnlive.tv/embed/video//lcreme_staff</page>
-			</regex>
-			</item>
-			
-				<item>
-			<title>Mega Movies H</title>
-			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_mega_movieshd live=1 timeout=20</link>
-			<regex>
-			<name>getIP</name>
-			<expres>function getEdgeServers.*"(.*?),<expres>
-			<page>http://vaughnlive.tv/mega_movieshd</page>
-			</regex>
-			<regex>
-			<name>getCODE</name>
-			<expres>vsVars.*= "0m0(.*?)"<expres>
-			<page>http://vaughnlive.tv/mega_movieshd</page>
-			</regex>
-			<thumbnail>http://www.brandcrowd.com/gallery/brands/pictures/picture13571255735592.jpg</thumbnail>
-			</item>
-			
-				<item>
-			<title>Chavo del 8  24/7</title>
-			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_mega_chavo live=1 timeout=20</link>
-			<regex>
-			<name>getIP</name>
-			<expres>function getEdgeServers.*"(.*?),<expres>
-			<page>http://vaughnlive.tv/mega_chavo</page>
-			</regex>
-			<regex>
-			<name>getCODE</name>
-			<expres>vsVars.*= "0m0(.*?)"<expres>
-			<page>http://vaughnlive.tv/mega_chavo</page>
-			</regex>
-			<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/9/9e/El_Chavo_Animado_logo.svg/1280px-El_Chavo_Animado_logo.svg.png</thumbnail>
-			</item>
-         
+ 
 <item>
 <title>FOX 1 (LATINO)</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?=-1</link>
@@ -219,20 +107,10 @@
 </item>
 
 <item>
-<title>MEGA EXTREMO</title>
-<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_mega_extremo live=1 timeout=20</link>
-<regex>
-<name>getIP</name>
-<expres>function getEdgeServers.*"(.*?),<expres>
-<page>http://vaughnlive.tv/mega_extremo</page>
-</regex>
-<regex>
-<name>getCODE</name>
-<expres>vsVars.*= "0m0(.*?)"<expres>
-<page>http://vaughnlive.tv/mega_extremo</page>
-</regex>
-<thumbnail>http://files.herpzradio.webnode.mx/200000166-15e1a16db7/mega.jpg</thumbnail>
-</item>
+ <title>HBO</title>
+<link>rtmp://50.7.69.186/iguide playpath=0bf02qe6msgtu4s swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7</link><!-- --></item>
+
+
 
 <item>
 <title>VITATO HD</title>
