@@ -79,4 +79,10 @@
 	<link>rtmp://69.164.193.177/live/myStream</link>
 	<thumbnail>http://elpinguino.com/uploads/imagenes/31ff813ec09ff24223fd1fed891336da.jpg</thumbnail>
 	</item>
+   
+   <item>
+<title>[COLOR golden]CINE CHILENO [/COLOR]</title>
+<link>rtmp://149.11.34.6/live playpath=sesioncontinuatv.stream swfUrl=http://lasteles.com/js/mediaplayer-5.10/player.swf?35 live=1 pageUrl=http://lasteles.com/es/directo/SESI%C3%93N-CONT%C3%8DNUA-TV/</link>
+<thumbnail>http://radio.uchile.cl/wp-content/uploads/2012/12/cinechileno.jpg</thumbnail>
+</item>
 	 
