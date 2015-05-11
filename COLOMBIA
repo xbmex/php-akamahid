@@ -38,8 +38,8 @@
 <link>rtmp://fl01.iviplanet.com/DEMODOS playpath=myStream.sdp swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion
  timeout=10</link><thumbnail>http://rtvc-assets-sistemasenalcolombia.gov.co.s3.amazonaws.com/LOGObanner.png</thumbnail></item>
 
-<item><title>CABLE NOTICIAS</title><link>
-rtmp://50.23.173.13:1935/live/ playpath=cablenoticiastv_720p swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.cablenoticias.tv/
+<item><title>CABLE NOTICIAS</title>
+<link>rtmp://50.23.173.13:1935/live/ playpath=cablenoticiastv_720p swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.cablenoticias.tv/
 <thumbnail>http://www.olympusat.com/sites/default/files/cablenot_logos_HR.png</thumbnail></item></link>
 
 <item>
@@ -48,13 +48,10 @@ rtmp://50.23.173.13:1935/live/ playpath=cablenoticiastv_720p swfUrl=http://p.jwp
 <thumbnail>http://ccomunicaciones.udenar.edu.co/wp-content/uploads/2012/11/senalcolombia.jpg</thumbnail>
 
 <item><title>Telecafe</title><link>http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8</link>
- <item><title>Telecaribe</title><link>http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8</link>
+<item><title>Telecaribe</title><link>http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8</link>
 <item><title>Telepacifico</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/12380713/streams/live/playlist.m3u8</link>
 <item><title>Mi Gente</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m3u8</link>
 <item><title>Canal 13</title><link>http://cdns840stu1010.multistream.net/canaltr3celive/amlst:live/playlist_b500000.m3u8</link>
-
-<item><title>CABLE</title><link>http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u8</link>
-
 
 
 			
