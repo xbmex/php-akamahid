@@ -1,8 +1,36 @@
-<item><title>TN HD</title>
-<link>rtsp://stream.tn.com.ar/live/tnmovil2</link></item>
+<item><title>TN HD</title><link>rtsp://stream.tn.com.ar/live/tnmovil2</link></item>
+<item><title>CANAL 13 HD</title><link>rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1</link></item>
+<item><title>C5N HD</title><link>http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8</link></item>
+<item><title>C5N HD - Opcion 2</title><link>rtmp://c5n.stweb.tv:1935/c5n/live_media</link></item>
+<item><title>A24</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/17916700/streams/live/playlist.m3u8</link></item>
+<item><title>152 Canal 10 Entre Rios</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/253309/streams/live/playlist.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-YRwLG1VUGyg/TsfAJESs9yI/AAAAAAAABgI/Y-EbAN5cYBs/s1600/c10sanjoseentrerios.jpg</thumbnail></item>
+<item>
+<title>[COLOR lime]Kiss TV[/COLOR]<title>
+<link>rtmp://tst.es.flash.glb.ipercast.net/ app=tst.es-live/ playpath=live swfUrl=http://www.kisstelevision.es/flowplayer-3.2.16.swf pageUrl=http://www.sintelevisor.com/tv/canales/kisstv.php live=true timeout=15</link>
+<thumbnail>http://www.sintelevisor.com/tv/imagenes/kisstv.jpg</thumbnail>
+</item>
+<item>
+			<title>[COLOR lime]El Rural[/COLOR]<title>
+			<link>rtmp://streamrural.cmd.com.ar/ app=liverural/crural playpath=rural1 swfUrl=http://www.elrural.com/sites/default/files/jwplayermodule/player/player.swf pageUrl=http://www.elrural.com/canal_rural/vivo live=true timeout=15</link>
+			<thumbnail>http://www.elrural.com/sites/default/files/elrural_favicon.png</thumbnail>
+			</item>
 
-<item><title>CANAL 13 HD</title>
-  <link>rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1</link></item>
+			<item>
+			<title>[COLOR lime]Fashion TV HD[/COLOR]<title>
+			<link>rtmp://stream.fashiontvla.com/ app=liveftv/ftv playpath=ftv2 swfUrl=http://fashiontvla.com/sites/all/modules/custom/nota_video/player.swf pageUrl=http://fashiontvla.com/vivo live=true timeout=15</link>
+			<thumbnail>http://www.sintelevisor.com/tv/imagenes/ftv.jpg</thumbnail>
+			</item>
+
+
+
+
+			
+
+
+
+
+
 			
 
 
