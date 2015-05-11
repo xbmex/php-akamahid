@@ -19,9 +19,6 @@
  
 <item><title>TELEMUNDO USA</title><link>http://66.55.92.79:1935/app/chivasss69s-channel/.m3u8</link></item>
 
-<item><title>Univision</title><link>http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=121&lan=2&rows=40&f=.m3u8</link></item>
-
- 
 <item>
 <title>TELEMUNDO</title>
 <link>rtmp://94.102.49.207/iguide playpath=4w89yalrid1j4jt swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer.php?width=610&height=430&channel=13887&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link>
