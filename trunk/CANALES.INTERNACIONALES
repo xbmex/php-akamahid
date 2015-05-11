@@ -4,45 +4,12 @@
  <thumbnail></thumbnail>
  </item>
 
-<item><title>HBO HD Ingles</title>
-<link>http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item><title>HBO HD</title>
-<link>http://50.7.69.170:1935/edge/_definst_/qzbbu26gcvjxksz/chunklist.m3u8?wowzasessionid=1419847602</link></item>
-
 <item><title>Anime</title><link>rtmp://66.55.92.79:1935/app/mrrockrocks-channel</link></item>
 
 <item>
 <title>ABC</title>
 <link>http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8</link>
 <thumbnail>http://images.vectorhq.com/images/previews/4a7/abc-logo-psd-470128.png</thumbnail>
-</item>
-
-<item>
-<title>TUNISIA 1</title>
-<link>rtmp://www.teledunet.net:1935/live playpath=teledunet_tv swfUrl=http://www.teledunet.com/mobile//player.swf?channel=teledunet_tv&user=Visiteur&token= pageUrl=http://www.teledunet.com/mobile/ timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sporttv1</title>
-<link>http://cdn-02.sdn.si/sporttv1/sporttv1.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sporttv2</title>
-<link>http://cdn-02.sdn.si/sporttv2/sporttv2.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title>Sporttv3</title>
-<link>http://cdn-02.sdn.si/sporttv3/sporttv3.m3u8</link>
-<thumbnail></thumbnail>
 </item>
 
 <item>
@@ -64,29 +31,8 @@
 </item>
 
 <item>
-<title>Trace Sports</title>
-<link>http://cdn-02.sdn.si/tracesports/tracesports.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title>ORF1</title>
-<link>http://cdn-02.sdn.si/orf1/orf1.m3u8 </link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ORF2</title>
-<link>http://cdn-02.sdn.si/orf2/orf2.m3u8 </link>
-<thumbnail></thumbnail>
-</item>
-
-
-
-<item>
 <title>PINK Action 2</title>
-<link>http://on108.setplex.net/fastv_2psh/PinkAction2global_rly_greece_103/playlist.m3u8</link>
+<link>rtmp://162.212.176.107/cairo_drama//globaltv-cairo_drama.stream</link>
 <thumbnail></thumbnail>
 </item>
 
