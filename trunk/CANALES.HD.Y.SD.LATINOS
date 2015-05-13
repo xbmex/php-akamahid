@@ -25,65 +25,6 @@
 <thumbnail>http://img3.wikia.nocookie.net/__cb20100308171346/logopedia/images/1/19/Telemundo_logo.svg</thumbnail>
 </item>  
   
-<itemoff>
-<title>Telemundo 29</title>
- <link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_telemundo29 live=1 timeout=20</link>
-<regex>
-<name>getIP</name>
-<expres>function getEdgeServers.*"(.*?),<expres>
-<page>http://vaughnlive.tv/telemundo29</page>
-</regex>
-<regex>
-  <name>getCODE</name>
-<expres>vsVars.*= "0m0(.*?)"<expres>
-<page>http://vaughnlive.tv/telemundo29</page>
-</regex>
- </item>
- 
-  <item>
-			<title>Mega Extremo </title>
-			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_telemundo29 live=1 timeout=20</link>
-			<regex>
-			<name>getIP</name>
-			<expres>function getEdgeServers.*"(.*?),<expres>
-			<page>http://vaughnlive.tv/telemundo29</page>
-			</regex>
-			<regex>
-			<name>getCODE</name>
-			<expres>vsVars.*= "0n0(.*?)"<expres>
-			<page>http://vaughnlive.tv/telemundo29o</page>
-			</regex>
-			</item>
-         
-<itemoff>
- <title>Telemundo 34</title>
-<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_telemundo34 live=1 timeout=20</link>
- <regex>
-<name>getIP</name>
-<expres>function getEdgeServers.*"(.*?),<expres>
-<page>http://vaughnlive.tv/telemundo34</page>
-</regex>
-<regex>
-<name>getCODE</name>
-<expres>vsVars.*= "0m0(.*?)"<expres>
-<page>http://vaughnlive.tv/telemundo34</page>
-</regex>
-  </item>
-         
-<itemoff>
-<title>Telemundo 35  (horario Pacifico)</title>
-<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_telemundo35 live=1 timeout=20</link>
-<regex>
-<name>getIP</name>
-<expres>function getEdgeServers.*"(.*?),<expres>
-<page>http://vaughnlive.tv/telemundo35</page>
-</regex>
-<regex>
-<name>getCODE</name>
-<expres>vsVars.*= "0m0(.*?)"<expres>
-<page>http://vaughnlive.tv/telemundo35</page>
-</regex>
-</item>
          
 <item>
 <title>America TV</title>
