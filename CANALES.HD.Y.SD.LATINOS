@@ -15,6 +15,18 @@
 <link>rtmp://fl01.iviplanet.com/UTS playpath=myStream.sdp  swfUrl=http://encoder.iviplanet.com/StreamerPlayers/player.swf  pageUrl=http://www.telecuracao.com/web/Videos.aspx?type=channel&id=26 timeout=20</link>
 <thumbnail>http://www.telecuracao.com/upload/logos/TC2-2.png</thumbnail></item> 
 
+<item>
+			<title>    [COLOR pink]Univision[/COLOR]</title>
+			<link>$doregex[get-link]</link>
+			<regex>
+			<name>get-link</name>
+			<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/15379493/streams/live/playlist.m3u8')</expres>
+			<page></page>
+			</regex> 
+			</item>
+			
+
+
 <item><title>MUNDO FOX</title><link>http://66.55.92.79:1935/app/ana69s-channel/.m3u8?</link></item>	
  
 <item><title>TELEMUNDO USA</title><link>http://66.55.92.79:1935/app/chivasss69s-channel/.m3u8</link></item>
