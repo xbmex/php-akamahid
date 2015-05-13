@@ -39,6 +39,21 @@
 <page>http://vaughnlive.tv/telemundo29</page>
 </regex>
  </item>
+ 
+  <item>
+			<title>Mega Extremo </title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_telemundo29 live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/telemundo29</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0n0(.*?)"<expres>
+			<page>http://vaughnlive.tv/telemundo29o</page>
+			</regex>
+			</item>
          
 <itemoff>
  <title>Telemundo 34</title>
