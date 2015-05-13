@@ -714,6 +714,260 @@
 			</regex>
 			<thumbnail></thumbnail>
 			</item>
+         
+         
+			<item>
+			<title>Chavo del 8</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_chavo_de_ocho live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/chavo_de_ocho</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0n0(.*?)"<expres>
+			<page>http://vaughnlive.tv/chavo_de_ocho</page>
+			</regex>
+			</item>
+			
+			<item>
+			<title>Mega Chavo del 8</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_mega_chavo live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/mega_chavo</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0n0(.*?)"<expres>
+			<page>http://vaughnlive.tv/mega_chavo</page>
+			</regex>
+			</item>
+			
+			
+			<item>
+			<title>Chavo del 8 op2</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_el_chavo_de_ocho live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/el_chavo_de_ocho</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0n0(.*?)"<expres>
+			<page>http://vaughnlive.tv/el_chavo_de_ocho</page>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>Chespirito TV</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_leyshazt live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/leyshazt</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0n0(.*?)"<expres>
+			<page>http://vaughnlive.tv/leyshazt</page>
+			</regex>
+			</item>
+			
+			<item>
+			<title>Chapulin Colorado</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_chapulincolorado live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/chapulincolorado</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0n0(.*?)"<expres>
+			<page>http://vaughnlive.tv/chapulincolorado</page>
+			</regex>
+			</item>
+			
+			
+			<item>
+			<title>Saint Seiya : Caballero del Zodiaco </title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_mega_bot live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/mega_bot</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0n0(.*?)"<expres>
+			<page>http://vaughnlive.tv/mega_bot</page>
+			</regex>
+			</item>
+			
+			
+			<item>
+			<title>Dragon Ball</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_mega_animes live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/mega_animes</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0n0(.*?)"<expres>
+			<page>http://vaughnlive.tv/mega_animes</page>
+			</regex>
+			</item>
+			
+				<item>
+			<title>Dragon Ball</title>
+			<link>rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330</link>
+			</item>
+			
+			
+			<item>
+			<title>South Park</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_mega_revolucionhd live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/mega_revolucionhd</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0n0(.*?)"<expres>
+			<page>http://vaughnlive.tv/mega_revolucionhd</page>
+			</regex>
+			</item>
+			
+			
+			
+			
+			<item>
+			<title>Canal Anime Inuyasha </title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_mega_extincion live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/mega_extincion</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0n0(.*?)"<expres>
+			<page>http://vaughnlive.tv/mega_extincion</page>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>Canal Anime Naruto</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_janeth_ live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/janeth_</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0n0(.*?)"<expres>
+			<page>http://vaughnlive.tv/janeth_</page>
+			</regex>
+			</item>
+			
+			
+			
+			
+			<item>
+			<title>Canal Anime en Latino</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_latinoanime live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/latinoanime</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0n0(.*?)"<expres>
+			<page>http://vaughnlive.tv/latinoanime</page>
+			</regex>
+			</item>
+			
+	
+			
+			
+			<item>
+			<title>Simposons 27/7</title>
+			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
+			<regex>
+				<name>rtmp</name>
+				<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
+				<page>$doregex[get-page]</page>
+				<cookieJar></cookieJar>
+				<referer>http://peliculas720.net/reproductor/simsomp.php</referer>
+			</regex>
+			<regex>
+				<name>path</name>
+				<expres>ova.php.*\n.*unescape..(.*?)'</expres>
+				<page>$doregex[get-page]</page>
+				<referer>http://peliculas720.net/reproductor/simsomp.php</referer>
+			</regex>
+			<regex>
+				<name>do-ping</name>
+				<expres></expres>
+				<page>$doregex[pagewait]$doregex[get-ping]</page>
+				<referer>http://shidurlive.com</referer>
+				<ignorecache/>
+			</regex>
+			<regex>
+				<name>pagewait</name>
+				<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
+				<page></page>
+				<referer>http://shidurlive.com</referer>
+				<cookieJar></cookieJar>
+			</regex>
+			<regex>
+				<name>get-ping</name>
+				<expres>"pingsts" src="(.*?)"</expres>
+				<page>$doregex[get-page]</page>
+				<cookieJar></cookieJar>
+				<referer>http://peliculas720.net/reproductor/simsomp.php</referer>
+			</regex>
+			<regex>
+				<name>get-page</name>
+				<expres>src="(.*?)"</expres>
+				<page>http://shidurlive.com/embed/sinsong</page>
+				<referer>http://peliculas720.net/reproductor/simsomp.php</referer>
+				<cookieJar></cookieJar>
+			</regex>
+			<thumbnail></thumbnail>
+			</item>
+			
+			
+			
+			
+			<item>
+			<title>Simpsons Mania</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_simpson_mania live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/simpson_mania</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0n0(.*?)"<expres>
+			<page>http://vaughnlive.tv/simpson_mania</page>
+			</regex>
+			</item>
+
 			
 
 
