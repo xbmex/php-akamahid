@@ -1,4 +1,27 @@
- 
+ <item>
+<title>Ultra Cine </title>
+<link>http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8</link>
+<thumbnail>http://www.sat-address.com/f/pics/logotipi/Ultra-Cine-TV_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>Ultra Cine HD </title>
+<link>http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8</link>
+<thumbnail>http://www.sat-address.com/f/pics/logotipi/Ultra-Cine-TV_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>Ultra film HD </title>
+<link>http://vemoxhlslive-i.akamaihd.net/hls/live/219942/vemoxchannel3/iOS/vemoxchannel3@219942/index.m3u8</link>
+<thumbnail>http://www.sat-address.com/f/pics/logotipi/Ultra-Cine-TV_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>Ultra film </title>
+<link>http://vemoxhlslive-i.akamaihd.net/hls/live/219942/vemoxchannel3/iOS/vemoxchannel3@219942/stream2/streamPlaylist.m3u8</link>
+<thumbnail>http://www.sat-address.com/f/pics/logotipi/Ultra-Cine-TV_o.jpg</thumbnail>
+</item>
+
 <item>
 <title>FOX 1</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?=-1</link>
@@ -111,19 +134,6 @@
  <title>HBO</title>
 <link>rtmp://50.7.69.186/iguide playpath=0bf02qe6msgtu4s swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7</link><!-- --><thumbnail>http://www.mediazoo.nl/wp-content/uploads/2014/07/HBO-Logo-Wallpaper.png</thumbnail>
 </item></item>
-
-<item>
-<title>Ultra Cine </title>
-<link>http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8</link>
-<thumbnail>http://www.sat-address.com/f/pics/logotipi/Ultra-Cine-TV_o.jpg</thumbnail>
-</item>
-
-<item>
-<title>Ultra Cine HD </title>
-<link>http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8</link>
-<thumbnail>http://www.sat-address.com/f/pics/logotipi/Ultra-Cine-TV_o.jpg</thumbnail>
-</item>
-
 
 
 <item>
