@@ -6,8 +6,8 @@
 <link>rtmp://5.9.77.137:1935/live playpath=atvhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/atv.html live=1 timeout=10</link>
 </item>
 
-<item><title>STAR</title>
-<link>http://31.186.24.232:8000/1</link>
+<item><title>STAR hd</title>
+<link>http://38.117.88.253:7777/StarTVTurkiye_HD/StarTVTurkiye_High.m3u8</link>
 </item>
 
 <item><title>FOX TV HD</title>
