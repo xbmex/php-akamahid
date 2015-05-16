@@ -1,9 +1,9 @@
-<item><title>HABER HD</title>
-<link>rtmp://5.9.77.137:1935/live playpath=ahaberhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/a-haber.html live=1 timeout=10</link>
+<item><title>KANAL TURK HD</title>
+<link>http://kanalturk.ercdn.net/er/kanalturk3/playlist.m3u8</link>
 </item>
 
 <item><title>ATV HD</title>
-<link>rtmp://5.9.77.137:1935/live playpath=atvhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/atv.html live=1 timeout=10</link>
+<link>http://hls.turkuvazgroup.net/atv-hls/smil:atv.smil/chunklist_w314793428_b396000.m3u8</link>
 </item>
 
 <item><title>STAR HD</title>
@@ -11,89 +11,51 @@
 </item>
 
 <item><title>FOX TV HD</title>
-<link>rtmp://5.9.77.137:1935/live playpath=foxhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/fox-tv.html live=1 timeout=10</link>
+<link>http://origin.live.web.tv.streamprovider.net/streams/89951cc8d1230f107708974ee34d6f45/index.m3u8</link>
 </item>
 
-<item><title>KANAL HD</title>
-<link>rtmp://5.9.77.137:1935/live playpath=kanaldhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/kanal-d.html live=1 timeout=10</link>
+<item><title>KANAL D HD</title>
+<link>http://live.netd.com.tr/S1/HLS_LIVE/kanald/1500/prog_index.m3u8</link>
 </item>
 
-<item><title>NTV HD</title>
-<link>rtmp://5.9.77.137:1935/live playpath=ntvhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/ntv.html live=1 timeout=10</link>
+<item><title>TV2 HD</title>
+<link>http://live.netd.com.tr/S1/HLS_LIVE/tv2/1000/prog_index.m3u8</link>
 </item>
 
-<item><title>HALK TV HD</title>
-<link>rtmp://5.9.77.137:1935/live playpath=halktv.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/halk-tv.html live=1 timeout=10</link>
+<item><title>HABER HD</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8?sd=10&rebase=on</link>
 </item>
 
 <item><title>A SPORT</title>
-<link>rtmp://5.9.77.137:1935/live playpath=asporhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/a-spor.html live=1 timeout=10</link>
+<link>http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8</link>
 </item>
 
-<item><title>MINICA GO</title>
-<link>rtmp://5.9.77.137:1935/live playpath=minikago.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/minika-go.html live=1 timeout=10</link>
+<item><title>CNN</title>
+<link>http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8</link>
 </item>
 
-<item><title>TV8 </title>
-<link>rtmp://5.9.77.137:1935/live playpath=tv8hd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/tv8.html live=1 timeout=10</link>
+<item><title>KANAL A</title>
+<link>http://nl-1-ms-origin.noccdn.com/cdn/53bf0e7156a37/playlist.m3u8</link>
 </item>
 
-<item><title>SHOW TV</title>
-<link>rtmp://5.9.77.137:1935/live playpath=showtvhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/show-tv.html live=1 timeout=10</link>
+<item><title>Netd Sinema</title>
+<link>http://live.netd.com.tr/S1/HLS_LIVE/taksim/1000/prog_index.m3u8</link>
 </item>
 
-<item><title>NTVSPOR</title>
-<link>rtmp://5.9.77.137:1935/live playpath=ntvsporhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/ntv-spor.html live=1 timeout=10</link>
+<item><title>DISNEY</title>
+<link>http://live.netd.com.tr/S1/HLS_LIVE/disney/1000/prog_index.m3u8</link>
 </item>
 
 
-<item><title>TRT</title>
-<link>rtmp://5.9.77.137:1935/live playpath=trt1hd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/trt-1.html live=1 timeout=10</link>
+<item><title>DREAM TURK</title>
+<link>http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8</link>
 </item>
 
-<item><title>TRT HABER</title>
-<link>rtmp://5.9.77.137:1935/live playpath=trthaber.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/trt-haber.html live=1 timeout=10</link>
+<item><title>DREAM TV</title>
+<link>http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8</link>
 </item>
 
-<item><title>TRNT SPOR</title>
-<link>rtmp://5.9.77.137:1935/live playpath=trtspor.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/trt-spor.html live=1 timeout=10</link>
+<item><title>ARENA SPOR</title>
+<link>http://118.97.167.19/jhos/arena//Playlist.m3u8</link>
 </item>
 
-<item><title>STV</title>
-<link>rtmp://5.9.77.137:1935/live playpath=stv.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/samanyolu-tv.html live=1 timeout=10</link>
-</item>
-
-<item><title>ULUSAL TV</title>
-<link>rtmp://5.9.77.137:1935/live playpath=ulusaltv.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/ulusal-kanal.html live=1 timeout=10</link>
-</item>
-
-<item><title>YABANTV</title>
-<link>rtmp://5.9.77.137:1935/live playpath=yabantv.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/yaban-tv.html live=1 timeout=10</link>
-</item>
-
-<item><title>SAMANYOLU HABER</title>
-<link>rtmp://5.9.77.137:1935/live playpath=shaber.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/samanyolu-haber.html live=1 timeout=10</link>
-</item>
-
-<item><title>KANAL 7</title>
-<link>rtmp://5.9.77.137:1935/live playpath=kanal7.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/kanal-7.html live=1 timeout=10</link>
-</item>
-
-<item><title>TRT AVAZ</title>
-<link>rtmp://5.9.77.137:1935/live playpath=trtavaz.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/trt-avaz.html live=1 timeout=10</link>
-</item>
-
-<item><title>BUGUN</title>
-<link>rtmp://5.9.77.137:1935/live playpath=buguntv.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/bugun-tv.html live=1 timeout=10</link>
-</item>
-
-#EXTINF:-1,e2(hd)
-rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=e2hd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/e2.html live=1
-#EXTINF:-1,cnbce(hd)
-rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=cnbcehd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/cnbc-e.html live=1
-#EXTINF:-1,HABERTÜRK
-rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=haberturk.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/haberturk.html live=1
-#EXTINF:-1,TRT COCUK
-rtmp://$OPT:rtmp-raw=rtmp://5.9.77.137:1935/live playpath=trtcocuk.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/trt-cocuk.html live=1
-#EXTINF:-1,TV 2
-rtmp://5.9.77.137:1935/live playpath=tv2.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/tv2.html live=1
