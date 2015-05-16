@@ -1,11 +1,11 @@
 <item>
-<title>Azteca Noticias</title><link>http://200.76.77.237/LIVE/H01/CANAL2/PROFILE02.m3u8?=-1</link></link>
+<title>Azteca Noticias</title><link>http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?=-1</link></link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/azteca_noticias_mx.png</thumbnail></item>
 
 
 <item>
 <title>Azteca 7</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL7/PROFILE05.m3u8?=-1</link>
+<link>http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?=-1</link>
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/azteca-7.gif</thumbnail></item>
 
 <item>
@@ -27,12 +27,12 @@
 <thumbnail>http://www.condista.com/images/logos/az-corazon.jpg</thumbnail></item>
 
 <item>
-<title>CANAL DE LAS ESTRELLAS</title><link>http://200.76.77.237/LIVE/H01/CANAL52/PROFILE05.m3u8?=-1</link>
+<title>CANAL DE LAS ESTRELLAS</title><link>http://200.76.77.237/LIVE/H01/CANAL52/PROFILE03.m3u8?=-1</link>
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/canal-2.gif</thumbnail></item>
 
 <item>
 <title>Canal 5 HD</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL105/PROFILE05.m3u8?=-1</link>
+<link>http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?=-1</link>
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/canal-5-hd.gif</thumbnail>
 </item>
 
@@ -52,11 +52,6 @@
 <item>
 <title>Cadena 3</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL143/PROFILE03.m3u8?=-1</link></link><thumbnail>http://z.cdn.entutele.com/media/channels/big/cadena-3.gif</thumbnail></item>
-
-<item>
-<title>TEST</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL148/PROFILE03.m3u8?=-1</link>
-<thumbnail></thumbnail></item>
 
 <item>
 <title>ESTRELLA HD</title>
@@ -93,7 +88,7 @@
 <thumbnail>http://www.blogcdn.com/www.engadget.com/media/2011/03/trutvhd.jpg</thumbnail></item>
 
 <item><title>Universal</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL207/PROFILE05.m3u8?=-1</link>
+<link>http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?=-1</link>
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/universal-channel.gif</thumbnail></item>
 
 <item><title>FX HD</title><link>http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?=-1</link></link>
@@ -113,7 +108,7 @@
 			
 <item><title>UNICABLE HD</title><link>http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?=-1</link><thumbnail>http://z.cdn.entutele.com/media/channels/big/unicable.gif</thumbnail></item>
 			
-<item><title>BBC HD</title><link>http://200.76.77.237/LIVE/H01/CANAL253/PROFILE05.m3u8?=-1</link><thumbnail>http://z.cdn.entutele.com/media/channels/big/bbc-hd.gif</thumbnail></item>
+<item><title>BBC HD</title><link>http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?=-1</link><thumbnail>http://z.cdn.entutele.com/media/channels/big/bbc-hd.gif</thumbnail></item>
 <item><title>E HD</title><link>http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?=-1</link><thumbnail>http://z.cdn.entutele.com/media/channels/big/e-entertainment-television.gif</thumbnail></item>
 
 <item><title>UNIVERSAL</title><link>http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?=-1</link><thumbnail>http://z.cdn.entutele.com/media/channels/big/universal-channel.gif</thumbnail></item>
@@ -122,7 +117,7 @@
 			
 <item><title>FX HD</title><link>http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?=-1</link><thumbnail>http://z.cdn.entutele.com/media/channels/big/fx-hd.gif</thumbnail></item>
 
-<item><title>ID</title><link>http://200.76.77.237/LIVE/H01/CANAL263/PROFILE05.m3u8?=-1</link><thumbnail>http://z.cdn.entutele.com/media/channels/big/investigacion-discovery.gif</thumbnail></item>
+<item><title>ID</title><link>http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?=-1</link><thumbnail>http://z.cdn.entutele.com/media/channels/big/investigacion-discovery.gif</thumbnail></item>
 
 <item><title>INFINITO</title><link>http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?=-1</link><thumbnail>http://z.cdn.entutele.com/media/channels/big/infinito.gif</thumbnail></item>
 
