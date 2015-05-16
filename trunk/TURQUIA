@@ -7,7 +7,7 @@
 </item>
 
 <item><title>STAR HD</title>
-<link>rtmp://5.9.77.137:1935/live playpath=starhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/star-tv.html live=1 timeout=10</link>
+<link>http://31.186.24.232:8000/1 timeout=10</link>
 </item>
 
 <item><title>FOX TV HD</title>
