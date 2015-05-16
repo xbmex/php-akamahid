@@ -59,20 +59,11 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/pt/archive/3/3b/20130312135633!Logotipo_TV_Uni%C3%A3o.jpg</thumbnail>
 </item>
 
-
 <item>
 <title>SBT</title>
 <link>http://iphone-streaming.ustream.tv:80/uhls/13654224/streams/live/iphone/playlist.m3u8</link>
 <thumbnail>http://sphotos-c.ak.fbcdn.net/hphotos-ak-snc7/429134_201231619981393_20804910_n.jpg</thumbnail>
 </item>
-
-<item>
-<title>[COLOR skyblue]SBT HD[/COLOR]</title>
-<link>rtmp://93.174.95.10/record playpath=CH101_Big swfUrl=http://mybrasiltv.com/ptplayer/player/flowplayer-3.2.18.swf pageUrl=http://mybrasiltv.com/ptplayer/flowplayer/Home.php</link>
-<thumbnail>http://sphotos-c.ak.fbcdn.net/hphotos-ak-snc7/429134_201231619981393_20804910_n.jpg</thumbnail>
-</item>
-
-
 
 <item>
 <title>[COLOR red]TV Santa Cecilia HD [/COLOR]</title>
