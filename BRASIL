@@ -5,6 +5,12 @@
 </item>
 
 <item>
+<title>TV GLOBO</title>
+<link>http://noscdn1.connectedviews.com:1935/live/sporttvlivehd.stream/livestream.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/_jffermsdBl8/SiKOIrdgAiI/AAAAAAAAMc8/Vn3nNM4oEiI/s1600/Globo%2BInternacional</thumbnail>
+</item>
+
+<item>
 <title>[COLOR orange]SBT INTERIOR[/COLOR]</title>
 <link>http://srv3.zoeweb.tv:1935/z133-live/stream/playlist.m3u8</link>
 <thumbnail>http://www.zoeweb.com.br/Imagens/Upload/Cases/caseszoewebsbt.jpg</thumbnail>
