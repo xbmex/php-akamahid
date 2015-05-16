@@ -31,18 +31,27 @@
 
 
 <item>
-<title>[COLOR orange]TV MUNDIAL[/COLOR]</title>
-<link>http://impd.crossdigital.com.br:1935/impd/impd/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>[COLOR green]RECORD NEWS[/COLOR]</title>
 <link>rtmp://a1.fabricahost.com.br:1935/redemercosul/ playpath=redemercosul swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=http://www.cxntv.com/canales/record-news/ timeout=15</link>
 <thumbnail>http://tv.recordjp.com/wp-content/uploads/2012/02/record_news_brasil-610x225.png</thumbnail>
 </item>
 
+<item>
+<title>RECORD NEWS</title>
+<link>http://noscdn1.connectedviews.com:1935/live/axnwhite.stream/livestream.m3u8</link>
+<thumbnail>http://tv.recordjp.com/wp-content/uploads/2012/02/record_news_brasil-610x225.png</thumbnail>
+</item>
 
+<item>
+<title>HBO PLUS</title>
+<link>http://76.73.108.36:80/hls-live/livepkgr/_definst_/hboplus/hboplus.m3u8</link>
+</item>
+
+<item>
+<title>[COLOR orange]TV MUNDIAL[/COLOR]</title>
+<link>http://impd.crossdigital.com.br:1935/impd/impd/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>[COLOR orange]TV União[/COLOR]</title>
