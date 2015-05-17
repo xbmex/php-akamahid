@@ -5,38 +5,32 @@
 
 
 <item>
-<title>SKY SPORTS 1 HD</title><link>rtmp://94.23.53.51/send//ss1hd.stream</link>
+<title>SKY SPORTS 1 HD</title><link>http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8 </link>
 <thumbnail>http://www.fairways-school.org/wp-content/uploads/2012/11/sky-sports-project-southampton.jpg</thumbnail>
 </item>
 <item>
-<title>SKY SPORTS 2 HD</title><link>rtmp://94.23.53.51/send//ss2hd.stream</link>
+<title>SKY SPORTS 2 HD</title><link>http://195.154.227.38:1935/live/skysports2lsh/playlist.m3u8 </link>
 <thumbnail>http://4.bp.blogspot.com/-jYg8ovLGy-g/VAW6cF2XvII/AAAAAAAAFUc/PuxutEG0yto/s1600/sky%2Bsports%2B2%2Blive%2Bmykora.png</thumbnail>
 </item>
 <item>
-<title>SKY SPORTS 3 HD</title><link>rtmp://94.23.53.51/send//ss3hd.stream</link>
+<title>SKY SPORTS 3 HD</title><link>http://195.154.227.38:1935/live/skysports3lsh/playlist.m3u8 /link>
 <thumbnail>http://4.bp.blogspot.com/-7FewPVsDh7A/VAW6c2XPZTI/AAAAAAAAFUg/weBNX1d4Ly4/s1600/sky%2Bsports%2B3%2Blive%2Bmykora.png</thumbnail>
 </item>
 <item>
-<title>SKY SPORTS 4 HD</title><link>rtmp://94.23.53.51/send//ss4hd.stream</link>
+<title>SKY SPORTS 4 HD</title><link>http://195.154.227.38:1935/live/skysports4lsh/playlist.m3u8 /link>
 <thumbnail>http://1.bp.blogspot.com/-dxNVODtGH8I/VAW6dF6R6dI/AAAAAAAAFUw/gLh5NuSCA0k/s1600/sky%2Bsports%2B4%2Blive%2Bmykora.png</thumbnail>
 </item>
 <item>
-<title>SKY SPORTS 5 HD</title><link>rtmp://94.23.53.51/send//ss5hd.stream</link>
+<title>SKY SPORTS 5 HD</title><link>http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8 </link>
 <thumbnail>http://www1.skysports.com/core/img/channels/Sky-Sports-5-Logo.png</thumbnail>
 </item>
-<item><title>BT sport 1 HD</title><link>rtmp://94.23.53.51/send//bt1hd.stream</link>
+<item><title>BT sport 1 HD</title><link>http://195.154.227.38:1935/live/btsports1lsh/playlist.m3u8 </link>
 <thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail></item>
 <item>
 <title>BT sport 2 HD</title>
-<link>rtmp://94.23.53.51/send//bt2hd.stream</link>
+<link>http://195.154.227.38:1935/live/btsports2lsh/playlist.m3u8 </link>
 <thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
 </item>
-<item>
-<title>BT sport 2 SD</title>
-<link>rtmp://89.248.171.90:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH</link>
-<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
-</item>
-
 
 
 <item><title>BEIN SPORT 1 HD eng</title>
