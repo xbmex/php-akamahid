@@ -93,25 +93,13 @@
 			</regex> 
 			</item>
          
-         	<item>
-			<title>Canal +1</title>
-			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=41umps1oxeas32a swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
-			<thumbnail></thumbnail>
-			<regex>
-			<name>rtmp</name>
-			<expres>xs=_we_([^"]*)</expres>
-			<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=184 &autoplay=true</page>
-			<referer>http://www.9stream.com</referer>
-			</regex>
-			<regex>
-			<name>tok</name>
-			<expres>token":"([^."]*)</expres>
-			<page>http://www.9stream.com/server1.php?id=1406278125</page>
-			<referer>http://www.9stream.com</referer>
-			</regex> 
-			</item>
+<item>
+<title>Canal +1</title>
+<link>http://euroiptv2.mine.nu:80/live?channelId=328&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA timeout=10 </link>
+<thumbnail></thumbnail>
+<item>
          
-         	<item>
+         
 			<title>C + Accion</title>
 			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=aa72at9cc7b8y76 swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
 			<thumbnail></thumbnail>
