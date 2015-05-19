@@ -26,72 +26,7 @@
  <item><title>La Sexta HD 720 </title><link>http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8</link>
  <thumbnail>http://t.ipadizate.es/2014/09/ver-sexta-ipad.jpg</thumbnail></item>
 
-<item>
-			<title>TNT España</title>
-			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=jhiiinejnimxg3l swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
-			<regex>
-			<name>rtmp</name>
-			<expres>xs=_we_([^"]*)</expres>
-			<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=173 &autoplay=true</page>
-			<referer>http://www.9stream.com</referer>
-			</regex>
-			<regex>
-			<name>tok</name>
-			<expres>token":"([^."]*)</expres>
-			<page>http://www.9stream.com/server1.php?id=1415031202</page>
-			<referer>http://www.9stream.com</referer>
-			</regex>
-			</item>
-         
-         <item>
-			<title>AXN</title>
-			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=8qlyug9zkhwtneo swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
-			<regex>
-			<name>rtmp</name>
-			<expres>xs=_we_([^"]*)</expres>
-			<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=182 &autoplay=true</page>
-			<referer>http://www.9stream.com</referer>
-			</regex>
-			<regex>
-			<name>tok</name>
-			<expres>token":"([^."]*)</expres>
-			<page>http://www.9stream.com/server1.php?id=1415031265</page>
-			<referer>http://www.9stream.com</referer>
-			</regex>
-			</item>
-			<item>
-         
-         <item>
-			<title>Alx</title>
-			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_alx_nxtv live=1 timeout=20</link>
-			<regex>
-			<name>getIP</name>
-			<expres>function getEdgeServers.*"(.*?),<expres>
-			<page>http://vaughnlive.tv/alx_nxtv</page>
-			</regex>
-			<regex>
-			<name>getCODE</name>
-			<expres>vsVars.*= "0m0(.*?)"<expres>
-			<page>http://vaughnlive.tv/alx_nxtv</page>
-			</regex>
-			</item>
-<item>
-			<title>FOX España </title>
-			<link>rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=83l3marsahhy3l8 swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10 </link>
-			<thumbnail></thumbnail>
-			<regex>
-			<name>rtmp</name>
-			<expres>xs=_we_([^"]*)</expres>
-			<page>http://www.9stream.com/embedplayer.php?width=650&height=400&channel=174 &autoplay=true</page>
-			<referer>http://www.9stream.com</referer>
-			</regex>
-			<regex>
-			<name>tok</name>
-			<expres>token":"([^."]*)</expres>
-			<page>http://www.9stream.com/server1.php?id=1423846090</page>
-			<referer>http://www.9stream.com</referer>
-			</regex> 
-			</item>
+
          
 <item>
 <title>Canal +1</title>
