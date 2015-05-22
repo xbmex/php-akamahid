@@ -2,10 +2,12 @@
 <link>rtmp://edge.wms28.lorini.net/trttv/ playpath=trttv swfUrl=http://www.lorini.net/playerv/player.swf live=1 pageUrl=http://trt.com.ve/web/senal-en-vivo/</link></item>
 
 <item><title>Venevision plus</title>
-<link>http://lat6.cdnak.latino.neulion.com/nlds/guaotv/veplustv/as/live/veplustv_4.m3u8</link></item>
+<link>http://lat6.cdnak.latino.neulion.com/nlds/guaotv/veplustv/as/live/veplustv_4.m3u8</link>
+<thumbnail>http://static.venevision.com/sites/default/files/imagecache/600x400_despliegue/logo_vvplus_.png</thumbnail></item>
 
 <item><title>televen</title>
-<link>http://lat6.cdnak.latino.neulion.com/nlds/guaotv/televen/as/live/televen_4.m3u8</link></item>
+<link>http://lat6.cdnak.latino.neulion.com/nlds/guaotv/televen/as/live/televen_4.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/c/c0/Televen_logo.PNG</thumbnail></item>
 
 
 <item><title>Antv (Asamblea Nacional)</title>
