@@ -16,7 +16,7 @@
 <thumbnail>http://www.telecuracao.com/upload/logos/TC2-2.png</thumbnail></item> 
 
 <item>
-			<title>    [COLOR pink]Univision[/COLOR]</title>
+			<title>[COLOR pink]Univision[/COLOR]</title>
 			<link>$doregex[get-link]</link>
 			<regex>
 			<name>get-link</name>
