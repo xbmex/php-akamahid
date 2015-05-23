@@ -10,6 +10,12 @@
 <thumbnail>http://www.frocus.net/images/logotv/original/tvn-chile.jpg</thumbnail>
  </item>
  
+ <item>
+ <title>TVN HD</title>
+ <link>http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8;</link>
+<thumbnail>http://www.frocus.net/images/logotv/original/tvn-chile.jpg</thumbnail>
+ </item>
+ 
 <item>
  <title>ITV PATAGONIA HD</title>
  <link>http://movilstream.digitalproserver.com/itv/itvvivo/itv.smil/chunklist-b1500000.m3u8</link>
