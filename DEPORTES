@@ -1,42 +1,11 @@
 <item>
 <title>Moto gp</title><link>http://66.55.92.79:1935/app/avision51s-channel/playlist.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Moto_Gp_logo.svg/1280px-Moto_Gp_logo.svg.png</thumbnail>
-</item>
+</item> 
 
-
-<item>
-<title>SKY SPORTS 1 HD</title>
-<link>http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8 </link>
-<thumbnail>http://www.fairways-school.org/wp-content/uploads/2012/11/sky-sports-project-southampton.jpg</thumbnail>
-</item>
-<item>
-<title>SKY SPORTS 2 HD</title>
-<link>http://195.154.227.38:1935/live/skysports2lsh/playlist.m3u8 </link>
-<thumbnail>http://4.bp.blogspot.com/-jYg8ovLGy-g/VAW6cF2XvII/AAAAAAAAFUc/PuxutEG0yto/s1600/sky%2Bsports%2B2%2Blive%2Bmykora.png</thumbnail>
-</item>
-<item>
-<title>SKY SPORTS 3 HD</title>
-<link>http://smarterapps.ddns.net:8080/sp4T/sp4RkkW/index.m3u8</link>
-<thumbnail>http://4.bp.blogspot.com/-7FewPVsDh7A/VAW6c2XPZTI/AAAAAAAAFUg/weBNX1d4Ly4/s1600/sky%2Bsports%2B3%2Blive%2Bmykora.png</thumbnail>
-</item>
-<item>
-<title>SKY SPORTS 4 HD</title>
-<link>http://195.154.227.38:1935/live/skysports4lsh/playlist.m3u8 </link>
-<thumbnail>http://1.bp.blogspot.com/-dxNVODtGH8I/VAW6dF6R6dI/AAAAAAAAFUw/gLh5NuSCA0k/s1600/sky%2Bsports%2B4%2Blive%2Bmykora.png</thumbnail>
-</item>
-<item>
-<title>SKY SPORTS 5 HD</title>
-<link>http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8 </link>
-<thumbnail>http://www1.skysports.com/core/img/channels/Sky-Sports-5-Logo.png</thumbnail>
-</item>
-
-<item><title>BT sport 1 HD</title><link>http://195.154.227.38:1935/live/btsports1lsh/playlist.m3u8 </link>
-<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail></item>
-<item>
-<title>BT sport 2 HD</title>
-<link>http://195.154.227.38:1935/live/btsports2lsh/playlist.m3u8 </link>
-<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
-</item>
+<item><title>BEIN SPORT HD eng</title>
+<link>http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/-m9I2IP2g1js/UtNaE4fBMrI/AAAAAAAADmA/G9RY-1rUHEA/s1600/WWWWWWWWW.png</thumbnail></item>
 
 
 <item><title>BEIN SPORT 1 HD eng</title>
