@@ -20,6 +20,16 @@
 <thumbnail></thumbnail></item>
 
 
+<item><title>UNIVISION</title>
+<link>rtmp://podi.hopper.pw:443/live/live_univision_hd30 timeout=20</link>
+<thumbnail></thumbnail></item>
+
+<item><title>UNIVISION NY</title>
+<link>rtmp://podi.hopper.pw:443/live/live_univision41ny timeout=20</link>
+<thumbnail></thumbnail></item>
+
+
+
 <item>
 			<title>[COLOR pink]Univision[/COLOR]</title>
 			<link>$doregex[get-link]</link>
