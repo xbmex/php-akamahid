@@ -130,9 +130,9 @@
 </item>
 
 <item>
-<title>Telesistema Canal extra</title>
+<title>Telesistema (opcion2)</title>
 <link>
- http://mek4.mekstream.com:1935/telesistema/live3/playlist.m3u8?</link>
+ http://mek4.mekstream.com:1935/telesistema/live3/playlist.m3u8</link>
 <thumbnail>http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/telesistema_poster.png</thumbnail>
 </item>
 
