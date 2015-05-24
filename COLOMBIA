@@ -27,8 +27,8 @@
  timeout=10</link><thumbnail>http://www.ashlandhome.net/SIB/images/espn_hd.png</thumbnail></item>
  
 <item><title>[COLOR skyblue]FOX SPORT  [COLOR lime]HD[/COLOR]</title>
-<link>rtmp://fl01.iviplanet.com/TELEPACIFICO-TO playpath=myStream.sdp swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion
- timeout=10</link><thumbnail>http://img2.wikia.nocookie.net/__cb20121102222303/logopedia/images/d/de/IvIPy8fZekp1X.png</thumbnail></item>
+<link>rtmp://cdn9.iviplanet.com/TELEPACIFICO-TO playpath=myStream.sdp  swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion
+timeout=10</link><thumbnail>http://img2.wikia.nocookie.net/__cb20121102222303/logopedia/images/d/de/IvIPy8fZekp1X.png</thumbnail></item>
  
  <item><title>BEIN SPORT HD</title>
 <link>http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8</link>
