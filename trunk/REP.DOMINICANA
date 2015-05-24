@@ -130,6 +130,13 @@
 </item>
 
 <item>
+<title>Telesistema Canal extra</title>
+<link>
+ http://mek4.mekstream.com:1935/telesistema/live3/playlist.m3u8?</link>
+<thumbnail>http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/telesistema_poster.png</thumbnail>
+</item>
+
+<item>
 <title>Telefuturo Canal 23</title>
 <link>http://ss7.domint.net:1950/tf_str/futu/playlist.m3u8</link>
 <thumbnail>http://tusolcaribe.net/wp-content/uploads/2012/10/telefuturo.jpg</thumbnail>
