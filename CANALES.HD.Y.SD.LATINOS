@@ -15,6 +15,10 @@
 <link>rtmp://fl01.iviplanet.com/UTS playpath=myStream.sdp  swfUrl=http://encoder.iviplanet.com/StreamerPlayers/player.swf  pageUrl=http://www.telecuracao.com/web/Videos.aspx?type=channel&id=26 timeout=20</link>
 <thumbnail>http://www.telecuracao.com/upload/logos/TC2-2.png</thumbnail></item> 
 
+<item><title>TELEARUBA</title>
+<link>rtmp://201.229.0.51/livepkgr/livestream1 timeout=20</link>
+<thumbnail>http://www.arubaraceway.com/wp-content/uploads/2010/04/telearuba.gif</thumbnail></item>
+
 <item><title>UNIMAS</title>
 <link>rtmp://podi.hopper.pw:443/live/live_unimas12 timeout=20</link>
 <thumbnail></thumbnail></item>
