@@ -23,6 +23,9 @@
 <link>rtmp://podi.hopper.pw:443/live/live_unimas12 timeout=20</link>
 <thumbnail></thumbnail></item>
 
+<item><title>RPC TV HD</title>
+<link>http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8? timeout=20</link>
+<thumbnail>http://images.rpctv.com/en_directo/RPC-TV-Linea_MEDDIR20131018_0001_9.jpg</thumbnail></item>
 
 <item><title>UNIVISION</title>
 <link>rtmp://podi.hopper.pw:443/live/live_univision_hd30 timeout=20</link>
