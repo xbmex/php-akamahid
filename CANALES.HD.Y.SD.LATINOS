@@ -27,7 +27,7 @@
 <link> http://iphone-streaming.ustream.tv/ustreamVideo/13870671/streams/live/playlist.m3u8?</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/6/66/Logo_Viva_Nicaragua_Canal_13.png</thumbnail></item>
 
-
+<item><title>CANAL 9 HD</title><link> http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8?</link></item>  
 
 <item><title>UNIMAS</title>
 <link>rtmp://podi.hopper.pw:443/live/live_unimas12 timeout=20</link>
