@@ -19,9 +19,14 @@
 <link>rtmp://201.229.0.51/livepkgr/livestream1 timeout=20</link>
 <thumbnail>http://www.arubaraceway.com/wp-content/uploads/2010/04/telearuba.gif</thumbnail></item>
 
-<item><title>UNOTV</title>
+<item><title>UNOTV HD</title>
 <link>http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8?</link>
-<thumbnail></thumbnail></item>
+<thumbnail>http://www.unotv.com/utils/imagenes/default-noticias.png</thumbnail></item>
+
+<item><title>Canal 13 Nicaragua HD</title>
+<link> http://iphone-streaming.ustream.tv/ustreamVideo/13870671/streams/live/playlist.m3u8?</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/6/66/Logo_Viva_Nicaragua_Canal_13.png</thumbnail></item>
+
 
 
 <item><title>UNIMAS</title>
