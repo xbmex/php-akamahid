@@ -19,6 +19,11 @@
 <link>rtmp://201.229.0.51/livepkgr/livestream1 timeout=20</link>
 <thumbnail>http://www.arubaraceway.com/wp-content/uploads/2010/04/telearuba.gif</thumbnail></item>
 
+<item><title>UNOTV</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8?</link>
+<thumbnail></thumbnail></item>
+
+
 <item><title>UNIMAS</title>
 <link>rtmp://podi.hopper.pw:443/live/live_unimas12 timeout=20</link>
 <thumbnail></thumbnail></item>
