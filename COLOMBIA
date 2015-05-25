@@ -17,7 +17,6 @@
  token=#ed%h0#w18623jsda6523lDGD</link>
 <thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
 
-
 <item><title>[COLOR skyblue]WIN SPORTS [COLOR lime]HD[/COLOR]</title>
 <link>rtmp://cdn8.iviplanet.com/ELTIEMPO-TO playpath=myStream.sdp swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion
  timeout=10</link><thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/220px-Winsports.svg.png</thumbnail></item>
@@ -59,7 +58,11 @@ timeout=10</link><thumbnail>http://img2.wikia.nocookie.net/__cb20121102222303/lo
 <item><title>Mi Gente</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m3u8</link>
 <item><title>Canal 13</title><link>http://cdns840stu1010.multistream.net/canaltr3celive/amlst:live/playlist_b500000.m3u8</link>
 
-<item><title>test 2</title><link> rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/chteleantioquiawebs/2014/10/14/503f5ac9-cbec-4fd0-a218-0d99c767e30e timeout=10</link>
+<item><title>IBIZA</title><link>http://www.djing.com/tv/ibiza.m3u8?</link>
+<item><title>HOT HOT HOT</title><link>http://www.djing.com/tv/hothothot.m3u8?</link>
+<item><title>IBIZA</title><link>http://www.djing.com/tv/underground.m3u8?</link>
+<item><title>IBIZA</title><link>http://www.djing.com/tv/dancefloor.m3u8</link>
+
 
 
 			
