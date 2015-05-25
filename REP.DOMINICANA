@@ -12,8 +12,8 @@
 </item>
 
 <item>
-<title>Digital 15</title>
-<link>rtmp://vivo.canalesdominicanosenvivo.com:1935/can/te05.stream timeout=15</link>
+<title>Digital</title>
+<link>rtmp://vivo.canalesdominicanosenvivo.com:1935/can/te05.stream</link>
 <thumbnail>http://www.cirqueros.com/web/images/stories/digital%2015%20logo.jpg</thumbnail>
 </item>
 
