@@ -11,13 +11,19 @@
 <thumbnail>http://www.cirqueros.com/web/images/stories/digital%2015%20logo.jpg</thumbnail>
 </item>
 
-
 <item>
 <title>Telemicro 5</title>
 <link>rtmp://vivo.canalesdominicanosenvivo.com:1935/can/ playpath=te05.stream swfUrl=http://emisoradominicana.net/html5/play/jwplayer.flash.swf pageUrl=http://emisoradominicana.net/html5/play/paly.php?canal=222  timeout=15</link>
 <thumbnail>http://radioteve.com/tele/caribe/stdomingo/logo/telemic.jpg</thumbnail>
 </item> 
 
+
+<item><title>TELEMUNDO</title>
+<link> http://iphone-streaming.ustream.tv/ustreamVideo/20487775/streams/live/playlist.m3u8?</link></item>
+<item><title>TELEMUNDO</title>
+<link>http://66.55.92.79:1935/app/chivasss69s-channel/chunklist_w1150656862.m3u8?</link></item>
+<item><title>UNIVISION</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/15379493/streams/live/playlist.m3u8?</link></item>
 
 <item>
 <title>Telefuturo Canal 23</title>
@@ -60,7 +66,7 @@
 
 <item>
 <title>Antena Latina</title>
-<link>rtmp://ss6.domint.net:1962/ app=al_edge/ playpath=antena swfUrl=http://ss7.domint.net/jw6/jwplayer.flash.swf pageUrl=http://www.antenalatina7.com/streaming7/streamingTV.php live=true timeout=15</link>
+<link>http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8</link>
 <thumbnail>http://jeniffercalderon.files.wordpress.com/2010/07/logo_antena_latina_canal_71.jpg</thumbnail>
 </item>
 
