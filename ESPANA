@@ -3,6 +3,11 @@
 <link>http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8</link>
 <thumbnail>http://img.irtve.es/files/74-118767-FOTO_NOTA_PRENSA_399/tve_la1_gest.jpg</thumbnail>
 </item>
+<item>	
+<title>LA 1</title>
+<link>http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8</link>
+<thumbnail>http://img.irtve.es/files/74-118767-FOTO_NOTA_PRENSA_399/tve_la1_gest.jpg</thumbnail>
+</item>
 
 <item>	
 <title>EL MUNDO</title>
