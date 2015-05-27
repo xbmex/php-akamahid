@@ -81,27 +81,7 @@
 			</regex>
          <thumbnail>https://celiacruzfoundation1.files.wordpress.com/2012/05/telemundo.jpg</thumbnail>
 			</item>
-			
-			
-			
-			<item>
-			<title>Telemundo 35  (horario Pacifico)</title>
-			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_telemundo35 live=1 timeout=20</link>
-			<regex>
-			<name>getIP</name>
-			<expres>function getEdgeServers.*"(.*?),<expres>
-			<page>http://vaughnlive.tv/telemundo35</page>
-			</regex>
-			<regex>
-			<name>getCODE</name>
-			<expres>vsVars.*= "0n0(.*?)"<expres>
-			<page>http://vaughnlive.tv/telemundo35</page>
-			</regex>
-			</item>
-			
-
-  
-         
+			         
 <item>
 <title>America TV</title>
 <link>http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8?sd=10&rebase=on</link><!-- -->
