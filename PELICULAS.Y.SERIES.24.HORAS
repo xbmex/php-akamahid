@@ -50,7 +50,15 @@
 <title>[COLOR orange]FOX FAMIL[/COLOR]</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?=-1</link>
 <thumbnail>http://imagenes.gatotv.com/logos/canales/oscuros/fox_family-mediano.png</thumbnail>
-</item
+</item>
+
+
+
+<item>
+<title>[COLOR orange]CINEMAX[/COLOR]</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8? =-1</link>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20130317213835/logopedia/images/d/d1/Cinemax.svg</thumbnail>
+</item>
 
 <item>
 <title>FOX MOVIES</title>
