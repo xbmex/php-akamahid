@@ -65,7 +65,8 @@
 <item><title>MUNDO FOX</title><link>http://66.55.92.79:1935/app/ana69s-channel/.m3u8?</link></item>	
  
 <item><title>TELEHIT HD</title><link>http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/THITHD2500.m3u8</link></item>
-<item><title>TELEMUNDO</title><link>rtmp://66.55.92.158:1935/app/testups-channel</link></item>
+<item><title>ESPN HD</title><link>http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/ESPN3HD2500.m3u8</link></item>
+<item><title>HBO</title><link>http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/HBOHD2500.m3u8</link></item>
 
 
 			<item>
