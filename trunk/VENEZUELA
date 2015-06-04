@@ -63,11 +63,6 @@
 <link>rtmp://cast.streamingconnect.tv:1935/tves2/ playpath=tves2 swfUrl=http://www.movipbox.com/nuevo/player/player.swf live=1 pageUrl=http://www.movipbox.com/nuevo/embed/tves/index1.html</link></item>
 
 
-
-<item><title>tes</title>
-<link>http://live.oneplay.tv/reproducir/349.m3u8</link></item>
-
-
 <item><title>Global Tv </title>
 <link>rtmp://edge.wms28.lorini.net/globaltv/ playpath=globaltv swfUrl=http://source.netandino.com/html5/player-2012-free.swf live=1 pageUrl=http://radioteve.com/tele/suramerica/venezuela/ch25.html</link></item>
 
