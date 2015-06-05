@@ -29,28 +29,7 @@
 <link>http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8? timeout=20</link>
 <thumbnail>http://images.rpctv.com/en_directo/RPC-TV-Linea_MEDDIR20131018_0001_9.jpg</thumbnail></item>
 
-<item><title>UNIVISION</title>
-<link>rtmp://podi.hopper.pw:443/live/live_univision_hd30 timeout=20</link>
-<thumbnail>http://b.fastcompany.net/multisite_files/codesign/poster/2012/10/1671086-poster-1280-univision-logo.jpg</thumbnail></item>
 
-<item><title>UNIVISION NY</title>
-<link>rtmp://podi.hopper.pw:443/live/live_univision41ny timeout=20</link>
-<thumbnail>http://b.fastcompany.net/multisite_files/codesign/poster/2012/10/1671086-poster-1280-univision-logo.jpg</thumbnail></item>
-
-<item><title>UNIVISION</title>
-<link>http://iphone-streaming.ustream.tv/ustreamVideo/15379493/streams/live/playlist.m3u8?</link>
-<thumbnail>http://b.fastcompany.net/multisite_files/codesign/poster/2012/10/1671086-poster-1280-univision-logo.jpg</thumbnail></item>
-
-<item>
-<title>[COLOR pink]Univision[/COLOR]</title>
-<link>$doregex[get-link]</link>
-<regex>
-<name>get-link</name>
-<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/15379493/streams/live/playlist.m3u8')</expres>
-<page></page>
-</regex> 
-<thumbnail>http://b.fastcompany.net/multisite_files/codesign/poster/2012/10/1671086-poster-1280-univision-logo.jpg</thumbnail>
-</item>
 
 <item><title>MUNDO FOX</title><link>http://66.55.92.79:1935/app/ana69s-channel/.m3u8?</link></item>	
  
