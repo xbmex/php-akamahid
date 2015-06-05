@@ -19,14 +19,7 @@
 <thumbnail>http://www.unotv.com/utils/imagenes/default-noticias.png</thumbnail></item>
 
 <item><title>ATV HD</title><link>http://edge-31-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist.m3u8?</link></item> 
- 
-
-<item><title>UNIVISION</title><link>rtmp://podi.hopper.pw:443/live/live_unimas12 timeout=20</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png</thumbnail></item>
-<item><title>UNIVISION NY</title><link>http://iphone-streaming.ustream.tv/uhls/20653820/streams/live/iphone/playlist.m3u8 timeout=20</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png</thumbnail></item>
-
-
+<item><title>UNIMAS</title><link>rtmp://podi.hopper.pw:443/live/live_unimas12 timeout=20</link><thumbnail></thumbnail></item>
 
 
 <item><title>RPC TV HD</title>
@@ -35,8 +28,10 @@
 
 
 
-<item><title>TELEMUNDO</title><link>http://199.168.116.16:1935/app/extremouns-channel/.m3u8</link></item>	
-
+<item><title>UNIVISION</title><link>http://199.168.116.16:1935/app/extremouns-channel/.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png</thumbnail></item></item>  
+<item><title>UNIVISION NY</title><link>rtmp://199.168.116.16:1935/app/extremouns-channel timeout=20</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png</thumbnail></item>
 
 <item><title>MUNDO FOX</title><link>http://66.55.92.79:1935/app/ana69s-channel/.m3u8?</link></item>	
  
