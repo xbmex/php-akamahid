@@ -25,6 +25,7 @@
 <link>rtmp://podi.hopper.pw:443/live/live_unimas12 timeout=20</link>
 <thumbnail></thumbnail></item>
 
+
 <item><title>RPC TV HD</title>
 <link>http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8? timeout=20</link>
 <thumbnail>http://images.rpctv.com/en_directo/RPC-TV-Linea_MEDDIR20131018_0001_9.jpg</thumbnail></item>
@@ -36,6 +37,9 @@
 <item><title>TELEHIT HD</title><link>http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/THITHD2500.m3u8</link></item>
 <item><title>ESPN HD</title><link>http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/ESPN3HD2500.m3u8</link></item>
 
+<item><title>TELEMUNDO</title>
+<link>http://66.55.92.158:1935/app/testups-channel/playlist.m3u8?sd=10&rebase=on timeout=20</link>
+<thumbnail>https://celiacruzfoundation1.files.wordpress.com/2012/05/telemundo.jpg</thumbnail></item>
 
 
 			<item>
