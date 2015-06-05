@@ -23,6 +23,10 @@
 
 <item><title>UNIVISION</title><link>rtmp://podi.hopper.pw:443/live/live_unimas12 timeout=20</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png</thumbnail></item>
+<item><title>UNIVISION NY</title><link>http://iphone-streaming.ustream.tv/uhls/20653820/streams/live/iphone/playlist.m3u8 timeout=20</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png</thumbnail></item>
+
+
 
 
 <item><title>RPC TV HD</title>
