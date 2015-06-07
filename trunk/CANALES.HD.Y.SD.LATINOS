@@ -38,21 +38,22 @@
 <item><title>TELEHIT HD</title><link>http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/THITHD2500.m3u8</link></item>
 <item><title>ESPN HD</title><link>http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/ESPN3HD2500.m3u8</link></item>
 
-			<item>
-			<title>TELEMUNDO</title>
-			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_telemundo34 live=1 timeout=20</link>
-			<regex>
-			<name>getIP</name>
-			<expres>function getEdgeServers.*"(.*?),<expres>
-			<page>http://vaughnlive.tv/telemundo34</page>
-			</regex>
-			<regex>
-			<name>getCODE</name>
-			<expres>vsVars.*= "0n0(.*?)"<expres>
-			<page>http://vaughnlive.tv/telemundo34</page>
-			</regex>
-         <thumbnail>https://celiacruzfoundation1.files.wordpress.com/2012/05/telemundo.jpg</thumbnail>
-			</item>
+<item><title>TELEMUNDO</title><link>http://66.55.92.79:1935/app/chivasss69s-channel/.m3u8</link></item>
+<item>
+<title>TELEMUNDO</title>
+<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_telemundo34 live=1 timeout=20</link>
+<regex>
+<name>getIP</name>
+<expres>function getEdgeServers.*"(.*?),<expres>
+<page>http://vaughnlive.tv/telemundo34</page>
+</regex>
+<regex>
+<name>getCODE</name>
+<expres>vsVars.*= "0n0(.*?)"<expres>
+<page>http://vaughnlive.tv/telemundo34</page>
+</regex>
+<thumbnail>https://celiacruzfoundation1.files.wordpress.com/2012/05/telemundo.jpg</thumbnail>
+</item>
 			         
 <item>
 <title>America TV</title>
