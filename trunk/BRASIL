@@ -129,82 +129,10 @@
 </item>
 
 <item>
-<title>[COLOR orange]LOBOS[/COLOR]</title>
-<link>http://149.11.34.6:1935/live/lobas.stream/playlist.m3u8
-</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange]LEVANTE[/COLOR]</title>
-<link>rtmp://teledifusion.tv:1935/levantetvlive/ playpath=levantetvlive swfUrl=http://www.haotivi.com/js/jwplayer.flash.swf live=1 pageUrl=http://www.haotivi.com/#453 timeout=15</link>
-<thumbnail>http://4.bp.blogspot.com/-CH3TalYU92M/UKYjCgxUfDI/AAAAAAAAKPI/HTiJLs7eLC0/s1600/levante_tv_1.JPG</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR orange]MANA SAT SPAIN[/COLOR]</title>
-<link>http://195.22.19.183:1935/tvesp/tvesp3/hasbahca.m3u8</link>
-<thumbnail>http://www.igrejamana.com/pt/images/stories/logotipo_manasat.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange]MANA SAT PORTUGAL[/COLOR]</title>
-<link>http://195.22.19.179:1935/manasat/manasat3/hasbahca.m3u8</link>
-<thumbnail>http://www.igrejamana.com/pt/images/stories/logotipo_manasat.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange]MANA SAT MAPUTO[/COLOR]</title>
-<link>http://195.22.19.189:1935/tvmz/tvmz3/hasbahca.m3u8</link>
-<thumbnail>http://www.igrejamana.com/pt/images/stories/logotipo_manasat.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange]MANA SAT FRANCE[/COLOR]</title>
-<link>http://195.22.19.183:1935/tvfr/tvfr3/hasbahca.m3u8</link>
-<thumbnail>http://www.igrejamana.com/pt/images/stories/logotipo_manasat.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange]MANA SAT INGLISH[/COLOR]</title>
-<link>http://195.22.19.183:1935/tven/tven3/hasbahca.m3u8</link>
-<thumbnail>http://www.igrejamana.com/pt/images/stories/logotipo_manasat.jpg</thumbnail>
-</item>
-
-<subitem>
-<title>[COLOR orange]MANA SAT CORDOBA[/COLOR]</title>
-<link>http://195.22.19.189:1935/tvar/tvmanaar2/hasbahca.m3u8</link>
-<thumbnail>http://www.igrejamana.com/pt/images/stories/logotipo_manasat.jpg</thumbnail>
-</item>
-
-<subitem>
-<title>[COLOR orange]MANA SAT BUENOS AIRES[/COLOR]</title>
-<link>http://195.22.19.189:1935/tvarba/tvarba3/hasbahca.m3u8</link>
-<thumbnail>http://www.igrejamana.com/pt/images/stories/logotipo_manasat.jpg</thumbnail>
-</item>
-
-<item>
 <title>[COLOR orange]MANA SAT BRASIL[/COLOR]</title>
 <link>http://195.22.19.189:1935/tvbr/tvbrasil2/hasbahca.m3u8</link>
 <thumbnail>http://www.igrejamana.com/pt/images/stories/logotipo_manasat.jpg</thumbnail>
 </item>
-
-<item>
-<title>[COLOR orange]MANA SAT BASTA CRER[/COLOR]</title>
-<link>rtmp://streamspub.manasat.com/live/ playpath=bastacrer swfUrl=http://www.haotivi.com/js/jwplayer.flash.swf live=1 pageUrl=http://www.haotivi.com/#421 timeout=15</link>
-<thumbnail>http://www.igrejamana.com/pt/images/stories/logotipo_manasat.jpg</thumbnail>
-</item>
-
-
-
-<item>
-<title>[COLOR orange]SEVILLA FC[/COLOR]</title>
-<link>rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/ playpath=sevillafc swfUrl=http://www.haotivi.com/js/jwplayer.flash.swf live=1 pageUrl=http://www.haotivi.com/#425 timeout=15</link>
-<thumbnail>http://1.bp.blogspot.com/-XxthUbUS6ug/ThbPY4nmPeI/AAAAAAAAAzk/LAX-5A8oliM/s1600/Sevilla+FC+Wallpaper.jpg</thumbnail>
-</item>
-
-
 
 
 
