@@ -34,15 +34,7 @@
  <thumbnail>http://www.puranoticia.cl/front/adjunto/img/2014/04/01/foto_93786_280x190px_1.jpg</thumbnail>
  </item>
  
- 
- <item>
-<title>UCD HD</title>
-<link>http://movilstream.digitalproserver.com/ucvtv/_definst_/ucvtv.smil/chunklist-b1248000.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
- 
- <item>
+<item>
 <title>13 HD</title>
 <link>http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-900.m3u8</link>
 <thumbnail>http://www.puranoticia.cl/front/adjunto/img/2014/04/01/foto_93786_280x190px_1.jpg</thumbnail>
@@ -53,29 +45,18 @@
 <link>http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8</link>
 <thumbnail>https://pbs.twimg.com/profile_images/550643019154587648/zpJ86zDv.jpeg</thumbnail></item>
 
-<item>
-<title>CHILE VISION</title>
-<link>http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8</link>
-<thumbnail>https://pbs.twimg.com/profile_images/550643019154587648/zpJ86zDv.jpeg</thumbnail></item>
-
-rtmp://204.45.157.186/app<playpath>16767?MTQzMjgzNDg2NTszYWRiNGYwYzkwNmY4MDM0YmY5YTQ4YWQ1NDQyMzRlYg== <swfUrl>http://cdn.shidurlive.com/player.swf <pageUrl>http://www.shidurlive.com/stream/4e6a4d324f4459354e6d4d324e545a6c4e6a55334f4463304e6a4d324f446332/e9f6aa963165
-
-
-<item><title>SUB TV SANTIAGO</title>
-<link>mmsh://190.196.9.186:8080/subtv</link><thumbnail>http://www.meddiostv.com/tv/subtv.jpg</thumbnail></item><item>
-
 <item><title> LA RED</title><link>http://wow1.dallas.digitalproserver.com/redtv/redtvvivo/livestream3/master.m3u8</link>
 <thumbnail>http://3.bp.blogspot.com/-zYybGSlMFQo/UEw21CMW3KI/AAAAAAAAA8g/SgKgqMpIPjw/s1600/La+Red+(Chile+TV).png</thumbnail>
 </item>
 	
-	<item>
-	<title>TV CHILE</title>
-	<link>http://edge-12-cl.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/master.m3u8</link>
-	<thumbnail>http://4.bp.blogspot.com/_pFTD3I8CXKM/S_GJyBI_1iI/AAAAAAAAC-Q/1GWE_JTmM4U/s1600/TVN.jpg</thumbnail>
-	</item>
+<item>
+ <title>TV CHILE</title>
+<link>http://edge-12-cl.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/master.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/_pFTD3I8CXKM/S_GJyBI_1iI/AAAAAAAAC-Q/1GWE_JTmM4U/s1600/TVN.jpg</thumbnail>
+ </item>
   
 	
-	<item>
+<item>
 	<title>CANAL TV 5</title>
 	<link>rtmp://v1.streaminglatinoamerica.com/canal5/canal5</link>
 	<thumbnail>http://www.radioancoa.cl/wp-content/uploads/2012/06/ANCOA-CANAL5.jpg</thumbnail>
