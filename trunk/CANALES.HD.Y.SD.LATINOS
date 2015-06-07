@@ -2,27 +2,26 @@
 <link>http://djcasanova.nl/live.mp4</link>
 <thumbnail>http://djcasanova.nl/live.jpg</thumbnail></item>
 
+<item><title>UNOTV HD</title><link>http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8?</link>
+<thumbnail>http://www.unotv.com/utils/imagenes/default-noticias.png</thumbnail></item>
+
+<item><title>ATV HD</title><link>http://edge-31-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist.m3u8?</link>
+<thumbnail>http://i.ytimg.com/vi/MsAf_9GcgdI/maxresdefault.jpg</thumbnail></item> 
+
+<item><title>RPC TV HD</title><link>http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8? timeout=20</link>
+<thumbnail>http://images.rpctv.com/en_directo/RPC-TV-Linea_MEDDIR20131018_0001_9.jpg</thumbnail></item>
+
 <item><title>TELECURAÇAO</title>
 <link>rtmp://cdn8.iviplanet.com/Telecuracao playpath=myStream.sdp swfUrl=http://encoder.iviplanet.com/StreamerPlayers/player.swf pageUrl=http://www.telecuracao.com/web/Videos.aspx?type=channel&id=43 timeout=20</link>
-<thumbnail>http://www.telecuracao.com/upload/news/telecuracao111.jpg</thumbnail></item> 
+<thumbnail>http://www.telecuracao.com/upload/news/telecuracao111.jpg</thumbnail></item>
 
 <item><title>TELECURAÇAO 2</title>
 <link>rtmp://fl01.iviplanet.com/UTS playpath=myStream.sdp  swfUrl=http://encoder.iviplanet.com/StreamerPlayers/player.swf  pageUrl=http://www.telecuracao.com/web/Videos.aspx?type=channel&id=26 timeout=20</link>
-<thumbnail>http://www.telecuracao.com/upload/logos/TC2-2.png</thumbnail></item> 
+<thumbnail>http://www.telecuracao.com/upload/logos/TC2-2.png</thumbnail></item>
 
 <item><title>TELEARUBA</title>
 <link>rtmp://201.229.0.51/livepkgr/livestream1 timeout=20</link>
 <thumbnail>http://www.arubaraceway.com/wp-content/uploads/2010/04/telearuba.gif</thumbnail></item>
-
-<item><title>UNOTV HD</title>
-<link>http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8?</link>
-<thumbnail>http://www.unotv.com/utils/imagenes/default-noticias.png</thumbnail></item>
-
-<item><title>ATV HD</title><link>http://edge-31-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist.m3u8?</link></item> 
-
-<item><title>RPC TV HD</title>
-<link>http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8? timeout=20</link>
-<thumbnail>http://images.rpctv.com/en_directo/RPC-TV-Linea_MEDDIR20131018_0001_9.jpg</thumbnail></item>
 
 <item><title>UNIVISION</title><link>http://199.168.116.16:1935/app/extremouns-channel/.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png</thumbnail></item></item>  
@@ -30,7 +29,7 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png</thumbnail></item>
 
 <item><title>MUNDO FOX</title><link>http://66.55.92.79:1935/app/ana69s-channel/.m3u8?</link></item>	
-<item><title>TELEHIT HD</title><link>http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/THITHD2500.m3u8</link></item>
+<item><title>WARNER HD</title><link>http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/WarnerHD4000.m3u8</link></item>
 <item><title>ESPN HD</title><link>http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/ESPN3HD2500.m3u8</link></item>
  
  <item>
