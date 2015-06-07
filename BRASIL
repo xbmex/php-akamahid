@@ -5,12 +5,6 @@
 </item>
 
 <item>
-<title>TV GLOBO</title>
-<link>http://noscdn1.connectedviews.com:1935/live/sporttvlivehd.stream/livestream.m3u8</link>
-<thumbnail>http://3.bp.blogspot.com/_jffermsdBl8/SiKOIrdgAiI/AAAAAAAAMc8/Vn3nNM4oEiI/s1600/Globo%2BInternacional</thumbnail>
-</item>
-
-<item>
 <title>[COLOR orange]SBT INTERIOR[/COLOR]</title>
 <link>http://srv3.zoeweb.tv:1935/z133-live/stream/playlist.m3u8</link>
 <thumbnail>http://www.zoeweb.com.br/Imagens/Upload/Cases/caseszoewebsbt.jpg</thumbnail>
@@ -22,29 +16,15 @@
 <thumbnail>http://sphotos-c.ak.fbcdn.net/hphotos-ak-snc7/429134_201231619981393_20804910_n.jpg</thumbnail>
 </item>
 
-
-<item>
-<title>TV RECORD</title>
-<link>http://noscdn1.connectedviews.com:1935/live/rtpinformacao.stream/livestream.m3u8</link>
-<thumbnail>http://2.bp.blogspot.com/-d1yUmn4AlVo/T1uER40FeoI/AAAAAAAAF4U/bxJkuXZxPk4/s1600/TV+record.jpg</thumbnail>
-</item>
-
 <item>
 <title>[COLOR orange]TV RECORD[/COLOR]</title>
 <link>rtmp://174.37.99.198/dvrid1816/ playpath=1816 swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=http://www.cxntv.com/canales/tv-record/ timeout=15</link>
 <thumbnail>http://2.bp.blogspot.com/-d1yUmn4AlVo/T1uER40FeoI/AAAAAAAAF4U/bxJkuXZxPk4/s1600/TV+record.jpg</thumbnail>
 </item>
 
-
 <item>
 <title>[COLOR green]RECORD NEWS[/COLOR]</title>
 <link>rtmp://a1.fabricahost.com.br:1935/redemercosul/ playpath=redemercosul swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=http://www.cxntv.com/canales/record-news/ timeout=15</link>
-<thumbnail>http://tv.recordjp.com/wp-content/uploads/2012/02/record_news_brasil-610x225.png</thumbnail>
-</item>
-
-<item>
-<title>RECORD NEWS</title>
-<link>http://noscdn1.connectedviews.com:1935/live/axnwhite.stream/livestream.m3u8</link>
 <thumbnail>http://tv.recordjp.com/wp-content/uploads/2012/02/record_news_brasil-610x225.png</thumbnail>
 </item>
 
@@ -54,17 +34,10 @@
 </item>
 
 <item>
-<title>[COLOR orange]TV MUNDIAL[/COLOR]</title>
-<link>http://impd.crossdigital.com.br:1935/impd/impd/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>[COLOR orange]TV União[/COLOR]</title>
 <link>http://flash.midiaip.com.br:1935/tvvitoria/Sample1/playlist.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/pt/archive/3/3b/20130312135633!Logotipo_TV_Uni%C3%A3o.jpg</thumbnail>
 </item>
-
 
 <item>
 <title>[COLOR red]TV Santa Cecilia HD [/COLOR]</title>
@@ -72,36 +45,7 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/pt/2/2c/LOGO-HD-SITE.jpg</thumbnail>
 </item>
 
-<item>
-<title>[COLOR green]AOVIVO TV[/COLOR]</title>
-<link>rtmp://66.90.103.51:1935/tv/aovivo.sdp</link>
-<thumbnail>http://paroquiasantaritascp.com.br/site/wp-content/uploads/2012/07/Logomarca_Ao_Vivo-copy2.jpg</thumbnail>
-</item>
 
-<item>
-<title>[COLOR orange]24 HORAS DE CINE NACIONAL[/COLOR]</title>
-<link>http://66.90.111.2:1935/ctv/_definst_/filmes/sat_total.m3u8</link>
-<thumbnail>http://api.ning.com/files/R-e6-Sa74siYXnMN4IeKiTeeYG0KEoZv6Kmj1zP4b75Y7MtSfY0y6YVp-VdeF9ReCahXxWrkr-309IGKeeRJsBvLTxoT9bQm/24horasdecinenacional.jpg?width=300</thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange]TV TAMBAU [/COLOR]</title>
-<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
-<regex>
-<name>get-initsesion</name>
-<expres></expres>
-<page>$doregex[get-page]</page>
-<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>get-page</name>
-<expres>"m3u8_url":"(.*?)"</expres>
-<page>http://new.livestream.com/accounts/7167098/aovivo</page>
-<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
-<cookieJar></cookieJar>
-<thumbnail>http://img.new.livestream.com/events/00000000002a2b7c/741edafe-68f8-4630-8abc-14d320e81b57_170x255.jpg</thumbnail>
-</item>
 
 <item>
 <title>[COLOR orange]TV MEIO NORTE [/COLOR]</title>
@@ -134,11 +78,6 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/0/04/Logo_Aragon_TV.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR orange]APERIPE TV [/COLOR]</title>
-<link>rtmp://fms03.ideastek.com.br/tvaperipe/ playpath=tvaperipe swfUrl=http://www.haotivi.com/js/jwplayer.flash.swf live=1 pageUrl=http://www.haotivi.com/#420 timeout=15</link>
-<thumbnail>http://4.bp.blogspot.com/_ppbXD4rsFxg/TC0-nVBX8II/AAAAAAAAA94/hd6ETQ3T7yA/s400/Araripe_Fundap_logo.jpg</thumbnail>
-</item>
 
 <subitem>
 <title>[COLOR orange]ABC COAST FM[/COLOR]</title>
@@ -146,11 +85,6 @@
 <thumbnail>http://teamdoctorsblog.com/wp-content/uploads/2012/08/CoastFM_socmed_logo.jpeg</thumbnail>
 </subitem>
 
-<item>
-<title>[COLOR orange]CWBTV[/COLOR]</title>
-<link>http://67.213.216.200/8066/8066/hasbahca.m3u8</link>
-<thumbnail>http://www.medicalcontrol.com.br/images/clientes/cwbtv.jpg</thumbnail>
-</item>
 
 <item>
 <title>[COLOR orange]CONEXAO VIVO[/COLOR]</title>
