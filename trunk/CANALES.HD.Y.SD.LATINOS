@@ -21,8 +21,11 @@
 <item>
 <title>AZTECA 7 [COLORgreen]HD[/COLOR]</title>
 <link>http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8</link>
-<thumbnail>http://4.bp.blogspot.com/-upmimGFngTc/Usnpk4oLd6I/AAAAAAAABZU/uPxJw1VVShg/s1600/VER+AZTECA+7+EN+VIVO+-++MAURY+TV.png</thumbnail>
-</item>
+<thumbnail>http://4.bp.blogspot.com/-upmimGFngTc/Usnpk4oLd6I/AAAAAAAABZU/uPxJw1VVShg/s1600/VER+AZTECA+7+EN+VIVO+-++MAURY+TV.png</thumbnail></item>
+
+<item><title>TIVA TV [COLORgreen]HD[/COLOR]</title><link>http://live-h1.frontlayer.net/fl729845/live/live.m3u8?wowzasessionid=1243637292</link>
+<thumbnail>http://www.tivatv.com/images/tiva2d.png</thumbnail></item>
+
 
 ---------------------------------------SD----------------------------->
 
@@ -120,185 +123,23 @@
 <item><title>TV PERU SD</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-Ylzzxawtm9M/T8PowrgvsRI/AAAAAAAACCo/B606vPDYF1A/s1600/LOGONUEVO.jpg</thumbnail></item>
 
-
-<item>
-<title>VEVO TV HD</title>
-<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8</link>
-<thumbnail>http://www.videostatic.com/sites/default/files/styles/post/public/vevotv.jpg?itok=iivtPhon</thumbnail>
-</item>
-
-<item>
-<title>VEVO 2 TV HD</title>
-<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8</link>
-<thumbnail>http://www.videostatic.com/sites/default/files/styles/post/public/vevotv.jpg?itok=iivtPhon</thumbnail>
-</item>
-
-<item>
-<title>VEVO 3 TV HD</title>
-<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8</link>
-<thumbnail>http://www.videostatic.com/sites/default/files/styles/post/public/vevotv.jpg?itok=iivtPhon</thumbnail>
-</item>
-
-<item>
-<title>CNN CHILE</title>
-<link>rtmp://200.83.3.28:80/CNN-CHILE/CNN-CHILE playpath=CNN-CHILE swfUrl=http://vtr.com/cnnf/flowplayer.rtmp-3.1.3.swf pageUrl=http://www.chilenext.com/2013/12/cnn-chile.html live=true timeout=15</link>
-<thumbnail>http://www.patagonianinternationalmarathon.com/assets/cnn-Chile.png</thumbnail>
-</item>
-
-<item>
-<title>VMAS TV</title>
-<link>http://uneapple-i.akamaihd.net/hls/live/207642/grupoune_st23@207642/st23_index.m3u8</link>
-<thumbnail>http://st-listas.20minutos.es/images/2013-12/373312/4262528_640px.jpg?1386378961</thumbnail>
-</item>
-
-<item>
-<title>MI MUSICA HD</title>
-<link>http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8</link>
-<thumbnail>http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png</thumbnail>
-</item>
-
-<item>
-<title>MIAMI TV </title>
-<link>rtmp://74.208.69.207:1935/live/miamitvhd</link>
-<thumbnail>http://1.bp.blogspot.com/_GI1mUAUV6jo/RxWx0q2TJmI/AAAAAAAAAAM/FLkHGZoxqXU/s1600/Logo+Miami+TV.gif</thumbnail>
-</item>
-
-<item>
-<title>YES! (Aprede Ingles)</title>
-<link>http://uneapple-i.akamaihd.net/hls/live/205010/grupoune_st1@205010/st1_index.m3u8</link>
-<thumbnail>http://s21.postimg.org/ts6ebk7nn/yes.jpg</thumbnail>
-</item>
-
-<item>
-<title>SPORTSNET WEST</title>
-<link>http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_1600_ipad.m3u8</link>
-<thumbnail>http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/sportsnet_west.png</thumbnail>
-</item>
-
-<item>
-<title>SporTTime.TV 2</title>
-<link>rtmp://streamer.a1.net:1935/rtmplive playpath=redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200 swfUrl=http://127.0.0.1:8048/StrobeMediaPlayback.swf live=1 pageUrl=http://127.0.0.1:8048/index.html</link>
-<thumbnail>http://1.bp.blogspot.com/-8OebpdKskrI/UswemSjQJII/AAAAAAAASm0/xzBJaYCQdDU/s1600/sporttime.jpg</thumbnail>
-</item>
-
-<item>
-<title>SporTTime.TV 1</title>
-<link>rtmp://streamer.a1.net:1935/rtmplive playpath=redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200 swfUrl=http://127.0.0.1:8048/StrobeMediaPlayback.swf live=1 pageUrl=http://127.0.0.1:8048/index.html</link>
-<thumbnail>http://1.bp.blogspot.com/-8OebpdKskrI/UswemSjQJII/AAAAAAAASm0/xzBJaYCQdDU/s1600/sporttime.jpg</thumbnail>
-</item>
-
-<item>
-<title>TIVA TV hd  [COLOR Red](PR)[/COLOR]</title>
-<link>http://live-h1.frontlayer.net/fl729845/live/live.m3u8?wowzasessionid=1243637292</link>
-<thumbnail>http://www.tivatv.com/images/tiva2d.png</thumbnail>
-</item>
-
-<item>
-<title>CosmoVisión</title>
-<link>http://uneapple-i.akamaihd.net/hls/live/206415/grupoune_st14@206415/st14_index.m3u8</link>
-<thumbnail>http://www.cosmovision.tv/sitio/img/logo_cosmovision_2011.png</thumbnail>
-</item>
-
-
-	<item>
-			<title>CANAL DE HISTORIA</title>
-			<link>rtmp://$doregex[get-ip]:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=$doregex[get-xs] token=$doregex[tok] flashver=WIN%2011,9,900,117 playpath=$doregex[get-path] swfUrl=http://www.9stream.com/player/player_orig_XXXXX.swf pageUrl=http://www.9stream.com/embedplayer.php?width=650&amp;height=400&amp;channel=100&amp;autoplay=true live=1 swfVfy=1 timeout=10</link>
-			<thumbnail>http://img3.wikia.nocookie.net/__cb20130707114257/logopedia/images/0/07/Canal_de_Hist%C3%B3ria.gif</thumbnail>
-			<regex>
-			<name>get-ip</name>
-			<expres>rtmp:....([^:]*)</expres>
-			<page>http://www.9stream.com/embedplayer.php?width=650&amp;height=400&amp;channel=100&amp;autoplay=true</page>
-			<referer>http://cinestrenostv.tv/canales/documentales/nationalgeo.php</referer>
-			</regex>
-
-			<regex>
-			<name>get-xs</name>
-			<expres>xs=(.*?)"</expres>
-			<page>http://www.9stream.com/embedplayer.php?width=650&amp;height=400&amp;channel=100&amp;autoplay=true</page>
-			<referer>http://cinestrenostv.tv/canales/documentales/nationalgeo.php</referer>
-			</regex>
-
-			<regex>
-			<name>tok</name>
-			<expres>t....":"([^."]*)</expres>
-			<page>http://www.9stream.com/server1.php</page>
-			<referer>http://cinestrenostv.tv/canales/documentales/nationalgeo.php</referer>
-			</regex>
-
-			<regex>
-			<name>get-path</name>
-			<expres>'file': '([^.]*)</expres>
-			<page>http://www.9stream.com/embedplayer.php?width=650&amp;height=400&amp;channel=100&ampautoplay=true</page>
-			<referer>http://cinestrenostv.tv/canales/documentales/nationalgeo.php</referer>
-			</regex>
-			</item>
-
-
-<item>
-			<title>DW Latinoamerica</title>
-			<link>http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8</link>
-			</item>
+<item><title>DW  SD</title>
+<link>http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8</link></item>
 			
-			<item>
-			<title>Nasa TV HD</title>
-			<link>http://iphone-streaming.ustream.tv/ustreamVideo/$doregex[path]/streams/live/playlist.m3u8</link>
-			<regex>
-			<name>path</name>
-			<expres>"https://www.ustream.tv/embed/(.+?)"></expres>
-			<page>http://www.ustream.tv/channel/6540154</page>
-			<referer> </referer>
-			</regex>
-			<thumbnail></thumbnail>
-			</item>
-
-			
-			<item>
-			<title>Discovery</title>
-			<link>$doregex[get-link]</link>
-			<regex>
-			<name>get-link</name>
-			<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/17248101/streams/live/playlist.m3u8')</expres>
-			<page></page>
-			</regex> 
-			</item>
+ <item>
+<title>DISCOVERY SD</title>
+<link>$doregex[get-link]</link>
+<regex>
+<name>get-link</name>
+<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/17248101/streams/live/playlist.m3u8')</expres>
+<page></page>
+</regex> 
+<thumbnail>http://img3.wikia.nocookie.net/__cb20100201104910/logopedia/images/d/d7/Discovery_en_Espa%C3%B1ol_old.png</thumbnail>
+</item>
 			
 <item>
-<title>LA RED CHILE HD </title>
-<link>rtmp://wow1.dallas.digitalproserver.com/redtv/redtvvivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/6.7/jwplayer.flash.swf?v=67 live=1 pageUrl=http://media.digitalproserver.com/v2/live/redtv/</link>
-<thumbnail>http://tecache.cl/wp-content/uploads/2012/08/La-Red-logo.png</thumbnail>
-</item>
-
-<item>
-    <title>Valle Vision San Felipe (chile)</title><!-- Link DIRECTO, NO BORRAR -->
-    <link>rtmp://flashmedia.aconcaguared.com/live/live_605537_nhAdU2RY</link>
-    <thumbnail>http://www.agenciacta.org/IMG/jpg/canal-26-logo1.jpg</thumbnail>
-    </item>
-
-    <title>Rocoo TV Canal 4</title>
-    <link>rtmp://stream1.eltelon.com:1935/live/rocco-tv/rocco-tv571</link>
-    <thumbnail>http://www.brandsoftheworld.com/sites/default/files/styles/logo-original-577x577/public/022012/canal_4_vector_logo.png</thumbnail>
-    </item>
-
-<item>
-<title>LEVANTE TV</title>
+<title>LEVANTE TV SD</title>
 <link>rtmp://teledifusion.tv:1935/levantetvlive playpath=levantetvlive swfUrl=http://www.levantetv.es//servicios/...evantetvlive&autostart=true&wmode=transparent live=1 pageUrl=http://www.levantetv.es//servicios/...evantetvlive&autostart=true&wmode=transparent --live</link>
 <thumbnail>http://2.bp.blogspot.com/-op8WtXr9OsE/Ulb0uZTznsI/AAAAAAAARxY/Zfuj8hOwlQY/s1600/levantetv.jpg</thumbnail>
 </item>
 
-<item>
-<title>FRECUENCIA LATINA</title> <!-- link directo! -->
-<link>rtmp://flatina1livefs.fplive.net/flatina1live-live playpath=stream1 swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.7.swf live=1 pageUrl=http://www.frecuencialatina.com/tvenvivo --live</link>
-<thumbnail>http://1.bp.blogspot.com/-QyWlGyH9tv0/Tn4aGkAnLaI/AAAAAAAAAgo/ZK2nC83Nld8/s320/frequencia_latina.png</thumbnail>
-</item>
-
-<item>
-<title>LA TELE</title>
-<link>rtmp://d91.iblups.com/latele playpath=MMb2wRCis1 swfUrl=http://iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3D10691&autostart=true live=1 pageUrl=http://iblups.com/e_latele-720-380</link>
-<thumbnail>http://img1.wikia.nocookie.net/__cb20110820224440/logopedia/images/2/2b/2009-actualidad_ID.jpg</thumbnail>
-</item>
-
-<item>
-<title>TELEFE</title>
-<link>rtmp://podi.hopper.pw:443/live/live_beto_3</link>
-<thumbnail></thumbnail>
-</item>
