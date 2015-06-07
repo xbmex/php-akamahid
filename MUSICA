@@ -1,1 +1,17 @@
+<item>
+<title>VEVO TV HD</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8</link>
+<thumbnail>http://www.videostatic.com/sites/default/files/styles/post/public/vevotv.jpg?itok=iivtPhon</thumbnail>
+</item>
 
+<item>
+<title>VEVO 2 TV URBAN HD</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8</link>
+<thumbnail>http://www.videostatic.com/sites/default/files/styles/post/public/vevotv.jpg?itok=iivtPhon</thumbnail>
+</item>
+
+<item>
+<title>VEVO 3 TV HD</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8</link>
+<thumbnail>http://www.videostatic.com/sites/default/files/styles/post/public/vevotv.jpg?itok=iivtPhon</thumbnail>
+</item>
