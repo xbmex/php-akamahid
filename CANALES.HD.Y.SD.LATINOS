@@ -25,15 +25,13 @@
 
 <item><title>UNIVISION</title><link>http://199.168.116.16:1935/app/extremouns-channel/.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png</thumbnail></item></item>  
+
 <item><title>UNIVISION NY</title><link>rtmp://199.168.116.16:1935/app/extremouns-channel timeout=20</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png</thumbnail></item>
 
 <item><title>MUNDO FOX</title><link>http://66.55.92.79:1935/app/ana69s-channel/.m3u8?</link></item>	
 
-<item><title>WARNER HD 1000</title><link>http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/WarnerHD1000.m3u8</link></item>
-<item><title>FOX HD</title><link>http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/FOX150.m3u8</link></item>
- 
- <item>
+<item>
 <title>TELEMUNDO</title>
 <link>$doregex[get-link]</link>
 <regex>
