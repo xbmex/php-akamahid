@@ -1,4 +1,6 @@
-<item><title>TN HD</title><link>rtsp://stream.tn.com.ar/live/tnmovil2</link></item>
+<item><title>TN HD</title><link>rtsp://stream.tn.com.ar/live/tnmovil2</link></item><item>
+<title>TN HD</title><link>rtsp://stream.tn.com.ar/live/tnhd1</link>
+<thumbnail>http://a441.phobos.apple.com/us/r30/Purple6/v4/b3/b9/92/b3b992a5-29dd-c9b9-1f86-b29d531df6c4/mzl.rqxylill.jpg</thumbnail></item>
 <item><title>CANAL 13 HD</title><link>rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1</link></item>
 <item><title>C5N HD</title><link>http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8</link></item>
 <item><title>C5N HD - Opcion 2</title><link>rtmp://c5n.stweb.tv:1935/c5n/live_media</link></item>
@@ -11,7 +13,7 @@
 <thumbnail>http://www.sintelevisor.com/tv/imagenes/kisstv.jpg</thumbnail>
 </item>
 <item>
-			<title>[COLOR lime]El Rural[/COLOR]<title>
+<title>[COLOR lime]El Rural[/COLOR]<title>
 			<link>rtmp://streamrural.cmd.com.ar/ app=liverural/crural playpath=rural1 swfUrl=http://www.elrural.com/sites/default/files/jwplayermodule/player/player.swf pageUrl=http://www.elrural.com/canal_rural/vivo live=true timeout=15</link>
 			<thumbnail>http://www.elrural.com/sites/default/files/elrural_favicon.png</thumbnail>
 			</item>
