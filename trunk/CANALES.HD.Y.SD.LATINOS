@@ -19,14 +19,10 @@
 <thumbnail>http://www.unotv.com/utils/imagenes/default-noticias.png</thumbnail></item>
 
 <item><title>ATV HD</title><link>http://edge-31-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist.m3u8?</link></item> 
-<item><title>UNIMAS</title><link>rtmp://podi.hopper.pw:443/live/live_unimas12 timeout=20</link><thumbnail></thumbnail></item>
-
 
 <item><title>RPC TV HD</title>
 <link>http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8? timeout=20</link>
 <thumbnail>http://images.rpctv.com/en_directo/RPC-TV-Linea_MEDDIR20131018_0001_9.jpg</thumbnail></item>
-
-
 
 <item><title>UNIVISION</title><link>http://199.168.116.16:1935/app/extremouns-channel/.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png</thumbnail></item></item>  
@@ -34,7 +30,6 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png</thumbnail></item>
 
 <item><title>MUNDO FOX</title><link>http://66.55.92.79:1935/app/ana69s-channel/.m3u8?</link></item>	
- 
 <item><title>TELEHIT HD</title><link>http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/THITHD2500.m3u8</link></item>
 <item><title>ESPN HD</title><link>http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/ESPN3HD2500.m3u8</link></item>
  
@@ -64,6 +59,31 @@
 </regex>
 <thumbnail>https://celiacruzfoundation1.files.wordpress.com/2012/05/telemundo.jpg</thumbnail>
 </item>
+
+<item><title>UNIMAS</title><link>rtmp://podi.hopper.pw:443/live/live_unimas12 timeout=20</link><thumbnail></thumbnail></item>
+<item>
+			<title>UNIMAS</title>
+			<link>$doregex[get-link]</link>
+			<regex>
+			<name>get-link</name>
+			<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/20644254/streams/live/playlist.m3u8')</expres>
+			<page></page>
+			</regex> 
+			</item>
+			<item>
+			<title>Unimas 02</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_unimas12 live=1 timeout=20</link>
+			<regex>
+			<name>getIP</name>
+			<expres>function getEdgeServers.*"(.*?),<expres>
+			<page>http://vaughnlive.tv/unimas12</page>
+			</regex>
+			<regex>
+			<name>getCODE</name>
+			<expres>vsVars.*= "0n0(.*?)"<expres>
+			<page>http://vaughnlive.tv/unimas12</page>
+			</regex>
+			</item>
   		         
 <item>
 <title>America TV</title>
