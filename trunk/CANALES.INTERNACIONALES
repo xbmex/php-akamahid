@@ -1,7 +1,8 @@
 <item>
- <title>HBO ingles</title>
- <link>rtmp://94.102.49.207/iguide playpath=0bf02qe6msgtu4s swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7</link
- </item>
+<title>HBO ingles</title>
+<link>rtmp://94.102.49.207/iguide playpath=0bf02qe6msgtu4s swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7</link
+<thumbnail>http://i.huffpost.com/gen/2170088/images/o-HBO-STREAMING-facebook.jpg</thumbnail>
+</item>
 
 <item>
 <title>ABC</title>
@@ -9,14 +10,9 @@
 <thumbnail>http://images.vectorhq.com/images/previews/4a7/abc-logo-psd-470128.png</thumbnail>
 </item>
 
-<item>
-<title>1 HD</title>
-<link>http://hls.cn.ru/streaming/firstmuz/16/hd/playlist.m3u8 </link></link>
-<thumbnail>http://www.realites.com.tn/wp-content/uploads/first-170614-1.jpg</thumbnail>
-</item>
 
 <item>
-<title>SPORT</title>
+<title>POCCNR 2</title>
 <link>http://euro.online.hls.cn.ru/streaming/sport/126/tvrec/playlist.m3u8 </link>
 <thumbnail></thumbnail>
 </item>
@@ -27,99 +23,11 @@
 <thumbnail></thumbnail>
 </item>
 
-
-			
-<item>
-			<title>[COLOR=yellow]Discovery Investigation[/COLOR]</title>
-			<link>http://95.188.107.166:1234/udp/233.7.70.192:5000</link>
-			<thumbnail></thumbnail>
-			</item>
-			N
-<item>
-			<title>[COLOR=yellow]MTV Hits[/COLOR]</title>
-			<link>http://95.188.107.166:1234/udp/233.7.70.208:5000</link>
-			<thumbnail></thumbnail>
-			</item>
-			
-			<item>
-			<title>[COLOR=yellow]VH1 Classic[/COLOR]</title>
-			<link>http://95.188.107.166:1234/udp/233.7.70.229:5000</link>
-			<thumbnail></thumbnail>
-			</item>
-			
-
-
-	<item>
-			<title>ESPN USA </title>
-			<thumbnail>http://www.atlanticleague.com/images/press-logos/118_logo.jpg</thumbnail>
-			<fanart>http://cdn.abclocal.go.com/content/creativeContent/images/cms/060414-kgo-united-states-1280x720.jpg</fanart>
-			<link>$doregex[get-proper-rtmp] app=direct2watch/_definst_/?xs=$doregex[get-app] playpath=$doregex[get-path] token=$doregex[get-token] swfUrl=http://www.direct2watch.com/player/player_embed_iguide.swf pageUrl=http://www.direct2watch.com/embedplayer.php?width=653&amp;height=410&amp;channel=9&amp;autoplay=true live=1 swfVfy=true timeout=10</link>
-			<regex>
-			<name>get-rtmp</name>
-			<expres>'streamer': "([^\?]*)</expres>
-			<page>http://www.direct2watch.com/embedplayer.php?width=653&amp;height=410&amp;channel=9&amp;autoplay=true</page>
-			<referer>http://vipracing.net/opcion-3.html</referer>
-			</regex>
-
-			<regex>
-			<name>get-proper-rtmp</name>
-			<expres>$pyFunction:'$doregex[get-rtmp]'.replace('\/','/')</expres>
-			<page></page>
-			</regex>
-
-			<regex>
-			<name>get-app</name>
-			<expres>\?xs=(.*)"</expres>
-			<page>http://www.direct2watch.com/embedplayer.php?width=653&amp;height=410&amp;channel=9&amp;autoplay=true</page>
-			<referer>http://vipracing.net/opcion-3.html</referer>
-			<cookieJar></cookieJar>
-			</regex>
-
-			<regex>
-			<name>get-path</name>
-			<expres>'file': '([^.]*)</expres>
-			<page>http://www.direct2watch.com/embedplayer.php?width=653&amp;height=410&amp;channel=9&amp;autoplay=true</page>
-			<referer>http://vipracing.net/opcion-3.html</referer>
-			<cookieJar></cookieJar>
-			</regex>
-
-			<regex>
-			<name>GetTokenPage</name>                                                      
-			<expres>\$.getJSON\("([^"]*)</expres>
-			<page>http://www.direct2watch.com/embedplayer.php</page>
-			<referer></referer>
-			<cookieJar></cookieJar>
-			</regex>
-
-			<regex>
-			<name>get-token</name>
-			<expres>token":"([^"]*)</expres>
-			<page>$doregex[GetTokenPage]</page>
-			<referer>$doregex[GetTokenPage]</referer>
-			<cookieJar></cookieJar>
-			</regex>
-
-			</item>
-
-
 <item>
 <title>DISCOVERY MAX</title>
 <link>rtmp://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chdiscoverymax/2012/07/12/5faca113-13c2-4c8e-9d63-531036f3b107</link>
 <thumbnail>http://www.redbeemedia.es/sites/all/files/imagecache/huge/images/logo-discovery-max.jpg</thumbnail>
 </item>
-
-<item>
-<title>MTV LATINO</title>
-<link>rtmp://extondemand.livestream.com/ondemand playpath=trans/union/mogulus-user-files/ch40tv/2008/07/03/5f104d19-82ae-4810-99e0-dc93269972f5</link>
-<thumbnail>http://www.founditemclothing.com/itgoesto11/wp-content/uploads/2014/01/mtv-original-logo.gif</thumbnail>
-</item>
-
-<item>
-<title>TN HD</title>
-<link>rtsp://stream.tn.com.ar/live/tnhd1</link>
-<thumbnail>http://a441.phobos.apple.com/us/r30/Purple6/v4/b3/b9/92/b3b992a5-29dd-c9b9-1f86-b29d531df6c4/mzl.rqxylill.jpg</thumbnail>
-</item>
-
 
 <item>
 <title>BTN SPORTS</title>
