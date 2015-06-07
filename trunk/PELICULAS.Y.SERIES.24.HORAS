@@ -23,7 +23,7 @@
 </item>
 
 	<item>
-			<title>MegaKids HD</title>
+			<title>DISNESYHD</title>
 			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_mega_kids live=1 timeout=20</link>
 			<regex>
 			<name>getIP</name>
@@ -51,41 +51,9 @@
 			<page>http://vaughnlive.tv/katyhd</page>
 			</regex>
 			</item>
-			
+			 
 			<item>
-			<title>Sebastian TV</title>
-			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_sebastiann24 live=1 timeout=20</link>
-			<regex>
-			<name>getIP</name>
-			<expres>function getEdgeServers.*"(.*?),<expres>
-			<page>http://vaughnlive.tv/sebastiann24</page>
-			</regex>
-			<regex>
-			<name>getCODE</name>
-			<expres>vsVars.*= "0n0(.*?)"<expres>
-			<page>http://vaughnlive.tv/sebastiann24</page>
-			</regex>
-			</item>
-			
-			<item>
-			<title>300 Movies TV</title>
-			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_300movies live=1 timeout=20</link>
-			<regex>
-			<name>getIP</name>
-			<expres>function getEdgeServers.*"(.*?),<expres>
-			<page>http://vaughnlive.tv/300movies</page>
-			</regex>
-			<regex>
-			<name>getCODE</name>
-			<expres>vsVars.*= "0n0(.*?)"<expres>
-			<page>http://vaughnlive.tv/300movies</page>
-			</regex>
-			</item>
-			
-			
-			
-			<item>
-			<title>Vitato HD</title>
+			<title>NOVAPELIS HD</title>
 			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_vitatotv live=1 timeout=20</link>
 			<regex>
 			<name>getIP</name>
@@ -98,8 +66,6 @@
 			<page>http://vaughnlive.tv/vitatotv</page>
 			</regex>
 			</item>
-			
-			
 			
 			<item>
 			<title>Peliculas HBO</title>
