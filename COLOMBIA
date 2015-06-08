@@ -35,7 +35,7 @@ timeout=10</link><thumbnail>http://img2.wikia.nocookie.net/__cb20121102222303/lo
 <thumbnail>http://3.bp.blogspot.com/-m9I2IP2g1js/UtNaE4fBMrI/AAAAAAAADmA/G9RY-1rUHEA/s1600/WWWWWWWWW.png</thumbnail></item>
 
 <item><title>CABLE NOTICIAS</title>
-<link>rtmp://50.23.173.13:1935/live/ playpath=cablenoticiastv_720p swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.cablenoticias.tv timeout=10</link>
+<link>rtmp://slc2.cxn.tv:1935/live/ playpath=cablenoticias.stream timeout=10</link>
 <thumbnail>http://www.olympusat.com/sites/default/files/cablenot_logos_HR.png</thumbnail></item>
 
 <item><title>[COLOR skyblue]SEÑAL COLOMBIA    [COLOR lime]HD[/COLOR]</title>
