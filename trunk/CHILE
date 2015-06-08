@@ -36,7 +36,7 @@
  
 <item>
 <title>13 HD new</title>
-<link> timeout=10</link>
+<link>rtmp://slc2.cxn.tv:1935/live/chilevision.stream timeout=10</link>
 <thumbnail>http://www.puranoticia.cl/front/adjunto/img/2014/04/01/foto_93786_280x190px_1.jpg</thumbnail>
 </item>
 
