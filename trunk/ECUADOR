@@ -41,10 +41,4 @@
 <link>rtmp://181.198.10.23:1935/live/ playpath=mystream swfUrl=http://www.nasa.gov/sites/default/files/mediastreaming/jwplayer.flash.swf live=1 pageUrl=http://ecualive.me.la/live/tvdeecuador/tvs.html timeout=20</link>
 <thumbnail>https://lh6.googleusercontent.com/-g0gEArPXc8Y/UVE9WVryzWI/AAAAAAAAA-w/gNhRV0W9fAo/s241/tvs-gr.gif</thumbnail>
 </item>
-
-<item>
- <title>canal uno</title>
-<link>rtmp://83.170.111.188:1935/liverepeat playpath=prim13 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=prim13&vw=653&vh=421</link>
-<thumbnail>http://1.bp.blogspot.com/-3WfsZRyRdgM/USBr5mK__EI/AAAAAAAACh0/M6ijS-TEdqA/s400/canaluno.jpeg</thumbnail>
-</item>
-   
+ 
