@@ -50,11 +50,6 @@
 <title>MUNDO FOX SD</title><link>http://66.55.92.79:1935/app/ana69s-channel/.m3u8</link>
 <thumbnail>http://pmcdeadline2.files.wordpress.com/2012/01/logomundo2__120123131412.jpg</thumbnail></item>
 
-<title>telemundo</title><link>rtmp://wdc.cxnlive.com:1935/live/telemundo.stream</link>
-<thumbnail></thumbnail></item>
-
-
-
 <item>
 <title>TELEMUNDO SD</title>
 <link>$doregex[get-link]</link>
