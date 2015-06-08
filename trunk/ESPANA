@@ -3,11 +3,6 @@
 <link>http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8</link>
 <thumbnail>http://img.irtve.es/files/74-118767-FOTO_NOTA_PRENSA_399/tve_la1_gest.jpg</thumbnail>
 </item>
-<item>	
-<title>LA 1</title>
-<link>http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8</link>
-<thumbnail>http://img.irtve.es/files/74-118767-FOTO_NOTA_PRENSA_399/tve_la1_gest.jpg</thumbnail>
-</item>
 
 <item>	
 <title>EL MUNDO</title>
@@ -15,8 +10,8 @@
 <thumbnail>http://www.iamhectorhernandez.com/wp-content/uploads/2014/06/El-Mundo-logo1.png</thumbnail>
 </item>
 
-<item><title>[COLOR=orange]ANTENA 3[/COLOR]</title>
-<link>rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live playpath=stream-antena3_2 swfUrl=http://www.atresplayer.com/static/swf/AtresPlayer.swf?nocache=200 live=1 pageUrl=http://www.atresplayer.com/directos/television/antena3/</link>
+<item><title>ANTENA 3</title>
+<link>rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live/stream-antena3_1</link>
 <thumbnail>http://4.bp.blogspot.com/-sQhXrQR2Q14/UU3m0jYKaYI/AAAAAAAAQJo/9120o348Rh4/s1600/A3.jpg</thumbnail></item>
 
 <item><title>LA CUATRO</title><link>http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_22@168474/index_0_av-p.m3u8?sd=10&rebase=on</link>
