@@ -13,10 +13,6 @@
 <item><title>[COLOR skyblue]TRECE   [COLOR blue]HD[/COLOR]</title>
 <link>rtmp://cdn6.iviplanet.com/DEMOUNO playpath=myStream.sdp timeout=10</link><thumbnail>http://3.bp.blogspot.com/-ZcNDnWls7iU/UDEemUxuXxI/AAAAAAAAAmo/ZMoxPa10k_w/s1600/canal_13_trece.png</thumbnail></item>
  
-<item><title>[COLOR skyblue]CANAL UNO  [COLOR lime]HD[/COLOR]</title>
-<link>rtmp://fl01.iviplanet.com/DEMODOS playpath=myStream.sdp swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion
- timeout=10</link><thumbnail>http://rtvc-assets-sistemasenalcolombia.gov.co.s3.amazonaws.com/LOGObanner.png</thumbnail></item>
-
 <item><title>[COLOR skyblue]WIN SPORTS [COLOR lime]HD[/COLOR]</title>
 <link>rtmp://cdn8.iviplanet.com/ELTIEMPO-TO playpath=myStream.sdp timeout=10</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/220px-Winsports.svg.png</thumbnail></item>
