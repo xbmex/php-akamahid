@@ -5,13 +5,9 @@
 </item>
 
 <item>
-<title>TV RECORD </title>
-<link><item>
-<title>TV RECORD </title><link>rtmp://slc2.cxn.tv:1935/live/ playpath=tvrecord.stream?wowzatokenhash=Av019MCBDPHwJTSzIMVZv_ZOYgxyYGIv-7oYO5fVhQM=&wowzatokenendtime=1433729700 timeout=15</link>
+<title>TV RECORD </title><link>rtmp://slc2.cxn.tv:1935/live/ playpath=tvrecord.stream timeout=15</link>
 <thumbnail>http://2.bp.blogspot.com/-d1yUmn4AlVo/T1uER40FeoI/AAAAAAAAF4U/bxJkuXZxPk4/s1600/TV+record.jpg</thumbnail>
 </item>
-
-
 
 <item>
 <title>[COLOR orange]SBT INTERIOR[/COLOR]</title>
