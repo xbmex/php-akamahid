@@ -21,15 +21,6 @@
 <thumbnail>http://radioteve.com/tele/caribe/stdomingo/logo/telemic.jpg</thumbnail>
 </item> 
 
-
-<item><title>UNIVISION</title>
-<link>http://iphone-streaming.ustream.tv/ustreamVideo/15379493/streams/live/playlist.m3u8?</link></item>
-
-<item>
-<title>Telefuturo Canal 23</title>
-<link>http://ss7.domint.net:1950/tf_str/futu/playlist.m3u8</link>
-<thumbnail>http://tusolcaribe.net/wp-content/uploads/2012/10/telefuturo.jpg</thumbnail>
-</item>
 <item>
 <title>Noticias 16 Canal 16</title>
 <link>http://mek2.mekstream.com:1935/noticias16/live2/playlist.m3u8</link>
@@ -77,51 +68,6 @@
 <thumbnail>http://4.bp.blogspot.com/-Z_mcG9euuDY/UPw0_XEo4YI/AAAAAAAABnI/R-CllmJY0BY/s1600/repretel_4.png</thumbnail>
 </item>
 
-<item>
-<title>GIGANTES DEL CIBAO</title>
-<link>http://ss7.domint.net:2022/stv_str/tv55/chunklist_w1937208512.m3u8</link>
-<thumbnail>http://gigantesdelcibaotv.com/LOGODELOSGIGANTES.PNG</thumbnail>
-</item>
-
-
-<item>
-<title>AGUILAS CIBAEÑAS</title>
-<link>rtmp://ss6.domint.net:1972/es_edge/ playpath=esco swfUrl=http://ss6.domint.net/jw timeout=15</link>
-<thumbnail>http://2.bp.blogspot.com/_Tilmukme8kg/SwdvAcM7DoI/AAAAAAAABHs/7bBG4V5FD5k/s1600/aguilas-1024x768.jpg</thumbnail>
-</item>
-
-<item>
-<title>LEONES DEL ESCOGIDO</title>
-<link>rtmp://ss6.domint.net:1972/es_edge/ playpath=esco swfUrl=http://ss6.domint.net/jw6/jwplayer.flash.swf live=1 pageUrl=http://www.escogido.com/web/escogidotv.php timeout=15</link>
-<thumbnail>http://eldeportista.com.do/wp-content/uploads/2014/07/escogido.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR skyblue]ANTENA LATINA[/COLOR]</title>
-<link>http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8</link>
-<thumbnail>http://www.ensegundos.net/wp-content/uploads/2012/01/Logo_antena_latina_canal_7.jpg</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR skyblue]CDN SPORT MAX[/COLOR]</title>
-<link>http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8</link>
-<thumbnail>http://www.fotosdigitalesgratis.com/noticias/fotos/CDN-SportsMix3-Logo.jpg</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>ANTENA LATINA</title>
-<link>rtmp://ss6.domint.net:1962/al_edge/ playpath=antena swfUrl=http://ss7.domint.net/jw6/jwplayer.flash.swf pageUrl=http://www.antenalatina7.com/streaming7/streamingTV.php timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>CDN Canal 37 ( Republica Dominicana)</title>
-<link>http://108.168.206.90:1935/cdn/cdn/playlist.m3u8</link>
-<thumbnail>http://tv-online.in/wp-content/uploads/2013/01/CDN1-CANAL-37-Santo-Domingo-live.gif</thumbnail>
-</item>
 
 <item>
 <title>Teleantillas Canal 2</title>
@@ -153,40 +99,7 @@
 <link>rtmp://ss7.domint.net:2048/cvis_str/ playpath=color  swfUrl=http://ss7.domint.net/jw6/6.10/jwplayer.flash.swf  pageUrl=http://www.colorvision.do/stream9 timeout=15</link>
 <thumbnail>http://2.bp.blogspot.com/-r991wJvXckM/U5OWo2ZwQsI/AAAAAAAAphk/z6-Zd3GqMHU/s1600/logo9.png</thumbnail>
 </item>
-	
-
-<item>
-<title>Noticias 16 Canal 16</title>
-<link>http://mek2.mekstream.com:1935/noticias16/live2/playlist.m3u8</link>
-<thumbnail>http://canalesdominicanosenvivo.com/wp-content/uploads/2014/05/Noticias-16-Santo-Domingo-Canales-Dominicanos-Online.jpg</thumbnail>
-</item>
-
-<item>
-<title>Teleuniverso Canal 29</title>
-<link>http://ss7.domint.net:1942/tu_str/universo/playlist.m3u8</link>
-<thumbnail>http://emisoradominicana.net/television/logos/Teleuniverso-Canal-29.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>CineVision 19</title>
-<link>http://xcinevisioncanal19x.api.channel.livestream.com/3.0/playlist.m3u8</link>
-<thumbnail>http://emisoradominicana.net/tv/wp-content/uploads/2013/09/Cinevision-Canal-19.jpg</thumbnail>
-</item>
-
-<item>
-<title>Digital 15</title>
-<link>rtmp://vivo.canalesdominicanosenvivo.com:1935/can/ playpath=di15.stream swfUrl=http://emisoradominicana.net/html5/play/jwplayer.flash.swf pageUrl=http://emisoradominicana.net/html5/play/paly.php?canal=223 timeout=15</link>
-<thumbnail>http://www.cirqueros.com/web/images/stories/digital%2015%20logo.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Telemicro 5</title>
-<link>rtmp://vivo.canalesdominicanosenvivo.com:1935/can/ playpath=te05.stream swfUrl=http://emisoradominicana.net/html5/play/jwplayer.flash.swf pageUrl=http://emisoradominicana.net/html5/play/paly.php?canal=222  timeout=15</link>
-<thumbnail>http://radioteve.com/tele/caribe/stdomingo/logo/telemic.jpg</thumbnail>
-</item> 
-
+  
 
 <item>
 <title>Telecontacto 57</title>
@@ -231,12 +144,6 @@
 <link>http://ss7.domint.net:1950/tf_str/futu/playlist.m3u8</link>
 <thumbnail>http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/Telefuturo-Canal-23.jpg</thumbnail>
 </item>	
-	
-<item>
-<title>SUPER TV CANAL 555</title>
-<link>http://ss4.domint.net:2022/stv_str/tv55/playlist.m3u8</link>
-<thumbnail>http://3.bp.blogspot.com/-BzhLGni4ZAY/TnDprh6UgbI/AAAAAAAAWoI/oMYyYmvTSZs/s1600/Canal+55.jpg</thumbnail>
-</item>
 	
 <item>
 <title>TV HIGUEY</title>
