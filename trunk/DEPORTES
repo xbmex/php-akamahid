@@ -10,70 +10,9 @@
 <link>rtmp://lat2.cxnlive.com:1935/live/ playpath=canal-foxargentina.stream timeout=15</link>
 <thumbnail></thumbnail></item>
 
-
-<item>
-<title>Moto gp</title><link>http://66.55.92.79:1935/app/avision51s-channel/playlist.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Moto_Gp_logo.svg/1280px-Moto_Gp_logo.svg.png</thumbnail>
-</item> 
-
-<item><title>BEIN SPORT HD eng</title>
+<item><title>BEING SPORT HD</title>
 <link>http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8</link>
 <thumbnail>http://3.bp.blogspot.com/-m9I2IP2g1js/UtNaE4fBMrI/AAAAAAAADmA/G9RY-1rUHEA/s1600/WWWWWWWWW.png</thumbnail></item>
-
-
-<item><title>BEIN SPORT 1 HD eng</title>
-<link>http://streamindo.ddns.net/jhos/beib1_5/streamindo/playlist.m3u8</link>
-<thumbnail>http://3.bp.blogspot.com/-m9I2IP2g1js/UtNaE4fBMrI/AAAAAAAADmA/G9RY-1rUHEA/s1600/WWWWWWWWW.png</thumbnail></item>
-
-<item><title>BEIN SPORT 2 HD eng</title>
-<link>http://streamindo.ddns.net/jhos/beib2_5/streamindo/playlist.m3u8</link>
-<thumbnail>http://3.bp.blogspot.com/-m9I2IP2g1js/UtNaE4fBMrI/AAAAAAAADmA/G9RY-1rUHEA/s1600/WWWWWWWWW.png</thumbnail></item>
-
-<item><title>BEIN SPORT premier HD eng</title>
-<link>http://streamindo.ddns.net/jhos/beib3_5/streamindo/playlist.m3u8</link>
-<thumbnail>http://3.bp.blogspot.com/-m9I2IP2g1js/UtNaE4fBMrI/AAAAAAAADmA/G9RY-1rUHEA/s1600/WWWWWWWWW.png</thumbnail></item>
-
-<item><title>MLB BASEBALL</title>
-<link>rtmp://109.123.70.38:80/live playpath=mlbxx swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://reytv.co/embedu.php?live=mlbxx&vw=620&vh=490 token=%Zrey(nKa@#Z</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Major_League_Baseball.svg/1280px-Major_League_Baseball.svg.png</thumbnail></item>
-
-<item><title>FIGHTER</title>
-<link>http://iptv5.zargacum.net/iptv/KEKNKTM4T4/150/index.m3u8</link>
-<thumbnail>http://3.bp.blogspot.com/-y0Y-qCgQkaI/VPjLP5UvTlI/AAAAAAAADZ4/naHLiZ5833Q/s1600/%D0%91%D0%BE%D0%B5%D1%86.JPG</thumbnail></item>
- 
-<item><title>ESPN HD</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?=-1</link>
-<thumbnail>http://y.cdn.entutele.com/media/channels/big/espn-hd.gif</thumbnail></item>
-			
-<item><title>ESPN </title>
-<link>http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?=-1</link>
-<thumbnail>http://y.cdn.entutele.com/media/channels/big/espn.gif</thumbnail></item>
-			
-<item><title>ESPN 2</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?=-1</link>
-<thumbnail>http://y.cdn.entutele.com/media/channels/big/espn-2.gif</thumbnail></item>
-			
-<item><title>ESPN 3</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?=-1</link>
-<thumbnail>http://y.cdn.entutele.com/media/channels/big/espn-3.gif</thumbnail></item>
-			
-<item><title>FOX SPORT</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?=-1</link>
-<thumbnail>http://z.cdn.entutele.com/media/channels/big/fox-sports.gif</thumbnail></item>
-			
-<item><title>FOX SPORT 2</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?=-1</link>
-<thumbnail>http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif</thumbnail></item>
-
-
-<item><title>PXTV HD</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?=-1</link>
-<thumbnail>http://www.pxtv.tv/wp-content/uploads/2014/03/ipad-retina.png</thumbnail></item>
-
-<item><title>AYM SPORTS </title>
-<link>http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?=-1</link>
-<thumbnail>http://hispanic-tv.jumptv.com/images/2007/12/14/logo_aym_sports.jpg</thumbnail></item>
-
 
 <item>
 <title>SPORT 1 RU </title>
