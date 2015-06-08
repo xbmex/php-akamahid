@@ -1,4 +1,3 @@
-
 <item><title>MARC ANTHONY LIVE AT AHOY ROTTERDAM 2015</title>
 <link>http://djcasanova.nl/live.mp4</link>
 <thumbnail>http://djcasanova.nl/live.jpg</thumbnail></item>
@@ -6,6 +5,13 @@
 <item><title>Meridiano tv</title>
 <link>http://lat4.cdnak.latino.neulion.com/nlds/guaotv/meridiano/as/live/meridiano_4.m3u8</link>
 <thumbnail></thumbnail></item>
+
+<item><title>test</title>
+<link>rtmp:.//lat2.cxnlive.com:1935 playpath=al-foxargentina.stream</link>
+<thumbnail></thumbnail></item>
+
+
+
 
 
 <item>
