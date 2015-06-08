@@ -34,7 +34,7 @@ timeout=10</link><thumbnail>http://img2.wikia.nocookie.net/__cb20121102222303/lo
 <link>http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8</link>
 <thumbnail>http://3.bp.blogspot.com/-m9I2IP2g1js/UtNaE4fBMrI/AAAAAAAADmA/G9RY-1rUHEA/s1600/WWWWWWWWW.png</thumbnail></item>
 
-<item><title>CABLE NOTICIAS u</title>
+<itemoff><title>CABLE NOTICIAS u</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=cablenoticias.stream timeout=10</link>
 <thumbnail>http://www.olympusat.com/sites/default/files/cablenot_logos_HR.png</thumbnail></item>
 
