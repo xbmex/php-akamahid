@@ -1,23 +1,18 @@
 <item>	
 <title>TVE 1</title>
 <link>http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8</link>
-<thumbnail>http://img.irtve.es/files/74-118767-FOTO_NOTA_PRENSA_399/tve_la1_gest.jpg</thumbnail>
-</item>
+<thumbnail>http://img.irtve.es/files/74-118767-FOTO_NOTA_PRENSA_399/tve_la1_gest.jpg</thumbnail></item>
 
 <item><title>LA 1</title><link>http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8</link><thumbnail></thumbnail></item>
-<item><title>CUATRO1</title><link>rtmp://146.185.16.170:1735/tvdirecto?token=play@143350715109507 cuatro_xrf2a3 http://www.businessapp1.pw/jwplayer5/addplayer/jwplayer.flash.swf http://tv.verdirectotv.org/embed.php?c=103954&width=650&height=400&autostart=true&tk1=XTdR5fYTvt2g1XZr%2Fs943JpK0M8g3AU9rr7%2FS1MXHKtEKrFvvRn69hGtmj8zkPKNQh6VSVVC2dGv91i6KW2DLQ%3D%3D&tk2=bR5D06OmOGh9nC11YjskphtnxlvqjCkrdN%2Bgti73YUw%3D&tk3=v9g2dukB1lP4GeFIBsjO41%2FizshZ0vnsUOco4OJRKu0%3D</link><thumbnail></thumbnail></item>
-
-
 <item>	
+
 <title>EL MUNDO</title>
 <link>http://universalhdlive.elmundo.es/i/dr22_1@104884/index_6_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail>http://www.iamhectorhernandez.com/wp-content/uploads/2014/06/El-Mundo-logo1.png</thumbnail>
-</item>
+<thumbnail>http://www.iamhectorhernandez.com/wp-content/uploads/2014/06/El-Mundo-logo1.png</thumbnail></item>
 
 <item><title>ANTENA 3</title>
 <link>rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live/stream-antena3_1</link>
 <thumbnail>http://4.bp.blogspot.com/-sQhXrQR2Q14/UU3m0jYKaYI/AAAAAAAAQJo/9120o348Rh4/s1600/A3.jpg</thumbnail></item>
-
 
 <item><title>TELECINCO</title><link>http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8</link>
 <thumbnail>http://marketing.es/wp-content/uploads/2008/09/logo-t5-1997.jpg</thumbnail></item>
