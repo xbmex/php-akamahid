@@ -36,7 +36,7 @@
  
 <item>
 <title>13 HD new</title>
-<link>rtmp://slc2.cxn.tv:1935/live/ playpath=chilevision.stream?wowzatokenhash=oKEMBWhfCTHo4ds06Wlqqwr3NMV9ZRYusPbMhwg-x88=&wowzatokenendtime=1433728200 swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf  pageUrl=http://www.cxntv.com/canales/chilevision-hd/ timeout=10</link>
+<link> timeout=10</link>
 <thumbnail>http://www.puranoticia.cl/front/adjunto/img/2014/04/01/foto_93786_280x190px_1.jpg</thumbnail>
 </item>
 
