@@ -29,6 +29,13 @@
 
 ---------------------------------------SD----------------------------->
 
+
+
+<item><title>CANAL DE LAS ESTRELLAS</title>
+<link>http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8</link>
+<thumbnail></thumbnail></item>
+
+
 <item><title>TELECURAÇAO SD</title>
 <link>rtmp://cdn8.iviplanet.com/Telecuracao playpath=myStream.sdp swfUrl=http://encoder.iviplanet.com/StreamerPlayers/player.swf pageUrl=http://www.telecuracao.com/web/Videos.aspx?type=channel&id=43 timeout=20</link>
 <thumbnail>http://www.telecuracao.com/upload/news/telecuracao111.jpg</thumbnail></item>
