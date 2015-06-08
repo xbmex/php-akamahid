@@ -10,11 +10,6 @@
 <link>rtmp://lat2.cxnlive.com:1935/live/ playpath=canal-foxargentina.stream timeout=15</link>
 <thumbnail></thumbnail></item>
 
-<item><title>FOX 2 HD</title>
-<link>rtmp://slc2.cxn.tv:1935/live/ playpath=foxsports2.stream timeout=15</link>
-<thumbnail></thumbnail></item>
-
-
 
 <item>
 <title>Moto gp</title><link>http://66.55.92.79:1935/app/avision51s-channel/playlist.m3u8</link>
