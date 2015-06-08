@@ -6,8 +6,8 @@
 <link>http://lat4.cdnak.latino.neulion.com/nlds/guaotv/meridiano/as/live/meridiano_4.m3u8</link>
 <thumbnail></thumbnail></item>
 
-<item><title>FOX ARGENTINA TEST</title>
-<link>rtmp://lat2.cxnlive.com:1935/live/ playpath=rcanal-foxargentina.stream timeout=15</link>
+<item><title>FOX ARGENTINA</title>
+<link>rtmp://lat2.cxnlive.com:1935/live/ playpath=canal-foxargentina.stream timeout=15</link>
 <thumbnail></thumbnail></item>
 
 <item>
