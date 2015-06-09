@@ -1,14 +1,14 @@
 <item><title>DISNEY SD</title><link>http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8</link></item>
 
 
-			<item>
-				<title>ATV(Peru)</title>
-				<link>rtmp://$doregex[rtmpip]/live playpath=nicknicknick?id=227393 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/fplayer.swf pageUrl=http://www.mips.tv live=1 timeout=20</link>
-				<regex>
-					<name>rtmpip</name>
-					<expres>redirect=(.*)</expres>
-					<page>http://www.mips.tv:1935/loadbalancer?211684</page>
-					<referer>http://www.mips.tv/content/scripts/fplayer.swf</referer>
-				</regex>
-				<thumbnail></thumbnail>
-			</item>
+<item>
+<title>A</title>
+ <link>rtmp://$doregex[rtmpip]/live playpath=nicknicknick?id=227393 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/fplayer.swf pageUrl=http://www.mips.tv live=1 timeout=20</link>
+<regex>
+<name>rtmpip</name>
+<expres>redirect=(.*)</expres>
+ <page>http://www.mipsplayer.com/embedplayer/nicknicknick/1/620/380</page>
+<referer>http://www.mips.tv/content/scripts/fplayer.swf</referer>
+</regex>
+  <thumbnail></thumbnail>
+</item>
