@@ -1,22 +1,13 @@
 <item><title>DISNEY SD</title><link>http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8</link></item>
 
 
-<item>
-<title>A</title>
- <link>rtmp://$doregex[rtmpip]/live playpath=nicknicknick?id=227393 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/fplayer.swf pageUrl=http://www.mips.tv live=1 timeout=20</link>
-<regex>
-<name>rtmpip</name>
-<expres>redirect=(.*)</expres>
- <page>http://www.mipsplayer.com/embedplayer/nicknicknick/1/620/380</page>
-<referer>http://www.mips.tv/content/scripts/fplayer.swf</referer>
-</regex>
-  <thumbnail></thumbnail>
-</item>
+rtmp://95.211.184.231/live<playpath>nick2031?id=230414 <swfUrl>http://www.mipsplayer.com/content/scripts/fplayer.swf <pageUrl>http://www.mipsplayer.com/embedplayer/nick2031/1/600/385
+
 
 
 
 		<item>
 			<title>[COLOR lime]DirecTV[/COLOR]<title>
-			<link>rtmp://95.211.184.231/live playpath=nicknicknick?id=227393  conn=S:OK swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf pageUrl=http://www.mipsplayer.com/embedplayer/nicknicknick/1/620/380 live=true timeout=15</link>
+			<link>rtmp://95.211.184.231/live playpath=nick2031?id=230414   conn=S:OK swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf pageUrl=http://www.mipsplayer.com/embedplayer/nick2031/1/600/385 live=true timeout=15</link>
 			<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/directv_lam_sports.png</thumbnail>
 			</item>
