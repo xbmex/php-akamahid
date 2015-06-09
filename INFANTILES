@@ -12,3 +12,11 @@
 </regex>
   <thumbnail></thumbnail>
 </item>
+
+
+
+		<item>
+			<title>[COLOR lime]DirecTV[/COLOR]<title>
+			<link>rtmp://95.211.184.231/live playpath=nicknicknick?id=227393  conn=S:OK swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf pageUrl=http://www.mipsplayer.com/embedplayer/nicknicknick/1/620/380 live=true timeout=15</link>
+			<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/directv_lam_sports.png</thumbnail>
+			</item>
