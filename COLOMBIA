@@ -6,6 +6,11 @@
 <link>rtmp://cdn6.iviplanet.com/CARACOL-TO playpath=myStream.sdp timeout=10</link>
 <thumbnail>http://static.canalcaracol.com/sites/caracoltv.com/files/img_videos/c29d66c103de3b05c9a1dca51e96f510.jpg</thumbnail></item>
 
+<item><title>[COLOR skyblue]CARACOL[COLOR lime] SD[/COLOR]</title>
+<link>http://caracoltvlivehds-lh.akamaihd.net/i/wowzalive_1@126280/index_300_av-b.m3u8</link>
+<thumbnail>http://static.canalcaracol.com/sites/caracoltv.com/files/img_videos/c29d66c103de3b05c9a1dca51e96f510.jpg</thumbnail></item>
+
+
 <item><title>CANAL RCN [COLOR lime]HD[/COLOR]</title>
 <link>rtmp://cdn6.iviplanet.com/RCN-TO playpath=myStream.sdp timeout=10</link>
 <thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
