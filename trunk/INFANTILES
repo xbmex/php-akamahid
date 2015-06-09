@@ -1,13 +1,4 @@
 <item><title>DISNEY SD</title><link>http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8</link></item>
+<item><title>DISNEY SD</title><link>http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8</link></item>
 
 
-rtmp://95.211.184.231/live<playpath>nick2031?id=230414 <swfUrl>http://www.mipsplayer.com/content/scripts/fplayer.swf <pageUrl>http://www.mipsplayer.com/embedplayer/nick2031/1/600/385
-
-
-
-
-		<item>
-			<title>TEST<title>
-			<link>rtmp://95.211.184.231/live playpath=nick2031?id=230414 swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf live=true  pageUrl=http://www.mipsplayer.com/embedplayer/nick2031/1/600/385 conn=S:OK timeout=15</link>
-			<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/directv_lam_sports.png</thumbnail>
-			</item>
