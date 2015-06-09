@@ -7,7 +7,7 @@
 <thumbnail>http://static.canalcaracol.com/sites/caracoltv.com/files/img_videos/c29d66c103de3b05c9a1dca51e96f510.jpg</thumbnail></item>
 
 <item><title>CANAL RCN [COLOR lime]HD[/COLOR]</title>
-<link>rtmp://cdn6.iviplanet.com/RCN-TO playpath=myStream.sdp  swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion timeout=10</link>
+<link>rtmp://cdn6.iviplanet.com/RCN-TO playpath=myStream.sdp timeout=10</link>
 <thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
 
 <item><title>[COLOR skyblue]TRECE   [COLOR blue]HD[/COLOR]</title>
@@ -41,6 +41,10 @@ timeout=10</link><thumbnail>http://img2.wikia.nocookie.net/__cb20121102222303/lo
 <item><title>Telepacifico</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/12380713/streams/live/playlist.m3u8</link>
 
 <item><title>Mi Gente</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m3u8</link>
+
+<item><title>Claro Sport </title><link>http://ooyalahd2-f.akamaihd.net/i/csports01_delivery@42896/index_1692_av-p.m3u8</link>
+
+
 
 
 			
