@@ -59,7 +59,7 @@
 
 	
 			<item>
-			<title>TDN :  [COLOR yellow]**[/COLOR]</title>
+			<title>tst[COLOR yellow]**[/COLOR]</title>
 			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
 			<regex>
 			<name>rtmp</name>
@@ -93,13 +93,13 @@
 			<expres>"pingsts" src="(.*?)"</expres>
 			<page>$doregex[get-page]</page>
 			<cookieJar></cookieJar>
-			<referer>http://www.chilenext.com/2014/03/canal13-1/referer>
+			<referer>http://www.chilenext.com/2014/03/canal13-1</referer>
 			</regex>
 			<regex>
 			<name>get-page</name>
 			<expres>src="(.*?)"</expres>
 			<page>http://shidurlive.com/embed/chilenext</page>
-			<referer>http://www.chilenext.com/2014/03/canal13-1/referer>
+			<referer>http://www.chilenext.com/2014/03/canal13-1</referer>
 			<cookieJar></cookieJar>
 			</regex>
 			<thumbnail></thumbnail>
