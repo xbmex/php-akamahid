@@ -55,59 +55,7 @@
 <thumbnail>http://4.bp.blogspot.com/_pFTD3I8CXKM/S_GJyBI_1iI/AAAAAAAAC-Q/1GWE_JTmM4U/s1600/TVN.jpg</thumbnail>
  </item>
  
- rtmp://204.45.157.226/app<playpath>16840?MTQzMzk1NTY5OTtiZjY1NTRhNTYzMWY3OGFkMDViZjYxZGIzMmIyNWM4Mw== <swfUrl>http://cdn.shidurlive.com/player.swf <pageUrl>http://www.shidurlive.com/stream/4e6a4d7a4d544d7a4e6a67324e445a6c4e6a55334f446330/b552b96d637a
 
-	
-			<item>
-			<title>tst[COLOR yellow]**[/COLOR]</title>
-			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
-			<regex>
-			<name>rtmp</name>
-			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
-			<page>$doregex[get-page]</page>
-			<cookieJar></cookieJar>
-			<referer>http://www.chilenext.com/2014/03/canal13-1</referer>
-			</regex>
-			<regex>
-			<name>path</name>
-			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
-			<page>$doregex[get-page]</page>	
-			<referer>http://www.chilenext.com/2014/03/canal13-1</referer>
-			</regex>
-			<regex>
-			<name>do-ping</name>
-			<expres></expres>
-			<page>$doregex[pagewait]$doregex[get-ping]</page>
-			<referer>http://shidurlive.com</referer>
-			<ignorecache/>
-			</regex>
-			<regex>
-			<name>pagewait</name>
-			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
-			<page></page>
-			<referer>http://shidurlive.com</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			<regex>
-			<name>get-ping</name>
-			<expres>"pingsts" src="(.*?)"</expres>
-			<page>$doregex[get-page]</page>
-			<cookieJar></cookieJar>
-			<referer>http://www.chilenext.com/2014/03/canal13-1</referer>
-			</regex>
-			<regex>
-			<name>get-page</name>
-			<expres>src="(.*?)"</expres>
-			<page>http://shidurlive.com/embed/chilenext</page>
-			<referer>http://www.chilenext.com/2014/03/canal13-1</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			<thumbnail></thumbnail>
-			</item>
-
-
-
-	
 <item>
 	<title>CANAL TV 5</title>
 	<link>rtmp://v1.streaminglatinoamerica.com/canal5/canal5</link>
