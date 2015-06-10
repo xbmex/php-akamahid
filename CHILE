@@ -35,10 +35,13 @@
  </item>
  
 <item>
-<title>13 HD new</title>
-<link>rtmp://slc2.cxn.tv:1935/live/chilevision.stream timeout=10</link>
+<title>13 HD</title>
+<link>rtmp://slc2.cxn.tv:1935/live   playpath=chilevision.stream timeout=10</link>
 <thumbnail>http://www.puranoticia.cl/front/adjunto/img/2014/04/01/foto_93786_280x190px_1.jpg</thumbnail>
 </item>
+
+rtmp://slc2.cxn.tv:1935/live/<playpath>chilevision.stream?wowzatokenhash=hZMWqmLR8H5e4lVeXApUzn3dirOnicztCJs68bX0Svw=&wowzatokenendtime=1433933580 <swfUrl>http://p.jwpcdn.com/6/2/jwplayer.flash.swf <pageUrl>http://www.cxntv.com/canales/chilevision-hd/
+
 
 <item>
 <title>CHILE VISION</title>
