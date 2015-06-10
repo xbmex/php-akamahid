@@ -3,25 +3,9 @@
 <thumbnail>http://djcasanova.nl/live.jpg</thumbnail></item>
  
 <item>
-<title>Mega Movies </title>
-<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_mega_movieshd live=1 timeout=20</link>
-<regex>
-<name>getIP</name>
-<expres>function getEdgeServers.*"(.*?),<expres>
-<page>http://vaughnlive.tv/mega_movieshd</page>
-</regex>
-<regex>
-<name>getCODE</name>
-<expres>vsVars.*= "0n0(.*?)"<expres>
-<page>http://vaughnlive.tv/mega_movieshd</page>
-</regex>
-</item>
-			
-<item>
- <title>HBO</title>
+<title>HBO</title>
 <link>rtmp://50.7.69.186/iguide playpath=0bf02qe6msgtu4s swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7</link><!-- --><thumbnail>http://www.mediazoo.nl/wp-content/uploads/2014/07/HBO-Logo-Wallpaper.png</thumbnail>
 </item></item>
-
 
 <item>
 <title>[COLOR skyblue]UNIVERSAL MOVIES[/COLOR]</title>
@@ -36,176 +20,26 @@
 <thumbnail>http://www.myfilmviews.com/wp-content/uploads/2012/12/universal-pictures-100th-anniversary-logo1.jpg</thumbnail>
 </item>
 
-	<item>
-			<title>DISNESYHD</title>
-			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_mega_kids live=1 timeout=20</link>
-			<regex>
-			<name>getIP</name>
-			<expres>function getEdgeServers.*"(.*?),<expres>
-			<page>http://vaughnlive.tv/mega_kids</page>
-			</regex>
-			<regex>
-			<name>getCODE</name>
-			<expres>vsVars.*= "0n0(.*?)"<expres>
-			<page>http://vaughnlive.tv/mega_kids</page>
-			</regex>
-			</item>
-			
+	
 			<item>
-			<title>Katty HD </title>
-			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_katyhd live=1 timeout=20</link>
+			<title>Cinema Latino HD - No esta transmitiendo</title>
+			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_cinemalatinohd01 live=1 timeout=20</link>
 			<regex>
 			<name>getIP</name>
 			<expres>function getEdgeServers.*"(.*?),<expres>
-			<page>http://vaughnlive.tv/katyhd</page>
+			<page>http://vaughnlive.tv/cinemalatinohd01</page>
 			</regex>
 			<regex>
 			<name>getCODE</name>
 			<expres>vsVars.*= "0n0(.*?)"<expres>
-			<page>http://vaughnlive.tv/katyhd</page>
-			</regex>
-			</item>
-			 
-			<item>
-			<title>NOVAPELIS HD</title>
-			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_vitatotv live=1 timeout=20</link>
-			<regex>
-			<name>getIP</name>
-			<expres>function getEdgeServers.*"(.*?),<expres>
-			<page>http://vaughnlive.tv/vitatotv</page>
-			</regex>
-			<regex>
-			<name>getCODE</name>
-			<expres>vsVars.*= "0n0(.*?)"<expres>
-			<page>http://vaughnlive.tv/vitatotv</page>
-			</regex>
-			</item>
-			
-		 	<item>
-			<title>Mega Extremo </title>
-			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_mega_extremo live=1 timeout=20</link>
-			<regex>
-			<name>getIP</name>
-			<expres>function getEdgeServers.*"(.*?),<expres>
-			<page>http://vaughnlive.tv/mega_extremo</page>
-			</regex>
-			<regex>
-			<name>getCODE</name>
-			<expres>vsVars.*= "0n0(.*?)"<expres>
-			<page>http://vaughnlive.tv/mega_extremo</page>
-			</regex>
-			</item>
-			
-			<item>
-			<title>lcreme staff HD</title>
-			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_lcreme_staff live=1 timeout=20</link>
-			<regex>
-			<name>getIP</name>
-			<expres>function getEdgeServers.*"(.*?),<expres>
-			<page>http://vaughnlive.tv/lcreme_staff</page>
-			</regex>
-			<regex>
-			<name>getCODE</name>
-			<expres>vsVars.*= "0n0(.*?)"<expres>
-			<page>http://vaughnlive.tv/lcreme_staff</page>
+			<page>http://vaughnlive.tv/cinemalatinohd01</page>
 			</regex>
 			</item>
 
-			<item>
-			<title>letzfetz HD</title>
-			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_letzfetz live=1 timeout=20</link>
-			<regex>
-			<name>getIP</name>
-			<expres>function getEdgeServers.*"(.*?),<expres>
-			<page>http://vaughnlive.tv/letzfetz</page>
-			</regex>
-			<regex>
-			<name>getCODE</name>
-			<expres>vsVars.*= "0n0(.*?)"<expres>
-			<page>http://vaughnlive.tv/letzfetz</page>
-			</regex>
-			</item>
-			
-			
-			
-			<item>
-			<title>Max Prime</title>
-			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_cinescape live=1 timeout=20</link>
-			<regex>
-			<name>getIP</name>
-			<expres>function getEdgeServers.*"(.*?),<expres>
-			<page>http://vaughnlive.tv/cinescape</page>
-			</regex>
-			<regex>
-			<name>getCODE</name>
-			<expres>vsVars.*= "0n0(.*?)"<expres>
-			<page>http://vaughnlive.tv/cinescape</page>
-			</regex>
-			</item>
-			
-			<item>
-			<title>PELICUAS DE TERROR</title>
-			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_club_terror live=1 timeout=20</link>
-			<regex>
-			<name>getIP</name>
-			<expres>function getEdgeServers.*"(.*?),<expres>
-			<page>http://vaughnlive.tv/club_terror</page>
-			</regex>
-			<regex>
-			<name>getCODE</name>
-			<expres>vsVars.*= "0n0(.*?)"<expres>
-			<page>http://vaughnlive.tv/club_terror</page>
-			</regex>
-			</item>
-			
-			
-			<item>
-			<title>ZONA DE PELICULAS</title>
-			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_morena_channels12 live=1 timeout=20</link>
-			<regex>
-			<name>getIP</name>
-			<expres>function getEdgeServers.*"(.*?),<expres>
-			<page>http://vaughnlive.tv/morena_channels12</page>
-			</regex>
-			<regex>
-			<name>getCODE</name>
-			<expres>vsVars.*= "0n0(.*?)"<expres>
-			<page>http://vaughnlive.tv/morena_channels12</page>
-			</regex>
-			</item>
 
 ----------------------------------------SERIES 24/7 -----------------------------
 
-			<item>
-			<title>Mega Chavo del 8</title>
-			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_mega_chavo live=1 timeout=20</link>
-			<regex>
-			<name>getIP</name>
-			<expres>function getEdgeServers.*"(.*?),<expres>
-			<page>http://vaughnlive.tv/mega_chavo</page>
-			</regex>
-			<regex>
-			<name>getCODE</name>
-			<expres>vsVars.*= "0n0(.*?)"<expres>
-			<page>http://vaughnlive.tv/mega_chavo</page>
-			</regex>
-			</item>
 
-			
-			<item>
-			<title>Simpsons Mania</title>
-			<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_simpson_mania live=1 timeout=20</link>
-			<regex>
-			<name>getIP</name>
-			<expres>function getEdgeServers.*"(.*?),<expres>
-			<page>http://vaughnlive.tv/simpson_mania</page>
-			</regex>
-			<regex>
-			<name>getCODE</name>
-			<expres>vsVars.*= "0n0(.*?)"<expres>
-			<page>http://vaughnlive.tv/simpson_mania</page>
-			</regex>
-			</item>
 
 			
 
