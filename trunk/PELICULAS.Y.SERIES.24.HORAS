@@ -367,58 +367,6 @@
       <thumbnail></thumbnail>
 			</item>
 
-
-
-
-
-
-<title>entretenimientohd1</title>
-<link>
-rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_entretenimientohd1 live=1 timeout=20
-</link>
-<regex>
-<name>clearCode</name>
-<expres>
-$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")
-</expres>
-<page/>
-</regex>
-<regex>
-<name>getencoded</name>
-<expres>:mvnkey-(.*)</expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getserver</name>
-<expres>(.*?);</expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>(.*)</expres>
-<page>
-http://mvn.vaughnsoft.net/video/edge/live_entretenimientohd1$doregex[gettime]-$doregex[gettime].33434
-</page>
-</regex>
-<regex>
-<name>gettime</name>
-<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
-<page/>
-</regex>
-</item>
-<item>
-<title>Peliculas HBO</title>
-<link>
-rtmp://50.7.69.186/iguide playpath=0bf02qe6msgtu4s swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-</link>
-<!--   -->
-</item>
-<item>
-<title>Canal Cine</title>
-<link>http://68.71.42.179/live/livestream1/playlist.m3u8</link>
-<!--   -->
-</item>
-
 ----------------------------------------SERIES 24/7 -----------------------------
 
 
