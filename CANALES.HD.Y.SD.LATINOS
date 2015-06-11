@@ -84,8 +84,8 @@
 <thumbnail>https://celiacruzfoundation1.files.wordpress.com/2012/05/telemundo.jpg</thumbnail>
 </item>
 
-	<item>
-			<title>Telemundo 34</title>
+	  <item>
+			<title>TELEMUNDO 34</title>
 			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_telemundo34 live=1 timeout=20</link>
 			<regex>
 			<name>clearCode</name>
@@ -112,6 +112,7 @@
 			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
 			<page></page>
 			</regex>
+			<thumbnail>https://celiacruzfoundation1.files.wordpress.com/2012/05/telemundo.jpg</thumbnail>
 			</item>
 
 <item>
