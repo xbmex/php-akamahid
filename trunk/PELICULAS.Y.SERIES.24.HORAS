@@ -80,7 +80,7 @@
 </regex>
  </item>
 
-
+<item>
 <title>Tv</title>
 <link>
 rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_sebastiann24 live=1 timeout=20
