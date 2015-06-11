@@ -178,112 +178,40 @@
       <thumbnail></thumbnail>
 			</item>
          
+       <item>
+			<title>CINE MORENA HD</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_morena_channels12 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_morena_channels12$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+      <thumbnail></thumbnail>
+			</item>
+         
 
-<title>lcreme</title>
-<link>
-rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_lcreme_staff live=1 timeout=20
-</link>
-<regex>
-<name>clearCode</name>
-<expres>
-$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")
-</expres>
-<page/>
-</regex>
-<regex>
-<name>getencoded</name>
-<expres>:mvnkey-(.*)</expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getserver</name>
-<expres>(.*?);</expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>(.*)</expres>
-<page>
-http://mvn.vaughnsoft.net/video/edge/live_lcreme_staff$doregex[gettime]-$doregex[gettime].33434
-</page>
-</regex>
-<regex>
-<name>gettime</name>
-<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
-<page/>
-</regex>
-</item>
-<item>
-<title>letzfetz</title>
-<link>
-rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_letzfetz live=1 timeout=20
-</link>
-<regex>
-<name>clearCode</name>
-<expres>
-$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")
-</expres>
-<page/>
-</regex>
-<regex>
-<name>getencoded</name>
-<expres>:mvnkey-(.*)</expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getserver</name>
-<expres>(.*?);</expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>(.*)</expres>
-<page>
-http://mvn.vaughnsoft.net/video/edge/live_letzfetz$doregex[gettime]-$doregex[gettime].33434
-</page>
-</regex>
-<regex>
-<name>gettime</name>
-<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
-<page/>
-</regex>
-</item>
-<item>
-<title>morena_channels12</title>
-<link>
-rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_morena_channels12 live=1 timeout=20
-</link>
-<regex>
-<name>clearCode</name>
-<expres>
-$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")
-</expres>
-<page/>
-</regex>
-<regex>
-<name>getencoded</name>
-<expres>:mvnkey-(.*)</expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getserver</name>
-<expres>(.*?);</expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>(.*)</expres>
-<page>
-http://mvn.vaughnsoft.net/video/edge/live_morena_channels12$doregex[gettime]-$doregex[gettime].33434
-</page>
-</regex>
-<regex>
-<name>gettime</name>
-<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
-<page/>
-</regex>
-</item>
-<item>
+
+
 <title>cinescape</title>
 <link>
 rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_cinescape live=1 timeout=20
