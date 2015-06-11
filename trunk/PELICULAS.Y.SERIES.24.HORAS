@@ -20,17 +20,13 @@
 <thumbnail>http://www.myfilmviews.com/wp-content/uploads/2012/12/universal-pictures-100th-anniversary-logo1.jpg</thumbnail>
 </item>
 
-<item>
-<title>Mega Kids</title>
-<link>
-rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mega_kids live=1 timeout=20
-</link>
+ <item>
+<title>DISNEY MOVIES</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mega_kids live=1 timeout=20</link>
 <regex>
 <name>clearCode</name>
-<expres>
-$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")
-</expres>
-<page/>
+<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+<page></page>
 </regex>
 <regex>
 <name>getencoded</name>
@@ -40,66 +36,28 @@ $pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")
 <regex>
 <name>getserver</name>
 <expres>(.*?);</expres>
-<page>$doregex[getUrl]</page>
 </regex>
 <regex>
 <name>getUrl</name>
 <expres>(.*)</expres>
-<page>
-http://mvn.vaughnsoft.net/video/edge/live_mega_kids$doregex[gettime]-$doregex[gettime].33434
-</page>
+<page>http://mvn.vaughnsoft.net/video/edge/live_mega_kids$doregex[gettime]-$doregex[gettime].33434</page>
 </regex>
 <regex>
 <name>gettime</name>
 <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
-<page/>
+ <page></page>
 </regex>
-</item>
-
-
-	<item>
-			<title>TELEMUNDO 34</title>
-			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mega_kids live=1 timeout=20</link>
-			<regex>
-			<name>clearCode</name>
-			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
-			<page></page>
-			</regex>
-			<regex>
-			<name>getencoded</name>
-			<expres>:mvnkey-(.*)</expres>
-			<page>$doregex[getUrl]</page>
-			</regex>
-			<regex>
-			<name>getserver</name>
-			<expres>(.*?);</expres>
-			<page>$doregex[getUrl]</page>
-			</regex>
-			<regex>
-			<name>getUrl</name>
-			<expres>(.*)</expres>
-			<page>http://mvn.vaughnsoft.net/video/edge/live_mega_kids$doregex[gettime]-$doregex[gettime].33434</page>
-			</regex>
-			<regex>
-			<name>gettime</name>
-			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
-			<page></page>
-			</regex>
-		  </item>
-
-
-
-<item>
-<title>Katty HD</title>
-<link>
-rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_katyhd live=1 timeout=20
-</link>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20130703150452/disney/images/c/c1/Walt_disney_pictures.jpg</thumbnail>
+ </item>
+ 
+ 
+ <item>
+<title>CINE NOVA 1</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_katyhd live=1 timeout=20</link>
 <regex>
 <name>clearCode</name>
-<expres>
-$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")
-</expres>
-<page/>
+<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+<page></page>
 </regex>
 <regex>
 <name>getencoded</name>
@@ -109,22 +67,20 @@ $pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")
 <regex>
 <name>getserver</name>
 <expres>(.*?);</expres>
-<page>$doregex[getUrl]</page>
 </regex>
 <regex>
 <name>getUrl</name>
 <expres>(.*)</expres>
-<page>
-http://mvn.vaughnsoft.net/video/edge/live_katyhd$doregex[gettime]-$doregex[gettime].33434
-</page>
+<page>http://mvn.vaughnsoft.net/video/edge/live_katyhd$doregex[gettime]-$doregex[gettime].33434</page>
 </regex>
 <regex>
 <name>gettime</name>
 <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
-<page/>
+<page></page>
 </regex>
-</item>
-<item>
+ </item>
+
+
 <title>Sebastiann Tv</title>
 <link>
 rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_sebastiann24 live=1 timeout=20
