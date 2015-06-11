@@ -81,15 +81,13 @@
  </item>
 
 
-<title>Sebastiann Tv</title>
+<title>Tv</title>
 <link>
 rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_sebastiann24 live=1 timeout=20
 </link>
 <regex>
 <name>clearCode</name>
-<expres>
-$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")
-</expres>
+<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
 <page/>
 </regex>
 <regex>
@@ -105,9 +103,7 @@ $pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")
 <regex>
 <name>getUrl</name>
 <expres>(.*)</expres>
-<page>
-http://mvn.vaughnsoft.net/video/edge/live_sebastiann24$doregex[gettime]-$doregex[gettime].33434
-</page>
+<page>http://mvn.vaughnsoft.net/video/edge/live_sebastiann24$doregex[gettime]-$doregex[gettime].33434</page>
 </regex>
 <regex>
 <name>gettime</name>
@@ -116,6 +112,8 @@ http://mvn.vaughnsoft.net/video/edge/live_sebastiann24$doregex[gettime]-$doregex
 </regex>
 </item>
 <item>
+
+
 <title>Vitato HD</title>
 <link>
 rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_vitatotv live=1 timeout=20
