@@ -57,33 +57,6 @@
 <title>MUNDO FOX SD</title><link>http://66.55.92.79:1935/app/ana69s-channel/.m3u8</link>
 <thumbnail>http://pmcdeadline2.files.wordpress.com/2012/01/logomundo2__120123131412.jpg</thumbnail></item>
 
-<item>
-<title>TELEMUNDO SD</title>
-<link>$doregex[get-link]</link>
-<regex>
-<name>get-link</name>
-<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/20655302/streams/live/playlist.m3u8')</expres>
-<page></page>
-</regex> 
-<thumbnail>https://celiacruzfoundation1.files.wordpress.com/2012/05/telemundo.jpg</thumbnail>
-</item>
-
-<item>       
-<title>TELEMUNDO SD</title>
-<link>rtmp://$doregex[getIP]/live?$doregex[getCODE] playpath=live_telemundo34 live=1 timeout=20</link>
-<regex>
-<name>getIP</name>
-<expres>function getEdgeServers.*"(.*?),<expres>
-<page>http://vaughnlive.tv/telemundo34</page>
-</regex>
-<regex>
-<name>getCODE</name>
-<expres>vsVars.*= "0n0(.*?)"<expres>
-<page>http://vaughnlive.tv/telemundo34</page>
-</regex>
-<thumbnail>https://celiacruzfoundation1.files.wordpress.com/2012/05/telemundo.jpg</thumbnail>
-</item>
-
 	  <item>
 			<title>TELEMUNDO 34</title>
 			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_telemundo34 live=1 timeout=20</link>
