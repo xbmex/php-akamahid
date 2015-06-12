@@ -43,7 +43,8 @@ timeout=10</link><thumbnail>http://img2.wikia.nocookie.net/__cb20121102222303/lo
 
 
 
-<item><title>V-MAS</title><link>http://uneapple-i.akamaihd.net/hls/live/207642/grupoune_st23@207642/st23_index.m3u8</link>
+<item><title>V-MAS TV</title><link>http://uneapple-i.akamaihd.net/hls/live/207642/grupoune_st23@207642/st23_index.m3u8</link>
+<thumbnail>http://st-listas.20minutos.es/images/2013-12/373312/4262528_640px.jpg?1386378961</thumbnail></item>
 
 <item><title>Telecaribe</title><link>http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8</link>
 
