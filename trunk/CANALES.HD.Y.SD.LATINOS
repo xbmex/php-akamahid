@@ -2,7 +2,8 @@
 <link>http://djcasanova.nl/live.mp4</link>
 <thumbnail>http://djcasanova.nl/live.jpg</thumbnail></item>
 
-<item><title>TEST2 [COLORgreen]HD[/COLOR]</title><link>http://31.220.40.108:80/LiveEdge/TelemundoSD/chunklist_w1267619766_b1000000.m3u8?token=5788cf84a77843787f73ef0774ad6283</link>
+<item><title>TELEMUNDO INTERNACIONAL[COLORgreen]HD[/COLOR]</title>
+<link>http://31.220.40.108:80/LiveEdge/TelemundoSD/chunklist_w1267619766_b1000000.m3u8?token=5788cf84a77843787f73ef0774ad6283</link>
 <thumbnail></thumbnail></item>
 
 <item><title>UNOTV [COLORgreen]HD[/COLOR]</title><link>http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8?</link>
@@ -29,7 +30,7 @@
 <item><title>TIVA TV [COLORgreen]HD[/COLOR]</title><link>http://live-h1.frontlayer.net/fl729845/live/live.m3u8?wowzasessionid=1243637292</link>
 <thumbnail>http://www.tivatv.com/images/tiva2d.png</thumbnail></item>
 
-<item><title>UNIVISION [COLORgreen]HD[/COLOR]</title><link>http://31.220.41.110:80/LiveEdge/UnivisionEastUS/playlist.m3u8?token=a58edca467559674914145d8e092c59d</link>
+<item><title>UNIVISION [COLORgreen]HD[/COLOR]</title><link>http://31.220.40.100:80/LiveEdge/UnivisionEastUS/playlist.m3u8?token=91f6fd10b66c2a90f41d7042e5315807</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png</thumbnail></item>
 
 <item><title>UNIMAS [COLORgreen]HD[/COLOR]</title><link>http://31.220.40.108:80/LiveEdge/UniMasUS/playlist.m3u8?token=31d896555d7cbed8ca0dbe34f603106d</link>
