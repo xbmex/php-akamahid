@@ -1,23 +1,5 @@
 <item><title>DISNEY SD</title><link>http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8</link></item>
 <item><title>Cartoon Network SD (ENG)</title><link>http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8</link></item>
-<item><title>NICKELODEON</title>
-<link>http://31.220.41.111:80/LiveEdge/NickelodeonLA/playlist.m3u8?token=bf88677e9bf3b1e5685e4de976080f3e</link></item>
-<item><title>Nick JR</title>
-<link>http://31.220.41.110:80/LiveEdge/NickJrLASD/playlist.m3u8?token=7f4a75b7d0cac5f176150568718dfeff</link></item>
-<item><title>Cartoon Network</title>
-<link>http://31.220.41.110:80/LiveEdge/CartoonNetworkLASD/playlist.m3u8?token=4b9da47600aecbbc7d4fc9f8f6d14321</link></item>
-<item><title>BOOMERANG</title>
-<link>http://31.220.41.110:80/LiveEdge/BoomerangLA/playlist.m3u8?token=3187f470edf255c8558e14b6cbf21e21</link></item>
-<item><title>TOONCAST</title>
-<link>http://31.220.40.108:80/LiveEdge/TooncastSD/playlist.m3u8?token=6a4b2e861c82c1c060b757f2ce5847ed</link></item>
-<item><title>BABY FIRST LA</title>
-<link>http://31.220.41.103:80/LiveEdge/BabyFirstLA/playlist.m3u8?token=29d736ac1df323c6c201b5971e6ad883</link></item>
-<item><title>BABY TV LA</title>
-<link>http://31.220.41.107:80/LiveEdge/BabyTVLASD/playlist.m3u8?token=48d4892d983d87ea20f159a2136a591c</link></item>
-<item><title>Cartoon Network</title>
-<link>http://31.220.41.110:80/LiveEdge/CartoonNetworkLASD/playlist.m3u8?token=4b9da47600aecbbc7d4fc9f8f6d14321</link></item>
-
-
 
 
 
