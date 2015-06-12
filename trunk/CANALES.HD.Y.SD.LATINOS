@@ -2,6 +2,11 @@
 <link>http://djcasanova.nl/live.mp4</link>
 <thumbnail>http://djcasanova.nl/live.jpg</thumbnail></item>
 
+http://31.220.41.110:80/LiveEdge/UnivisionEastUS/playlist.m3u8?token=a58edca467559674914145d8e092c59d
+
+<item><title>test [COLORgreen]HD[/COLOR]</title><link>http://31.220.41.110:80/LiveEdge/UnivisionEastUS/playlist.m3u8?token=a58edca467559674914145d8e092c59d</link>
+<thumbnail>http://www.unotv.com/utils/imagenes/default-noticias.png</thumbnail></item>
+
 <item><title>UNOTV [COLORgreen]HD[/COLOR]</title><link>http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8?</link>
 <thumbnail>http://www.unotv.com/utils/imagenes/default-noticias.png</thumbnail></item>
 
