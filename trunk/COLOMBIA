@@ -2,9 +2,9 @@
 <link>http://djcasanova.nl/live.mp4</link>
 <thumbnail>http://djcasanova.nl/live.jpg</thumbnail></item>
 
-<item><title> RCN NOVELAS (NUEVO)[COLORgreen]HD[/COLOR]</title>
-<link>http://31.220.40.108:80/LiveEdge/RCNnovelasLA/playlist.m3u8?token=13eac96d5bfad03926bdb7db32017d54</link>
-<thumbnail>http://www.mundonets.com/images/rcn-telenovelas.jpg</thumbnail></item>
+<item><title> CABLE NOTOCIAS[COLORgreen]HD[/COLOR]</title>
+<link>http://uneapple-i.akamaihd.net/hls/live/205016/grupoune_st7@205016/st7_index.m3u8</link>
+<thumbnail>http://farm4.staticflickr.com/3189/2702583238_9448b8b50f.jpg</thumbnail></item>
 
 <item><title>[COLOR skyblue]CARACOL[COLOR lime] HD[/COLOR]</title>
 <link>rtmp://cdn6.iviplanet.com/CARACOL-TO playpath=myStream.sdp timeout=10</link>
