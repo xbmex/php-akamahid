@@ -20,7 +20,11 @@
  
  <item><title>La Sexta HD 720 </title><link>http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8</link>
  <thumbnail>http://t.ipadizate.es/2014/09/ver-sexta-ipad.jpg</thumbnail></item>
-
+ 
+ 
+ <item><title>La Sexta</title><link>http://94.23.117.92:8000/live/sonia/sonia/163.ts</link>
+ <thumbnail>http://t.ipadizate.es/2014/09/ver-sexta-ipad.jpg</thumbnail></item>
+ 
 <item>
  <title>[COLOR yellow]ONDA CADIZ[/COLOR] </title>
  <link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
