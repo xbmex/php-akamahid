@@ -4,5 +4,51 @@
 <item><title>test</title><link>https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=004&lan=2&rows=40&f=.m3u8</link></item>
 
 
-
+<item>
+<title>TNT</title>
+<link>
+http://oneplay.tv/applicationlive/reproducir/$doregex[req].m3u8|Cookie=$get_cookies$&User-Agent=&X-Requested-With: ShockwaveFlash/18.0.0.160
+</link>
+<regex>
+<name>req</name>
+<expres>succ:(.*)</expres>
+<page>
+http://oneplay.tv/applicationlive/analytics.php?id=$doregex[id]
+</page>
+<referer>http://oneplay.tv/embed/?i=75&w=100%&h=480&ch=</referer>
+<cookieJar/>
+</regex>
+<regex>
+<name>id</name>
+<expres>(\d+)\.m3u8</expres>
+<page>
+http://oneplay.tv/embed/?i=75&w=100%&h=480&ch=adryanlist
+</page>
+<rawpost>stream_id=10&BAS64=&respuesta=$doregex[captcha]</rawpost>
+<referer>http://oneplay.tv</referer>
+<cookieJar/>
+</regex>
+<regex>
+<name>captcha</name>
+<expres>
+$pyFunction:askCaptchaNew('','http://oneplay.tv/embed/captcha.php',Cookie_Jar,m)
+</expres>
+<referer>http://oneplay.tv</referer>
+<page/>
+<cookiejar>$doregex[createsession]</cookiejar>
+</regex>
+<regex>
+<name>createsession</name>
+<expres/>
+<page>$doregex[iframe]</page>
+<cookiejar/>
+</regex>
+<regex>
+<name>iframe</name>
+<expres>embed.*?iframe src="(.*?)"</expres>
+<page>http://oneplay.tv/ver/canal/75/h-h</page>
+<cookiejar/>
+</regex>
+</item>
+</items>
   
