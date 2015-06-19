@@ -5,10 +5,9 @@
 
 
 <item>
-<title>TNT</title>
+<title>TNT TEST</title>
 <link>
-http://oneplay.tv/applicationlive/reproducir/$doregex[req].m3u8|Cookie=$get_cookies$&User-Agent=&X-Requested-With: ShockwaveFlash/18.0.0.160
-</link>
+http://oneplay.tv/applicationlive/reproducir/$doregex[req].m3u8|Cookie=$get_cookies$&User-Agent=&X-Requested-With: ShockwaveFlash/18.0.0.160</link>
 <regex>
 <name>req</name>
 <expres>succ:(.*)</expres>
@@ -30,9 +29,7 @@ http://oneplay.tv/embed/?i=75&w=100%&h=480&ch=adryanlist
 </regex>
 <regex>
 <name>captcha</name>
-<expres>
-$pyFunction:askCaptchaNew('','http://oneplay.tv/embed/captcha.php',Cookie_Jar,m)
-</expres>
+<expres>$pyFunction:askCaptchaNew('','http://oneplay.tv/embed/captcha.php',Cookie_Jar,m)</expres>
 <referer>http://oneplay.tv</referer>
 <page/>
 <cookiejar>$doregex[createsession]</cookiejar>
@@ -50,5 +47,5 @@ $pyFunction:askCaptchaNew('','http://oneplay.tv/embed/captcha.php',Cookie_Jar,m)
 <cookiejar/>
 </regex>
 </item>
-</items>
+
   
