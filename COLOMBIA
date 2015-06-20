@@ -15,9 +15,9 @@
 <thumbnail>http://static.canalcaracol.com/sites/caracoltv.com/files/img_videos/c29d66c103de3b05c9a1dca51e96f510.jpg</thumbnail></item>
 
 
-<item><title>gol [COLOR lime]HD[/COLOR]</title>
-<link>http://core.iviplanet.com/StreamerClient/point_info.html timeout=10</link>
-<thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
+<item><title>GOL CARACOL  [COLOR blue]NEW[/COLOR]</title>
+<link>rtmp://cdn6.iviplanet.com/TELEANTIOQUIA-TO playpath=myStream.sdp timeout=10</link>
+<thumbnail>http://esteeselpunto.com/wp-content/uploads/2013/06/Gol-Caracol.jpg</thumbnail></item>
 
 
 <item><title>CANAL RCN [COLOR lime]HD[/COLOR]</title>
