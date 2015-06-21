@@ -1,12 +1,9 @@
 <item><title>TELPIN CANAL 2 HD</title><link>http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8</link></item>
-
 <item><title>CANAL 13 HD</title><link>rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1</link></item>
-
 <item><title>C5N HD</title><link>http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8</link></item>
-
 <item><title>C5N HD - Opcion 2</title><link>rtmp://c5n.stweb.tv:1935/c5n/live_media</link></item>
-
 <item><title>A24</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/17916700/streams/live/playlist.m3u8</link></item>
+<item><title>TELECADENA</title><link>http://162.212.176.83:8080/telecadena.stream.m3u8#MegaIPTVArgentina</link></item>
 
 <item><title>TN HD</title><link>rtsp://stream.tn.com.ar/live/tnmovil2</link></item><item>
 <title>TN HD</title><link>rtsp://stream.tn.com.ar/live/tnhd1</link>
