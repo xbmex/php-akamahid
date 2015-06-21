@@ -5,9 +5,6 @@
 <item><title>UNOTV [COLORgreen]HD[/COLOR]</title><link>http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8?</link>
 <thumbnail>http://www.unotv.com/utils/imagenes/default-noticias.png</thumbnail></item>
 
-<item><title>TEN HONDURAS  [COLORgreen]HD[/COLOR]</title><link>http://hd.worldkast.com/8378/smil:8378.smil/playlist.m3u8?</link>
-<thumbnail>https://yt3.ggpht.com/-8p8rCwRAD6M/AAAAAAAAAAI/AAAAAAAAAAA/U-oPV9dI9mc/s900-c-k-no/photo.jpg</thumbnail></item>
-
 <item><title>ATV HD</title><link>http://edge-31-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist.m3u8?</link>
 <thumbnail>http://i.ytimg.com/vi/MsAf_9GcgdI/maxresdefault.jpg</thumbnail></item> 
 
@@ -38,6 +35,10 @@
 
 <item><title>YES!   [COLORgreen]SD[/COLOR]</title><link>http://uneapple-i.akamaihd.net/hls/live/205010/grupoune_st1@205010/st1_index.m3u8</link>
 <thumbnail>http://www.yesenglish.tv/detalles/HOME/logo.png</thumbnail></item>
+
+<item><title>TEN HONDURAS  [COLORgreen]SD[/COLOR]</title><link>http://hd.worldkast.com/8378/smil:8378.smil/playlist.m3u8?</link>
+<thumbnail>https://yt3.ggpht.com/-8p8rCwRAD6M/AAAAAAAAAAI/AAAAAAAAAAA/U-oPV9dI9mc/s900-c-k-no/photo.jpg</thumbnail></item>
+
 
 <item><title>CANAL DE LAS ESTRELLAS SD</title>
 <link>http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8</link>
