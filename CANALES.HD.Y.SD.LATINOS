@@ -26,6 +26,11 @@
 <item><title>TIVA TV [COLORgreen]HD[/COLOR]</title><link>http://live-h1.frontlayer.net/fl729845/live/live.m3u8?wowzasessionid=1243637292</link>
 <thumbnail>http://www.tivatv.com/images/tiva2d.png</thumbnail></item>
 
+<item><title>NATGEO WILD</title><link>http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on?monclovacaliente.m3u8</link>
+<thumbnail>http://tvbythenumbers.zap2it.com/wp-content/uploads/2012/09/Nat-Geo-wild-new.jpg</thumbnail</item>
+
+
+
 ---------------------------------------SD----------------------------->
 
 <item><title>YES![COLORgreen]SD[/COLOR]</title><link>http://uneapple-i.akamaihd.net/hls/live/205010/grupoune_st1@205010/st1_index.m3u8</link>
