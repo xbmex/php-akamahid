@@ -2,61 +2,40 @@
 <link>http://djcasanova.nl/live.mp4</link>
 <thumbnail>http://djcasanova.nl/live.jpg</thumbnail></item>
 
-<item><title> CABLE NOTOCIAS   [COLORgreen]HD[/COLOR]</title>
-<link>http://uneapple-i.akamaihd.net/hls/live/205016/grupoune_st7@205016/st7_index.m3u8</link>
-<thumbnail>http://farm4.staticflickr.com/3189/2702583238_9448b8b50f.jpg</thumbnail></item>
-
 <item><title>[COLOR skyblue]CARACOL[COLOR lime] HD[/COLOR]</title>
 <link>rtmp://cdn6.iviplanet.com/CARACOL-TO playpath=myStream.sdp timeout=10</link>
 <thumbnail>http://static.canalcaracol.com/sites/caracoltv.com/files/img_videos/c29d66c103de3b05c9a1dca51e96f510.jpg</thumbnail></item>
-
 <item><title>[COLOR skyblue]CARACOL[COLOR lime] 2[/COLOR]</title>
 <link>http://caracoltvlivehds-lh.akamaihd.net/i/caracol02_1@126280/index_1028_av-b.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://static.canalcaracol.com/sites/caracoltv.com/files/img_videos/c29d66c103de3b05c9a1dca51e96f510.jpg</thumbnail></item>
-
-
 <item><title>GOL CARACOL  [COLOR blue]NEW[/COLOR]</title>
 <link>rtmp://cdn6.iviplanet.com/TELEANTIOQUIA-TO playpath=myStream.sdp timeout=10</link>
 <thumbnail>http://esteeselpunto.com/wp-content/uploads/2013/06/Gol-Caracol.jpg</thumbnail></item>
-
-
 <item><title>CANAL RCN [COLOR lime]HD[/COLOR]</title>
 <link>rtmp://cdn6.iviplanet.com/RCN-TO playpath=myStream.sdp timeout=10</link>
 <thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
-
 <item><title>[COLOR skyblue]TRECE   [COLOR blue]HD[/COLOR]</title>
-<link>rtmp://cdn6.iviplanet.com/DEMOUNO playpath=myStream.sdp timeout=10</link><thumbnail>http://3.bp.blogspot.com/-ZcNDnWls7iU/UDEemUxuXxI/AAAAAAAAAmo/ZMoxPa10k_w/s1600/canal_13_trece.png</thumbnail></item>
- 
+<link>rtmp://cdn6.iviplanet.com/DEMOUNO playpath=myStream.sdp timeout=10</link>
+<thumbnail>http://3.bp.blogspot.com/-ZcNDnWls7iU/UDEemUxuXxI/AAAAAAAAAmo/ZMoxPa10k_w/s1600/canal_13_trece.png</thumbnail></item>
 <item><title>[COLOR skyblue]WIN SPORTS [COLOR lime]HD[/COLOR]</title>
 <link>rtmp://cdn8.iviplanet.com/ELTIEMPO-TO playpath=myStream.sdp timeout=10</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/220px-Winsports.svg.png</thumbnail></item>
- 
- <item><title>[COLOR skyblue]ESPN [COLOR lime]HD[/COLOR]</title>
+<item><title>[COLOR skyblue]ESPN [COLOR lime]HD[/COLOR]</title>
 <link>rtmp://cdn8.iviplanet.com/CITYTV-TO playpath=myStream.sdp swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion
  timeout=10</link><thumbnail>http://www.ashlandhome.net/SIB/images/espn_hd.png</thumbnail></item>
- 
 <item><title>[COLOR skyblue]FOX SPORT  [COLOR lime]HD[/COLOR]</title>
 <link>rtmp://cdn9.iviplanet.com/TELEPACIFICO-TO playpath=myStream.sdp  swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion
 timeout=10</link><thumbnail>http://img2.wikia.nocookie.net/__cb20121102222303/logopedia/images/d/de/IvIPy8fZekp1X.png</thumbnail></item>
- 
- <item><title>BEIN SPORT HD</title>
-<link>http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8</link>
-<thumbnail>http://3.bp.blogspot.com/-m9I2IP2g1js/UtNaE4fBMrI/AAAAAAAADmA/G9RY-1rUHEA/s1600/WWWWWWWWW.png</thumbnail></item>
 
-<item><title>BEING SPORT HD 1080</title>
-<link>http://rroso.com@ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/rroso.m3u8</link>
-<thumbnail>http://3.bp.blogspot.com/-m9I2IP2g1js/UtNaE4fBMrI/AAAAAAAADmA/G9RY-1rUHEA/s1600/WWWWWWWWW.png</thumbnail></item>
-
-
+<item><title>CABLE NOTOCIAS</title>
+<link>http://uneapple-i.akamaihd.net/hls/live/205016/grupoune_st7@205016/st7_index.m3u8</link>
+<thumbnail>http://farm4.staticflickr.com/3189/2702583238_9448b8b50f.jpg</thumbnail></item>
 <item><title>[COLOR skyblue]SEÑAL COLOMBIA    [COLOR lime]HD[/COLOR]</title>
 <link>http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/media_u45em7647_b500000.m3u8</link>
 <thumbnail>http://ccomunicaciones.udenar.edu.co/wp-content/uploads/2012/11/senalcolombia.jpg</thumbnail>
-
-
 <item><title>CANAL ANTIESTRES  [COLOR yellow]musica[/COLOR]</title>
 <link>http://uneapple-i.akamaihd.net/hls/live/206413/grupoune_st12@206413/st12_index.m3u8</link>
-<thumbnail>https://pbs.twimg.com/profile_images/1194946693/logocanalantiestresoslo.jpg</thumbnail></item>
-<item><title>TIGO MUSIC  COLOR yellow]musica[/COLOR]</title><link>http://uneapple-i.akamaihd.net/hls/live/215955/grupoune_st44@215955/st44_index.m3u8</link>
+<item><title>TIGO MUSIC [COLOR yellow]musica[/COLOR]</title><link>http://uneapple-i.akamaihd.net/hls/live/215955/grupoune_st44@215955/st44_index.m3u8</link>
 <item><title>V-MAS TV</title><link>http://uneapple-i.akamaihd.net/hls/live/207642/grupoune_st23@207642/st23_index.m3u8</link>
 <thumbnail>http://st-listas.20minutos.es/images/2013-12/373312/4262528_640px.jpg?1386378961</thumbnail></item>
 <item><title>Telecaribe</title><link>http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8</link>
