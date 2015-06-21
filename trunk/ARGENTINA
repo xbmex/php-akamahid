@@ -1,9 +1,4 @@
-<item><title>TEL PIN CANAL 2 HD</title><link>http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8</link></item>
-
-
-<item><title>TN HD</title><link>rtsp://stream.tn.com.ar/live/tnmovil2</link></item><item>
-<title>TN HD</title><link>rtsp://stream.tn.com.ar/live/tnhd1</link>
-<thumbnail>http://a441.phobos.apple.com/us/r30/Purple6/v4/b3/b9/92/b3b992a5-29dd-c9b9-1f86-b29d531df6c4/mzl.rqxylill.jpg</thumbnail></item>
+<item><title>TELPIN CANAL 2 HD</title><link>http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8</link></item>
 
 <item><title>CANAL 13 HD</title><link>rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1</link></item>
 
@@ -12,6 +7,10 @@
 <item><title>C5N HD - Opcion 2</title><link>rtmp://c5n.stweb.tv:1935/c5n/live_media</link></item>
 
 <item><title>A24</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/17916700/streams/live/playlist.m3u8</link></item>
+
+<item><title>TN HD</title><link>rtsp://stream.tn.com.ar/live/tnmovil2</link></item><item>
+<title>TN HD</title><link>rtsp://stream.tn.com.ar/live/tnhd1</link>
+<thumbnail>http://a441.phobos.apple.com/us/r30/Purple6/v4/b3/b9/92/b3b992a5-29dd-c9b9-1f86-b29d531df6c4/mzl.rqxylill.jpg</thumbnail></item>
 
 <item><title>Canal 10 Entre Rios</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/253309/streams/live/playlist.m3u8</link>
 <thumbnail>http://2.bp.blogspot.com/-YRwLG1VUGyg/TsfAJESs9yI/AAAAAAAABgI/Y-EbAN5cYBs/s1600/c10sanjoseentrerios.jpg</thumbnail></item>
