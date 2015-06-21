@@ -2,10 +2,6 @@
 <link>http://djcasanova.nl/live.mp4</link>
 <thumbnail>http://djcasanova.nl/live.jpg</thumbnail></item>
 
-
-<item><title>CANAL 13 PARAGUAY[COLORgreen]HD[/COLOR]</title><link>http://70.36.100.38:1935/live/canal13_lq.stream/playlist.m3u8</link>
-<thumbnail>http://www.rpc.com.py/images/facebook/logo-grande.gif</thumbnail></item>
-
 <item><title>UNOTV [COLORgreen]HD[/COLOR]</title><link>http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8?</link>
 <thumbnail>http://www.unotv.com/utils/imagenes/default-noticias.png</thumbnail></item>
 
@@ -32,12 +28,12 @@
 
 ---------------------------------------SD----------------------------->
 
-
+<item><title>YES![COLORgreen]SD[/COLOR]</title><link>http://uneapple-i.akamaihd.net/hls/live/205010/grupoune_st1@205010/st1_index.m3u8</link>
+<thumbnail>http://www.yesenglish.tv/detalles/HOME/logo.png</thumbnail></item>
 
 <item><title>CANAL DE LAS ESTRELLAS SD</title>
 <link>http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8</link>
 <thumbnail></thumbnail></item>
-
 
 <item><title>TELECURAÇAO SD</title>
 <link>rtmp://cdn8.iviplanet.com/Telecuracao playpath=myStream.sdp swfUrl=http://encoder.iviplanet.com/StreamerPlayers/player.swf pageUrl=http://www.telecuracao.com/web/Videos.aspx?type=channel&id=43 timeout=20</link>
