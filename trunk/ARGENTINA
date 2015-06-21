@@ -7,12 +7,14 @@
 <item><title>TN HD</title><link>rtsp://stream.tn.com.ar/live/tnmovil2</link></item><item>
 <item><title>Canal 9 HD</title><link>http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8?</link></item>
 <item><title>Canal 10</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/253309/streams/live/playlist.m3u8</link>/item>
- <item><title>El Rura<title>
+<item><title>TVP</title><link>http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?</link>/item>
+
+<item><title>El Rura<title>
 <link>rtmp://streamrural.cmd.com.ar/ app=liverural/crural playpath=rural1 swfUrl=http://www.elrural.com/sites/default/files/jwplayermodule/player/player.swf pageUrl=http://www.elrural.com/canal_rural/vivo live=true timeout=15</link><thumbnail>http://www.elrural.com/sites/default/files/elrural_favicon.png</thumbnail></item>
+
 <item><title>Fashion TV HD<title>
 <link>rtmp://stream.fashiontvla.com/ app=liveftv/ftv playpath=ftv2 swfUrl=http://fashiontvla.com/sites/all/modules/custom/nota_video/player.swf pageUrl=http://fashiontvla.com/vivo live=true timeout=15</link>
-<thumbnail>http://www.sintelevisor.com/tv/imagenes/ftv.jpg</thumbnail>
-</item>
+<thumbnail>http://www.sintelevisor.com/tv/imagenes/ftv.jpg</thumbnail></item>
 
 
 
