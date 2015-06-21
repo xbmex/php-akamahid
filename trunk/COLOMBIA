@@ -52,15 +52,15 @@ timeout=10</link><thumbnail>http://img2.wikia.nocookie.net/__cb20121102222303/lo
 <link>http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/media_u45em7647_b500000.m3u8</link>
 <thumbnail>http://ccomunicaciones.udenar.edu.co/wp-content/uploads/2012/11/senalcolombia.jpg</thumbnail>
 
-<item><title>Telecafe</title><link>http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8</link>
+
+<item><title>CANAL ANTIESTRES  [COLOR yellow]musica[/COLOR]</title>
+<link>http://uneapple-i.akamaihd.net/hls/live/206413/grupoune_st12@206413/st12_index.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1194946693/logocanalantiestresoslo.jpg</thumbnail></item>
+
 <item><title>V-MAS TV</title><link>http://uneapple-i.akamaihd.net/hls/live/207642/grupoune_st23@207642/st23_index.m3u8</link>
 <thumbnail>http://st-listas.20minutos.es/images/2013-12/373312/4262528_640px.jpg?1386378961</thumbnail></item>
-
 <item><title>Telecaribe</title><link>http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8</link>
-
-<item><title>Telepacifico</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/12380713/streams/live/playlist.m3u8</link>
-
-<item><title>Mi Gente</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m3u8</link>
+<item><title>TELEVIO</title><link>http://uneapple-i.akamaihd.net/hls/live/205018/grupoune_st9@205018/st9_index.m3u8</link>
 <item><title>UNE TV</title><link>http://uneapple-i.akamaihd.net/hls/live/205017/grupoune_st8@205017/st8_index.m3u8</link>
 <item><title>Teleantioquia</title><link>http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u8</link>
 
