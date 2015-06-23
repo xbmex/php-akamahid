@@ -30,28 +30,13 @@
 			<title>Foro TV</title>
 			<link>http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8?sd=10&rebase=on</link>
 			</item>
-			
-									
-			<item>
-			<title>Teleformula</title>
-			<link>rtmp://72.233.78.178/live/ playpath=A swfUrl=http://www.jaxe.net/player/player-old.swf?file=A&type=flv&streamer=rtmp://72.233.78.178/live/&autostart=true&stretching=exactfit&mute=false&skin=http://www.jaxe.net/player/dangdang.swf live=1 pageUrl=http://televall.com.mx/teleformula.html</link>
-			<thumbnail></thumbnail>
-			</item>
-			
-					
+
 			<item> 
 			<title>Canal Mexico</title>
 			<link>rtmp://50.7.98.234/rtv/videortv</link>
 			<thumbnail></thumbnail>
 			</item>
 
-			<item> 
-			<title>Canal 22</title>
-			<link>rtmp://origen.cloudapp.net:1935/live/envivopc playpath=envivopc swfUrl=http://www.enlinea.canal22.org.mx/strobemediaplayback.swf live=1 pageUrl=http://tv-canalestelevall.blogspot.com.es/2013/03/canal-22-mexico.html conn=S:OK --live</link>
-			<thumbnail></thumbnail>
-			</item> 
-			
-			
 			<item> 
 			<title>Uno TV</title>
 			<link>http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8?</link>
@@ -187,20 +172,7 @@
 			<thumbnail></thumbnail>
 			</item>
 			
-			<item>
-			<title>Milenio Centro </title>
-			<link>http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956?#AdryanList</link>
-			<thumbnail></thumbnail>
-			</item>
-			<item>
-			<title>Telemax Sonora</title><!-- rivxs.ucoz.com/ch1.html -->
-			<link>$doregex[get-link]</link>
-			<regex>
-			<name>get-link</name>
-			<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/91125/streams/live/playlist.m3u8')</expres>
-			<page></page>
-			</regex> 
-			</item>
+
 			
 						
 			 
