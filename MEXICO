@@ -1,0 +1,297 @@
+<item>
+<title>Canal de las Estrellas (HD) </title>
+<link>http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8</link></item>
+			
+	 
+			<item>
+			<title>Canal de las Estrellas</title>
+			<link>rtmp://46.165.220.232/live playpath=starfeb2015?id=221758 swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf live=1 pageUrl=http://www.mipsplayer.com/Adryanlist Conn=S:OK</link>
+			</item>
+			
+			
+			<item>
+			<title>Azteca 13 HD *</title>
+			<link>http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8</link>
+			</item>
+			
+			<item>
+			<title>Azteca 13 HD opcion 2</title>
+			<link>http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8</link>
+			</item>
+			
+			<item>
+			<title>Azteca Noticias HD</title>
+			<link>http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8</link>
+			</item>
+			<item>
+			<title>Azteca 7 Monterrey</title>
+			<link>http://38.104.228.230:1938/info7/info7_512/playlist.m3u8</link>
+			</item>
+			
+
+			<item>
+			<title>proyecto 40</title>
+			<link>http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8</link>
+			</item>
+			
+			<item>
+			<title>proyecto 40</title>
+			<link>rtmp://66.90.93.18:0/canal091.stream</link>
+			</item>
+						
+			<item>
+			<title>Azteca 7 / Azteca Deportes</title>
+			<link>http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8</link>
+			</item>
+			
+			<item>
+				<title>Canal Cinco</title>
+				<link>rtmp://$doregex[rtmpip]/live playpath=zinkjun?id=230762 conn=S:OK swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf pageUrl=http://www.mipsplayer.com live=1 timeout=20</link>
+				<regex>
+					<name>rtmpip</name>
+					<expres>redirect=(.*)</expres>
+					<page>http://www.mipsplayer.com:1935/loadbalancer?230762</page>
+					<referer>http://www.mipsplayer.com/content/scripts/fplayer.swf</referer>
+				</regex>
+				<thumbnail></thumbnail>
+			</item>
+			
+			<item><title>Canal 5</title>
+			<link>rtmp://178.162.202.6/live playpath=zinkjun?id=230762 swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf live=1 pageUrl=http://www.mipsplayer.com/embedplayer/ Conn=S:OK</link>
+			</item>
+
+			<item><title>Gala TV Cancun</title>
+			<link>http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8</link>
+			</item>
+			
+			
+			<item>
+			<title>Canal 52 MX</title>
+			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
+			<regex>
+			<name>rtmp</name>
+			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://tv.televall.com.mx/canal52mx.html</referer>
+			</regex>
+			<regex>
+			<name>path</name>
+			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
+			<page>$doregex[get-page]</page>	
+			<referer>http://tv.televall.com.mx/canal52mx.html</referer>
+			</regex>
+			<regex>
+			<name>do-ping</name>
+			<expres></expres>
+			<page>$doregex[pagewait]$doregex[get-ping]</page>
+			<referer>http://shidurlive.com</referer>
+			<ignorecache/>
+			</regex>
+			<regex>
+			<name>pagewait</name>
+			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
+			<page></page>
+			<referer>http://shidurlive.com</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>get-ping</name>
+			<expres>"pingsts" src="(.*?)"</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://tv.televall.com.mx/canal52mx.html</referer>
+			</regex>
+			<regex>
+			<name>get-page</name>
+			<expres>src="(.*?)"</expres>
+			<page>http://shidurlive.com/embed/canal52mx</page>
+			<referer>http://tv.televall.com.mx/canal52mx.html</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<thumbnail></thumbnail>
+			</item>
+
+			<item>
+			<title>Mexico Travel Channel</title>
+			<link>http://cdns840stu1010.multistream.net/mtchlive/amlst:live/chunklist_b900000.m3u8</link>
+			</item>
+			
+			<item>
+			<title>Foro TV</title>
+			<link>http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8?sd=10&rebase=on</link>
+			</item>
+			
+									
+			<item>
+			<title>Teleformula</title>
+			<link>rtmp://72.233.78.178/live/ playpath=A swfUrl=http://www.jaxe.net/player/player-old.swf?file=A&type=flv&streamer=rtmp://72.233.78.178/live/&autostart=true&stretching=exactfit&mute=false&skin=http://www.jaxe.net/player/dangdang.swf live=1 pageUrl=http://televall.com.mx/teleformula.html</link>
+			<thumbnail></thumbnail>
+			</item>
+			
+					
+			<item> 
+			<title>Canal Mexico</title>
+			<link>rtmp://50.7.98.234/rtv/videortv</link>
+			<thumbnail></thumbnail>
+			</item>
+
+			<item> 
+			<title>Canal 22</title>
+			<link>rtmp://origen.cloudapp.net:1935/live/envivopc playpath=envivopc swfUrl=http://www.enlinea.canal22.org.mx/strobemediaplayback.swf live=1 pageUrl=http://tv-canalestelevall.blogspot.com.es/2013/03/canal-22-mexico.html conn=S:OK --live</link>
+			<thumbnail></thumbnail>
+			</item> 
+			
+			
+			<item> 
+			<title>Uno TV</title>
+			<link>http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8?</link>
+			<thumbnail></thumbnail>
+			</item> 
+			
+			
+			<item> 
+			<title>Info 7 Nuevo Leon</title>
+			<link>http://38.104.228.230:1938/info7/smil:Stream_Info7_NL/chunklist_w1338486895_b320000_slesp.m3u8</link>
+			<thumbnail></thumbnail>
+			</item> 
+			
+			<item> 
+			<title>Canal 7 Mazatlan</title>
+			<link>http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?</link>
+			</item>
+			<item> 
+			<title>Canal Once </title>
+			<link>http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8</link>
+			</item>
+			<item> 
+			<title>TVC</title>
+			<link>rtmp://204.107.26.252:8086/live/213.high.stream</link>
+			<thumbnail></thumbnail>
+			</item> 
+			
+			
+
+			<item> 
+			<title>Multimedios *</title>
+			<link>http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?videoId=1266736350001&amp;lineUpId=&amp;pubId=1221954060001&amp;playerId=1266656281001&amp;affiliateId=  Conn=S:OK</link>
+			<thumbnail></thumbnail>
+			</item> 
+			
+			
+			
+			<item>
+			<title>Gala TV - Merida </title>
+			<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+			<regex>
+			<name>get-initsesion</name>
+			<expres></expres>
+			<page>$doregex[get-page]</page>
+			<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>get-page</name>
+			<expres>"m3u8_url":"(.*?)"</expres>
+			<page>http://new.livestream.com/galatvmerida/events/2992659</page>
+			<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+			<cookieJar></cookieJar>
+			</regex>
+			</item>
+			
+			
+			<item>
+			<title>Gala TV - Cancun </title>
+			<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+			<regex>
+			<name>get-initsesion</name>
+			<expres></expres>
+			<page>$doregex[get-page]</page>
+			<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>get-page</name>
+			<expres>"m3u8_url":"(.*?)"</expres>
+			<page>http://new.livestream.com/galatvcancun/envivo</page>
+			<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+			<cookieJar></cookieJar>
+			</regex>
+			</item>
+			
+			
+			<item>
+        <title>canal 22</title>
+        <link>rtmp://origen.cloudapp.net:1935/live/envivopc</link>
+        </item>
+ 
+       <item>
+        <title>6 guadalajara</title>
+        <link>rtmp://200.52.193.57:1935/live/unique/live_2650</link>
+        </item>
+ 
+       
+			
+			
+			
+			<item> 
+			<title>Tv Mas</title>
+			<link>rtmp://50.7.98.234/rtv/videortv</link>
+			<thumbnail></thumbnail>
+			</item> 
+			
+			
+			
+			<item>
+			<title>Hogar Util </title>
+			<link>http://brightcove03-f.akamaihd.net/HOGARUTIL_1_1100@117573</link>
+			<thumbnail></thumbnail>
+			</item>
+			
+			<item>
+			<title>Multimedio Monterrey </title>
+			<link>http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?videoId=1266736350001&lineUpId=&pubId=1221954060001&playerId=1266656281001&affiliateId=</link>
+			<thumbnail></thumbnail>
+			</item>
+			
+			<item>
+			<title>TeleMax </title>
+			<link>rtmp://204.45.15.50/telemax/telemax</link>
+			<thumbnail></thumbnail>
+			</item>
+			
+			<item>
+			<title>Sony Six </title>
+			<link>http://103.3.229.147:8084/r_sonysix/01.m3u8</link><thumbnail></thumbnail></item>
+			
+			<item>
+			<title>Ocho TV </title>
+			<link>http://s3.amazonaws.com/com-wooblue-ochotv/prog_index.m3u8</link>
+			<thumbnail></thumbnail>
+			</item>
+			
+			<item><title>OCHO TV (Mex)
+</title><link>http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8</link></item>
+			
+			<item><title>Azteca 7 </title>
+			<link>http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8</link>
+			<thumbnail></thumbnail>
+			</item>
+			
+			<item>
+			<title>Milenio Centro </title>
+			<link>http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956?#AdryanList</link>
+			<thumbnail></thumbnail>
+			</item>
+			<item>
+			<title>Telemax Sonora</title><!-- rivxs.ucoz.com/ch1.html -->
+			<link>$doregex[get-link]</link>
+			<regex>
+			<name>get-link</name>
+			<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/91125/streams/live/playlist.m3u8')</expres>
+			<page></page>
+			</regex> 
+			</item>
+			
+						
+			 
