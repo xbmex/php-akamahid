@@ -1,14 +1,7 @@
-<item>
-<title>Canal de las Estrellas (HD) </title>
-<link>http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8</link></item>
-			
-	 
-			<item>
-			<title>Canal de las Estrellas</title>
-			<link>rtmp://46.165.220.232/live playpath=starfeb2015?id=221758 swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf live=1 pageUrl=http://www.mipsplayer.com/Adryanlist Conn=S:OK</link>
-			</item>
-			
-			
+      <item>
+      <title>Canal de las Estrellas (HD) </title>
+      <link>http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8</link></item>
+
 			<item>
 			<title>Azteca 13 HD *</title>
 			<link>http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8</link>
@@ -29,20 +22,9 @@
 			</item>
 			
 
-			<item>
-			<title>proyecto 40</title>
-			<link>http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8</link>
-			</item>
-			
-			<item>
-			<title>proyecto 40</title>
-			<link>rtmp://66.90.93.18:0/canal091.stream</link>
-			</item>
-						
-			<item>
-			<title>Azteca 7 / Azteca Deportes</title>
-			<link>http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8</link>
-			</item>
+			<item><title>proyecto 40</title> <link>http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8</link></item>
+			<item><title>proyecto 40</title><link>rtmp://66.90.93.18:0/canal091.stream</link></item>
+			 <item><title>Azteca 7 / Azteca Deportes</title><link>http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8</link></item>
 			
 			<item>
 				<title>Canal Cinco</title>
@@ -55,11 +37,7 @@
 				</regex>
 				<thumbnail></thumbnail>
 			</item>
-			
-			<item><title>Canal 5</title>
-			<link>rtmp://178.162.202.6/live playpath=zinkjun?id=230762 swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf live=1 pageUrl=http://www.mipsplayer.com/embedplayer/ Conn=S:OK</link>
-			</item>
-
+	  
 			<item><title>Gala TV Cancun</title>
 			<link>http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8</link>
 			</item>
