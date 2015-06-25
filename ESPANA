@@ -8,6 +8,9 @@
 
 <item><title>ANTENA 3 HD</title><link>http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8</link></item>
 
+<title>ANTENA 3 OPCION 2</title><link>http://uneapple-i.akamaihd.net/hls/live/205012/grupoune_st3@205012/st3_index.m3u8</link>
+<thumbnail>http://tryshh.com/img/press/antena3.gif</thumbnail></item>
+
 <title>EL MUNDO</title>
 <link>http://universalhdlive.elmundo.es/i/dr22_1@104884/index_6_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://www.iamhectorhernandez.com/wp-content/uploads/2014/06/El-Mundo-logo1.png</thumbnail></item>
