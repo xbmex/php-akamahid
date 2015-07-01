@@ -28,39 +28,12 @@
 			</regex>
 			</item>
 			
-			
-			
-			<item>
-			<title>Anime Variado</title>
-			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_rocioport live=1 timeout=20</link>
-			<regex>
-			<name>clearCode</name>
-			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
-			<page></page>
-			</regex>
-			<regex>
-			<name>getencoded</name>
-			<expres>:mvnkey-(.*)</expres>
-			<page>$doregex[getUrl]</page>
-			</regex>
-			<regex>
-			<name>getserver</name>
-			<expres>(.*?);</expres>
-			<page>$doregex[getUrl]</page>
-			</regex>
-			<regex>
-			<name>getUrl</name>
-			<expres>(.*)</expres>
-			<page>http://mvn.vaughnsoft.net/video/edge/live_rocioport$doregex[gettime]-$doregex[gettime].33434</page>
-			</regex>
-			<regex>
-			<name>gettime</name>
-			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
-			<page></page>
-			</regex>
-			</item>
-         
          <item>
+			<title>Dragon Ball op.2</title>
+			<link>rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330</link>
+			</item>
+      
+      <item>
 			<title>Tom y Jerry HD (Youtube)</title>
 			<link>plugin://plugin.video.youtube/play/?video_id=x_UUxfb8lmg</link>
 			<thumbnail></thumbnail>
@@ -160,6 +133,11 @@
 			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
 			<page></page>
 			</regex>
+			</item>
+         
+         <item>
+			<title>Dragon Ball op.2</title>
+			<link>rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330</link>
 			</item>
          
          
