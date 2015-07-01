@@ -1,5 +1,37 @@
 <item>
-<title>[COLOR lime]  •[/COLOR][COLOR deepskyblue]    Total Play[/COLOR] [COLOR darkgray][/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://i.imgur.com/MWSXNtp.png</thumbnail><fanart>http://i.imgur.com/7izulmv.jpg</fanart>
-<externallink>http://shadowcrew.info/adryan/tp.xml</externallink>
+<title>Cartoon Network</title>
+<link>$doregex[finalurl]|Cookie=$get_cookies$&Referer=http://p.jwpcdn.com/6/12/jwplayer.flash.swf&User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1</link>
+<regex>
+<name>finalurl</name>
+<expres>file: "(.*?)"</expres>
+<page>http://oneplay.tv/embed/embed.php?s=$doregex[url]</page>
+<referer>http://oneplay.tv/embed/</referer>
+<cookieJar/>
+</regex>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/')</expres>
+<page/>
+</regex>
+<regex>
+<name>jsonurl</name>
+<expres>(http.*?)"</expres>
+<page>http://oneplay.tv/embed/chp</page>
+<rawpost>type=chp&action=SELF&channelID=2&w=100%25&h=480</rawpost>
+<referer>http://oneplay.tv/embed/</referer>
+<cookieJar>$doregex[cookie]</cookieJar>
+</regex>
+<regex>
+<name>cookie</name>
+<expres/>
+<page>$doregex[iframe]</page>
+<referer>http://oneplay.tv</referer>
+<cookieJar/>
+</regex>
+<regex>
+<name>iframe</name>
+<expres>embed.*?iframe src="(.*?)"</expres>
+<page>http://oneplay.tv/ver/canal/94/vh1</page>
+<cookiejar/>
+</regex>
 </item>
