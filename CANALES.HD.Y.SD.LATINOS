@@ -100,7 +100,7 @@
 			</regex> 
           <thumbnail>https://celiacruzfoundation1.files.wordpress.com/2012/05/telemundo.jpg</thumbnail></item>
       
-      <item>
+      	<item>
 			<title>Telemundo 38</title>
 			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_telemundo38 live=1 timeout=20</link>
 			<regex>
