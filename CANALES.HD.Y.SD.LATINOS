@@ -89,16 +89,8 @@
 			<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/20487775/streams/live/playlist.m3u8')</expres>
 			<page></page>
 			</regex> 
-			</item>
-		
-			<item><title>Telemundo op.3</title><!-- http://www.onlinetv.planetfools.com/tvenvivo/telemundo-tv-en-vivo.php -->
-			<link>$doregex[get-link]</link>
-			<regex>
-			<name>get-link</name>
-			<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/15379493/streams/live/playlist.m3u8')</expres>
-			<page></page>
-			</regex> 
           <thumbnail>https://celiacruzfoundation1.files.wordpress.com/2012/05/telemundo.jpg</thumbnail></item>
+			</item>
       
       	<item>
 			<title>Telemundo 38</title>
@@ -128,6 +120,7 @@
 			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
 			<page></page>
 			</regex>
+          <thumbnail>https://celiacruzfoundation1.files.wordpress.com/2012/05/telemundo.jpg</thumbnail></item>
 			</item>
          
          
@@ -183,17 +176,6 @@
 
 <item><title>DW  SD</title>
 <link>http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8</link></item>
-			
- <item>
-<title>DISCOVERY SD</title>
-<link>$doregex[get-link]</link>
-<regex>
-<name>get-link</name>
-<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/17248101/streams/live/playlist.m3u8')</expres>
-<page></page>
-</regex> 
-<thumbnail>http://img3.wikia.nocookie.net/__cb20100201104910/logopedia/images/d/d7/Discovery_en_Espa%C3%B1ol_old.png</thumbnail>
-</item>
 			
 <item>
 <title>LEVANTE TV SD</title>
