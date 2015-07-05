@@ -26,25 +26,9 @@
 <item><title>[COLOR skyblue]FOX SPORT  [COLOR lime]HD[/COLOR]</title>
 <link>rtmp://cdn9.iviplanet.com/TELEPACIFICO-TO playpath=myStream.sdp  swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion
 timeout=10</link><thumbnail>http://img2.wikia.nocookie.net/__cb20121102222303/logopedia/images/d/de/IvIPy8fZekp1X.png</thumbnail></item>
-
-<item><title>CABLE NOTOCIAS</title>
-<link>http://uneapple-i.akamaihd.net/hls/live/205016/grupoune_st7@205016/st7_index.m3u8</link>
-<thumbnail>http://farm4.staticflickr.com/3189/2702583238_9448b8b50f.jpg</thumbnail></item>
 <item><title>[COLOR skyblue]SEÑAL COLOMBIA    [COLOR lime]HD[/COLOR]</title>
 <link>http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/media_u45em7647_b500000.m3u8</link>
 <thumbnail>http://ccomunicaciones.udenar.edu.co/wp-content/uploads/2012/11/senalcolombia.jpg</thumbnail>
-<item><title>CANAL ANTIESTRES  [COLOR yellow]musica[/COLOR]</title>
-<link>http://uneapple-i.akamaihd.net/hls/live/206413/grupoune_st12@206413/st12_index.m3u8</link>
-<item><title>TIGO MUSIC [COLOR yellow]musica[/COLOR]</title><link>http://uneapple-i.akamaihd.net/hls/live/215955/grupoune_st44@215955/st44_index.m3u8</link>
-<item><title>V-MAS TV</title><link>http://uneapple-i.akamaihd.net/hls/live/207642/grupoune_st23@207642/st23_index.m3u8</link>
-<thumbnail>http://st-listas.20minutos.es/images/2013-12/373312/4262528_640px.jpg?1386378961</thumbnail></item>
-<item><title>Telecaribe</title><link>http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8</link>
-<item><title>TELEVIO</title><link>http://uneapple-i.akamaihd.net/hls/live/205018/grupoune_st9@205018/st9_index.m3u8</link>
-<item><title>UNE TV</title><link>http://uneapple-i.akamaihd.net/hls/live/205017/grupoune_st8@205017/st8_index.m3u8</link>
-<item><title>Teleantioquia</title><link>http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u8</link>
-
-<item><title>NATGEO WILD  [COLOR blue]documentales[/COLOR]</title><link>http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on?monclovacaliente.m3u8</link>
-
 
 
 
