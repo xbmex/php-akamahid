@@ -17,66 +17,20 @@
 <item><title>CANAL RCN [COLOR lime]HD[/COLOR]</title>
 <link>rtmp://cdn6.iviplanet.com/RCN-TO playpath=myStream.sdp timeout=10</link>
 <thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
-<item>
-			<title>RCN sd</title>
-			<link>rtmp://watch4.streamlive.to:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
-			<regex>
-			<name>path</name>
-			<page>http://www.streamlive.to/view/52714</page>
-			<expres>file: "(.*).flv</expres>
-			</regex>
-			<regex>
-			<name>tok</name>
-			<expres>token":"([^"]*)</expres>
-			<page>$doregex[tokpg]</page>
-			<referer>https://www.streamlive.to</referer>
-			</regex>
-			<regex>
-			<name>tokpg</name>
-			<expres>getJSON\("([^"]*)</expres>
-			<page>http://www.streamlive.to/view/52714</page>
-			</regex>
-			<regex>
-			<name>xs</name>
-			<expres>/(\?xs=.*?)"</expres>
-			<page>http://www.streamlive.to/view/52714</page>
-			<rawpost>captcha=$doregex[answer]</rawpost>
-			<referer>https://www.streamlive.to</referer>
-			<cookieJar></cookieJar>
-			<ignorecache/>
-			</regex>
-			<regex>
-			<name>answer</name>
-			<expres>$pyFunction:($doregex[captcha])</expres>
-			<page></page>
-			</regex>
-			<regex>
-			<name>captcha</name>
-			<expres>$pyFunction:'$doregex[xcaptcha]'.replace('x','*')</expres>
-			<page></page>
-			</regex>
-			<regex>
-			<name>xcaptcha</name>
-			<expres>Question: (.*) =</expres>
-			<page>http://www.streamlive.to/view/52714</page>
-			<referer>http://www.streamlive.to</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			</item>
 
 <item><title>[COLOR skyblue]TRECE   [COLOR blue]HD[/COLOR]</title>
 <link>rtmp://cdn6.iviplanet.com/DEMOUNO playpath=myStream.sdp timeout=10</link>
 <thumbnail>http://3.bp.blogspot.com/-ZcNDnWls7iU/UDEemUxuXxI/AAAAAAAAAmo/ZMoxPa10k_w/s1600/canal_13_trece.png</thumbnail></item>
 
-<itemoff><title>[COLOR skyblue]WIN SPORTS [COLOR lime]HD[/COLOR]</title>
+<item><title>[COLOR skyblue]WIN SPORTS [COLOR lime]HD[/COLOR]</title>
 <link>rtmp://cdn8.iviplanet.com/ELTIEMPO-TO playpath=myStream.sdp timeout=10</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/220px-Winsports.svg.png</thumbnail></item>
 
-<itemoff><title>[COLOR skyblue]ESPN [COLOR lime]HD[/COLOR]</title>
+<item><title>[COLOR skyblue]ESPN [COLOR lime]HD[/COLOR]</title>
 <link>rtmp://cdn8.iviplanet.com/CITYTV-TO playpath=myStream.sdp swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion
  timeout=10</link><thumbnail>http://www.ashlandhome.net/SIB/images/espn_hd.png</thumbnail></item>
 
-<itemoff><title>[COLOR skyblue]FOX SPORT  [COLOR lime]HD[/COLOR]</title>
+<item><title>[COLOR skyblue]FOX SPORT  [COLOR lime]HD[/COLOR]</title>
 <link>rtmp://cdn9.iviplanet.com/TELEPACIFICO-TO playpath=myStream.sdp  swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion
 timeout=10</link><thumbnail>http://img2.wikia.nocookie.net/__cb20121102222303/logopedia/images/d/de/IvIPy8fZekp1X.png</thumbnail></item>
 
