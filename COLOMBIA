@@ -37,12 +37,114 @@ timeout=10</link><thumbnail>http://img2.wikia.nocookie.net/__cb20121102222303/lo
 <item><title>[COLOR skyblue]SEÑAL COLOMBIA    [COLOR lime]HD[/COLOR]</title>
 <link>http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/media_u45em7647_b500000.m3u8</link>
 <thumbnail>http://ccomunicaciones.udenar.edu.co/wp-content/uploads/2012/11/senalcolombia.jpg</thumbnail>
+	
+<item><title>Telecaribe</title>
+<link>http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8</link>
 
+<item><title>Mi Gente</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m3u8</link>
 
-<item><title>[COLOR skyblue]SEÑAL COLOMBIA    [COLOR lime]HD[/COLOR]</title>
-<link>http://31.220.40.100:80/LiveEdge/CaracolIntSD/playlist.m3u8?token=ef6f35a5b25627eb7d8360bd1b5d9e3f</link>
-<thumbnail>http://ccomunicaciones.udenar.edu.co/wp-content/uploads/2012/11/senalcolombia.jpg</thumbnail>
+<item><title>Telecafe</title>
+<link>http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8</link>
 
+<item><title>Canal 9</title>
+<link>http://cdns840stu1010.multistream.net/rtvclive/amlst:live/playlist_b500000.m3u8</link>
+			
+
+<item>
+			<title>Caracol (no hd)</title>
+			<link>rtmp://watch4.streamlive.to:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
+			<regex>
+			<name>path</name>
+			<page>http://www.streamlive.to/view/52715</page>
+			<expres>file: "(.*).flv</expres>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>token":"([^"]*)</expres>
+			<page>$doregex[tokpg]</page>
+			<referer>https://www.streamlive.to</referer>
+			</regex>
+			<regex>
+			<name>tokpg</name>
+			<expres>getJSON\("([^"]*)</expres>
+			<page>http://www.streamlive.to/view/52715</page>
+			</regex>
+			<regex>
+			<name>xs</name>
+			<expres>/(\?xs=.*?)"</expres>
+			<page>http://www.streamlive.to/view/52715</page>
+			<rawpost>captcha=$doregex[answer]</rawpost>
+			<referer>https://www.streamlive.to</referer>
+			<cookieJar></cookieJar>
+			<ignorecache/>
+			</regex>
+			<regex>
+			<name>answer</name>
+			<expres>$pyFunction:($doregex[captcha])</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>captcha</name>
+			<expres>$pyFunction:'$doregex[xcaptcha]'.replace('x','*')</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>xcaptcha</name>
+			<expres>Question: (.*) =</expres>
+			<page>http://www.streamlive.to/view/52715</page>
+			<referer>http://www.streamlive.to</referer>
+			<cookieJar></cookieJar>
+			</regex>
+      </item>
+      
+      <item>
+			<title>RCN no hd</title>
+			<link>rtmp://watch4.streamlive.to:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
+			<regex>
+			<name>path</name>
+			<page>http://www.streamlive.to/view/52714</page>
+			<expres>file: "(.*).flv</expres>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>token":"([^"]*)</expres>
+			<page>$doregex[tokpg]</page>
+			<referer>https://www.streamlive.to</referer>
+			</regex>
+			<regex>
+			<name>tokpg</name>
+			<expres>getJSON\("([^"]*)</expres>
+			<page>http://www.streamlive.to/view/52714</page>
+			</regex>
+			<regex>
+			<name>xs</name>
+			<expres>/(\?xs=.*?)"</expres>
+			<page>http://www.streamlive.to/view/52714</page>
+			<rawpost>captcha=$doregex[answer]</rawpost>
+			<referer>https://www.streamlive.to</referer>
+			<cookieJar></cookieJar>
+			<ignorecache/>
+			</regex>
+			<regex>
+			<name>answer</name>
+			<expres>$pyFunction:($doregex[captcha])</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>captcha</name>
+			<expres>$pyFunction:'$doregex[xcaptcha]'.replace('x','*')</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>xcaptcha</name>
+			<expres>Question: (.*) =</expres>
+			<page>http://www.streamlive.to/view/52714</page>
+			<referer>http://www.streamlive.to</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			
+			</item>
 
 
 
