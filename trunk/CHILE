@@ -47,7 +47,7 @@
 
 <item>
 <title>CHILE VISION HD</title>
-<link>http://mi.chv.cl/playlist/stream.m3u8?s=hd</link>
+<link>rtsp://chv.movil.rtsp.ztreaming.com:554/chvmovil2/chilevision@140569</link>
 <thumbnail>https://pbs.twimg.com/profile_images/550643019154587648/zpJ86zDv.jpeg</thumbnail></item>
 
 <item><title> LA RED</title><link>http://wow1.dallas.digitalproserver.com/redtv/redtvvivo/livestream3/master.m3u8</link>
