@@ -1,17 +1,16 @@
-<item>
-<title>Univision SD</title>
-http://myinfadroid.tk:80/live/eluminate/eluminate1/813.ts</item>
+ <item><title>UNIMAS</title>
+<link>http://myinfadroid.tk:80/live/eluminate/eluminate1/814.ts</link></item>
 
-<item>
-<title>Teletica SD</title>
-http://myinfadroid.tk:80/live/eluminate/eluminate1/817.ts</item>
+ <item><title>Univision SD</title>
+<link>http://myinfadroid.tk:80/live/eluminate/eluminate1/813.ts</link></item>
 
-<item>
-<title>Telemundo Internacional SD</title>
-http://myinfadroid.tk:80/live/eluminate/eluminate1/822.ts</item>
+ <item><title>Teletica SD</title>
+<link>http://myinfadroid.tk:80/live/eluminate/eluminate1/817.ts</link></item>
+
+ <item><title>Telemundo Internacional SD</title>
+<link>http://myinfadroid.tk:80/live/eluminate/eluminate1/822.ts</link></item>
+
+ <item><title>Telemundo SD</title>
+<link>http://myinfadroid.tk:80/live/eluminate/eluminate1/821.ts</link></item>
 
 
-
-
-#EXTINF:-1,Telemundo SD
-http://myinfadroid.tk:80/live/eluminate/eluminate1/821.ts
