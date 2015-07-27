@@ -1,34 +1,35 @@
-	<item>
-			<title>Cartoon Network HD</title>
-			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_yuyey live=1 timeout=20</link>
-			<regex>
-			<name>clearCode</name>
-			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
-			<page></page>
-			</regex>
-			<regex>
-			<name>getencoded</name>
-			<expres>:mvnkey-(.*)</expres>
-			<page>$doregex[getUrl]</page>
-			</regex>
-			<regex>
-			<name>getserver</name>
-			<expres>(.*?);</expres>
-			<page>$doregex[getUrl]</page>
-			</regex>
-			<regex>
-			<name>getUrl</name>
-			<expres>(.*)</expres>
-			<page>http://mvn.vaughnsoft.net/video/edge/live_yuyey$doregex[gettime]-$doregex[gettime].33434</page>
-			</regex>
-			<regex>
-			<name>gettime</name>
-			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
-			<page></page>
-			</regex>
-			</item>
-			
-         <item>
+<item><title>DISNEY JUNIOR HD</title>
+<link>http://myinfadroid.tk:80/live/eluminate/eluminate1/100.ts</link>
+<thumbnail></thumbnail></item> 
+<item><title>NICK JR HD</title>
+<link>http://myinfadroid.tk:80/live/eluminate/eluminate1/102.ts</link>
+<thumbnail></thumbnail></item>
+<item><title>DISNEY CHANNEL HD</title>
+<link>http://myinfadroid.tk:80/live/eluminate/eluminate1/104.ts</link>
+<thumbnail></thumbnail></item> 
+<item><title>NICKTOONS HD</title>
+<link>http://myinfadroid.tk:80/live/eluminate/eluminate1/227.ts</link>
+<thumbnail></thumbnail></item> 
+<item><title>NICKELODEON HD</title>
+<link>http://myinfadroid.tk:80/live/eluminate/eluminate1/108.ts</link>
+<thumbnail></thumbnail></item>
+<item><title>CARTOON NETWORK HD</title>
+<link>http://myinfadroid.tk:80/live/eluminate/eluminate1/110.ts</link>
+<thumbnail></thumbnail></item>
+<item><title>DISNEY XD HD</title>
+<link>http://myinfadroid.tk:80/live/eluminate/eluminate1/112.ts</link>
+<thumbnail></thumbnail></item>
+<item><title>BOOMERANG HD</title>
+<link>http://myinfadroid.tk:80/live/eluminate/eluminate1/114.ts</link>
+<thumbnail></thumbnail></item> 
+<item><title>TIIN HD</title>
+<link>http://myinfadroid.tk:80/live/eluminate/eluminate1/116.ts</link>
+<thumbnail></thumbnail></item> 
+<item><title>TOONCAST HDD</title>
+<link>http://myinfadroid.tk:80/live/eluminate/eluminate1/118.ts</link>
+<thumbnail></thumbnail></item> 
+   
+ <item>
 			<title>Dragon Ball op.2</title>
 			<link>rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330</link>
 			</item>
