@@ -27,8 +27,117 @@
 
 ---------------------------------------SD----------------------------->
 
+
+<item>
+			<title>Telemundo 40</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_telemundo40 live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_telemundo40$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+         
 <item><title>Univision SD</title>
 <link>http://myinfadroid.tk:80/live/eluminate/eluminate1/813.ts</link></item>
+
+<item>
+			<title>Univision  HD</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_univision_hd32 live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_univision_hd32$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+         
+         			<item>
+<title>Univision (opc.2.)</title>
+<link>rtmp://watch4.streamlive.to:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
+<regex>
+        <name>path</name>
+        <expres>file: "(.*).flv</expres>
+        <page>https://www.streamlive.to/view/69932</page>
+</regex>
+<regex>
+        <name>tok</name>
+        <expres>token":"([^"]*)</expres>
+        <page>$doregex[tokpg]</page>
+        <referer>https://www.streamlive.to</referer>
+</regex>
+<regex>
+        <name>tokpg</name>
+        <expres>getJSON\("([^"]*)</expres>
+        <page>https://www.streamlive.to/view/69932</page>
+</regex>
+<regex>
+        <name>xs</name>
+        <expres>/(\?xs=.*?)"</expres>
+        <page>https://www.streamlive.to/view/69932</page>
+        <rawpost>captcha=$doregex[answer]</rawpost>
+        <referer>https://www.streamlive.to</referer>
+        <cookieJar></cookieJar>
+        <ignorecache/>
+</regex>
+<regex>
+        <name>answer</name>
+        <expres>$pyFunction:($doregex[captcha])</expres>
+        <page></page>
+</regex>
+<regex>
+        <name>captcha</name>
+        <expres>$pyFunction:'$doregex[xcaptcha]'.replace('x','*')</expres>
+        <page></page>
+</regex>
+<regex>
+        <name>xcaptcha</name>
+        <expres>Question: (.*) =</expres>
+        <page>https://www.streamlive.to/view/69932</page>
+        <referer>http://www.streamlive.to</referer>
+        <cookieJar></cookieJar>
+</regex>
+</item>
+
 
 <item><title>TEN HONDURAS  [COLORgreen]SD[/COLOR]</title><link>http://hd.worldkast.com/8378/smil:8378.smil/playlist.m3u8?</link>
 <thumbnail>https://yt3.ggpht.com/-8p8rCwRAD6M/AAAAAAAAAAI/AAAAAAAAAAA/U-oPV9dI9mc/s900-c-k-no/photo.jpg</thumbnail></item>
