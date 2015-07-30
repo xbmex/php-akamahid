@@ -6,6 +6,12 @@
 <link>rtmp://cdn6.iviplanet.com/RCN-TO playpath=myStream.sdp timeout=10</link>
 <thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
 
+<item><title>CANAL RCN [COLOR lime]2HD[/COLOR]</title>
+<link>rtmp://wdc.cxnlive.com:1935/live/ playpath=wdc-rcn.stream?wowzatokenhash=5RnZYt5EWTe4Y4rF1iZIFSETNecEFiAMEL0K8_mvzOk=&wowzatokenendtime=1438249620  swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf pageUrl=http://www.cxntv.com/canales/rcn-colombia/ timeout=10</link>
+<thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
+
+
+
 <item>
 			<title>Caracol (no hd)</title>
 			<link>rtmp://watch4.streamlive.to:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
