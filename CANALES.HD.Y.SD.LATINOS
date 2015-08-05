@@ -21,6 +21,45 @@
 <item><title>TIVA TV [COLORgreen]HD[/COLOR]</title><link>http://live-h1.frontlayer.net/fl729845/live/live.m3u8?wowzasessionid=1243637292</link>
 <thumbnail>http://www.tivatv.com/images/tiva2d.png</thumbnail></item>
 
+
+
+<item><title>Telemundo    [COLOR pink]SportDevil[/COLOR]</title><sportsdevil>http://vaughnlive.tv/telemundo40</sportsdevil><referer>http://vaughnlive.tv/</referer></item>
+<item><title>Telemundo     [COLOR pink]SportDevil[/COLOR]</title><sportsdevil>http://www.zandortv.com/2013/04/telemundo-en-vivo-por-internet.html</sportsdevil><referer>http://www.zandortv.com/</referer></item>
+<item><title>Univision    [COLOR pink]SportDevil[/COLOR]</title><sportsdevil>http://vaughnlive.tv/univision_hd32</sportsdevil><referer>http://vaughnlive.tv/</referer></item>
+<item><title>Univision    [COLOR pink]SportDevil[/COLOR]</title><sportsdevil>http://canales.tutv-porinternet.com/univisionhd.html</sportsdevil><referer>http://canales.tutv-porinternet.com/</referer></item>
+<item><title>Unimas    [COLOR pink]SportDevil[/COLOR]</title><sportsdevil>http://vaughnlive.tv/unimas17</sportsdevil><referer>http://vaughnlive.tv/</referer></item>
+<item><title>RCN Novelas    [COLOR pink]SportDevil[/COLOR]</title><sportsdevil>http://www.carteltv.net/canal_rcn.html</sportsdevil><referer>http://www.carteltv.net/</referer></item>
+<item><title>Fox HD    [COLOR pink]SportDevil[/COLOR]</title><sportsdevil>http://www.sintelevisor.com/tv/fox.html</sportsdevil><referer>http://www.sintelevisor.com/</referer></item>
+<item><title>FOX    [COLOR pink]SportDevil[/COLOR]</title><sportsdevil>http://cinestrenostv.tv/canales/fox.html</sportsdevil><referer>http://cinestrenostv.tv/</referer></item>
+<item><title>Fx    [COLOR pink]SportDevil[/COLOR]</title><sportsdevil>http://www.zandortv.com/2013/04/fx-en-vivo-por-internet.html</sportsdevil><referer>http://www.zandortv.com/</referer></item>
+<item><title>Warner Channel   [COLOR pink]SportDevil[/COLOR]</title><sportsdevil>http://canales.tutv-porinternet.com/warner.html</sportsdevil><referer>http://canales.tutv-porinternet.com/</referer></item>
+<item><title>mundo fox    [COLOR pink]SportDevil[/COLOR]</title><sportsdevil>http://canales.tutv-porinternet.com/mundofox.html</sportsdevil><referer>http://canales.tutv-porinternet.com/</referer></item>
+<item><title>TNT   [COLOR pink]SportDevil[/COLOR]</title><sportsdevil>http://www.zandortv.com/2013/04/tnt-en-vivo-por-internet.html</sportsdevil><referer>http://www.zandortv.com/</referer></item>
+<item><title>tnt    [COLOR pink]SportDevil[/COLOR]</title><sportsdevil>http://cinestrenostv.tv/canales/nacionales/tnt.php</sportsdevil><referer>http://cinestrenostv.tv/</referer></item>
+<item><title>Axn    [COLOR pink]SportDevil[/COLOR]</title><sportsdevil>http://www.zandortv.com/2013/04/axn-en-vivo-por-internet.html</sportsdevil><referer>http://www.zandortv.com/</referer></item>
+<item><title>Axn    [COLOR pink]SportDevil[/COLOR]</title><sportsdevil>http://cinestrenostv.tv/canales/axn.html</sportsdevil><referer>http://cinestrenostv.tv/</referer></item>
+<item><title>Universal Channel    [COLOR pink]SportDevil[/COLOR]</title><sportsdevil>http://www.zandortv.com/2013/04/universal-channel-en-vivo-por-internet.html</sportsdevil><referer>http://www.zandortv.com/</referer></item>
+<item><title>Sony    [COLOR pink]SportDevil[/COLOR]</title><sportsdevil>http://www.elchoyerotv.com/2013/09/sony-television-en-vivo-online.html</sportsdevil><referer>http://www.elchoyerotv.com/</referer></item>
+
+
+<item><title>Space    [COLOR pink]SportDevil[/COLOR]</title><sportsdevil>http://www.sintelevisor.com/tv/space.html</sportsdevil><referer>http://www.sintelevisor.com/</referer></item>
+<item><title>The Film Zone    [COLOR pink]SportDevil[/COLOR]</title><sportsdevil>http://www.sintelevisor.com/tv/filmzone.html</sportsdevil><referer>http://www.sintelevisor.com/</referer></item>
+<item><title>HBO    [COLOR pink]SportDevil[/COLOR]</title><sportsdevil>http://canales.tutv-porinternet.com/hbo.html</sportsdevil><referer>http://canales.tutv-porinternet.com/</referer></item>
+<item><title>HBO2    [COLOR pink]SportDevil[/COLOR]</title><sportsdevil>http://canales.tutv-porinternet.com/hbo2.html</sportsdevil><referer>http://canales.tutv-porinternet.com/</referer></item>
+<item><title>HBO Plus    [COLOR pink]SportDevil[/COLOR]</title><sportsdevil>http://www.zandortv.com/2013/04/hbo-plus-en-vivo-por-internet.html</sportsdevil><referer>http://www.zandortv.com/</referer></item>
+<item><title>MAX Prime    [COLOR pink]SportDevil[/COLOR]</title><sportsdevil>http://canales.tutv-porinternet.com/maxprime.html</sportsdevil><referer>http://canales.tutv-porinternet.com/</referer></item>
+<item><title>disney XD    [COLOR pink]SportDevil[/COLOR]</title><sportsdevil>http://canales.tutv-porinternet.com/disneyxd.html</sportsdevil><referer>http://canales.tutv-porinternet.com/</referer></item>
+
+<item><title>disney channel    [COLOR pink]SportDevil[/COLOR]</title><sportsdevil>http://www.zandortv.com/2013/04/disney-channel-en-vivo-por-internet.html</sportsdevil><referer>http://www.zandortv.com/</referer></item>
+<item><title>tooncast    [COLOR pink]SportDevil[/COLOR]</title><sportsdevil>http://canales.tutv-porinternet.com/tooncast.html</sportsdevil><referer>http://canales.tutv-porinternet.com/</referer></item>
+<item><title>Nickelodeon    [COLOR pink]SportDevil[/COLOR]</title><sportsdevil>http://www.zandortv.com/2013/04/nick-en-vivo-por-internet.html http://www.zandortv.com/</referer></item>
+<item><title>Cartoon Network Latino    [COLOR pink]SportDevil[/COLOR]</title><sportsdevil>http://www.zandortv.com/2013/04/cartoon-network-en-vivo-por-internet.html</sportsdevil><referer>http://www.zandortv.com/</referer></item>
+
+
+
+
+
+
 ---------------------------------------SD----------------------------->
 
 
