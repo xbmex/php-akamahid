@@ -10,6 +10,8 @@
 <link>rtmp://cdn6.iviplanet.com/RCN-TO playpath=myStream.sdp timeout=10</link>
 <thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
 
+<item><title>RCN NEW HD[COLOR pink]NO HD[/COLOR]</title><sportsdevil>http://www.carteltv.net/canal_rcn.html</sportsdevil><referer>http://www.carteltv.net/</referer></item>
+
  <item><title>GOL CARACOL  [COLOR blue]NEW[/COLOR]</title>
 <link>rtmp://cdn6.iviplanet.com/TELEANTIOQUIA-TO playpath=myStream.sdp timeout=10</link>
 <thumbnail>http://esteeselpunto.com/wp-content/uploads/2013/06/Gol-Caracol.jpg</thumbnail></item>
