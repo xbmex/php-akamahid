@@ -3,7 +3,12 @@
 <link>http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8</link>
 <thumbnail>http://img.irtve.es/files/74-118767-FOTO_NOTA_PRENSA_399/tve_la1_gest.jpg</thumbnail></item>
 
+<item><title>NOVA</title><link>http://digiteletv.ddns.net:8000/live/aandradepty/Yac9lI3Qey/96.ts</link><thumbnail></thumbnail></item>
+
+
 <item><title>LA 1</title><link>http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8</link><thumbnail></thumbnail></item>
+
+http://digiteletv.ddns.net:8000/live/aandradepty/Yac9lI3Qey/96.ts
  
 
 <item><title>ANTENA 3 HD</title><link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8</link></item>
