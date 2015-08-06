@@ -1,8 +1,8 @@
-<item><title>[COLOR skyblue]CARACOL[COLOR lime] HD[/COLOR]</title>
+<itemOFF><title>[COLOR skyblue]CARACOL[COLOR lime] HD[/COLOR]</title>
 <link>rtmp://cdn6.iviplanet.com/CARACOL-TO playpath=myStream.sdp timeout=10</link>
 <thumbnail>http://static.canalcaracol.com/sites/caracoltv.com/files/img_videos/c29d66c103de3b05c9a1dca51e96f510.jpg</thumbnail></item>
 
-<itemoff><title>[COLOR skyblue]CARACOL 2[COLOR lime] no HD[/COLOR]</title>
+<item><title>[COLOR skyblue]CARACOL 2[COLOR lime] no HD[/COLOR]</title>
 <link>http://live.mvdigital.net:1935/live4/livestream1.sdp/playlist.m3u8</link>
 <thumbnail>http://static.canalcaracol.com/sites/caracoltv.com/files/img_videos/c29d66c103de3b05c9a1dca51e96f510.jpg</thumbnail></item>
 
