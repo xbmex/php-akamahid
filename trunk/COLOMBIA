@@ -1,4 +1,4 @@
-<itemOFF><title>[COLOR skyblue]CARACOL[COLOR lime] HD[/COLOR]</title>
+<item><title>[COLOR skyblue]CARACOL[COLOR lime] HD[/COLOR]</title>
 <link>rtmp://cdn6.iviplanet.com/CARACOL-TO playpath=myStream.sdp timeout=10</link>
 <thumbnail>http://static.canalcaracol.com/sites/caracoltv.com/files/img_videos/c29d66c103de3b05c9a1dca51e96f510.jpg</thumbnail></item>
 
@@ -10,12 +10,15 @@
 <link>http://myinfadroid.tk:80/live/eluminate/eluminate1/816.ts</link>
 <thumbnail>http://static.canalcaracol.com/sites/caracoltv.com/files/img_videos/c29d66c103de3b05c9a1dca51e96f510.jpg</thumbnail></item>
 
-<itemoff><title>CANAL RCN [COLOR lime]HD[/COLOR]</title>
+<item><title>CANAL RCN [COLOR lime]HD[/COLOR]</title>
 <link>rtmp://cdn6.iviplanet.com/RCN-TO playpath=myStream.sdp timeout=10</link>
 <thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
 
-<item><title>RCN NEW   [COLOR pink]NO HD[/COLOR]</title><sportsdevil>http://www.carteltv.net/canal_rcn.html</sportsdevil><referer>http://www.carteltv.net/</referer></item>
+<item><title>RCN NOVELAS</title>
+<link>http://theiptv.tk/loadchan.php?chan=1320&token=56058f18035b02d6a5e58637e706071f</link>
+<thumbnail>http://theiptv.tk/logos/RCN-Novelas.png</thumbnail></item></item>
 
+ 
  <item><title>TELEMUNDO</title>
 <link>http://162.254.148.183:1935/app/telemundoxchivas_69s-channel/playlist.m3u8</link></item>
 
