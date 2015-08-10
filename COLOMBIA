@@ -1,8 +1,4 @@
-<itemoff><title>[COLOR skyblue]CARACOL[COLOR lime] HD[/COLOR]</title>
-<link>rtmp://cdn6.iviplanet.com/CARACOL-TO playpath=myStream.sdp timeout=10</link>
-<thumbnail>http://static.canalcaracol.com/sites/caracoltv.com/files/img_videos/c29d66c103de3b05c9a1dca51e96f510.jpg</thumbnail></item>
-
-<item><title>[COLOR skyblue]CARACOL 2[COLOR lime] no HD[/COLOR]</title>
+<item><title>CARACOL PROVICIONAL</title>
 <link>http://live.mvdigital.net:1935/live4/livestream1.sdp/playlist.m3u8</link>
 <thumbnail>http://static.canalcaracol.com/sites/caracoltv.com/files/img_videos/c29d66c103de3b05c9a1dca51e96f510.jpg</thumbnail></item>
 
@@ -10,36 +6,8 @@
 <link>http://myinfadroid.tk:80/live/eluminate/eluminate1/816.ts</link>
 <thumbnail>http://static.canalcaracol.com/sites/caracoltv.com/files/img_videos/c29d66c103de3b05c9a1dca51e96f510.jpg</thumbnail></item>
 
-<item><title>CANAL RCN [COLOR lime]HD[/COLOR]</title>
-<link>rtmp://cdn6.iviplanet.com/RCN-TO playpath=myStream.sdp timeout=10</link>
-<thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
-
-<item><title>RCN [COLOR lime]NOVELAS[/COLOR]</title>
-<link>http://theiptv.tk/loadchan.php?chan=1320</link>
-<thumbnail>http://theiptv.tk/logos/RCN-Novelas.png</thumbnail></item>
-
- <item><title>TELEMUNDO</title>
+<item><title>TELEMUNDO</title>
 <link>http://162.254.148.183:1935/app/telemundoxchivas_69s-channel/playlist.m3u8</link></item>
-
- <item><title>GOL CARACOL  [COLOR blue]NEW[/COLOR]</title>
-<link>rtmp://cdn6.iviplanet.com/TELEANTIOQUIA-TO playpath=myStream.sdp timeout=10</link>
-<thumbnail>http://esteeselpunto.com/wp-content/uploads/2013/06/Gol-Caracol.jpg</thumbnail></item>
-
-<item><title>[COLOR skyblue]TRECE   [COLOR blue]HD[/COLOR]</title>
-<link>rtmp://cdn6.iviplanet.com/DEMOUNO playpath=myStream.sdp timeout=10</link>
-<thumbnail>http://3.bp.blogspot.com/-ZcNDnWls7iU/UDEemUxuXxI/AAAAAAAAAmo/ZMoxPa10k_w/s1600/canal_13_trece.png</thumbnail></item>
-
-<item><title>[COLOR skyblue]WIN SPORTS [COLOR lime]HD[/COLOR]</title>
-<link>rtmp://cdn8.iviplanet.com/ELTIEMPO-TO playpath=myStream.sdp timeout=10</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/220px-Winsports.svg.png</thumbnail></item>
-
-<item><title>[COLOR skyblue]ESPN [COLOR lime]HD[/COLOR]</title>
-<link>rtmp://cdn8.iviplanet.com/CITYTV-TO playpath=myStream.sdp swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion
- timeout=10</link><thumbnail>http://www.ashlandhome.net/SIB/images/espn_hd.png</thumbnail></item>
-
-<item><title>[COLOR skyblue]FOX SPORT  [COLOR lime]HD[/COLOR]</title>
-<link>rtmp://cdn9.iviplanet.com/TELEPACIFICO-TO playpath=myStream.sdp  swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion
-timeout=10</link><thumbnail>http://img2.wikia.nocookie.net/__cb20121102222303/logopedia/images/d/de/IvIPy8fZekp1X.png</thumbnail></item>
 
 <item><title>[COLOR skyblue]SEÑAL COLOMBIA    [COLOR lime]HD[/COLOR]</title>
 <link>http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/media_u45em7647_b500000.m3u8</link>
@@ -69,10 +37,35 @@ timeout=10</link><thumbnail>http://img2.wikia.nocookie.net/__cb20121102222303/lo
  <item><title>UNIMAS</title>
 <link>http://myinfadroid.tk:80/live/eluminate/eluminate1/814.ts</link></item>
 
- <item><title>TEST</title>
-<link>http://46.165.220.232:8088/live/kkkcolhd/playlist.m3u8</link></item>
+========OFF======
 
+<itemoff><title>[COLOR skyblue]CARACOL[COLOR lime] HD[/COLOR]</title>
+<link>rtmp://cdn6.iviplanet.com/CARACOL-TO playpath=myStream.sdp timeout=10</link>
+<thumbnail>http://static.canalcaracol.com/sites/caracoltv.com/files/img_videos/c29d66c103de3b05c9a1dca51e96f510.jpg</thumbnail></item>
 
+<itemoff><title>CANAL RCN [COLOR lime]HD[/COLOR]</title>
+<link>rtmp://cdn6.iviplanet.com/RCN-TO playpath=myStream.sdp timeout=10</link>
+<thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
+
+<itemoff><title>[COLOR skyblue]FOX SPORT  [COLOR lime]HD[/COLOR]</title>
+<link>rtmp://cdn9.iviplanet.com/TELEPACIFICO-TO playpath=myStream.sdp  swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion
+timeout=10</link><thumbnail>http://img2.wikia.nocookie.net/__cb20121102222303/logopedia/images/d/de/IvIPy8fZekp1X.png</thumbnail></item>
+
+<itemoff><title>[COLOR skyblue]ESPN [COLOR lime]HD[/COLOR]</title>
+<link>rtmp://cdn8.iviplanet.com/CITYTV-TO playpath=myStream.sdp swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion
+ timeout=10</link><thumbnail>http://www.ashlandhome.net/SIB/images/espn_hd.png</thumbnail></item>
+ 
+ <itemoff><title>[COLOR skyblue]TRECE   [COLOR blue]HD[/COLOR]</title>
+<link>rtmp://cdn6.iviplanet.com/DEMOUNO playpath=myStream.sdp timeout=10</link>
+<thumbnail>http://3.bp.blogspot.com/-ZcNDnWls7iU/UDEemUxuXxI/AAAAAAAAAmo/ZMoxPa10k_w/s1600/canal_13_trece.png</thumbnail></item>
+
+<itemoff><title>[COLOR skyblue]WIN SPORTS [COLOR lime]HD[/COLOR]</title>
+<link>rtmp://cdn8.iviplanet.com/ELTIEMPO-TO playpath=myStream.sdp timeout=10</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/220px-Winsports.svg.png</thumbnail></item>
+
+ <itemoff><title>GOL CARACOL  [COLOR blue]NEW[/COLOR]</title>
+<link>rtmp://cdn6.iviplanet.com/TELEANTIOQUIA-TO playpath=myStream.sdp timeout=10</link>
+<thumbnail>http://esteeselpunto.com/wp-content/uploads/2013/06/Gol-Caracol.jpg</thumbnail></item>
 
 			
 
