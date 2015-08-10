@@ -1,4 +1,4 @@
-<item><title>[COLOR skyblue]CARACOL[COLOR lime] HD[/COLOR]</title>
+<itemoff><title>[COLOR skyblue]CARACOL[COLOR lime] HD[/COLOR]</title>
 <link>rtmp://cdn6.iviplanet.com/CARACOL-TO playpath=myStream.sdp timeout=10</link>
 <thumbnail>http://static.canalcaracol.com/sites/caracoltv.com/files/img_videos/c29d66c103de3b05c9a1dca51e96f510.jpg</thumbnail></item>
 
@@ -69,8 +69,8 @@ timeout=10</link><thumbnail>http://img2.wikia.nocookie.net/__cb20121102222303/lo
  <item><title>UNIMAS</title>
 <link>http://myinfadroid.tk:80/live/eluminate/eluminate1/814.ts</link></item>
 
- <item><title>TEST2</title>
-<link>http://theiptv.tk/channels.php?token=36c0611615</link></item>
+ <item><title>TEST</title>
+<link>http://myinfadroid.tk:80/live/eluminate/eluminate1/1469.ts</link></item>
 
 
 
