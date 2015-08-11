@@ -1,4 +1,3 @@
-
 <item><title>Meridiano tv</title>
 <link>http://lat4.cdnak.latino.neulion.com/nlds/guaotv/meridiano/as/live/meridiano_4.m3u8</link>
 <thumbnail></thumbnail></item>
@@ -30,18 +29,6 @@
 <item><title>BEING SPORT ES</title>
 <link>http://myinfadroid.tk:80/live/eluminate/eluminate1/846.ts</link>
 <thumbnail>http://3.bp.blogspot.com/-m9I2IP2g1js/UtNaE4fBMrI/AAAAAAAADmA/G9RY-1rUHEA/s1600/WWWWWWWWW.png</thumbnail></item>
-
-<item><title>[COLOR skyblue]WIN SPORTS [COLOR lime]HD[/COLOR]</title>
-<link>rtmp://cdn8.iviplanet.com/ELTIEMPO-TO playpath=myStream.sdp swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion
-timeout=10</link><thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/220px-Winsports.svg.png</thumbnail></item>
- 
- <item><title>[COLOR skyblue]ESPN [COLOR lime]HD[/COLOR]</title>
-<link>rtmp://cdn8.iviplanet.com/CITYTV-TO playpath=myStream.sdp swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion
- timeout=10</link><thumbnail>http://www.ashlandhome.net/SIB/images/espn_hd.png</thumbnail></item>
- 
-<item><title>[COLOR skyblue]FOX SPORT  [COLOR lime]HD[/COLOR]</title>
-<link>rtmp://cdn9.iviplanet.com/TELEPACIFICO-TO playpath=myStream.sdp  swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf pageUrl=https://www.teleorion.com/programacion
-timeout=10</link><thumbnail>http://img2.wikia.nocookie.net/__cb20121102222303/logopedia/images/d/de/IvIPy8fZekp1X.png</thumbnail></item>
 
 <item>
 <title>CNPT 1</title>
