@@ -5,8 +5,8 @@
 <link>http://live.mvdigital.net:1935/live4/livestream1.sdp/playlist.m3u8</link>
 <thumbnail>http://static.canalcaracol.com/sites/caracoltv.com/files/img_videos/c29d66c103de3b05c9a1dca51e96f510.jpg</thumbnail></item>
 
-<item><title>CANAL RCN</title>
-<link>http://95.211.184.231:8088/live/rrrcolhd/playlist.m3u8?id=233324&wowzasessionid=307265138&pk=a03d7e82e20cf13cafd7278a433336092eb07fb9bede6feba9d84a707a005bb7 timeout=10</link>
+<item><title>RCN</title>
+<link>http://95.211.184.231:8088/live/rrrcolhd/playlist.m3u8?id=233324&wowzasessionid=307265138</link>
 <thumbnail>http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg</thumbnail></item>
 
 
