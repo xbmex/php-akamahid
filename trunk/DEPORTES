@@ -1,21 +1,34 @@
-<item><title>MARC ANTHONY LIVE AT AHOY ROTTERDAM 2015</title>
-<link>http://djcasanova.nl/live.mp4</link>
-<thumbnail>http://djcasanova.nl/live.jpg</thumbnail></item>
 
 <item><title>Meridiano tv</title>
 <link>http://lat4.cdnak.latino.neulion.com/nlds/guaotv/meridiano/as/live/meridiano_4.m3u8</link>
 <thumbnail></thumbnail></item>
 
-<item><title>FOX ARGENTINA</title>
-<link>rtmp://lat2.cxnlive.com:1935/live/ playpath=canal-foxargentina.stream timeout=15</link>
+<item><title>SKY Sports 1</title>
+<link>http://myinfadroid.tk:80/live/eluminate/eluminate1/490.ts</link>
 <thumbnail></thumbnail></item>
 
-<item><title>CHILE DEPORTES</title>
-<link>http://65.202.39.110:5000/live/cdf_chile_deporte/playlist.m3u8</link>
+<item><title>SKY Sports 2</title>
+<link>http://myinfadroid.tk:80/live/eluminate/eluminate1/491.ts</link>
 <thumbnail></thumbnail></item>
 
-<item><title>BEING SPORT HD</title>
-<link>http://bein-es.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:BeInSports_ES_all/playlist.m3u8</link>
+<item><title>SKY Sports 3</title>
+<link>http://myinfadroid.tk:80/live/eluminate/eluminate1/492.ts</link>
+<thumbnail></thumbnail></item>
+
+<item><title>SKY Sports 4</title>
+<link>http://myinfadroid.tk:80/live/eluminate/eluminate1/493.ts</link>
+<thumbnail></thumbnail></item>
+
+<item><title>SKY Sports 5</title>
+<link>http://myinfadroid.tk:80/live/eluminate/eluminate1/494.ts</link>
+<thumbnail></thumbnail></item>
+
+<item><title>SKY Sports F1</title>
+<link>http://myinfadroid.tk:80/live/eluminate/eluminate1/495.ts</link>
+<thumbnail></thumbnail></item>
+
+<item><title>BEING SPORT ES</title>
+<link>http://myinfadroid.tk:80/live/eluminate/eluminate1/846.ts</link>
 <thumbnail>http://3.bp.blogspot.com/-m9I2IP2g1js/UtNaE4fBMrI/AAAAAAAADmA/G9RY-1rUHEA/s1600/WWWWWWWWW.png</thumbnail></item>
 
 <item><title>[COLOR skyblue]WIN SPORTS [COLOR lime]HD[/COLOR]</title>
@@ -42,102 +55,4 @@ timeout=10</link><thumbnail>http://img2.wikia.nocookie.net/__cb20121102222303/lo
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/e/e3/Logo_of_Sport_(Russian_TV_channel,_2011).jpg</thumbnail>
 <fanart>http://www.eusa.eu/documents/eusa/News/2011/550x405xeuctc-medallist_w.jpg.pagespeed.ic.cgHio6kV8U.jpg</fanart>
 
-<item>
-			<title>[COLOR deepskyblue][B][COPA AMERICA][/B][/COLOR] [COLOR lime]OPCION 1[/COLOR] [COLOR gray]Solo activo durante partidos[/COLOR]</title>
-			<thumbnail>http://www.conmebol.com/sites/default/files/logo-copa-america-chile-2015.png</thumbnail>
-			<fanart>http://opencongreso.com/wp-content/uploads/2015/05/98E.jpg</fanart>
-			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_copaamerica live=1 timeout=20</link>
-			<regex>
-			<name>clearCode</name>
-			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
-			<page></page>
-			</regex>
-			<regex>
-			<name>getencoded</name>
-			<expres>:mvnkey-(.*)</expres>
-			<page>$doregex[getUrl]</page>
-			</regex>
-			<regex>
-			<name>getserver</name>
-			<expres>(.*?);</expres>
-			<page>$doregex[getUrl]</page>
-			</regex>
-			<regex>
-			<name>getUrl</name>
-			<expres>(.*)</expres>
-			<page>http://mvn.vaughnsoft.net/video/edge/live_copaamerica$doregex[gettime]-$doregex[gettime].33434</page>
-			</regex>
-			<regex>
-			<name>gettime</name>
-			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
-			<page></page>
-			</regex>
-			</item>
-			
-			<item>
-			<title>[COLOR deepskyblue][B][COPA AMERICA][/B][/COLOR] [COLOR lime]OPCION 2[/COLOR] [COLOR gray]Solo activo durante partidos[/COLOR]</title>
-			<thumbnail>http://www.conmebol.com/sites/default/files/logo-copa-america-chile-2015.png</thumbnail>
-			<fanart>http://opencongreso.com/wp-content/uploads/2015/05/98E.jpg</fanart>
-			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_beto_6 live=1 timeout=20</link>
-			<regex>
-			<name>clearCode</name>
-			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
-			<page></page>
-			</regex>
-			<regex>
-			<name>getencoded</name>
-			<expres>:mvnkey-(.*)</expres>
-			<page>$doregex[getUrl]</page>
-			</regex>
-			<regex>
-			<name>getserver</name>
-			<expres>(.*?);</expres>
-			<page>$doregex[getUrl]</page>
-			</regex>
-			<regex>
-			<name>getUrl</name>
-			<expres>(.*)</expres>
-			<page>http://mvn.vaughnsoft.net/video/edge/live_beto_6$doregex[gettime]-$doregex[gettime].33434</page>
-			</regex>
-			<regex>
-			<name>gettime</name>
-			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
-			<page></page>
-			</regex>
-			</item>
-			
-			
-			<item>
-			<title>[COLOR deepskyblue][B][COPA AMERICA][/B][/COLOR] [COLOR lime]OPCION 3[/COLOR] [COLOR gray]Solo activo durante partidos[/COLOR]</title>
-			<thumbnail>http://www.conmebol.com/sites/default/files/logo-copa-america-chile-2015.png</thumbnail>
-			<fanart>http://opencongreso.com/wp-content/uploads/2015/05/98E.jpg</fanart>
-			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_argentimania18 live=1 timeout=20</link>
-			<regex>
-			<name>clearCode</name>
-			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
-			<page></page>
-			</regex>
-			<regex>
-			<name>getencoded</name>
-			<expres>:mvnkey-(.*)</expres>
-			<page>$doregex[getUrl]</page>
-			</regex>
-			<regex>
-			<name>getserver</name>
-			<expres>(.*?);</expres>
-			<page>$doregex[getUrl]</page>
-			</regex>
-			<regex>
-			<name>getUrl</name>
-			<expres>(.*)</expres>
-			<page>http://mvn.vaughnsoft.net/video/edge/live_argentimania18$doregex[gettime]-$doregex[gettime].33434</page>
-			</regex>
-			<regex>
-			<name>gettime</name>
-			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
-			<page></page>
-			</regex>
-			</item>
-			
-
-
+  	
