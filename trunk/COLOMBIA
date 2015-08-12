@@ -8,8 +8,12 @@
 <link>http://myinfadroid.tk:80/live/eluminate/eluminate1/816.ts</link>
 <thumbnail>http://static.canalcaracol.com/sites/caracoltv.com/files/img_videos/c29d66c103de3b05c9a1dca51e96f510.jpg</thumbnail></item>
 
-item><title>RCN NOVELAS</title>
+<item><title>RCN NOVELAS</title>
 <link>http://31.220.41.111:80/LiveEdgeTesting/RCNnovelasLA/playlist.m3u8?token=</link></item>
+
+<item><title>TLNOVELAS AMERICA</title>
+<link>http://31.220.41.111:80/LiveEdgeTesting/TlnovelasLA/playlist.m3u8?token=</link></item>
+
 
 <item>
 <title>CARACOL TELEVISIÓN sd</title>
