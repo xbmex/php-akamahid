@@ -1,10 +1,6 @@
 <item><title>PRONTO CARACOL Y RCN HD DE VUELTA disculpenos por los inconvenientes </title>
 <link>http://myinfadroid.tk:80/live/eluminate/eluminate1/814.ts</link></item>
 
-<item><title>CARACOL PROVICIONAL</title>
-<link>http://live.mvdigital.net:1935/live4/livestream1.sdp/playlist.m3u8</link>
-<thumbnail>http://static.canalcaracol.com/sites/caracoltv.com/files/img_videos/c29d66c103de3b05c9a1dca51e96f510.jpg</thumbnail></item>
-
 <item><title>CARACOL</title>
 <link>rtmp://safe.iguide.to/iguide playpath=u1ggqz7x4xwa1cl swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7 live=1 timeout=15</link></item>
 
@@ -13,7 +9,7 @@
 <thumbnail>http://static.canalcaracol.com/sites/caracoltv.com/files/img_videos/c29d66c103de3b05c9a1dca51e96f510.jpg</thumbnail></item>
 
 <item>
-<title>[COLOR=white](.•ˆ•… [B]CARACOL TELEVISIÓN HQ - By Bassfox[/B] …•ˆ•.)[/COLOR][COLOR orange]Op. 2[/COLOR]</title>
+<title>CARACOL TELEVISIÓN sd</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
