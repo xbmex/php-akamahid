@@ -12,8 +12,8 @@
 <link>rtmp://www1.iguide.to/iguide playpath=6pcq5w2wmer1cfh swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7 timeout=10</link></item>
 
 <item>
-			<title>test</title>
-			<link>rtmp://$doregex[ip]/live playpath=venevision2019?id=rrrcolhd?id=23332$doregex[pk] swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf tcUrl=rtmp://mips.tv:1935/live/
+			<title>test2</title>
+			<link>rtmp://$doregex[ip]/live playpath=rrrcolhd?id=23332$doregex[pk] swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf tcUrl=rtmp://mips.tv:1935/live/
 			pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
 			<regex>
 			<name>ip</name>
