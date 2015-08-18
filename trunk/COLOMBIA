@@ -9,7 +9,7 @@
 <thumbnail>http://static.canalcaracol.com/sites/caracoltv.com/files/img_videos/c29d66c103de3b05c9a1dca51e96f510.jpg</thumbnail></item>
 
 <item><title>RCN provicional</title>
-<link>rtmp://www1.iguide.to/iguide playpath=6pcq5w2wmer1cfh swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=400&channel=31164&autoplay=true timeout=10</link></item>
+<link>rtmp://www1.iguide.to/iguide playpath=6pcq5w2wmer1cfh swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7 timeout=10</link></item>
 
 <item><title>TLNOVELAS AMERICA</title>
 <link>http://31.220.41.111:80/LiveEdgeTesting/TlnovelasLA/playlist.m3u8?token=</link></item>
