@@ -11,6 +11,23 @@
 <item><title>RCN provicional</title>
 <link>rtmp://www1.iguide.to/iguide playpath=6pcq5w2wmer1cfh swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7 timeout=10</link></item>
 
+<item>
+			<title>Venevision</title>
+			<link>rtmp://$doregex[ip]/live playpath=venevision2019?id=227903$doregex[pk] swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf tcUrl=rtmp://mips.tv:1935/live/
+			pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)<expres>
+			<page>http://www.mipsplayer.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>pk</name>
+			<expres>ea=(.*)'</expres> 
+			<page>http://www.mipsplayer.com/embedplayer/venevision2019/1/620/382</page>
+			<referer>http://www.mipsplayer.com/</referer>
+			</regex>
+			</item>
+
 <item><title>TLNOVELAS AMERICA</title>
 <link>http://31.220.41.111:80/LiveEdgeTesting/TlnovelasLA/playlist.m3u8?token=</link></item>
 
