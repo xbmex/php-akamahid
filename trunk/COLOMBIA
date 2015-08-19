@@ -1,12 +1,3 @@
-rtmp://wdc.cxnlive.com:1935/live/ playpath=wdc-rcn.stream?wowzatokenhash= 
-
-rtmp://wdc.cxnlive.com:1935/live/ playpath=wdc-caracol.stream?
-
-<item><title>test</title>
-<link>rtmp://wdc.cxnlive.com:1935/live/ playpath=wdc-caracol.stream? timeout=15</link><thumbnail>http://1.bp.blogspot.com/-rfb0L1VLzK4/UeINI2CG3BI/AAAAAAAAADw/rNzG4qzeAF8/s1600/Tv+Caracol+2013.png</thumbnail></item>
-
-
-	  
 <item><title>PRONTO CARACOL Y RCN HD DE VUELTA disculpenos por los inconvenientes </title>
 <link>http://myinfadroid.tk:80/live/eluminate/eluminate1/814.ts</link></item>
 
