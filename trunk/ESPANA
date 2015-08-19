@@ -6,42 +6,41 @@
 <item><title>ANTENA 3 HD</title><link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8</link></item>
 <item><title>ANTENA 3 HD OPCION 2</title><link>http://digiteletv.iptvpremium.eu:8000/live/cassnoville/hKiD4nRZXf/27.m3u8</link></item>
 
-<item><title>EL MUNDO</title>
-<link>http://universalhdlive.elmundo.es/i/dr22_1@104884/index_6_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail>http://www.iamhectorhernandez.com/wp-content/uploads/2014/06/El-Mundo-logo1.png</thumbnail></item>
-
 <item><title>CUATRO</title><link>http://digiteletv.iptvpremium.eu:8000/live/cassnoville/hKiD4nRZXf/22.m3u8</link>
 <thumbnail>http://www.infoperiodistas.info/img/noticias/8336.jpg</thumbnail></item>
 
 <item><title>TELECINCO</title><link>http://digiteletv.iptvpremium.eu:8000/live/cassnoville/hKiD4nRZXf/23.m3u8</link>
 <thumbnail>http://marketing.es/wp-content/uploads/2008/09/logo-t5-1997.jpg</thumbnail></item>
 
-<item><title>TELECINCO 2</title><link>http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8</link>
-<thumbnail>http://marketing.es/wp-content/uploads/2008/09/logo-t5-1997.jpg</thumbnail></item>
+<item><title>NEOX</title><link>http://digiteletv.iptvpremium.eu:8000/live/cassnoville/hKiD4nRZXf/95.m3u8</link>
+<thumbnail>http://www.teleypunto.es/wp-content/upLoads/2010/03/A3.NEOX_.jpg</thumbnail></item>
+
+<item><title>NOVA</title><link>http://digiteletv.iptvpremium.eu:8000/live/cassnoville/hKiD4nRZXf/96.m3u8</link></item>
  
- <item><title>La Sexta HD 720 </title><link>http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8</link>
- <thumbnail>http://t.ipadizate.es/2014/09/ver-sexta-ipad.jpg</thumbnail></item>
+<item><title>La Sexta HD 720 </title><link>http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8</link>
+<thumbnail>http://t.ipadizate.es/2014/09/ver-sexta-ipad.jpg</thumbnail></item>
+<item><title>La Sexta HD 720 </title><link>http://digiteletv.iptvpremium.eu:8000/live/cassnoville/hKiD4nRZXf/20.m3u8</link>
+<thumbnail>http://t.ipadizate.es/2014/09/ver-sexta-ipad.jpg</thumbnail></item>
 
-<item>
- <title>[COLOR yellow]ONDA CADIZ[/COLOR] </title>
- <link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
-			<regex>
-			<name>get-initsesion</name>
-			<expres></expres>
-			<page>$doregex[get-page]</page>
-			<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
-			<cookieJar></cookieJar>
-			</regex>
-			<regex>
-			<name>get-page</name>
-			<expres>"m3u8_url":"(.*?)"</expres>
-			<page>http://new.livestream.com/ondacadiz/directo</page>
-			<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
-			<cookieJar></cookieJar>
-			</regex>
-			</item>
+<item><title>FDF</title><link>http://digiteletv.iptvpremium.eu:8000/live/cassnoville/hKiD4nRZXf/303.m3u8</link></item>
+<item><title>Divinity</title><link>http://digiteletv.iptvpremium.eu:8000/live/cassnoville/hKiD4nRZXf/305.m3u8</link></item>
+<item><title>Energy</title><link>http://digiteletv.iptvpremium.eu:8000/live/cassnoville/hKiD4nRZXf/304.m3u8</link></item>
+<item><title>MEGA</title><link>http://digiteletv.iptvpremium.eu:8000/live/cassnoville/hKiD4nRZXf/26.m3u8</link></item>
+<item><title>TV Canaria</title><link>http://digiteletv.iptvpremium.eu:8000/live/cassnoville/hKiD4nRZXf/264.m3u8</link></item>
+<item><title>Digitele Tikitaka</title><link>http://digiteletv.iptvpremium.eu:8000/live/cassnoville/hKiD4nRZXf/36.m3u8</link></item>
+<item><title>NOVA</title><link>http://digiteletv.iptvpremium.eu:8000/live/cassnoville/hKiD4nRZXf/96.m3u8</link></item>
+<item><title>NOVA</title><link>http://digiteletv.iptvpremium.eu:8000/live/cassnoville/hKiD4nRZXf/96.m3u8</link></item>
+<item><title>NOVA</title><link>http://digiteletv.iptvpremium.eu:8000/live/cassnoville/hKiD4nRZXf/96.m3u8</link></item>
+<item><title>NOVA</title><link>http://digiteletv.iptvpremium.eu:8000/live/cassnoville/hKiD4nRZXf/96.m3u8</link></item>
 
-	
+
+
+
+
+
+ 
+
+
 	    <item>
 			<title>TV3cat (HD) </title>
 			<link>http://www.tv3.cat/directetv3cat/tv3catpc.m3u8</link>
@@ -59,7 +58,10 @@
 			<link>http://media3.crtvg.es/live/tvga/playlist.m3u8</link>
 			<thumbnail></thumbnail>
 			</item>
-         
+      
+<item><title>EL MUNDO</title>
+<link>http://universalhdlive.elmundo.es/i/dr22_1@104884/index_6_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://www.iamhectorhernandez.com/wp-content/uploads/2014/06/El-Mundo-logo1.png</thumbnail></item>   
 
 
 
