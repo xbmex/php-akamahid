@@ -1,20 +1,9 @@
-
 		<item><link>http://142.4.219.205:80/live/ville/casano/1522.ts</link>
 			<title>REDZONE HD</title></item>
-		<track>
+		<item>
 			<location>http://142.4.219.205:80/live/ville/casano/4.ts</location>
 			<title>AZTECA 7 HD</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://142.4.219.205:80/live/ville/casano/16.ts</location>
-			<title>CANAL DE LAS ESTRELLAS HD</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>2</vlc:id>
-			</extension>
-		</track>
+  </item><link><location>http://142.4.219.205:80/live/ville/casano/16.ts</location><title>CANAL DE LAS ESTRELLAS HD</title></item>
 		<track>
 			<location>http://142.4.219.205:80/live/ville/casano/25.ts</location>
 			<title>FORO TV HD</title>
@@ -25,9 +14,6 @@
 		<track>
 			<location>http://142.4.219.205:80/live/ville/casano/18.ts</location>
 			<title>CANAL 5 HD</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>4</vlc:id>
-			</extension>
 		</track>
 		<track>
 			<location>http://142.4.219.205:80/live/ville/casano/33.ts</location>
