@@ -1,4 +1,7 @@
-<item><title>tes</title><link>http://31.220.40.115:80/LiveEdge/MundoFoxSD/playlist.m3u8?token=</link>
+<item><title>tes</title><link>http://31.220.40.115:80/LiveEdgeTesting/MundoFoxSD/playlist.m3u8?token=</link>
+<thumbnail></thumbnail></item>
+
+<item><title>tes</title><link>http://31.220.41.111:80/LiveEdgeTesting/GalaTVLA/playlist.m3u8?token=</link>
 <thumbnail></thumbnail></item>
 
 
